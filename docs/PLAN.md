@@ -135,6 +135,7 @@ phrase). The site hosts no audio, because of storage and licensing.
 | D36 | Abbyr Shen Reesht | Backfilled from the RSS feed (`scripts/fetch_podcast.py`, `registers/abbyr_shen_reesht.tsv`). A **weekly job** fetches each new Sunday episode, then runs ASR, alignment and export, and pushes. It is installed once P3–P5 exist. |
 | D37 | Confidence bands | green ≥ 90% agreement, amber 60–90%, red < 60%. Calibrated on Loayr-v2 test (P3). |
 | D38 | Red segments | Show the TDNN text instead of Whisper's, still flagged AI. TDNN WER is 59 vs Whisper's 89 in red. |
+| D39 | Embargoed audio | `Manx_Resources/embargoed/` (e.g. the Triskelion documentary tracks) is **never** included, whatever D16 says, until Chris lifts the embargo. |
 
 ## Design
 

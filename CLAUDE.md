@@ -9,6 +9,8 @@ of every session.
   what healthy output looks like). Use `nohup` and `export PYTHONUNBUFFERED=1`.
 - **Source data is read-only:** `/store/store3/data/Manx_Resources/`, `/exp/exp5/acp24csb/kaldi/egs/manx*`,
   `/exp/exp5/acp24csb/timestamper/`, `/exp/exp3/acp24csb/whisper-ft/`. Copy before patching. Never delete anything.
+- **`/store/store3/data/Manx_Resources/embargoed/` is off-limits** (D39): never read it into the inventory, ASR,
+  alignment or exports.
 - **Intermediates go in `/store/store3/data/manx_speech_corpus/`** (`asr/`, `align/`, `cache/`, `work/`). Never put them
   in this git repo or under `$HOME`.
 - **Pushes to the two Manx-forge repos are standing-approved.** Anything else outward-facing (GitHub issues/PRs, deploys, anything sent to David or upstream) needs confirmation first.
