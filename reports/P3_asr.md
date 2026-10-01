@@ -55,11 +55,14 @@ Overall WER on this set: Whisper 34.3%, TDNN 28.0%. Agreement predicts Whisper's
   e.g. "ellan ellan ellan …". The main segments are at least 2 s, so this band should be smaller there, and either way the
   agreement score marks it red.
 - **Proposed bands** (Chris to sign off):
-  - **green ≥ 90%**: Whisper WER about 15%;
-  - **amber 60–90%**: about 28%;
-  - **red < 60%**: dominated by hallucination.
-- **Open question for Chris:** in red segments TDNN is often better than Whisper. Should a red segment show the TDNN text
-  instead (still flagged AI)? D19 currently says Whisper everywhere.
+
+  | band | segments | Whisper WER | TDNN WER |
+  |---|---|---|---|
+  | green ≥ 90% | 387 | 15.3 | 15.1 |
+  | amber 60–90% | 420 | 27.9 | 26.4 |
+  | red < 60% | 332 | 88.6 | 59.0 |
+- **Open question for Chris:** in red segments TDNN is much better than Whisper (59.0 vs 88.6 WER). Should a red segment
+  show the TDNN text instead (still flagged AI)? D19 currently says Whisper everywhere.
 
 ## Still to do in P3
 1. A TDNN decode and segmentation step for the 207 recordings with no TDNN pass (26.8 h: 63 new Abbyr Shen Reesht
