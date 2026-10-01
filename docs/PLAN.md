@@ -101,8 +101,8 @@ phrase). The site hosts no audio, because of storage and licensing.
 | D32 | Contributions | Through a GitHub issue form on the speech repo. Timestamper: https://gaelgai.im/#timestamp |
 | D33 | Search UI | Speech has its own search page, separate from text search. |
 | D34 | Naming | Data repo `Manx-forge/manx-speech-corpus`. The site fork also lives in Manx-forge. |
-| D36 | Abbyr Shen Reesht | Backfilled from the RSS feed (`scripts/fetch_podcast.py`, `registers/abbyr_shen_reesht.tsv`). A **weekly job** fetches each new Sunday episode, then runs ASR, alignment and export, and pushes. It is installed once P3–P5 exist. |
 | D35 | Existing repos | Absorb everything: `Manx-forge/automatic_transcriptions` and `Manx-forge/loayr` move into the new repo. |
+| D36 | Abbyr Shen Reesht | Backfilled from the RSS feed (`scripts/fetch_podcast.py`, `registers/abbyr_shen_reesht.tsv`). A **weekly job** fetches each new Sunday episode, then runs ASR, alignment and export, and pushes. It is installed once P3–P5 exist. |
 
 ## Design
 
