@@ -182,7 +182,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   listed timestamps, confirm the listed words are heard). This also records whether each platform supports deep links.
 - Any source that fails gets a per-work offset, or is flagged.
 
-**P3. ASR and confidence (GPU, Chris-launched).**
+**P3. ASR and confidence (GPU).** IN PROGRESS 2026-10-01: LMWT 9 chosen, calibration done (bands proposed: green ≥ 90%, amber 60–90%, red < 60%), Whisper decode of 149,790 segments running as gpusched 145/146 (ETA 2026-10-02 04:30 UTC), TDNN step for 207 new recordings still to do. See `reports/P3_asr.md`.
 - Pick the TDNN LMWT by best dev-lr WER (D20). Get or regenerate TDNN text per `all_utts` segment.
 - Decode every non-human segment with Whisper `unfreeze_top12` (D18). A rough guess is 4–8 h on one 3090.
 - Compute per-segment agreement.

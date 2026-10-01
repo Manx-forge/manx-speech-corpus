@@ -2,7 +2,7 @@
 
   prepare  write the decode CSVs: asr/segments.csv (every ASR-needed segment, transcript = TDNN LMWT 9 text)
            and asr/calib.csv (Loayr-v2 test segments, transcript = human reference)
-  (GPU)    run whisper-ft's infer_cer.py on each CSV (commands in reports/P3_asr.md); it writes
+  (GPU)    run whisper-ft's infer_cer.py on calib.csv and on segments_{0,1}.csv (segments.csv halved, one per GPU) (commands in reports/P3_asr.md); it writes
            <csv>.infer_partial.csv with hyp and cer
   collect  asr/asr_segments.tsv (one row per segment with times, both texts and confidence)
            and the calibration table for the green/amber/red bands
@@ -106,7 +106,8 @@ def collect(green=None, red=None):
         w = csv.writer(f, delimiter="\t", lineterminator="\n")
         w.writerow(["recording", "segment", "start", "end", "whisper", "tdnn", "confidence"])
         n = 0
-        for r in csv.DictReader(open(WORK / "segments.infer_partial.csv", encoding="utf-8")):
+        shards = sorted(WORK.glob("segments_*.infer_partial.csv"))  # segments.csv was split in two, one per GPU
+        for r in (r for sh in shards for r in csv.DictReader(open(sh, encoding="utf-8"))):
             seg = Path(r["path"]).stem
             rec, start, end = times[seg]
             w.writerow([rec, seg, start, end, r["hyp"], r["transcript"], round(100 * (1 - min(1.0, float(r["cer"]))))])
