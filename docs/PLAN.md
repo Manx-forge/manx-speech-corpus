@@ -1,5 +1,35 @@
 # Manx Speech Corpus: plan
 
+## Current state (handover, 2026-10-01 13:00 UTC)
+**Done:** P0–P2, plus the Abbyr Shen Reesht backfill (D36). **In progress:** P3. Read the `reports/` files for details.
+
+**Running when the session ended. Check these first:**
+1. **Whisper decode of 149,790 segments:** gpusched jobs **145** (GPU 0) and **146** (GPU 1). At about 2.7 segments/s
+   the expected finish is **around 2026-10-02 03:00 UTC**.
+   - Check: `gpusched queue`, and `cat /store/store3/data/manx_speech_corpus/asr/segments_[01].infer_partial.csv | wc -l`
+     (target 149,790 plus 2 header lines).
+   - If a job died, resubmit with the command in `reports/P3_asr.md`. It resumes.
+2. **TDNN batch `20261001`** (207 recordings with no TDNN pass): `nohup` on titan (CPU). Log:
+   `/store/store3/data/manx_speech_corpus/work/logs/tdnn_20261001.log`. It ends with a line
+   `segments_20261001.csv: N segments ...`.
+   - If it shows a Traceback, fix it and rerun `scripts/asr.py tdnn 20261001` (speechbrain env python).
+
+**Next steps, in order:**
+1. When TDNN batch `20261001` is done, decode its segments with Whisper as one gpusched job. Use the P3 command with
+   `segments_20261001` in place of `segments_$s`.
+2. When all decodes are done, run `python scripts/asr.py collect` (speechbrain env). It writes
+   `asr/asr_segments.tsv`, with displayed text, `text_source`, confidence and band (D37/D38). Then mark P3 DONE
+   here and in `reports/P3_asr.md`.
+3. Start P4 (alignment with `/exp/exp5/acp24csb/timestamper`, see below).
+
+**Waiting on Chris:**
+- The 4 deep-link checks at the end of `reports/P2_offsets.md` (`#t=` on mp3 links). Not yet confirmed.
+- URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
+
+**GPU authority:** Chris told Claude to launch the P3 Whisper runs itself ("you run it", 2026-10-01). That covers
+finishing P3 only; for anything else, follow CLAUDE.md.
+
+
 ## Goal
 
 Extend corpus.gaelg.im with a **speech** counterpart to its text corpus. It will be a searchable record of transcriptions of

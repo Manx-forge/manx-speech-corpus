@@ -1,6 +1,8 @@
 # Claude working agreement: manx_speech_corpus
 
-The plan and decisions (D1…) are in `docs/PLAN.md`. Update it as phases close.
+**Start every session by reading the \"Current state\" section at the top of `docs/PLAN.md`.** It lists running jobs,
+next steps and open items. The decisions (D1…) and phases are below it. Keep that section current: rewrite it at the end
+of every session.
 
 ## Hard rules
 - **GPU jobs and long CPU jobs are user-launched.** Present them as commands (what the command does, duration, log path,
