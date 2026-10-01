@@ -175,7 +175,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
 - Find duplicates across platforms (D28).
 - Report: hours by source × origin × link class.
 
-**P2. Offset spot-check (D9, D10).**
+**P2. Offset spot-check (D9, D10).** DONE 2026-10-01: all sources timestamp-identical, 11 bad YouTube links registered; see `reports/P2_offsets.md`.
 - YouTube: for a stratified sample of about 20 recordings, fetch the online audio and cross-correlate it with the on-disk
   file. Pass if the offset is under 0.1 s and the duration difference is under 0.5 s.
 - Manx Radio, LearnManx, Clilstore and saysomething: Chris follows a written manual procedure (open the link, seek to 3

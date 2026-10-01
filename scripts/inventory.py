@@ -167,12 +167,17 @@ def main():
         w.writerows(rows)
     issues = {"none": "no URL recorded", "channel": "channel URL, not the video", "site_root": "site root, not the page",
               "app_only": "LearnManx app dump; no public URL"}
-    with open(OUT / "link_register.tsv", "w", encoding="utf-8", newline="") as f:
+    reg = OUT / "link_register.tsv"
+    derived = set(issues.values()) | {"removed by publisher"}
+    found = [r for r in csv.reader(open(reg, encoding="utf-8"), delimiter="\t")][1:] if reg.exists() else []
+    found = [r for r in found if r[3] not in derived]  # rows from checks (P2, link checker) are kept, not regenerated
+    with open(reg, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter="\t", lineterminator="\n")
         w.writerow(["id", "source", "url", "issue", "status"])
         w.writerows([r["id"], r["source"], r["url"], "removed by publisher" if r["source"] == "saysomething" else issues[r["link_class"]],
                      "permanent" if r["link_class"] == "app_only" or r["source"] == "saysomething" else "open"]
                     for r in rows if r["link_class"] in issues and r["source"] != "common_voice")
+        w.writerows(found)
     print(f"{len(rows)} recordings -> {OUT / 'recordings.tsv'}")
 
 
