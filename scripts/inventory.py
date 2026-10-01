@@ -16,9 +16,9 @@ MASTER = MR / "speech/recordings_metadata.tsv"
 CV = MR / "datasets/common_voice/cv-corpus-24.0-2025-12-05/gv"
 SPS = MR / "datasets/common_voice/sps-corpus-2.0-2025-12-05-gv/ss-corpus-gv.tsv"
 FORVO = MR / "datasets/manx_source_comparison/gv.metadata.csv"
-HOYFM = MR / "datasets/HOYFM/original/HOYFM SA0010 s1 f1 v1.wav"
 SEGMENTS = MR / "datasets/all_utts/16khz/wavs"  # held-out Loayr test recordings exist only as cuts here: excluded (Chris)
 CACHE = Path("/store/store3/data/manx_speech_corpus/cache")
+YT_AUDIO = CACHE / "audio"  # YouTube audio fetched with yt-dlp, for alignment only (never published)
 LOAYR = CACHE / "loayr/recordings_metadata.csv"
 CORPUS = Path(__file__).resolve().parents[1] / "external/manx-search-data/OpenData"
 OUT = Path(__file__).resolve().parents[1] / "registers"
@@ -128,7 +128,8 @@ def main():
     held = {YT_ID.search(r["url"]).group(1) for r in rows if YT_ID.search(r.get("url", ""))}
     for vid, (ident, name, url, doc) in works.items():  # corpus audio works we hold no recording of (D17)
         if vid not in held:
-            audio = HOYFM if ident == "UOSH-HOYFM-SA0010" else None
+            audio = YT_AUDIO / f"{vid}.wav"
+            audio = audio if audio.exists() else None
             rows.append(dict(id=f"msd-{ident}", source="youtube", collection="manx-search-data", title=name,
                              url=url, audio=str(audio or ""), duration_s=wav_seconds(audio) if audio else "",
                              transcript=str(doc), transcript_form="raw", in_master="n"))

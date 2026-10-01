@@ -26,3 +26,7 @@ GitHub uses HTTPS with gh as the credential helper (no SSH key on titan):
 
 ## Style
 Short answers that lead with the conclusion. Stop at each phase boundary for Chris's sign-off.
+
+## Tools
+- yt-dlp (current version, our own copy; the shared `yt-dlp` env's copy is too old and YouTube returns 403):
+  `PYTHONPATH=/store/store3/data/manx_speech_corpus/cache/tools/yt_dlp_pkg /store/store3/software/bin/anaconda3/envs/yt-dlp/bin/python -m yt_dlp --js-runtimes node:/store/store3/software/bin/anaconda3/envs/yt-dlp/bin/node ...`

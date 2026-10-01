@@ -70,4 +70,4 @@ excluded. It is read-only on every source.
   historical source.
 - **saysomething** (29 recordings) was taken down by the publisher. The rows stay as "permanent" in the link register,
   and the recordings are cited by source name only (D22).
-- **Open:** audio for the 12 corpus works we hold no recording of (see the conversation of 2026-10-01).
+- **Corpus works without our audio** (13, including HOYFM SA0010): the YouTube audio was fetched to `cache/audio/<video_id>.wav` (16 kHz mono) for alignment only, with Chris's approval. YouTube audio is preferred over our HOYFM original so that timestamps match what users hear.
