@@ -64,8 +64,22 @@ Overall WER on this set: Whisper 34.3%, TDNN 28.0%. Agreement predicts Whisper's
 - **Red segments show the TDNN text** (D38, Chris). TDNN is far better there (59.0 vs 88.6 WER); the line is still
   flagged AI. `asr_segments.tsv` records which system each line came from (`text_source`).
 
+- **Segments over 30 s:** 199 of the 149,790 segments are longer than Whisper's 30 s window; the segmenter only splits at
+  word boundaries. This is 2.55 h of 220 h. Whisper transcribes only the first 30 s of each, so these segments score low
+  agreement and mostly fall back to TDNN text (D38).
+
+## TDNN step for new recordings (`asr.py tdnn <batch>`)
+This step is for recordings with no TDNN pass yet. It is the same step the weekly podcast job uses.
+1. Convert the audio to 16 kHz files in `asr/wav16k/`.
+2. Decode with the p4 TDNN: same model, graph, i-vector extractor and decode options as `run_tdnn_inference.sh`, using
+   the recipe read-only from our own work dir `asr/kaldi/`.
+3. Take the CTM at LMWT 9 and segment it with the original `make_segments_unsup.py` at its defaults.
+4. Cut the segment wavs and write `asr/segments_<batch>.csv` for Whisper.
+
+`collect` picks up every batch automatically.
+- **Batch `20261001`:** 207 recordings, 26.8 h (63 new Abbyr Shen Reesht episodes, 130 Common Voice SPS clips,
+  14 others). Running in the background; log at `/store/store3/data/manx_speech_corpus/work/logs/tdnn_20261001.log`.
+
 ## Still to do in P3
-1. A TDNN decode and segmentation step for the 207 recordings with no TDNN pass (26.8 h: 63 new Abbyr Shen Reesht
-   episodes, 130 Common Voice SPS clips, 14 others), then a short Whisper run on their segments. The weekly podcast job
-   reuses this step.
-2. `python scripts/asr.py collect` once the decode finishes, which writes `asr/asr_segments.tsv`.
+1. A Whisper run on `segments_20261001.csv` once the TDNN batch is done (same command, one job).
+2. `python scripts/asr.py collect` once all decodes finish, which writes `asr/asr_segments.tsv`.
