@@ -4,7 +4,7 @@
            and asr/calib.csv (Loayr-v2 test segments, transcript = human reference)
   (GPU)    run whisper-ft's infer_cer.py on calib.csv and on segments_{0,1}.csv (segments.csv halved, one per GPU) (commands in reports/P3_asr.md); it writes
            <csv>.infer_partial.csv with hyp and cer
-  collect  asr/asr_segments.tsv (one row per segment with times, both texts and confidence)
+  collect  asr/asr_segments.tsv (one row per segment: times, displayed text, confidence, band, both hypotheses)
            and the calibration table for the green/amber/red bands
 """
 import csv
@@ -81,7 +81,10 @@ def band(conf, green, red):
     return "green" if conf >= green else "red" if conf < red else "amber"
 
 
-def collect(green=None, red=None):
+GREEN, RED = 0.9, 0.6  # agreement bands, signed off by Chris 2026-10-01 (D37)
+
+
+def collect(green=GREEN, red=RED):
     tdnn = calib_tdnn()
     cal = [r for r in csv.DictReader(open(WORK / "calib.infer_partial.csv", encoding="utf-8"))]
     pts = []
@@ -89,31 +92,33 @@ def collect(green=None, red=None):
         u = Path(r["path"]).stem
         if u in tdnn and r["transcript"]:
             conf = 1 - min(1.0, jiwer.cer(tdnn[u] or "-", r["hyp"] or "-"))
-            pts.append((conf, r["transcript"], r["hyp"]))
+            pts.append((conf, r["transcript"], r["hyp"], tdnn[u] or "-"))
     print(f"calibration on {len(pts)} Loayr-v2 test segments: Whisper WER by Whisper–TDNN agreement")
     print("agreement >= | segments | Whisper WER (pooled)")
     for lo in (0.95, 0.9, 0.85, 0.8, 0.7, 0.6, 0.5, 0.0):
         sel = [p for p in pts if p[0] >= lo]
         print(f"  {lo:.2f}  | {len(sel):5d} | {100 * jiwer.wer([p[1] for p in sel], [p[2] for p in sel]):5.1f}")
-    if green is not None:
-        for b in ("green", "amber", "red"):
-            sel = [p for p in pts if band(p[0], green, red) == b]
-            if sel:
-                print(f"  {b:5s}: {len(sel):5d} segments, WER {100 * jiwer.wer([p[1] for p in sel], [p[2] for p in sel]):.1f}")
+    for b in ("green", "amber", "red"):
+        sel = [p for p in pts if band(p[0], green, red) == b]
+        shown = [p[3] if b == "red" else p[2] for p in sel]
+        print(f"  {b:5s}: {len(sel):5d} segments, displayed-text WER {100 * jiwer.wer([p[1] for p in sel], shown):.1f}")
 
     times = {l.split()[0]: l.split()[1:] for l in open(SEGMENTS)}
     with open(WORK / "asr_segments.tsv", "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter="\t", lineterminator="\n")
-        w.writerow(["recording", "segment", "start", "end", "whisper", "tdnn", "confidence"])
+        w.writerow(["recording", "segment", "start", "end", "text", "text_source", "confidence", "band", "whisper", "tdnn"])
         n = 0
         shards = sorted(WORK.glob("segments_*.infer_partial.csv"))  # segments.csv was split in two, one per GPU
         for r in (r for sh in shards for r in csv.DictReader(open(sh, encoding="utf-8"))):
             seg = Path(r["path"]).stem
             rec, start, end = times[seg]
-            w.writerow([rec, seg, start, end, r["hyp"], r["transcript"], round(100 * (1 - min(1.0, float(r["cer"]))))])
+            conf = 1 - min(1.0, float(r["cer"]))
+            b = band(conf, green, red)  # red: Whisper is mostly hallucinating, TDNN is far better (D38)
+            text, src = (r["transcript"], "tdnn") if b == "red" else (r["hyp"], "whisper")
+            w.writerow([rec, seg, start, end, text, src, round(100 * conf), b, r["hyp"], r["transcript"]])
             n += 1
     print(f"asr_segments.tsv: {n} segments")
 
 
 if __name__ == "__main__":
-    {"prepare": prepare, "collect": lambda: collect(*map(float, sys.argv[2:4])) if len(sys.argv) > 3 else collect()}[sys.argv[1]]()
+    {"prepare": prepare, "collect": collect}[sys.argv[1]]()

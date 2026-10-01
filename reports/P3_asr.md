@@ -54,18 +54,18 @@ Overall WER on this set: Whisper 34.3%, TDNN 28.0%. Agreement predicts Whisper's
 - **The < 50% band is hallucination.** These are mostly very short clips (median 1.6 s) where Whisper loops on a phrase,
   e.g. "ellan ellan ellan …". The main segments are at least 2 s, so this band should be smaller there, and either way the
   agreement score marks it red.
-- **Proposed bands** (Chris to sign off):
+- **Bands, signed off by Chris (D37):**
 
   | band | segments | Whisper WER | TDNN WER |
   |---|---|---|---|
   | green ≥ 90% | 387 | 15.3 | 15.1 |
   | amber 60–90% | 420 | 27.9 | 26.4 |
   | red < 60% | 332 | 88.6 | 59.0 |
-- **Open question for Chris:** in red segments TDNN is much better than Whisper (59.0 vs 88.6 WER). Should a red segment
-  show the TDNN text instead (still flagged AI)? D19 currently says Whisper everywhere.
+- **Red segments show the TDNN text** (D38, Chris). TDNN is far better there (59.0 vs 88.6 WER); the line is still
+  flagged AI. `asr_segments.tsv` records which system each line came from (`text_source`).
 
 ## Still to do in P3
 1. A TDNN decode and segmentation step for the 207 recordings with no TDNN pass (26.8 h: 63 new Abbyr Shen Reesht
    episodes, 130 Common Voice SPS clips, 14 others), then a short Whisper run on their segments. The weekly podcast job
    reuses this step.
-2. `python scripts/asr.py collect 0.9 0.6` once the decode finishes, which writes `asr/asr_segments.tsv`.
+2. `python scripts/asr.py collect` once the decode finishes, which writes `asr/asr_segments.tsv`.

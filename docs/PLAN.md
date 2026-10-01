@@ -103,6 +103,8 @@ phrase). The site hosts no audio, because of storage and licensing.
 | D34 | Naming | Data repo `Manx-forge/manx-speech-corpus`. The site fork also lives in Manx-forge. |
 | D35 | Existing repos | Absorb everything: `Manx-forge/automatic_transcriptions` and `Manx-forge/loayr` move into the new repo. |
 | D36 | Abbyr Shen Reesht | Backfilled from the RSS feed (`scripts/fetch_podcast.py`, `registers/abbyr_shen_reesht.tsv`). A **weekly job** fetches each new Sunday episode, then runs ASR, alignment and export, and pushes. It is installed once P3–P5 exist. |
+| D37 | Confidence bands | green ≥ 90% agreement, amber 60–90%, red < 60%. Calibrated on Loayr-v2 test (P3). |
+| D38 | Red segments | Show the TDNN text instead of Whisper's, still flagged AI. TDNN WER is 59 vs Whisper's 89 in red. |
 
 ## Design
 
@@ -182,7 +184,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   listed timestamps, confirm the listed words are heard). This also records whether each platform supports deep links.
 - Any source that fails gets a per-work offset, or is flagged.
 
-**P3. ASR and confidence (GPU).** IN PROGRESS 2026-10-01: LMWT 9 chosen, calibration done (bands proposed: green ≥ 90%, amber 60–90%, red < 60%), Whisper decode of 149,790 segments running as gpusched 145/146 (ETA 2026-10-02 04:30 UTC), TDNN step for 207 new recordings still to do. See `reports/P3_asr.md`.
+**P3. ASR and confidence (GPU).** IN PROGRESS 2026-10-01: LMWT 9 chosen, calibration done (bands signed off, D37/D38), Whisper decode of 149,790 segments running as gpusched 145/146 (ETA 2026-10-02 04:30 UTC), TDNN step for 207 new recordings still to do. See `reports/P3_asr.md`.
 - Pick the TDNN LMWT by best dev-lr WER (D20). Get or regenerate TDNN text per `all_utts` segment.
 - Decode every non-human segment with Whisper `unfreeze_top12` (D18). A rough guess is 4–8 h on one 3090.
 - Compute per-segment agreement.
