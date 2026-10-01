@@ -86,7 +86,7 @@ phrase). The site hosts no audio, because of storage and licensing.
 | D17 | Existing 23 works | Integrate them into our data, UI and metadata. Human alignments take priority over ASR. |
 | D18 | ASR model | Regenerate pseudo-labels with the improved Whisper `unfreeze_top12` (confirmed). Confidence is its agreement with TDNN. |
 | D19 | Displayed ASR text | Whisper text, force-aligned with `timestamper` to get word times. |
-| D20 | TDNN LMWT | Choose the LM weight by best dev result. |
+| D20 | TDNN LMWT | Choose the LM weight by best dev result: **LMWT 9** (dev WER 17.81%). |
 | D21 | Human transcripts | Re-align everything with `timestamper` so the whole corpus has one format and status flags. |
 | D22 | No-URL sources | Keep them. Show the source name with no link, plus the human/AI flag. |
 | D23 | v1 scope | v1 is the audio we have now. Automated discovery comes later. **Contribute** flow: a member checks whether we have a source; if not, they submit it with timestamps, and we point them to the timestamper on gaelgai.im. |
