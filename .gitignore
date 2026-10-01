@@ -1,0 +1,8 @@
+# Sibling working copies kept in this workspace, each its own repo
+/manx-corpus-search/
+/external/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
