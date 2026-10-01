@@ -165,7 +165,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   confirmation first.
 - Add the local `CLAUDE.md`, the layout and the `/store` workspace.
 
-**P1. Inventory (CPU).**
+**P1. Inventory (CPU).** DONE 2026-10-01: see `reports/P1_inventory.md`; Q1–Q4 open.
 - Reconcile every audio file on disk against `recordings_metadata.tsv`. Add the missing sources: Common Voice, the Loayr
   versions, Skeealyn Vannin, HOYFM, chyndaa, TTS, `endangered_langs`, and the contents of `automatic_transcriptions` and
   `loayr`.
