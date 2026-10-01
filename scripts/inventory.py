@@ -17,7 +17,7 @@ CV = MR / "datasets/common_voice/cv-corpus-24.0-2025-12-05/gv"
 SPS = MR / "datasets/common_voice/sps-corpus-2.0-2025-12-05-gv/ss-corpus-gv.tsv"
 FORVO = MR / "datasets/manx_source_comparison/gv.metadata.csv"
 HOYFM = MR / "datasets/HOYFM/original/HOYFM SA0010 s1 f1 v1.wav"
-SEGMENTS = MR / "datasets/all_utts/16khz/wavs"  # per-utterance cuts; the only audio for held-out test recordings
+SEGMENTS = MR / "datasets/all_utts/16khz/wavs"  # held-out Loayr test recordings exist only as cuts here: excluded (Chris)
 CACHE = Path("/store/store3/data/manx_speech_corpus/cache")
 LOAYR = CACHE / "loayr/recordings_metadata.csv"
 CORPUS = Path(__file__).resolve().parents[1] / "external/manx-search-data/OpenData"
@@ -92,16 +92,18 @@ def main():
     for r in csv.DictReader(open(MASTER, encoding="utf-8"), delimiter="\t"):
         rid = r["id"]
         wav, tr = files.get(rid, (None, None))
-        audio = str(wav) if wav else (f"segments:{SEGMENTS / rid}" if (SEGMENTS / rid).is_dir() else "")
+        if not wav and (SEGMENTS / rid).is_dir():
+            continue
+        audio = str(wav or "")
         coll = str(wav.parent.relative_to(MR / "speech")).split(f"/{rid}")[0] if wav else ""
         rows.append(dict(id=rid, source=r["source"], collection=coll, title=r["description"], domain=r["domain"],
                          style=r["style"], duration_s=r["duration (s)"], audio=audio,
                          transcript=str(tr) if tr else "", transcript_form=transcript_form(tr),
                          url=r["url"].strip(), in_master="y"))
-    master_ids = {r["id"] for r in rows}
+    master_ids = {r["id"] for r in csv.DictReader(open(MASTER, encoding="utf-8"), delimiter="\t")}
 
     for rid, url in loayr_url.items():  # loayr recordings never added to the master
-        if rid not in master_ids:
+        if rid not in master_ids and not (SEGMENTS / rid).is_dir():
             wav, tr = files.get(rid, (None, None))
             rows.append(dict(id=rid, source="loayr", url=url, audio=str(wav or ""), transcript=str(tr or ""),
                              transcript_form=transcript_form(tr), duration_s=wav_seconds(wav) if wav else "",
@@ -157,7 +159,8 @@ def main():
     with open(OUT / "link_register.tsv", "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter="\t", lineterminator="\n")
         w.writerow(["id", "source", "url", "issue", "status"])
-        w.writerows([r["id"], r["source"], r["url"], issues[r["link_class"]], "permanent" if r["link_class"] == "app_only" else "open"]
+        w.writerows([r["id"], r["source"], r["url"], "removed by publisher" if r["source"] == "saysomething" else issues[r["link_class"]],
+                     "permanent" if r["link_class"] == "app_only" or r["source"] == "saysomething" else "open"]
                     for r in rows if r["link_class"] in issues and r["source"] != "common_voice")
     print(f"{len(rows)} recordings -> {OUT / 'recordings.tsv'}")
 

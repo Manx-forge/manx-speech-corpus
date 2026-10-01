@@ -1,7 +1,8 @@
 # P1 inventory report (2026-10-01)
 
-`scripts/inventory.py` produces `registers/recordings.tsv` (12,699 recordings, 335 h) and
-`registers/link_register.tsv` (1,975 rows). It is read-only on every source.
+`scripts/inventory.py` produces `registers/recordings.tsv` (12,619 recordings, 323 h; 40 h human) and
+`registers/link_register.tsv` (1,975 rows). The table below is from the first run, before the 81 test recordings were
+excluded. It is read-only on every source.
 
 ## What we hold
 | source | human: recordings | human: h | no transcript: recordings | no transcript: h |
@@ -58,12 +59,15 @@
    - 2 have channel URLs.
    - Manx Radio (305) and LearnManx pages are classed `web_page`. Whether they deep-link is checked in P2.
 
-## Needs Chris
-- **Q1. Normalised human text (#3).** Show it lowercased, the same as ASR text, and keep "human" as its origin? Or should
-  P5 also scrape the original text from the source pages (Clilstore and LearnManx pages carry it)?
-- **Q2. Audio for alignment only (#1, #2).** May we download YouTube audio (12 corpus works plus the long-form originals
-  of the 43 YouTube test recordings) into `/store/.../cache` for alignment? It would never be hosted. Do you hold the
-  long-form originals of the test recordings anywhere?
-- **Q3. Master.** Should `registers/recordings.tsv` become the master inventory? `Manx_Resources/speech/recordings_metadata.tsv`
-  would stay untouched as the historical source.
-- **Q4. Remediation.** The 30 open rows in `link_register.tsv` (saysomething ×29, plus 1 YouTube) need URLs from you.
+## Decisions (Chris, 2026-10-01)
+- **Test recordings are excluded.** Chris says longer files already in the collection cover them. All 81 segment-only
+  recordings are dropped. Only 26 of them share a URL with a long-form file we hold. The other 55 point elsewhere and are
+  listed here in case they are worth revisiting: 0106 0140 0157 0158 0201 0202 0218 0229 0306 0315 0328 0360 0401–0410
+  0429 0458 0463 0481 0483 04120–04129 04140 04228 04255 04285 04294 04313 04323 04326 04334 04340 04372 04382 04390
+  04393 04394 04399 04426 04456.
+- **Normalised human text** is shown lowercased and keeps its human origin.
+- **`registers/recordings.tsv` is the master inventory.** `Manx_Resources/speech/recordings_metadata.tsv` stays as the
+  historical source.
+- **saysomething** (29 recordings) was taken down by the publisher. The rows stay as "permanent" in the link register,
+  and the recordings are cited by source name only (D22).
+- **Open:** audio for the 12 corpus works we hold no recording of (see the conversation of 2026-10-01).

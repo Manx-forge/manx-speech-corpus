@@ -1,7 +1,7 @@
 id	source	url	issue	status
-08500	saysomething	missing	no URL recorded	open
-08543	saysomething	missing	no URL recorded	open
-08948	saysomething	missing	no URL recorded	open
+08500	saysomething	missing	removed by publisher	permanent
+08543	saysomething	missing	removed by publisher	permanent
+08948	saysomething	missing	removed by publisher	permanent
 016424	youtube	https://www.youtube.com/@culturevannin8486	channel URL, not the video	open
 027164	youtube	https://www.youtube.com/@culturevannin8486	channel URL, not the video	open
 051113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -12,32 +12,32 @@ id	source	url	issue	status
 057114	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 058113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 059114	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-081061	saysomething	missing	no URL recorded	open
-081919	saysomething	missing	no URL recorded	open
-082142	saysomething	missing	no URL recorded	open
-082228	saysomething	missing	no URL recorded	open
-082428	saysomething	missing	no URL recorded	open
-082581	saysomething	missing	no URL recorded	open
-082628	saysomething	missing	no URL recorded	open
-082753	saysomething	missing	no URL recorded	open
-082852	saysomething	missing	no URL recorded	open
-082973	saysomething	missing	no URL recorded	open
-083088	saysomething	missing	no URL recorded	open
-083882	saysomething	missing	no URL recorded	open
-084403	saysomething	missing	no URL recorded	open
-084543	saysomething	missing	no URL recorded	open
-084750	saysomething	missing	no URL recorded	open
-085008	saysomething	missing	no URL recorded	open
-085468	saysomething	missing	no URL recorded	open
-086200	saysomething	missing	no URL recorded	open
-086906	saysomething	missing	no URL recorded	open
-087130	saysomething	missing	no URL recorded	open
-087420	saysomething	missing	no URL recorded	open
-087988	saysomething	missing	no URL recorded	open
-088024	saysomething	missing	no URL recorded	open
-088227	saysomething	missing	no URL recorded	open
-089358	saysomething	missing	no URL recorded	open
-089521	saysomething	missing	no URL recorded	open
+081061	saysomething	missing	removed by publisher	permanent
+081919	saysomething	missing	removed by publisher	permanent
+082142	saysomething	missing	removed by publisher	permanent
+082228	saysomething	missing	removed by publisher	permanent
+082428	saysomething	missing	removed by publisher	permanent
+082581	saysomething	missing	removed by publisher	permanent
+082628	saysomething	missing	removed by publisher	permanent
+082753	saysomething	missing	removed by publisher	permanent
+082852	saysomething	missing	removed by publisher	permanent
+082973	saysomething	missing	removed by publisher	permanent
+083088	saysomething	missing	removed by publisher	permanent
+083882	saysomething	missing	removed by publisher	permanent
+084403	saysomething	missing	removed by publisher	permanent
+084543	saysomething	missing	removed by publisher	permanent
+084750	saysomething	missing	removed by publisher	permanent
+085008	saysomething	missing	removed by publisher	permanent
+085468	saysomething	missing	removed by publisher	permanent
+086200	saysomething	missing	removed by publisher	permanent
+086906	saysomething	missing	removed by publisher	permanent
+087130	saysomething	missing	removed by publisher	permanent
+087420	saysomething	missing	removed by publisher	permanent
+087988	saysomething	missing	removed by publisher	permanent
+088024	saysomething	missing	removed by publisher	permanent
+088227	saysomething	missing	removed by publisher	permanent
+089358	saysomething	missing	removed by publisher	permanent
+089521	saysomething	missing	removed by publisher	permanent
 0510113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 0511113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 0512113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -118,7 +118,6 @@ id	source	url	issue	status
 01096971	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05100113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05102113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-05106113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05107113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05108113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05109113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -193,7 +192,6 @@ id	source	url	issue	status
 05203113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05204113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05205113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-05206113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05207113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05208113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05209113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -270,7 +268,6 @@ id	source	url	issue	status
 05303113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05304113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05305113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-05306113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05307113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05308113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05309113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -347,7 +344,6 @@ id	source	url	issue	status
 05403113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05404113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05405113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-05406113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05407113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05408113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05409113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -435,7 +431,6 @@ id	source	url	issue	status
 05503113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05504113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05505113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-05506113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05507113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05508113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05509113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -518,7 +513,6 @@ id	source	url	issue	status
 05603113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05604113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05605113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-05606113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05607113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05608113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05609113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -783,7 +777,6 @@ id	source	url	issue	status
 05903113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05904113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05905113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-05906113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05907113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05908113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 05909113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -891,7 +884,6 @@ id	source	url	issue	status
 051001113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051002113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051005113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051006113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051007113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051008113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051009113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -932,9 +924,6 @@ id	source	url	issue	status
 051048113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051049113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051059113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051060113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051061113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051062113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051063113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051064113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051065113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -972,7 +961,6 @@ id	source	url	issue	status
 051103113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051104113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051105113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051106113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051108113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051109113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051111113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1059,7 +1047,6 @@ id	source	url	issue	status
 051203113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051204113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051205113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051206113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051207113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051208113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051209113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1127,7 +1114,6 @@ id	source	url	issue	status
 051303113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051304113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051305113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051306113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051307113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051311113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051314113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1203,7 +1189,6 @@ id	source	url	issue	status
 051403113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051404113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051405113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051406113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051407113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051408113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051409113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1390,7 +1375,6 @@ id	source	url	issue	status
 051602113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051603113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051604113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051606113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051607113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051608113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051610113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1487,7 +1471,6 @@ id	source	url	issue	status
 051703113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051704113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051705113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051706113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051707113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051708113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051709113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1580,7 +1563,6 @@ id	source	url	issue	status
 051803113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051804113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051805113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051806113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051807113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051808113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051809113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1662,7 +1644,6 @@ id	source	url	issue	status
 051900113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051902113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051905113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-051906113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051907113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051908113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 051909113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1755,7 +1736,6 @@ id	source	url	issue	status
 052002113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052004113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052005113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-052006113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052007113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052008113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052009113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1806,9 +1786,6 @@ id	source	url	issue	status
 052057113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052058113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052059113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-052060113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-052061113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-052062113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052063113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052064113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052065113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1851,7 +1828,6 @@ id	source	url	issue	status
 052103113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052104113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052105113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-052106113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052107113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052109113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052110113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
@@ -1939,7 +1915,6 @@ id	source	url	issue	status
 052203113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052204113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052205113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
-052206113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052207113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052208113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
 052209113	learn_manx	app_files	LearnManx app dump; no public URL	permanent
