@@ -23,7 +23,7 @@ LOAYR = CACHE / "loayr/recordings_metadata.csv"
 CORPUS = Path(__file__).resolve().parents[1] / "external/manx-search-data/OpenData"
 OUT = Path(__file__).resolve().parents[1] / "registers"
 
-COLS = ["id", "source", "collection", "title", "domain", "style", "duration_s", "audio", "transcript",
+COLS = ["id", "source", "collection", "title", "date", "domain", "style", "duration_s", "audio", "media_url", "transcript",
         "transcript_form", "url", "link_class", "video_id", "dup_of", "corpus_work", "in_master"]
 YT_ID = re.compile(r"(?:watch\?v=|youtu\.be/|/embed/)([\w-]{11})")
 
@@ -101,6 +101,16 @@ def main():
                          transcript=str(tr) if tr else "", transcript_form=transcript_form(tr),
                          url=r["url"].strip(), in_master="y"))
     master_ids = {r["id"] for r in csv.DictReader(open(MASTER, encoding="utf-8"), delimiter="\t")}
+
+    by_id = {r["id"]: r for r in rows}
+    for ep in csv.DictReader(open(OUT / "abbyr_shen_reesht.tsv", encoding="utf-8"), delimiter="\t"):  # fetch_podcast.py
+        r = by_id.get(ep["id"])
+        if r is None:
+            r = dict(id=ep["id"], source="manx_radio", collection="untranscribed/manx_radio/abbyr_shen_reesht",
+                     domain="podcast", url=ep["page_url"], in_master="n")
+            rows.append(r)
+        r.update(title=ep["title"], date=ep["date"], audio=ep["audio"], media_url=ep["media_url"],
+                 duration_s=r.get("duration_s") or ep["duration_s"])
 
     for rid, url in loayr_url.items():  # loayr recordings never added to the master
         if rid not in master_ids and not (SEGMENTS / rid).is_dir():
