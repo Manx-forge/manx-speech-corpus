@@ -27,6 +27,9 @@
 
 **GPU authority:** Chris told Claude to launch the P3 Whisper runs itself ("you run it", 2026-10-01). That covers
 finishing P3 only; for anything else, follow CLAUDE.md.
+**Unattended run (2026-10-02, Chris flying):** Claude may finish P3 (148 moved ahead of 147, then `collect`, report)
+and prepare P4: build and smoke-test alignment on a sample, measure runtime, leave the full launch command here. Stop
+before the full P4 launch. Nothing outward-facing except pushes to this repo.
 
 
 ## Goal
@@ -248,4 +251,3 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
 - **Upstream drift.** The site is pushed often (last push 2026-09-28), so rebase the `speech` branch before handover.
 
 ## Open items
-- Chris to run the P2 manual check procedure (instructions to follow at P2).
