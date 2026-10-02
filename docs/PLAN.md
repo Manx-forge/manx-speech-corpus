@@ -1,27 +1,26 @@
 # Manx Speech Corpus: plan
 
-## Current state (handover, 2026-10-02 00:15 UTC)
+## Current state (handover, 2026-10-02 00:50 UTC)
 **Done:** P0–P2, plus the Abbyr Shen Reesht backfill (D36). **In progress:** P3. Read the `reports/` files for details.
 
 **Running when the session ended. Check these first:**
-1. **Whisper decode of 149,790 segments:** gpusched jobs **145** (GPU 0) and **146** (GPU 1). At about 2.7 segments/s
-   the expected finish is **around 2026-10-02 03:00 UTC**.
-   - Check: `gpusched queue`, and `cat /store/store3/data/manx_speech_corpus/asr/segments_[01].infer_partial.csv | wc -l`
-     (target 149,790 plus 2 header lines).
-   - If a job died, resubmit with the command in `reports/P3_asr.md`. It resumes.
-2. **TDNN batch `20261001`** (207 recordings, 26.8 h): the Kaldi decode finished but `decode.sh` exited 1 (no
-   `local/score.sh`), so the run stopped before `get_ctm`. That is fixed (60c581b). The CTM was then produced by hand:
-   206 of the 207 recordings have words. `sps-42321` is a 3.8 s clip with none. The rerun resumes from the CTM and
-   only cuts segments. It was launched at 00:20 (log `work/logs/tdnn_20261001b.log`), ETA about 00:50 UTC. Its
-   15,468 segments then need Whisper (next step 1).
+1. **Whisper decode on GPU 1 only.** Chris needed GPU 0, so `~/gpu-scheduler/config` is set to `ALLOWED_GPUS=1`.
+   Chris switches it back. Queue order:
+   - **146** (`segments_1`): running, ETA about 04:00 UTC.
+   - **145** (`segments_0`): requeued, resumes at 67,393 of 74,894, about 1.5 h.
+   - Chris's `chr72_libritts` (147).
+   - **148** (`segments_20261001`, 15,468 segments, about 3 h).
+   - Check: `gpusched queue`, and the `wc -l` of `asr/segments_*.infer_partial.csv` against the input CSV.
+   - Every job resumes from its partial file. If one dies, resubmit with the command in `reports/P3_asr.md`.
+2. **TDNN batch `20261001`: done.** 15,468 segments from 195 of 207 recordings. The 12 without segments: 7 are clips
+   under 2 s (`0518xx113`), `sps-42321` (3.8 s) has no words, and 4 have 1 or 2 recognised words (`010755058` at 257 s, `082226`, `084515`,
+   `084588`). Probably music or non-Manx, so they are worth a listen.
 
 **Next steps, in order:**
-1. When TDNN batch `20261001` is done, decode its segments with Whisper as one gpusched job. Use the P3 command with
-   `segments_20261001` in place of `segments_$s`.
-2. When all decodes are done, run `python scripts/asr.py collect` (speechbrain env). It writes
+1. When all decodes are done, run `python scripts/asr.py collect` (speechbrain env). It writes
    `asr/asr_segments.tsv`, with displayed text, `text_source`, confidence and band (D37/D38). Then mark P3 DONE
    here and in `reports/P3_asr.md`.
-3. Start P4 (alignment with `/exp/exp5/acp24csb/timestamper`, see below).
+2. Start P4 (alignment with `/exp/exp5/acp24csb/timestamper`, see below).
 
 **Waiting on Chris:**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
