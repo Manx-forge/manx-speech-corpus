@@ -1,6 +1,6 @@
 # Manx Speech Corpus: plan
 
-## Current state (handover, 2026-10-01 13:00 UTC)
+## Current state (handover, 2026-10-02 00:15 UTC)
 **Done:** P0–P2, plus the Abbyr Shen Reesht backfill (D36). **In progress:** P3. Read the `reports/` files for details.
 
 **Running when the session ended. Check these first:**
@@ -9,10 +9,10 @@
    - Check: `gpusched queue`, and `cat /store/store3/data/manx_speech_corpus/asr/segments_[01].infer_partial.csv | wc -l`
      (target 149,790 plus 2 header lines).
    - If a job died, resubmit with the command in `reports/P3_asr.md`. It resumes.
-2. **TDNN batch `20261001`** (207 recordings with no TDNN pass): `nohup` on titan (CPU). Log:
-   `/store/store3/data/manx_speech_corpus/work/logs/tdnn_20261001.log`. It ends with a line
-   `segments_20261001.csv: N segments ...`.
-   - If it shows a Traceback, fix it and rerun `scripts/asr.py tdnn 20261001` (speechbrain env python).
+2. **TDNN batch `20261001`** (207 recordings, 26.8 h): the Kaldi decode finished but `decode.sh` exited 1 (no
+   `local/score.sh`), so the run stopped before `get_ctm`. That is fixed (60c581b). The CTM was then produced by hand:
+   206 of the 207 recordings have words. `sps-42321` is a 3.8 s clip with none. The rerun resumes from the CTM and
+   only cuts segments. **It has not been run yet.**
 
 **Next steps, in order:**
 1. When TDNN batch `20261001` is done, decode its segments with Whisper as one gpusched job. Use the P3 command with
