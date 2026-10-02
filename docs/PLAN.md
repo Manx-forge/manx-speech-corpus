@@ -23,7 +23,6 @@
 3. Start P4 (alignment with `/exp/exp5/acp24csb/timestamper`, see below).
 
 **Waiting on Chris:**
-- The 4 deep-link checks at the end of `reports/P2_offsets.md` (`#t=` on mp3 links). Not yet confirmed.
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
 
 **GPU authority:** Chris told Claude to launch the P3 Whisper runs itself ("you run it", 2026-10-01). That covers

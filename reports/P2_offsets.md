@@ -40,10 +40,15 @@ name and no link.
 | YouTube | video | `&t=<s>s` (whole seconds), or embedded player `seekTo` |
 | Manx Radio | episode page, plus the publisher mp3 (`media_url`) | `<mp3>#t=<s>` (W3C media fragment); the page player has no seek parameter |
 | LearnManx | mostly a direct mp3 (2,191 recordings); 233 are pages (220 of them the 1000 Words page) | `<mp3>#t=<s>` |
-| Clilstore | page, which embeds `clilstore.eu/cs/<id>/<file>.mp3` | `<mp3>#t=<s>`; the mp3 URL is scraped in P5 |
+| Clilstore | page, which embeds `clilstore.eu/cs/<id>/<file>.mp3` | none: the server cannot seek (see below). Show the start time as text |
 
-## Needs Chris (2 minutes)
-Open each link in a browser. Each should start playing about 1 minute in (YouTube at 1:00):
+## Deep-link check (Chris, 2026-10-02)
+Links 1–3 start at about 1:00. Link 4 (Clilstore) starts at 0:00. The reason: clilstore.eu ignores HTTP Range requests.
+It returns `200` with the whole file, with no `Accept-Ranges` or `Content-Length` and no CORS headers, so neither
+the browser nor our own page can seek in it. Clilstore is 2.1 h of audio. Its hits keep the link and show the start
+time as text.
+
+Links tested:
 1. https://www.youtube.com/watch?v=jQi2ICXyxYw&t=60s
 2. https://episodes.captivate.fm/episode/a2d439a5-4fdf-40b1-aa8b-e394cf96f555.mp3#t=60
 3. https://www.learnmanx.com/media/bunneydys/bunneydys%2036.mp3#t=60
