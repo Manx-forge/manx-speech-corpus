@@ -28,8 +28,8 @@
 **GPU authority:** Chris told Claude to launch the P3 Whisper runs itself ("you run it", 2026-10-01). That covers
 finishing P3 only; for anything else, follow CLAUDE.md.
 **Unattended run (2026-10-02, Chris flying):** Claude may finish P3 (148 moved ahead of 147, then `collect`, report)
-and prepare P4: build and smoke-test alignment on a sample, measure runtime, leave the full launch command here. Stop
-before the full P4 launch. Nothing outward-facing except pushes to this repo.
+and run P4: build and smoke-test alignment on a sample, then (Chris approved, same day) launch the full CPU alignment
+with nohup and run the P4 QC. CPU only. Stop before P5. Nothing outward-facing except pushes to this repo.
 
 
 ## Goal
