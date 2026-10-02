@@ -103,18 +103,20 @@ def tdnn(batch=None):
         f.writelines(f"{r} {r}\n" for r in todo)
     nj = min(16, len(todo))
     dec = model / f"decode_{batch}"
+    ctm = dec / f"score_9/{batch}.ctm"
     print(f"tdnn: decoding {len(todo)} recordings as batch {batch} (nj={nj})", flush=True)
-    kaldi(f"utils/utt2spk_to_spk2utt.pl data/{batch}/utt2spk > data/{batch}/spk2utt; "
-          f"utils/data/get_reco2dur.sh data/{batch}; "
-          f"steps/make_mfcc.sh --mfcc-config conf/mfcc_hires.conf --nj {nj} --cmd \"$train_cmd\" data/{batch}; "
-          f"steps/compute_cmvn_stats.sh data/{batch}; "
-          f"steps/online/nnet2/extract_ivectors_online.sh --cmd \"$train_cmd\" --nj {nj} data/{batch} "
-          f"{K}/exp/nnet3_nn2/extractor exp/ivectors_{batch}; "
-          f"steps/nnet3/decode.sh --acwt 1.0 --post-decode-acwt 10.0 --nj {nj} --cmd \"$decode_cmd\" "
-          f"--online-ivector-dir exp/ivectors_{batch} {CALIB_TDNN}/graph_tdnn data/{batch} {dec}; "
-          f"steps/get_ctm.sh --cmd \"$decode_cmd\" --frame-shift 0.03 --min-lmwt 9 --max-lmwt 9 "
-          f"data/{batch} {CALIB_TDNN}/graph_tdnn {dec}")
-    subprocess.run([sys.executable, str(MAKE_SEGMENTS), str(dec / f"score_9/{batch}.ctm"), str(data / "segments_lmwt9"),
+    if not ctm.exists():  # resume: a finished decode is not repeated
+        kaldi(f"utils/utt2spk_to_spk2utt.pl data/{batch}/utt2spk > data/{batch}/spk2utt; "
+              f"utils/data/get_reco2dur.sh data/{batch}; "
+              f"steps/make_mfcc.sh --mfcc-config conf/mfcc_hires.conf --nj {nj} --cmd \"$train_cmd\" data/{batch}; "
+              f"steps/compute_cmvn_stats.sh data/{batch}; "
+              f"steps/online/nnet2/extract_ivectors_online.sh --cmd \"$train_cmd\" --nj {nj} data/{batch} "
+              f"{K}/exp/nnet3_nn2/extractor exp/ivectors_{batch}; "
+              f"steps/nnet3/decode.sh --acwt 1.0 --post-decode-acwt 10.0 --skip-scoring true --nj {nj} --cmd \"$decode_cmd\" "
+              f"--online-ivector-dir exp/ivectors_{batch} {CALIB_TDNN}/graph_tdnn data/{batch} {dec}; "
+              f"steps/get_ctm.sh --cmd \"$decode_cmd\" --frame-shift 0.03 --min-lmwt 9 --max-lmwt 9 "
+              f"data/{batch} {CALIB_TDNN}/graph_tdnn {dec}")
+    subprocess.run([sys.executable, str(MAKE_SEGMENTS), str(ctm), str(data / "segments_lmwt9"),
                     str(data / "text"), "--reco2dur", str(data / "reco2dur")], check=True)
     text = dict(l.rstrip("\n").split(" ", 1) for l in open(data / "text", encoding="utf-8") if " " in l)
     rows = []
