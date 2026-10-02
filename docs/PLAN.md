@@ -12,7 +12,8 @@
 2. **TDNN batch `20261001`** (207 recordings, 26.8 h): the Kaldi decode finished but `decode.sh` exited 1 (no
    `local/score.sh`), so the run stopped before `get_ctm`. That is fixed (60c581b). The CTM was then produced by hand:
    206 of the 207 recordings have words. `sps-42321` is a 3.8 s clip with none. The rerun resumes from the CTM and
-   only cuts segments. **It has not been run yet.**
+   only cuts segments. It was launched at 00:20 (log `work/logs/tdnn_20261001b.log`), ETA about 00:50 UTC. Its
+   15,468 segments then need Whisper (next step 1).
 
 **Next steps, in order:**
 1. When TDNN batch `20261001` is done, decode its segments with Whisper as one gpusched job. Use the P3 command with
