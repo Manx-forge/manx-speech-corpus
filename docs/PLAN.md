@@ -1,22 +1,31 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-04)
-**Done:** P0–P3, plus the Abbyr Shen Reesht backfill (D36). **Next:** P4. Read the `reports/` files for details.
+**Done:** P0–P3 (P3 signed off 2026-10-04). **In progress:** P3b (ASR post-correction) and P4 (alignment).
+Read the `reports/` files for details.
 
-**Nothing running.** P3 finished: `asr/asr_segments.tsv` has 165,258 segments (242.9 h, 1,528 recordings); 65% green,
-21.5% amber, 13.5% red by segment count (`reports/P3_asr.md`). The gpusched queue is empty.
+**P3b, ASR post-correction (Chris, 2026-10-04, "cheap route").** This rescores each segment's candidates (the P3 Whisper
+hypothesis, a per-segment TDNN 10-best, and a first-word fix) with teacher-forced Whisper log-prob + KenLM, as in
+Triskelion. Triskelion's Loayr data put it at about 15.4 / 18.9 WER (tune / eval), against 16.2 / 25.5 for Whisper alone.
+It replaces the D38 band rule, which did worse than plain Whisper on clean held-out data.
+1. `asr.py nbest`: the per-segment TDNN 10-best, CPU. Smoke test done: 2,000 segments, already in `asr/tdnn_nbest.tsv`.
+   **Full run: Chris launches it** (about 6 h on 32 cores). Segments over 30 s are skipped and keep the TDNN text.
+2. `asr.py score calib` (GPU, minutes): **Chris launches it**. Then Claude runs `asr.py tune` (writes `asr/weights.json`).
+3. `asr.py score segments` (GPU, after step 1): **Chris launches it**.
+4. Still to write: `collect` uses the rescored pick, and the bands are re-calibrated for Chris's sign-off.
 
-**Next steps, in order:**
-1. Chris signs off P3.
-2. Start P4 (alignment with `/exp/exp5/acp24csb/timestamper`, see below): build and smoke-test on a sample, then give
-   Chris the full CPU alignment command.
+**P4, alignment** (`scripts/align.py`, timestamper read-only):
+- `human`: clips under 30 s are force-aligned whole in one Kaldi run, and longer recordings go through `timestamp.sh`.
+  Smoke test: 36 short clips and 1 long recording, all words aligned. **Full run: Chris launches it.**
+- `asr`: per-segment alignment inside each span (D19). Smoke tested on the P3 text. Run it after P3b's `collect`.
+- `qc`: per-source rates. Then hand-check about 10 words per source against the audio.
+- P5 note: normalised human transcripts are a single line, so their "phrases" span whole recordings. Split them at pauses
+  for display.
 
 **Waiting on Chris:**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
-- `~/gpu-scheduler/config` is still `ALLOWED_GPUS=1`; Chris switches GPU 0 back when he's done with it.
+- `~/gpu-scheduler/config` is still `ALLOWED_GPUS=1`.
 - A listen to the 12 batch-`20261001` recordings with no segments (list in `reports/P3_asr.md`).
-
-**Authority:** the P3 GPU authority and the 2026-10-02 unattended-run scope are used up. Follow CLAUDE.md.
 
 
 ## Goal
@@ -212,7 +221,9 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   to true CER. Set green/amber/red so that, for example, green means true WER ≲ 15% and red means ≳ 40%. Chris signs off
   the thresholds.
 
-**P4. Alignment (CPU, long).**
+**P3b. ASR post-correction (Chris, 2026-10-04).** IN PROGRESS: see Current state.
+
+**P4. Alignment (CPU, long).** IN PROGRESS 2026-10-04: `scripts/align.py` built and smoke-tested.
 - Run `timestamper` over every recording: human transcripts (D21), and Whisper text for ASR works (D19). For ASR, align
   per segment within its known span, which is more robust than whole-recording biased-LM search.
 - QC: aligned/interpolated/unaligned rates per source. Hand-check about 10 random words per source against the audio.
@@ -238,3 +249,5 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
 - **Upstream drift.** The site is pushed often (last push 2026-09-28), so rebase the `speech` branch before handover.
 
 ## Open items
+- **Punctuation restoration** for ASR text (Chris, 2026-10-04): later, as a trained model. Not Claude in-session at
+  corpus scale (1.68M words).
