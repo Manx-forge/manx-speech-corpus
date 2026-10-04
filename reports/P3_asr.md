@@ -1,4 +1,4 @@
-# P3 ASR and confidence (DONE 2026-10-04)
+# P3 ASR and confidence (DONE 2026-10-04; P3b post-correction in progress)
 
 ## Setup (done 2026-10-01)
 - **TDNN LMWT = 9** (D20). It has the best dev WER, 17.81% (p4 `decode_dev`); LMWT 8 gives 18.11% and 10 gives 18.34%. It is
@@ -92,3 +92,45 @@ Log: `/store/store3/data/manx_speech_corpus/work/logs/asr_collect.log`.
 
 Green is far bigger here than on the calibration set (34%), as expected: these segments are at least 2 s long, so there
 are fewer hallucination loops. Columns: `recording, segment, start, end, text, text_source, confidence, band, whisper, tdnn`.
+
+## P3b: post-correction by rescoring (Chris, 2026-10-04)
+Each segment of up to 30 s gets about 12 candidates:
+- `w`: a fresh Whisper 1-best;
+- `w0`: the P3 hypothesis;
+- the TDNN 10-best, decoded per segment by `asr.py nbest`;
+- `pre`: the TDNN's leading words + Whisper, for dropped first words.
+
+Each candidate is scored with teacher-forced Whisper log-prob + KenLM (`best_4g`) + word count + source indicators, as in
+Triskelion's `rescore.py`. The weights were fitted on half of the uncontaminated Loayr-v2 test set and checked on the
+other half (`asr.py tune`; logs `work/logs/asr_tune_b{1,4}.log`).
+
+**The P3 decode was the weak link.** `infer_cer.py` forces a nonexistent `<|english|>` token and adds no lead-in silence.
+`score` decodes as Triskelion's `decode.py` does (`<|en|>` prompt, 0.25 s of lead silence).
+
+| WER, Loayr-v2 test (uncontaminated, 560 + 560) | tune | eval |
+|---|---|---|
+| Whisper, P3 decode | 28.8 | 41.7 |
+| TDNN 1-best | 25.8 | 30.9 |
+| P3 band rule (red → TDNN, D38) | 26.9 | 31.5 |
+| Whisper, fresh decode, beam 1 | 16.9 | 19.7 |
+| Whisper, fresh decode, beam 4 | 16.2 | 19.4 |
+| **rescored, beam 1** (chosen) | **15.7** | **19.0** |
+| rescored, beam 4 | 15.5 | 19.9 |
+| oracle (beam 1 candidates) | 10.6 | 13.5 |
+
+- **Beam 1 was chosen.** Rescored, it is as good as beam 4 (17.2 vs 17.5 pooled) and its calibration decode took 628 s
+  against 867 s.
+- **Confidence:** Whisper–TDNN agreement (fresh Whisper vs TDNN 1-best) predicts the rescored text's WER far better
+  than the rescoring posterior. At ≥ 0.95 agreement the WER is 5.8, against 15.0 at a posterior ≥ 0.95.
+- **Bands with the D37 thresholds unchanged**, for Chris to re-sign (they replace the P3 table and D38):
+
+  | band | share | rescored WER (was: P3 displayed text) |
+  |---|---|---|
+  | green ≥ 0.9 | 34% | 7.3 (15.3) |
+  | amber 0.6–0.9 | 37% | 18.9 (27.9) |
+  | red < 0.6 | 28% | 33.9 (59.0) |
+- **Segments over 30 s** (Whisper saw only their first 30 s) are not rescored. They keep the long-form TDNN text, with
+  `text_source` `tdnn_longform`.
+- **Corpus run.** `asr.py nbest` started 2026-10-04 11:06 (about 8 h, CPU). A watcher (`work/logs/score_watcher.sh`)
+  then sets `ALLOWED_GPUS=0,1` and submits `asr.py score segments 1 k/2` for k = 0, 1 (Chris: both GPUs). The estimate is
+  about 12 h. Then run `asr.py collect`; the P3 table is kept as `asr/asr_segments.p3.tsv`.

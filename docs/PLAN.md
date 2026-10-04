@@ -4,23 +4,28 @@
 **Done:** P0–P3 (P3 signed off 2026-10-04). **In progress:** P3b (ASR post-correction) and P4 (alignment).
 Read the `reports/` files for details.
 
-**P3b, ASR post-correction (Chris, 2026-10-04, "cheap route").** This rescores each segment's candidates (the P3 Whisper
-hypothesis, a per-segment TDNN 10-best, and a first-word fix) with teacher-forced Whisper log-prob + KenLM, as in
-Triskelion. Triskelion's Loayr data put it at about 15.4 / 18.9 WER (tune / eval), against 16.2 / 25.5 for Whisper alone.
-It replaces the D38 band rule, which did worse than plain Whisper on clean held-out data.
-1. `asr.py nbest`: the per-segment TDNN 10-best, CPU. Smoke test done: 2,000 segments, already in `asr/tdnn_nbest.tsv`.
-   **Full run: Chris launches it** (about 6 h on 32 cores). Segments over 30 s are skipped and keep the TDNN text.
-2. `asr.py score calib` (GPU, minutes): **Chris launches it**. Then Claude runs `asr.py tune` (writes `asr/weights.json`).
-3. `asr.py score segments` (GPU, after step 1): **Chris launches it**.
-4. Still to write: `collect` uses the rescored pick, and the bands are re-calibrated for Chris's sign-off.
+**P3b, ASR post-correction (Chris, 2026-10-04, "cheap route").** See `reports/P3_asr.md`. Rescoring + a fresh beam-1
+Whisper decode bring the WER from 26.9 / 31.5 (P3 band rule) to 15.7 / 19.0 (Loayr tune / eval).
+1. `asr.py nbest` (CPU) started 11:06 and should end about 19:30 UTC. Log: `work/logs/asr_nbest.log`.
+2. `work/logs/score_watcher.sh` waits for PID 4131511 (the nbest python), then sets `ALLOWED_GPUS=0,1` and submits
+   gpusched `manx_score_0` / `manx_score_1` (`asr.py score segments 1 k/2`, about 12 h). Shard 0 already holds 100
+   smoke-test segments and resumes after them.
+3. Then `asr.py collect` (CPU, minutes). **Chris re-signs the bands** (D37 thresholds; rescored WER green 7.3, amber
+   18.9, red 33.9). D38 is superseded.
+4. Then `align.py asr`.
 
 **P4, alignment** (`scripts/align.py`, timestamper read-only):
-- `human`: clips under 30 s are force-aligned whole in one Kaldi run, and longer recordings go through `timestamp.sh`.
-  Smoke test: 36 short clips and 1 long recording, all words aligned. **Full run: Chris launches it.**
-- `asr`: per-segment alignment inside each span (D19). Smoke tested on the P3 text. Run it after P3b's `collect`.
-- `qc`: per-source rates. Then hand-check about 10 words per source against the audio.
-- P5 note: normalised human transcripts are a single line, so their "phrases" span whole recordings. Split them at pauses
-  for display.
+- `human` is running (`work/logs/align_human.log`). The 9,992 short clips are done, and the 387 long ones are going
+  through `timestamp.sh` 8 at a time.
+  - The 14 corpus (`msd-*`) works came out under video-ID names, and `083612` (two rows in `recordings.tsv`) ran twice at
+    once. Both are fixed in `align.py`.
+  - A watcher reruns `align.py human 8` when the first run exits, redoing just those
+    (`work/logs/align_human_rerun.log`).
+- `asr`: per-segment alignment inside each span (D19). Smoke-tested; run it after P3b's `collect`.
+- `qc`: per-source rates, then a hand-check of about 10 words per source against the audio.
+- P5 notes:
+  - Normalised human transcripts are one line, so their phrases span whole recordings. Split them at pauses for display.
+  - `registers/recordings.tsv` has 2 rows for some IDs that are on disk twice. Dedupe in `inventory.py`.
 
 **Waiting on Chris:**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
@@ -221,7 +226,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   to true CER. Set green/amber/red so that, for example, green means true WER ≲ 15% and red means ≳ 40%. Chris signs off
   the thresholds.
 
-**P3b. ASR post-correction (Chris, 2026-10-04).** IN PROGRESS: see Current state.
+**P3b. ASR post-correction (Chris, 2026-10-04).** IN PROGRESS: corpus n-best and scoring running, see Current state.
 
 **P4. Alignment (CPU, long).** IN PROGRESS 2026-10-04: `scripts/align.py` built and smoke-tested.
 - Run `timestamper` over every recording: human transcripts (D21), and Whisper text for ASR works (D19). For ASR, align

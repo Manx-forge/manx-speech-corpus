@@ -44,8 +44,13 @@ def transcript(r):
 
 
 def human_rows():
-    """Recordings with a human transcript and audio, minus duplicates of another recording."""
-    return [r for r in recordings() if r["transcript"] and r["audio"] and not (r["dup_of"] and not r["dup_of"].startswith("disk:"))]
+    """Recordings with a human transcript and audio, minus duplicates of another recording (and the second row of an id
+    that is on disk twice)."""
+    rows = {}
+    for r in recordings():
+        if r["transcript"] and r["audio"] and not (r["dup_of"] and not r["dup_of"].startswith("disk:")):
+            rows.setdefault(r["id"], r)
+    return list(rows.values())
 
 
 def done(out, rid):
@@ -53,16 +58,15 @@ def done(out, rid):
 
 
 def timestamp(r, out):
-    """One long recording through timestamp.sh; its output stem is the audio's basename, so link the audio as <id>."""
+    """One long recording through timestamp.sh. Its output stem is the audio's basename after resolving links, so it
+    gets a 16 kHz copy named <id>.wav."""
     d = out / r["id"]
     d.mkdir(parents=True, exist_ok=True)
     (d / "transcript.txt").write_text(transcript(r), encoding="utf-8")
-    link = ALIGN / "links" / (r["id"] + Path(r["audio"]).suffix)
-    link.parent.mkdir(parents=True, exist_ok=True)
-    if not link.is_symlink():
-        link.symlink_to(r["audio"])
+    audio = ALIGN / "wav16k" / f"{r['id']}.wav"
+    wav16(r["audio"], audio)
     with open(d / "timestamp.log", "w") as log:
-        rc = subprocess.run(["bash", str(TS / "timestamp.sh"), "--formats", "csv", "--nj", "4", str(link),
+        rc = subprocess.run(["bash", str(TS / "timestamp.sh"), "--formats", "csv", "--nj", "4", str(audio),
                              str(d / "transcript.txt"), str(d)], stdout=log, stderr=subprocess.STDOUT).returncode
     print(f"  {r['id']}: {'ok' if rc == 0 else f'FAILED ({rc}), see {d}/timestamp.log'}", flush=True)
 

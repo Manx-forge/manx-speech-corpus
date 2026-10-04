@@ -1,4 +1,5 @@
-"""P3 ASR: Whisper (unfreeze_top12) over TDNN-segmented audio, with Whisper–TDNN agreement as confidence.
+"""P3 ASR: Whisper (unfreeze_top12) over TDNN-segmented audio, with Whisper–TDNN agreement as confidence, and P3b
+post-correction: each segment's candidates rescored with Whisper log-prob + KenLM (as Triskelion).
 
   prepare  write the decode CSVs: asr/segments.csv (every ASR-needed segment, transcript = TDNN LMWT 9 text)
            and asr/calib.csv (Loayr-v2 test segments, transcript = human reference)
@@ -6,8 +7,11 @@
            segment the CTM exactly as the original segments were made, cut the wavs, write asr/segments_<batch>.csv
   (GPU)    run whisper-ft's infer_cer.py on calib.csv and each segments_*.csv (commands in reports/P3_asr.md);
            it writes <csv>.infer_partial.csv with hyp and cer
-  collect  asr/asr_segments.tsv (one row per segment: times, displayed text, confidence, band, both hypotheses)
-           and the calibration table for the green/amber/red bands
+  nbest    per-segment TDNN 10-best (asr/tdnn_nbest.tsv; Loayr-v2 test: asr/calib_nbest.tsv), segments up to 30 s
+  score    (GPU) fresh Whisper 1-best + teacher-forced log-prob of every candidate: asr/<calib|segments>.b<beam>*.score.jsonl
+  tune     fit the rescoring weights on Loayr-v2 test (asr/weights.json), compare with each system and the oracle
+  collect  asr/asr_segments.tsv (one row per segment: times, rescored text, its source, confidence, band, Whisper and
+           TDNN 1-best) and the calibration table for the green/amber/red bands
 """
 import collections
 import csv
@@ -209,8 +213,7 @@ WTRAIN = Path("/exp/exp3/acp24csb/whisper-ft/ASR/transformer/results/cer_cutoff/
 
 
 def candidates(name):
-    """seg -> (wav, {text: [sources]}): the P3 Whisper hypothesis (w), the TDNN 10-best (tdnn = rank 1, tdnnK) and pre
-    (the TDNN's leading words + the Whisper hypothesis, when Whisper drops the first word: pseudo-label edge words)."""
+    """seg -> (wav, {text: [sources]}): the P3 Whisper hypothesis (w0) and the TDNN 10-best (tdnn = rank 1, tdnnK)."""
     shards = [WORK / "calib.infer_partial.csv"] if name == "calib" else sorted(WORK.glob("segments_*.infer_partial.csv"))
     kbest = collections.defaultdict(list)
     for r in csv.DictReader(open(WORK / ("calib_nbest.tsv" if name == "calib" else "tdnn_nbest.tsv"), encoding="utf-8"),
@@ -223,32 +226,31 @@ def candidates(name):
             if seg not in kbest:  # over 30 s, or not decoded yet
                 continue
             c = collections.defaultdict(list)
-            c[lower(r["hyp"])].append("w")
-            tw = []
+            c[lower(r["hyp"])].append("w0")
             for k, t in sorted(kbest[seg]):
                 c[t].append("tdnn" if k == 1 else f"tdnn{k}")
-                tw = tw or t.split()
-            hw = lower(r["hyp"]).split()
-            if tw and hw and hw[0] != tw[0]:
-                j = tw[:3].index(hw[0]) if hw[0] in tw[:3] else 1
-                c[" ".join(tw[:j] + hw)].append("pre")
             out[seg] = (r["path"], dict(c))
     return out
 
 
-def score(name, batch=16, limit=None):
-    """GPU: teacher-forced Whisper log-prob of every candidate (as Triskelion's decode.py: unfreeze_top12, 0.25 s lead
-    of silence, <|en|> prompt). Writes asr/<name>.score.jsonl, resumable."""
+def score(name, beam=4, shard="0/1", batch=16, limit=None):
+    """GPU, as Triskelion's decode.py (unfreeze_top12, 0.25 s lead of silence, <|en|> prompt): a fresh Whisper 1-best (w,
+    beam search; none if beam is 0) and the teacher-forced log-prob of every candidate, plus pre (the TDNN's leading words
+    + the Whisper hypothesis, when Whisper drops the first word: pseudo-label edge words). P3's infer_cer.py decode
+    (w0) used a nonexistent prompt token and no lead, and is far worse. shard k/n takes every n-th segment, one job per GPU.
+    Writes asr/<name>.b<beam>[.<k>of<n>].score.jsonl, resumable."""
     import json
     import torch
     import torchaudio
-    from transformers import WhisperFeatureExtractor, WhisperForConditionalGeneration, WhisperTokenizer
+    from transformers import GenerationMixin, WhisperFeatureExtractor, WhisperForConditionalGeneration, WhisperTokenizer
     base = next((FT / "whisper_checkpoint/models--openai--whisper-large-v3/snapshots").iterdir())
     tokdir = next(Path("/store/store3/data/hf_cache/hub/models--openai--whisper-large-v3/snapshots").iterdir())
-    out = WORK / f"{name}.score.jsonl"
+    beam = int(beam)
+    k, n = map(int, shard.split("/"))
+    out = WORK / f"{name}.b{beam}{f'.{k}of{n}' if n > 1 else ''}.score.jsonl"
     done = {json.loads(l)["seg"] for l in open(out, encoding="utf-8")} if out.exists() else set()
     cands = candidates(name)
-    rows = sorted((s for s in cands if s not in done))[:int(limit) if limit else None]
+    rows = [s for i, s in enumerate(sorted(cands)) if i % n == k and s not in done][:int(limit) if limit else None]
     dur = {s: torchaudio.info(cands[s][0]).num_frames / 16000 for s in rows}
     rows.sort(key=dur.get)  # batches of similar length
     print(f"score {name}: {len(done)} done, {len(rows)} to do", flush=True)
@@ -263,18 +265,34 @@ def score(name, batch=16, limit=None):
     eot = t("<|endoftext|>")
     prompt = [t("<|startoftranscript|>"), t("<|en|>"), t("<|transcribe|>"), t("<|notimestamps|>")]
     pad = torch.zeros(4000)
+
+    def gen(feats, max_new):
+        dec = torch.tensor([prompt] * len(feats), device="cuda")
+        seqs = GenerationMixin.generate(model, input_features=feats, decoder_input_ids=dec, num_beams=beam,
+                                        max_new_tokens=max_new).tolist()
+        return [lower(tok.decode(q[4:q.index(eot, 4)] if eot in q[4:] else q[4:], skip_special_tokens=True)) for q in seqs]
+
     with open(out, "a", encoding="utf-8") as fh, torch.no_grad():
         for b in range(0, len(rows), int(batch)):
             segs = rows[b:b + int(batch)]
             wavs = [torch.cat([pad, torchaudio.load(cands[s][0])[0][0]]).numpy() for s in segs]
             feats = fe(wavs, sampling_rate=16000, return_tensors="pt").input_features.to("cuda", torch.float16)
             enc = model.model.encoder(feats).last_hidden_state
+            hyp = gen(feats, min(220, int(16 + 10 * max(dur[s] for s in segs)))) if beam else [None] * len(segs)
             for i, s in enumerate(segs):
-                texts = list(cands[s][1])
+                c = collections.defaultdict(list, {x: list(v) for x, v in cands[s][1].items()})
+                if hyp[i] is not None:
+                    c[hyp[i]].append("w")
+                hw = (hyp[i] if hyp[i] is not None else next(x for x, v in c.items() if "w0" in v)).split()
+                tw = next(x for x, v in c.items() if "tdnn" in v).split()
+                if tw and hw and hw[0] != tw[0]:
+                    j = tw[:3].index(hw[0]) if hw[0] in tw[:3] else 1
+                    c[" ".join(tw[:j] + hw)].append("pre")
+                texts = list(c)
                 seqs = [prompt + tok.encode(" " + x, add_special_tokens=False)[:440] + [eot] for x in texts]
                 res = []
-                for c in range(0, len(seqs), 16):
-                    chunk = seqs[c:c + 16]
+                for o in range(0, len(seqs), 16):
+                    chunk = seqs[o:o + 16]
                     n = max(len(q) for q in chunk)
                     ids = torch.full((len(chunk), n), eot, device="cuda")
                     for k, q in enumerate(chunk):
@@ -284,31 +302,32 @@ def score(name, batch=16, limit=None):
                     tl = lp.gather(-1, ids[:, 1:, None])[..., 0]
                     res += [(tl[k, 3:len(q) - 1].sum().item(), len(q) - 4) for k, q in enumerate(chunk)]
                 fh.write(json.dumps({"seg": s, "dur": round(dur[s], 3), "nbest": [
-                    {"text": x, "logp": round(lp_, 3), "ntok": n_, "src": cands[s][1][x]} for x, (lp_, n_) in zip(texts, res)]},
+                    {"text": x, "logp": round(lp_, 3), "ntok": n_, "src": c[x]} for x, (lp_, n_) in zip(texts, res)]},
                     ensure_ascii=False) + "\n")
             if b // int(batch) % 100 == 0:
                 print(f"  {b + len(segs)}/{len(rows)}", flush=True)
 
 
-FEATS = ["lm", "words", "tdnn", "tdnnk", "w", "fw"]  # weights; the Whisper logp has weight 1
+FEATS = ["lm", "words", "tdnn", "tdnnk", "w", "w0", "fw"]  # weights; the Whisper logp has weight 1
 GRID = {"lm": [0, 0.02, 0.05, 0.075, 0.1, 0.125, 0.15, 0.2, 0.3, 0.5, 1.0], "words": [-2, -1, -0.5, 0, 0.25, 0.5, 0.75, 1, 1.5, 2, 4],
         "tdnn": [-4, -1, 0, 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8], "tdnnk": [-8, -2, -1, 0, 0.5, 1, 1.5, 2, 3, 4],
-        "w": [-12, -8, -6, -4, -3, -2, -1, 0, 2, 4], "fw": [-4, -2, -1, 0, 1, 2, 4, 8]}
+        "w": [-12, -8, -6, -4, -3, -2, -1, 0, 2, 4], "w0": [-12, -8, -6, -4, -3, -2, -1, 0, 2, 4], "fw": [-4, -2, -1, 0, 1, 2, 4, 8]}
 
 
 def features(path, lm):
-    """seg -> [(text, Whisper logp, {feature: value})]; the first candidate is the P3 Whisper hypothesis."""
+    """seg -> [(text, Whisper logp, {feature: value})]; the first candidate is the fresh Whisper 1-best (P3's if none)."""
     import json
     import math
     out = {}
     for l in open(path, encoding="utf-8"):
         r = json.loads(l)
         cands = []
-        for c in sorted(r["nbest"], key=lambda c: "w" not in c["src"]):
+        for c in sorted(r["nbest"], key=lambda c: ("w" not in c["src"], "w0" not in c["src"])):
             src = set(c["src"])
             cands.append((c["text"], c["logp"], {
                 "lm": lm.score(c["text"].upper()) * math.log(10), "words": len(c["text"].split()), "tdnn": "tdnn" in src,
-                "tdnnk": "tdnn" not in src and any(k.startswith("tdnn") for k in src), "w": "w" in src, "fw": src == {"pre"}}))
+                "tdnnk": "tdnn" not in src and any(k.startswith("tdnn") for k in src), "w": "w" in src, "w0": "w0" in src,
+                "fw": src == {"pre"}}))
         out[r["seg"]] = cands
     return out
 
@@ -317,17 +336,30 @@ def pick(cands, w):
     return max(cands, key=lambda x: x[1] + sum(w.get(k, 0) * x[2][k] for k in FEATS))[0]
 
 
-def tune():
+def posterior(cands, w):
+    """Softmax share of the picked candidate over all candidates' combined scores."""
+    import math
+    sc = [x[1] + sum(w.get(k, 0) * x[2][k] for k in FEATS) for x in cands]
+    return 1 / sum(math.exp(v - max(sc)) for v in sc)
+
+
+def calib_split():
+    """Human references and the Loayr-v2 test segments in neither the Whisper nor the TDNN training data."""
+    seen = {l.split(",", 1)[0].split("__")[-1] for l in open(WTRAIN, encoding="utf-8")}
+    seen |= {l.split(" ", 1)[0].removeprefix("lbi-") for l in open(K / "data/Loayr-v2/train/text", encoding="utf-8")}
+    ref = {Path(r["path"]).stem: lower(r["sentence"]) for r in csv.DictReader(open(CALIB_REF, encoding="utf-8"), delimiter="\t")}
+    return ref, sorted(s for s in calib_tdnn() if s in ref and s not in seen)
+
+
+def tune(beam=1):
     """Fit the rescoring weights on half of Loayr-v2 test (split by recording, minus segments in the Whisper or TDNN
     training data, as in Triskelion) and report on the other half. Writes asr/weights.json."""
     import json
     import kenlm
-    seen = {l.split(",", 1)[0].split("__")[-1] for l in open(WTRAIN, encoding="utf-8")}
-    seen |= {l.split(" ", 1)[0].removeprefix("lbi-") for l in open(K / "data/Loayr-v2/train/text", encoding="utf-8")}
-    ref = {Path(r["path"]).stem: lower(r["sentence"]) for r in csv.DictReader(open(CALIB_REF, encoding="utf-8"), delimiter="\t")}
+    ref, segs = calib_split()
     lm = kenlm.Model(LM)
-    feats = features(WORK / "calib.score.jsonl", lm)
-    segs = sorted(s for s in feats if s in ref and s not in seen)
+    feats = features(WORK / f"calib.b{beam}.score.jsonl", lm)
+    segs = [s for s in segs if s in feats]
     size = collections.Counter(s.rsplit("-", 1)[0] for s in segs)
     half, n = {}, {"tune": 0, "eval": 0}
     for rec in sorted(size, key=lambda k: (-size[k], k)):  # greedy balance by segment count
@@ -343,10 +375,11 @@ def tune():
         print(f"  {label:34s} tune {wer('tune', choose):6.2f}   eval {wer('eval', choose):6.2f}")
 
     print(f"Loayr-v2 test, uncontaminated: tune {n['tune']} / eval {n['eval']} segments")
-    row("whisper (P3)", lambda s: feats[s][0][0])
+    row("whisper", lambda s: feats[s][0][0])
+    row("whisper (P3 decode)", lambda s: next(c[0] for c in feats[s] if c[2]["w0"]))
     row("tdnn 1-best", lambda s: tdnn[s])
-    agree = {s: 1 - min(1.0, jiwer.cer(tdnn[s] or "-", feats[s][0][0] or "-")) for s in segs}
-    row("P3 band rule (red -> tdnn, D38)", lambda s: tdnn[s] if agree[s] < RED else feats[s][0][0])
+    agree = {s: 1 - min(1.0, jiwer.cer(tdnn[s] or "-", next(c[0] for c in feats[s] if c[2]["w0"]) or "-")) for s in segs}
+    row("P3 band rule (red -> tdnn, D38)", lambda s: tdnn[s] if agree[s] < RED else next(c[0] for c in feats[s] if c[2]["w0"]))
     row("oracle", lambda s: min(feats[s], key=lambda x: jiwer.wer(ref[s] or "<empty>", x[0] or "<empty>"))[0])
     w = {k: 0 for k in FEATS}
     best = wer("tune", lambda s: pick(feats[s], w))
@@ -362,7 +395,16 @@ def tune():
             break
     row("rescored", lambda s: pick(feats[s], w))
     print(f"  weights {w}")
-    (WORK / "weights.json").write_text(json.dumps(w))
+    both = split["tune"] + split["eval"]
+    picked = {s: pick(feats[s], w) for s in both}
+    for name, conf in [("rescoring posterior", lambda s: posterior(feats[s], w)),
+                       ("whisper-tdnn agreement", lambda s: agreement(feats[s]))]:
+        c = {s: conf(s) for s in both}
+        print(f"rescored WER by {name} (tune + eval, {len(both)} segments): >= | segments | WER")
+        for lo in (0.95, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.0):
+            sel = [s for s in both if c[s] >= lo]
+            print(f"  {lo:.2f} | {len(sel):4d} | {100 * jiwer.wer([ref[s] or '<empty>' for s in sel], [picked[s] or '<empty>' for s in sel]):5.1f}")
+    (WORK / "weights.json").write_text(json.dumps({"beam": int(beam), **w}))
 
 
 def band(conf, green, red):
@@ -372,40 +414,48 @@ def band(conf, green, red):
 GREEN, RED = 0.9, 0.6  # agreement bands, signed off by Chris 2026-10-01 (D37)
 
 
-def collect(green=GREEN, red=RED):
-    tdnn = calib_tdnn()
-    cal = [r for r in csv.DictReader(open(WORK / "calib.infer_partial.csv", encoding="utf-8"))]
-    pts = []
-    for r in cal:
-        u = Path(r["path"]).stem
-        if u in tdnn and r["transcript"]:
-            conf = 1 - min(1.0, jiwer.cer(tdnn[u] or "-", r["hyp"] or "-"))
-            pts.append((conf, r["transcript"], r["hyp"], tdnn[u] or "-"))
-    print(f"calibration on {len(pts)} Loayr-v2 test segments: Whisper WER by Whisper–TDNN agreement")
-    print("agreement >= | segments | Whisper WER (pooled)")
-    for lo in (0.95, 0.9, 0.85, 0.8, 0.7, 0.6, 0.5, 0.0):
-        sel = [p for p in pts if p[0] >= lo]
-        print(f"  {lo:.2f}  | {len(sel):5d} | {100 * jiwer.wer([p[1] for p in sel], [p[2] for p in sel]):5.1f}")
-    for b in ("green", "amber", "red"):
-        sel = [p for p in pts if band(p[0], green, red) == b]
-        shown = [p[3] if b == "red" else p[2] for p in sel]
-        print(f"  {b:5s}: {len(sel):5d} segments, displayed-text WER {100 * jiwer.wer([p[1] for p in sel], shown):.1f}")
+def agreement(cands):
+    """Whisper–TDNN agreement (1 - CER between the fresh Whisper 1-best and the TDNN 1-best): the confidence (D37)."""
+    tdnn = next((c[0] for c in cands if c[2]["tdnn"]), "")
+    return 1 - min(1.0, jiwer.cer(tdnn or "-", cands[0][0] or "-"))
 
+
+def collect(green=GREEN, red=RED):
+    """asr/asr_segments.tsv: the rescored pick per segment (P3b). Segments not rescored (over 30 s: Whisper saw only their
+    first 30 s) keep the long-form TDNN text (text_source tdnn_longform)."""
+    import json
+    import kenlm
+    w = json.loads((WORK / "weights.json").read_text())
+    lm = kenlm.Model(LM)
+    ref, segs = calib_split()
+    cal = features(WORK / f"calib.b{w['beam']}.score.jsonl", lm)
+    print(f"calibration on {len(segs)} uncontaminated Loayr-v2 test segments: rescored WER by band")
+    for b in ("green", "amber", "red"):
+        sel = [s for s in segs if band(agreement(cal[s]), green, red) == b]
+        print(f"  {b:5s}: {len(sel):5d} segments, WER {100 * jiwer.wer([ref[s] or '<empty>' for s in sel], [pick(cal[s], w) or '<empty>' for s in sel]):.1f}")
+
+    scored = {}
+    for sh in sorted(WORK.glob(f"segments.b{w['beam']}*.score.jsonl")):
+        scored.update(features(sh, lm))
     times = {l.split()[0]: l.split()[1:] for seg, _ in segment_sources() for l in open(seg)}
+    n = collections.Counter()
     with open(WORK / "asr_segments.tsv", "w", encoding="utf-8", newline="") as f:
-        w = csv.writer(f, delimiter="\t", lineterminator="\n")
-        w.writerow(["recording", "segment", "start", "end", "text", "text_source", "confidence", "band", "whisper", "tdnn"])
-        n = 0
-        shards = sorted(WORK.glob("segments_*.infer_partial.csv"))  # segments.csv was split in two, one per GPU
-        for r in (r for sh in shards for r in csv.DictReader(open(sh, encoding="utf-8"))):
+        out = csv.writer(f, delimiter="\t", lineterminator="\n")
+        out.writerow(["recording", "segment", "start", "end", "text", "text_source", "confidence", "band", "whisper", "tdnn"])
+        for r in (r for sh in sorted(WORK.glob("segments_*.infer_partial.csv")) for r in csv.DictReader(open(sh, encoding="utf-8"))):
             seg = Path(r["path"]).stem
             rec, start, end = times[seg]
-            conf = 1 - min(1.0, float(r["cer"]))
-            b = band(conf, green, red)  # red: Whisper is mostly hallucinating, TDNN is far better (D38)
-            text, src = (r["transcript"], "tdnn") if b == "red" else (r["hyp"], "whisper")
-            w.writerow([rec, seg, start, end, text, src, round(100 * conf), b, r["hyp"], r["transcript"]])
-            n += 1
-    print(f"asr_segments.tsv: {n} segments")
+            if seg in scored:
+                cs = scored[seg]
+                text = pick(cs, w)
+                src = next(c for c in cs if c[0] == text)[2]
+                kind = "whisper" if src["w"] else "tdnn" if src["tdnn"] or src["tdnnk"] else "whisper_p3" if src["w0"] else "tdnn+whisper"
+                conf, hyp, tdnn = agreement(cs), cs[0][0], next((c[0] for c in cs if c[2]["tdnn"]), "")
+            else:
+                text, kind, conf, hyp, tdnn = r["transcript"], "tdnn_longform", 1 - min(1.0, float(r["cer"])), r["hyp"], r["transcript"]
+            out.writerow([rec, seg, start, end, text, kind, round(100 * conf), band(conf, green, red), hyp, tdnn])
+            n[kind] += 1
+    print(f"asr_segments.tsv: {sum(n.values())} segments, text from {dict(n)}")
 
 
 if __name__ == "__main__":
