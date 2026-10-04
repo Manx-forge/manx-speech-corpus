@@ -9,6 +9,7 @@ Outputs: align/{human,asr}/<id>/<id>_{words,phrases}.csv in timestamper's format
 times absolute in the recording.
 """
 import csv
+import re
 import collections
 import subprocess
 import sys
@@ -34,13 +35,16 @@ def recordings():
 
 
 def transcript(r):
-    """The human transcript as plain text, one phrase per line."""
+    """The human transcript as plain text, one phrase per line, control characters dropped (a NUL breaks the csv
+    writer; form feeds become line breaks)."""
     t = r["transcript"]
     if t == "tsv:sentence":  # Common Voice: inventory.py keeps the sentence as the title
-        return r["title"]
-    if t.endswith("document.csv"):  # manx-search-data work: one subtitle per row
-        return "\n".join(row["Manx"] for row in csv.DictReader(open(t, encoding="utf-8-sig")))
-    return open(t, encoding="utf-8", errors="replace").read().replace("﻿", "")
+        text = r["title"]
+    elif t.endswith("document.csv"):  # manx-search-data work: one subtitle per row
+        text = "\n".join(row["Manx"] for row in csv.DictReader(open(t, encoding="utf-8-sig")))
+    else:
+        text = open(t, encoding="utf-8", errors="replace").read().replace("﻿", "")
+    return re.sub(r"[\x00-\x08\x0b\x0e-\x1f\x7f]", "", text.replace("\x0c", "\n"))
 
 
 def human_rows():
@@ -54,7 +58,7 @@ def human_rows():
 
 
 def done(out, rid):
-    return (out / rid / f"{rid}_words.csv").exists()
+    return all((out / rid / f"{rid}_{k}.csv").exists() for k in ("words", "phrases"))
 
 
 def timestamp(r, out):
@@ -64,9 +68,9 @@ def timestamp(r, out):
     d.mkdir(parents=True, exist_ok=True)
     (d / "transcript.txt").write_text(transcript(r), encoding="utf-8")
     audio = ALIGN / "wav16k" / f"{r['id']}.wav"
-    wav16(r["audio"], audio)
+    nj = min(4, max(1, int(wav16(r["audio"], audio) // 40)))  # Kaldi will not split fewer 30 s chunks than jobs
     with open(d / "timestamp.log", "w") as log:
-        rc = subprocess.run(["bash", str(TS / "timestamp.sh"), "--formats", "csv", "--nj", "4", str(audio),
+        rc = subprocess.run(["bash", str(TS / "timestamp.sh"), "--formats", "csv", "--nj", str(nj), str(audio),
                              str(d / "transcript.txt"), str(d)], stdout=log, stderr=subprocess.STDOUT).returncode
     print(f"  {r['id']}: {'ok' if rc == 0 else f'FAILED ({rc}), see {d}/timestamp.log'}", flush=True)
 

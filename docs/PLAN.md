@@ -19,7 +19,9 @@ Whisper decode bring the WER from 26.9 / 31.5 (P3 band rule) to 15.7 / 19.0 (Loa
   through `timestamp.sh` 8 at a time.
   - The 14 corpus (`msd-*`) works came out under video-ID names, and `083612` (two rows in `recordings.tsv`) ran twice at
     once. Both are fixed in `align.py`.
-  - A watcher reruns `align.py human 8` when the first run exits, redoing just those
+  - 138 recordings of 30–90 s failed because `timestamp.sh --nj 4` exceeded their 30 s chunk count, and `074662` failed
+    on a NUL byte in its transcript. Both are fixed: `nj` now scales with duration, and control characters are stripped.
+  - A watcher reruns `align.py human 8` when the first run exits, redoing every failure
     (`work/logs/align_human_rerun.log`).
 - `asr`: per-segment alignment inside each span (D19). Smoke-tested; run it after P3b's `collect`.
 - `qc`: per-source rates, then a hand-check of about 10 words per source against the audio.
