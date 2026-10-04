@@ -1,35 +1,22 @@
 # Manx Speech Corpus: plan
 
-## Current state (handover, 2026-10-02 00:50 UTC)
-**Done:** P0–P2, plus the Abbyr Shen Reesht backfill (D36). **In progress:** P3. Read the `reports/` files for details.
+## Current state (handover, 2026-10-04)
+**Done:** P0–P3, plus the Abbyr Shen Reesht backfill (D36). **Next:** P4. Read the `reports/` files for details.
 
-**Running when the session ended. Check these first:**
-1. **Whisper decode on GPU 1 only.** Chris needed GPU 0, so `~/gpu-scheduler/config` is set to `ALLOWED_GPUS=1`.
-   Chris switches it back. Queue order:
-   - **146** (`segments_1`): running, ETA about 04:00 UTC.
-   - **145** (`segments_0`): requeued, resumes at 67,393 of 74,894, about 1.5 h.
-   - Chris's `chr72_libritts` (147).
-   - **148** (`segments_20261001`, 15,468 segments, about 3 h).
-   - Check: `gpusched queue`, and the `wc -l` of `asr/segments_*.infer_partial.csv` against the input CSV.
-   - Every job resumes from its partial file. If one dies, resubmit with the command in `reports/P3_asr.md`.
-2. **TDNN batch `20261001`: done.** 15,468 segments from 195 of 207 recordings. The 12 without segments: 7 are clips
-   under 2 s (`0518xx113`), `sps-42321` (3.8 s) has no words, and 4 have 1 or 2 recognised words (`010755058` at 257 s, `082226`, `084515`,
-   `084588`). Probably music or non-Manx, so they are worth a listen.
+**Nothing running.** P3 finished: `asr/asr_segments.tsv` has 165,258 segments (242.9 h, 1,528 recordings); 65% green,
+21.5% amber, 13.5% red by segment count (`reports/P3_asr.md`). The gpusched queue is empty.
 
 **Next steps, in order:**
-1. When all decodes are done, run `python scripts/asr.py collect` (speechbrain env). It writes
-   `asr/asr_segments.tsv`, with displayed text, `text_source`, confidence and band (D37/D38). Then mark P3 DONE
-   here and in `reports/P3_asr.md`.
-2. Start P4 (alignment with `/exp/exp5/acp24csb/timestamper`, see below).
+1. Chris signs off P3.
+2. Start P4 (alignment with `/exp/exp5/acp24csb/timestamper`, see below): build and smoke-test on a sample, then give
+   Chris the full CPU alignment command.
 
 **Waiting on Chris:**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
+- `~/gpu-scheduler/config` is still `ALLOWED_GPUS=1`; Chris switches GPU 0 back when he's done with it.
+- A listen to the 12 batch-`20261001` recordings with no segments (list in `reports/P3_asr.md`).
 
-**GPU authority:** Chris told Claude to launch the P3 Whisper runs itself ("you run it", 2026-10-01). That covers
-finishing P3 only; for anything else, follow CLAUDE.md.
-**Unattended run (2026-10-02, Chris flying):** Claude may finish P3 (148 moved ahead of 147, then `collect`, report)
-and run P4: build and smoke-test alignment on a sample, then (Chris approved, same day) launch the full CPU alignment
-with nohup and run the P4 QC. CPU only. Stop before P5. Nothing outward-facing except pushes to this repo.
+**Authority:** the P3 GPU authority and the 2026-10-02 unattended-run scope are used up. Follow CLAUDE.md.
 
 
 ## Goal
@@ -217,7 +204,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   listed timestamps, confirm the listed words are heard). This also records whether each platform supports deep links.
 - Any source that fails gets a per-work offset, or is flagged.
 
-**P3. ASR and confidence (GPU).** IN PROGRESS 2026-10-01: LMWT 9 chosen, calibration done (bands signed off, D37/D38), Whisper decode of 149,790 segments running as gpusched 145/146 (ETA 2026-10-02 04:30 UTC), TDNN step for 207 new recordings still to do. See `reports/P3_asr.md`.
+**P3. ASR and confidence (GPU).** DONE 2026-10-04: LMWT 9, bands signed off (D37/D38), Whisper + TDNN on 165,258 segments from 1,528 recordings, `asr/asr_segments.tsv` written. See `reports/P3_asr.md`.
 - Pick the TDNN LMWT by best dev-lr WER (D20). Get or regenerate TDNN text per `all_utts` segment.
 - Decode every non-human segment with Whisper `unfreeze_top12` (D18). A rough guess is 4–8 h on one 3090.
 - Compute per-segment agreement.

@@ -1,4 +1,4 @@
-# P3 ASR and confidence (in progress: GPU decode running)
+# P3 ASR and confidence (DONE 2026-10-04)
 
 ## Setup (done 2026-10-01)
 - **TDNN LMWT = 9** (D20). It has the best dev WER, 17.81% (p4 `decode_dev`); LMWT 8 gives 18.11% and 10 gives 18.34%. It is
@@ -20,11 +20,9 @@
 - **Calibration** (`calib.csv`, 1,139 segments): **done**.
   - Batch 16 ran out of memory, so it reran at batch 8.
   - `infer_cer.py` does not create its `--out_dir`, so the command makes it first.
-- **Segments**: running as gpusched jobs **145** (GPU 0, `segments_0.csv`) and **146** (GPU 1, `segments_1.csv`).
-  `segments.csv` was split in half so both GPUs work at once. Together they decode about 2.6 segments/s, so they should
-  finish around **2026-10-02 04:30 UTC**.
-- **Progress:** `cat /store/store3/data/manx_speech_corpus/asr/segments_*.infer_partial.csv | wc -l` (target 149,790).
-  Logs: `gpusched logs 145` and `gpusched logs 146`.
+- **Segments**: **done** as gpusched jobs **145** (`segments_0.csv`), **146** (`segments_1.csv`) and **148**
+  (`segments_20261001.csv`), all finished 2026-10-02 by 08:46 UTC. `segments.csv` was split in half so both GPUs could
+  work at once; 145 was requeued onto GPU 1 midway and resumed from its partial file.
 - **To resume after a failure:** resubmit the same job.
 
 ```bash
@@ -78,8 +76,19 @@ This step is for recordings with no TDNN pass yet. It is the same step the weekl
 
 `collect` picks up every batch automatically.
 - **Batch `20261001`:** 207 recordings, 26.8 h (63 new Abbyr Shen Reesht episodes, 130 Common Voice SPS clips,
-  14 others). Running in the background; log at `/store/store3/data/manx_speech_corpus/work/logs/tdnn_20261001.log`.
+  14 others). Done: 15,468 segments from 195 recordings. The other 12 have no usable segments: 7 clips under 2 s
+  (`0518xx113`), `sps-42321` with no words, and 4 with only 1–2 recognised words (`010755058`, `082226`, `084515`,
+  `084588`), probably music or non-Manx. Worth a listen.
 
-## Still to do in P3
-1. A Whisper run on `segments_20261001.csv` once the TDNN batch is done (same command, one job).
-2. `python scripts/asr.py collect` once all decodes finish, which writes `asr/asr_segments.tsv`.
+## Result: `asr/asr_segments.tsv` (`asr.py collect`, 2026-10-04)
+165,258 segments, 242.9 h, 1,528 recordings (1,333 + the 195 from batch `20261001`). No empty texts, no bad times.
+Log: `/store/store3/data/manx_speech_corpus/work/logs/asr_collect.log`.
+
+| band | segments | share | hours | displayed text |
+|---|---|---|---|---|
+| green ≥ 90% | 107,450 | 65.0% | 157.5 | Whisper |
+| amber 60–90% | 35,550 | 21.5% | 48.2 | Whisper |
+| red < 60% | 22,258 | 13.5% | 37.1 | TDNN (D38) |
+
+Green is far bigger here than on the calibration set (34%), as expected: these segments are at least 2 s long, so there
+are fewer hallucination loops. Columns: `recording, segment, start, end, text, text_source, confidence, band, whisper, tdnn`.
