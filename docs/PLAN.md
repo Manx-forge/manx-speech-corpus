@@ -10,8 +10,7 @@ Whisper decode bring the WER from 26.9 / 31.5 (P3 band rule) to 15.7 / 19.0 (Loa
 2. `work/logs/score_watcher.sh` waits for PID 4131511 (the nbest python), then sets `ALLOWED_GPUS=0,1` and submits
    gpusched `manx_score_0` / `manx_score_1` (`asr.py score segments 1 k/2`, about 12 h). Shard 0 already holds 100
    smoke-test segments and resumes after them.
-3. Then `asr.py collect` (CPU, minutes). **Chris re-signs the bands** (D37 thresholds; rescored WER green 7.3, amber
-   18.9, red 33.9). D38 is superseded.
+3. Then `asr.py collect` (CPU, minutes). Bands signed off: D37 thresholds kept, D38 dropped (Chris, 2026-10-04).
 4. Then `align.py asr`.
 
 **P4, alignment** (`scripts/align.py`, timestamper read-only):
@@ -138,8 +137,8 @@ phrase). The site hosts no audio, because of storage and licensing.
 | D34 | Naming | Data repo `Manx-forge/manx-speech-corpus`. The site fork also lives in Manx-forge. |
 | D35 | Existing repos | Absorb everything: `Manx-forge/automatic_transcriptions` and `Manx-forge/loayr` move into the new repo. |
 | D36 | Abbyr Shen Reesht | Backfilled from the RSS feed (`scripts/fetch_podcast.py`, `registers/abbyr_shen_reesht.tsv`). A **weekly job** fetches each new Sunday episode, then runs ASR, alignment and export, and pushes. It is installed once P3–P5 exist. |
-| D37 | Confidence bands | green ≥ 90% agreement, amber 60–90%, red < 60%. Calibrated on Loayr-v2 test (P3). |
-| D38 | Red segments | Show the TDNN text instead of Whisper's, still flagged AI. TDNN WER is 59 vs Whisper's 89 in red. |
+| D37 | Confidence bands | green ≥ 90% agreement, amber 60–90%, red < 60%. Calibrated on Loayr-v2 test (P3). Kept for the P3b rescored text (Chris, 2026-10-04); agreement is now fresh Whisper vs TDNN 1-best. Rescored WER: green 7.3, amber 18.9, red 33.9. |
+| D38 | Red segments | ~~Show the TDNN text instead of Whisper's.~~ Superseded 2026-10-04 (Chris): rescoring (P3b) picks every segment's text. |
 | D39 | Embargoed audio | `Manx_Resources/embargoed/` (e.g. the Triskelion documentary tracks) is **never** included, whatever D16 says, until Chris lifts the embargo. |
 
 ## Design

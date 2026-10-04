@@ -122,7 +122,7 @@ other half (`asr.py tune`; logs `work/logs/asr_tune_b{1,4}.log`).
   against 867 s.
 - **Confidence:** Whisper–TDNN agreement (fresh Whisper vs TDNN 1-best) predicts the rescored text's WER far better
   than the rescoring posterior. At ≥ 0.95 agreement the WER is 5.8, against 15.0 at a posterior ≥ 0.95.
-- **Bands with the D37 thresholds unchanged**, for Chris to re-sign (they replace the P3 table and D38):
+- **Bands with the D37 thresholds unchanged.** Chris kept them and dropped D38 (2026-10-04). They replace the P3 table:
 
   | band | share | rescored WER (was: P3 displayed text) |
   |---|---|---|
