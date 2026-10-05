@@ -1,18 +1,22 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-05)
-**Done:** P0–P4 (P3b + P4 signed off by Chris 2026-10-05; he judges quality in the final output). **P5 signed off** (Chris 2026-10-05; Common Voice
-kept as one work per clip). Read the `reports/` files for details. Nothing is running.
+**Done:** P0–P5 (P5 signed off by Chris 2026-10-05; Common Voice kept as one work per clip; old `loayr` and
+`automatic_transcriptions` repos archived). **P6 built**, awaiting Chris's sign-off and a push. See `reports/P6_site.md`.
+Nothing is running.
 
-**P5, export** (`scripts/export.py`, `reports/P5_export.md`):
-- `OpenData/`: 11,902 works (10,374 human + 1,528 ASR), 195,187 lines, 2.02 M words. `export.py check` (data CI)
-  passes on all of them.
-- D35 done: `loayr/` and `automatic_transcriptions/` imported as subtrees with history. The old repos got a "moved" README
-  and were archived on GitHub (Chris, 2026-10-05).
-- `inventory.py` reads Loayr metadata from `loayr/`, and the 8 Skeealyn Vannin recordings we hold that are also corpus
-  works now use the corpus `document.csv` (cased, speakers, English; D17). They were realigned; the old alignments are
-  kept as `align/human/<id>.normalised/`. `0308` keeps ours (the corpus copy covers 60 %).
-- Next: P6 (site).
+**P6, site** (`manx-corpus-search/`, branch `speech`, commit `f244763` on upstream `c984c32`):
+- Speech search `/speech`, recording page `/speech/<ident>`, Contribute `/contribute`, nav Text / Speech / Contribute.
+  A separate speech index (D4); hits link at the matched word less 1 s (D25).
+- Tests: NUnit 886 pass (+16), vitest 433 pass (+11). tsc, eslint and prettier are clean.
+- Memory (2 cores): text only 437 MB, text + speech 775 MB (peak 910 MB). Fits the 2 GB droplet; a 512 MB free tier
+  fits neither corpus (P7 decision).
+- **Not pushed:** the push needs the `workflow` scope (upstream changed a workflow file). The active gh account
+  `chris-sj-bartley` lacks it; `c-bartley` has it. Chris to choose.
+- Local toolchain (not in any repo): .NET 10 SDK in `cache/tools/dotnet`, NuGet cache in `cache/tools/nuget`,
+  Playwright Chromium in `cache/tools/playwright`. Run the site locally with
+  `Loading__OpenDataPath=<manx-search-data>/OpenData Speech__OpenDataPath=<this repo>/OpenData`.
+- Next: P7 (issue form `recording.yml`, link checker, data-CI Action, demo deploy, weekly Abbyr Shen Reesht job, HANDOVER.md).
 
 **Fix later (Chris, 2026-10-05; not blocking):**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
@@ -229,7 +233,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
 - Build `OpenData/` works and the registers. Merge human over ASR (D17). Absorb the two Manx-forge repos (D35).
 - Data CI passes.
 
-**P6. Site.**
+**P6. Site.** BUILT 2026-10-05, awaiting sign-off: see `reports/P6_site.md`.
 - Implement the site changes on the `speech` branch, with tests in the repo's existing NUnit/vitest style.
 - Measure memory and run locally.
 
