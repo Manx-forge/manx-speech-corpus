@@ -3,6 +3,7 @@
   "name": "Er chlashtyn ny goan shoh, haink Monsieur de Walheim reesht.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457760",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Goaill aaght er oyr peccah ta shiu er scapail, obbyr danjeeragh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482154",
   "origin": "human",
   "transcript_form": "raw",

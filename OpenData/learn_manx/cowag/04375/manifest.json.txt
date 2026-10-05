@@ -3,6 +3,8 @@
   "name": "Conversation 11",
   "source": "https://www.learnmanx.com/media//cowag/11%20Track%2011%209.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04375",
   "origin": "human",
   "transcript_form": "normalised",

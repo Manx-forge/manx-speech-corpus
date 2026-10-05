@@ -3,6 +3,8 @@
   "name": "poagey bag",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/poagey%20-%20bag.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058102",
   "origin": "human",
   "transcript_form": "normalised",

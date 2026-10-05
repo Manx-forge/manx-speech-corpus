@@ -3,6 +3,7 @@
   "name": "11b",
   "source": "https://mailchi.mp/11b431b3a342/toshiaghtarree",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "083279",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

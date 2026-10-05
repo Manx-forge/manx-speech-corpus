@@ -3,6 +3,7 @@
   "name": "T'eh gynsaghey dooin dy ghoaill padjer gys Jee ny lomarcan.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42627145",
   "origin": "human",
   "transcript_form": "raw",

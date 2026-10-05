@@ -3,6 +3,8 @@
   "name": "pishyr peas",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/pishyr%20-%20peas.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057919",
   "origin": "human",
   "transcript_form": "normalised",

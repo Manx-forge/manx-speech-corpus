@@ -3,6 +3,7 @@
   "name": "Dy ve er ny ghoaill liorish Caarjyn Phobble Israel, ayns nyn badjeryn lught-thie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642402",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Illiam Dhone Ceremony 1986 - Foillan Films.",
   "source": "https://www.youtube.com/watch?v=x5NJzihEbeA",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "086114",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

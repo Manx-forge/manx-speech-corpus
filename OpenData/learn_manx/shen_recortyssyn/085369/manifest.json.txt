@@ -3,6 +3,7 @@
   "name": "doug faragher prouncing thy body",
   "source": "https://www.learnmanx.com/media/Pronouning%20Dictionary/doug%20faragher%20prouncing%20thy%20body.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085369",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

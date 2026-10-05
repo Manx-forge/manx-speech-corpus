@@ -3,6 +3,8 @@
   "name": "Yn Burroo",
   "source": "https://www.youtube.com/watch?v=gR8rLFK3Qf0",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "023563",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "By vie lhiat spollag? By vie",
   "source": "https://www.youtube.com/watch?v=qnBhXSJvSaM",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04117",
   "origin": "human",
   "transcript_form": "normalised",

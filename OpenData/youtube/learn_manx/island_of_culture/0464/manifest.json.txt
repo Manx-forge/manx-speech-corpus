@@ -3,6 +3,8 @@
   "name": "S'mie lhiam curree as bonnag agh share lhiam spollaghyn",
   "source": "https://www.youtube.com/watch?v=WxoIoE9VF3s",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0464",
   "origin": "human",
   "transcript_form": "normalised",

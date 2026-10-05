@@ -3,6 +3,8 @@
   "name": "daa-wheeyl bike",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/Daa-wheeyl.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05726326",
   "origin": "human",
   "transcript_form": "normalised",

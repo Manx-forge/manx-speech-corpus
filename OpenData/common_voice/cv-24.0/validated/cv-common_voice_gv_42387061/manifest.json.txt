@@ -3,6 +3,7 @@
   "name": "As haink ainle elley ass y chiamble t'ayns niau, lesh corran gyere myrgeddin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42387061",
   "origin": "human",
   "transcript_form": "raw",

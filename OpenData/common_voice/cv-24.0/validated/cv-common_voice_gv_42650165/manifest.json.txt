@@ -3,6 +3,7 @@
   "name": "Son shegin dasyn reill derrey t'eh er choyrt ooilley e noidyn fo chosh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650165",
   "origin": "human",
   "transcript_form": "raw",

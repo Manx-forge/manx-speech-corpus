@@ -3,6 +3,7 @@
   "name": "Ta keeayll ommidjys, ny slooid ny t'ee ec dooinney creeney dy reayll",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42496297",
   "origin": "human",
   "transcript_form": "raw",

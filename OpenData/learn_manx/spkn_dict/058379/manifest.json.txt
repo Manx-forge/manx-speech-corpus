@@ -3,6 +3,8 @@
   "name": "jerrey shiaghtin weekend",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jerrey%20shiaghtin%20-%20weekend.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058379",
   "origin": "human",
   "transcript_form": "normalised",

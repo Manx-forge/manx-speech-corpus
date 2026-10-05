@@ -3,6 +3,8 @@
   "name": "Quoi ta ratçhal feer tappee?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05372113",
   "origin": "human",
   "transcript_form": "normalised",

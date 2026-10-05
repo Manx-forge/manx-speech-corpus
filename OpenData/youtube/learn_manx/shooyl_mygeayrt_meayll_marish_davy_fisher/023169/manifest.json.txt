@@ -3,6 +3,8 @@
   "name": "Shooyl mygeayrt Meayll mrish Davy Fisher? 04",
   "source": "https://www.youtube.com/watch?v=2gtylf5iGLM",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "023169",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

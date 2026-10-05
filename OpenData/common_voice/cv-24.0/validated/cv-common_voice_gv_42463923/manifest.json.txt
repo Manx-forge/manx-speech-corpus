@@ -3,6 +3,7 @@
   "name": "Abbyr rish creenaght, Uss my huyr, as rish tushtey, Uss my ven-vooinjerey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463923",
   "origin": "human",
   "transcript_form": "raw",

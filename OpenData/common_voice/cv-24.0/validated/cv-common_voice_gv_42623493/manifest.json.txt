@@ -3,6 +3,7 @@
   "name": "Kys t'ou prowal eh currym sharvaantyn dy chur biallys da nyn mainshtyryn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623493",
   "origin": "human",
   "transcript_form": "raw",

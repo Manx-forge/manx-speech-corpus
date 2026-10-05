@@ -3,6 +3,8 @@
   "name": "Tan thie ny smoo çheh moghrey jiu",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051193113",
   "origin": "human",
   "transcript_form": "normalised",

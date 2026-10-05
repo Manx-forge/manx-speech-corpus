@@ -3,6 +3,7 @@
   "name": "Cur-my-ner, ta'n thie eu faagit diu follym-faase.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42481962",
   "origin": "human",
   "transcript_form": "raw",

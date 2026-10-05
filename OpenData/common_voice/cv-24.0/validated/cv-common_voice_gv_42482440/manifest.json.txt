@@ -3,6 +3,7 @@
   "name": "Son cha der-ym my varrant gys my vhow: cha nee my chliwe chooinys lhiam.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482440",
   "origin": "human",
   "transcript_form": "raw",

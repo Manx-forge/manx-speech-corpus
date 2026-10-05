@@ -3,6 +3,8 @@
   "name": "ta shuyr aym i have a sister",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20a%20sister.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866675",
   "origin": "human",
   "transcript_form": "normalised",

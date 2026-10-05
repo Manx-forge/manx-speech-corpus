@@ -3,6 +3,7 @@
   "name": "Tra ta'n thalloo sponkit gys joan, as ny ceabyn lhiantyn creoi dy cheilley?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42597334",
   "origin": "human",
   "transcript_form": "raw",

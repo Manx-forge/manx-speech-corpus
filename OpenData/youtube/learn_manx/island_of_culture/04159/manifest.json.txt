@@ -3,6 +3,8 @@
   "name": "Ta mee goll shappal nish er y fa dy vel mee geearree kionnaghey bainney",
   "source": "https://www.youtube.com/watch?v=nLf1JW3-KUg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04159",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Ta caarjyn foalsey myr yn hibbyn ta cur mow yn boaley t'eh lhiantyn huggey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42499341",
   "origin": "human",
   "transcript_form": "raw",

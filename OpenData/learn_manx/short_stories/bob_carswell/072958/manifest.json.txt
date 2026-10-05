@@ -3,6 +3,8 @@
   "name": "yn_raad_gys_niurin_john_pilling_translated_by_bob_carswell",
   "source": "https://www.learnmanx.com/media//Stories/Yn_Raad_gys_Niurin_John_Pilling.mp3",
   "platform": "learn_manx",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "072958",
   "origin": "human",
   "transcript_form": "raw",

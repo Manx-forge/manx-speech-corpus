@@ -3,6 +3,7 @@
   "name": "Ta slattys noa er ve currit roish Tinvaal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446217",
   "origin": "human",
   "transcript_form": "raw",

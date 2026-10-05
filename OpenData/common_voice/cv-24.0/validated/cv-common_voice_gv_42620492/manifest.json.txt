@@ -3,6 +3,7 @@
   "name": "Shiuish ard-nieughyn, sheeloghe dy ard-nieughyn, kys oddys shiu kerraghey niurin y scapail?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42620492",
   "origin": "human",
   "transcript_form": "raw",

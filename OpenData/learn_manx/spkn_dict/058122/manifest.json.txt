@@ -3,6 +3,8 @@
   "name": "shamyr soie lounge",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/shamyr%20soie%20-%20lounge.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058122",
   "origin": "human",
   "transcript_form": "normalised",

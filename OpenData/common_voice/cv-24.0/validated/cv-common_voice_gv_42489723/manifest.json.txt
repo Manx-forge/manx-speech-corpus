@@ -3,6 +3,7 @@
   "name": "C'raad ta'n boayl sodjey t'ou er troailt huggey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42489723",
   "origin": "human",
   "transcript_form": "raw",

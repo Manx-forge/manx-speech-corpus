@@ -3,6 +3,8 @@
   "name": "er y fa nagh vel eh cummal ayns Purt Çhiarn",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05836113",
   "origin": "human",
   "transcript_form": "normalised",

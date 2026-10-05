@@ -3,6 +3,8 @@
   "name": "Cha nel, agh ta mee my hoot",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052075113",
   "origin": "human",
   "transcript_form": "normalised",

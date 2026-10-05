@@ -3,6 +3,7 @@
   "name": "S'goan my vees lhied yn saggyrt currit dooin 'syn ynnyd echey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623222",
   "origin": "human",
   "transcript_form": "raw",

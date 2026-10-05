@@ -3,6 +3,7 @@
   "name": "Lhig dooin gloyraghey sy crosh, tra ta deiney goaill voin dy chooilley gloyr elley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445049",
   "origin": "human",
   "transcript_form": "raw",

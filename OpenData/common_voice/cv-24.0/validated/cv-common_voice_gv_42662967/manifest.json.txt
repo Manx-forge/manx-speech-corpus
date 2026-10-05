@@ -3,6 +3,7 @@
   "name": "Kys ta'n fockle nooghyn dy v'er ny hoiggal?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662967",
   "origin": "human",
   "transcript_form": "raw",

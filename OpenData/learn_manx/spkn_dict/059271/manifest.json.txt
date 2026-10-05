@@ -3,6 +3,8 @@
   "name": "caayr-wheeylagh wheel chair",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/caayr-wheeylagh%20-%20wheel%20chair.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059271",
   "origin": "human",
   "transcript_form": "normalised",

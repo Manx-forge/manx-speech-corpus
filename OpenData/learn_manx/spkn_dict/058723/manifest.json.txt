@@ -3,6 +3,8 @@
   "name": "cheer oayleeaght geography",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/cheer%20oayleeaght%20-%20geography.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058723",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "As coamree mee lesh yn gharmad aalin jeh ynrikys Chreest.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386427",
   "origin": "human",
   "transcript_form": "raw",

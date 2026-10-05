@@ -3,6 +3,7 @@
   "name": "Ny smoo vees er y tailley, ny strimmey vees yn eeck.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42462594",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "fo-lheiney vest",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/fo-lheiney%20-%20vest.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057454",
   "origin": "human",
   "transcript_form": "normalised",

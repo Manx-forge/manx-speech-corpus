@@ -3,6 +3,7 @@
   "name": "Nee'm taggloo jeh dt'annaghyn: as ver-ym geill da dty raaidyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42556760",
   "origin": "human",
   "transcript_form": "raw",

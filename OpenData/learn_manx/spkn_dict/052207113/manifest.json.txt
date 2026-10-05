@@ -3,6 +3,8 @@
   "name": "Er-lhiam dy jinnin goll dys San Francisco",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052207113",
   "origin": "human",
   "transcript_form": "normalised",

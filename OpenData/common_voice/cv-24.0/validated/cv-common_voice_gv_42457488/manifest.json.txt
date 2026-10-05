@@ -3,6 +3,7 @@
   "name": "As lhaih ad ee lesh boggey as gerjagh mooar.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457488",
   "origin": "human",
   "transcript_form": "raw",

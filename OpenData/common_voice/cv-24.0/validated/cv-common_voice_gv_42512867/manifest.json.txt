@@ -3,6 +3,7 @@
   "name": "T'ad fosley nyn meeal orrym: myr lion jollyssagh buirroogh son spooilley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42512867",
   "origin": "human",
   "transcript_form": "raw",

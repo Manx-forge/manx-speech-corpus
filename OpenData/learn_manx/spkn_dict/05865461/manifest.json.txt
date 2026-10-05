@@ -3,6 +3,8 @@
   "name": "peesh dy verreen piece of cake",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Piece%20of%20Cake_Peesh%20dy%20verreen.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865461",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "maddaght maths",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/maddaght%20-%20maths.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058835",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Ren eh troggal seose ny merriu as fosley ny cleayshyn bouyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425924",
   "origin": "human",
   "transcript_form": "raw",

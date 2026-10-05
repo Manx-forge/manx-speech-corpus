@@ -3,6 +3,7 @@
   "name": "Mastey ymmodee screeuderyn dt'ainjys, smooinnee mee dy derrin's hood screeuan ayns Gaelg.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42649997",
   "origin": "human",
   "transcript_form": "raw",

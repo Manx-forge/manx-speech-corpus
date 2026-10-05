@@ -3,6 +3,7 @@
   "name": "Cre ta'n trass churrym ren oo gialdyn ec dty vashtey dy chooilleeney?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42625424",
   "origin": "human",
   "transcript_form": "raw",

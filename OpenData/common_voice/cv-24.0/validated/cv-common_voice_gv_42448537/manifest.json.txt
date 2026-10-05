@@ -3,6 +3,7 @@
   "name": "Agh erreish da credjue v'er jeet, cha vel shin ny sodjey fo fer-ynsee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448537",
   "origin": "human",
   "transcript_form": "raw",

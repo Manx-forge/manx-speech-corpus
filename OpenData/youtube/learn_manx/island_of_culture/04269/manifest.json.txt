@@ -3,6 +3,8 @@
   "name": "Ny cur ommidan orryms, toot mooar as uss, er nonney bee corree ayms ort!",
   "source": "https://www.youtube.com/watch?v=bwo15rX3Rqw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04269",
   "origin": "human",
   "transcript_form": "normalised",

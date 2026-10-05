@@ -3,6 +3,7 @@
   "name": "Er-aggle dy jig eh doaltattym, as dy vow eh shiu nyn gadley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457450",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Va mee son craid da ooilley my phobble, as yn ronneeaght oc fey-ny-laa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457533",
   "origin": "human",
   "transcript_form": "raw",

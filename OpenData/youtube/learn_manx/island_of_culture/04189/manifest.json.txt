@@ -3,6 +3,8 @@
   "name": "Ta mee toiggal beggan Gaelg",
   "source": "https://www.youtube.com/watch?v=f0EilgzY-T0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04189",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Dooyrt mee",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051818113",
   "origin": "human",
   "transcript_form": "normalised",

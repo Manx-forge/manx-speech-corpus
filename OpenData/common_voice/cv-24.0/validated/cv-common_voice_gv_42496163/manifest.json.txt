@@ -3,6 +3,7 @@
   "name": "\"O shiuish gyn-toyrt, gow-jee creenaght; as shiuish vee-cheeayllagh bee-jee jeh cree toiggalagh.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42496163",
   "origin": "human",
   "transcript_form": "raw",

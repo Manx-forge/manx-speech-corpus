@@ -3,6 +3,7 @@
   "name": "Ceau craue ayns beeal drogh voddey",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42502824",
   "origin": "human",
   "transcript_form": "raw",

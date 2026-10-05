@@ -3,6 +3,8 @@
   "name": "Lieh lurg jees",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051873113",
   "origin": "human",
   "transcript_form": "normalised",

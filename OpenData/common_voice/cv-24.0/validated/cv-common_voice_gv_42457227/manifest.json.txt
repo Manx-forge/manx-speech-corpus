@@ -3,6 +3,7 @@
   "name": "As hooar ad y chlagh rowlit ersooyl jeh'n oaie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457227",
   "origin": "human",
   "transcript_form": "raw",

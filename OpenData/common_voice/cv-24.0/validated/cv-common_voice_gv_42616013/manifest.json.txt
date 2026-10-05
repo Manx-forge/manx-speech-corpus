@@ -3,6 +3,7 @@
   "name": "Cur coontey jeh'n çheer share lhiat.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42616013",
   "origin": "human",
   "transcript_form": "raw",

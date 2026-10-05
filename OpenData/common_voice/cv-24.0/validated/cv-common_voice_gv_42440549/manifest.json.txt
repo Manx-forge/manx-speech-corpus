@@ -3,6 +3,7 @@
   "name": "As deiyr earrooyn mooarey dy leih er, ren eh ad y lheihys ayns shen.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42440549",
   "origin": "human",
   "transcript_form": "raw",

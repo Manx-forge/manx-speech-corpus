@@ -3,6 +3,8 @@
   "name": "inneen-vraarey niece (brother's daughter)",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Niece%20Daughter%20of%20Brother.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866623",
   "origin": "human",
   "transcript_form": "normalised",

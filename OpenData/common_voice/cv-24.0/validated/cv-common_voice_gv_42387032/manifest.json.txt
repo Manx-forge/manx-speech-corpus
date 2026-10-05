@@ -3,6 +3,7 @@
   "name": "My ta shiu jannoo ynrican dy gheddyn moylley gheiney cha vel shiu toilliu veg.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42387032",
   "origin": "human",
   "transcript_form": "raw",

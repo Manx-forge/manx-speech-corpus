@@ -3,6 +3,7 @@
   "name": "Cha vel ny deiney coyrt geill da ny shenn chliaghtaghyn, myr v'ad keayrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447424",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cha nee woish goo Yee jynsee oo shoh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642907",
   "origin": "human",
   "transcript_form": "raw",

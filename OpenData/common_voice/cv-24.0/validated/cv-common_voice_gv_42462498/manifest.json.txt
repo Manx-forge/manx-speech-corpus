@@ -3,6 +3,7 @@
   "name": "T'ad sauchey veih dagh gheay as durryn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42462498",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Shoh Straid Gheinnee",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05852113",
   "origin": "human",
   "transcript_form": "normalised",

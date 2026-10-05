@@ -3,6 +3,8 @@
   "name": "meillyn lips",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/meillyn%20-%20lips.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057264",
   "origin": "human",
   "transcript_form": "normalised",

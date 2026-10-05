@@ -3,6 +3,7 @@
   "name": "Nish tra va'n fastyr er-jeet, hoie eh sheese marish yn daa ostyl yeig.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457639",
   "origin": "human",
   "transcript_form": "raw",

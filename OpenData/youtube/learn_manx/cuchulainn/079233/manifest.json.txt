@@ -3,6 +3,8 @@
   "name": "Cuchulainn 1 - Gaase",
   "source": "https://www.youtube.com/watch?v=bDvf6XqOI88",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "dialogue",
   "resource_id": "079233",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Bee mollaght er dty vaskad, as dty stoyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446014",
   "origin": "human",
   "transcript_form": "raw",

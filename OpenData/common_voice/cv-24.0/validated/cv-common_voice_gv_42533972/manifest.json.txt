@@ -3,6 +3,7 @@
   "name": "ren eh screeu colloo son pabyr-niaght son shiartanse dy vleantyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533972",
   "origin": "human",
   "transcript_form": "raw",

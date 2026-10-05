@@ -3,6 +3,7 @@
   "name": "Cre'n fa ta'n sacrament shoh enmyssit shibbyr y çhiarn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42625432",
   "origin": "human",
   "transcript_form": "raw",

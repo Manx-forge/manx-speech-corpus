@@ -3,6 +3,8 @@
   "name": "Va mee ayns Doolish. Craad vou Jedoonee?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05633113",
   "origin": "human",
   "transcript_form": "normalised",

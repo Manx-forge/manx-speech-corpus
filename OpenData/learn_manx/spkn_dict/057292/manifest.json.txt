@@ -3,6 +3,8 @@
   "name": "sooill eye",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/sooill%20-%20eye.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057292",
   "origin": "human",
   "transcript_form": "normalised",

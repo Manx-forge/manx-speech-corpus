@@ -3,6 +3,7 @@
   "name": "Traa dy Liooar 13 toshaight arree",
   "source": "https://www.learnmanx.com/media/traa%20dy%20liooar/Traa%20dy%20Liooar%2013%20toshaight%20arree.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "084647",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

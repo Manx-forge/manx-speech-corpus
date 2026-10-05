@@ -3,6 +3,8 @@
   "name": "lheeah grey",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/lheeah%20-%20grey.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057577",
   "origin": "human",
   "transcript_form": "normalised",

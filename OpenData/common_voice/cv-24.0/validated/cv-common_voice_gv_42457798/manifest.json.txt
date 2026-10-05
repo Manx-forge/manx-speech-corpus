@@ -3,6 +3,7 @@
   "name": "Te feer aasagh cur fuill ass kione carragh",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457798",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cre t'er ny hoiggal liorish niau as thalloo?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642852",
   "origin": "human",
   "transcript_form": "raw",

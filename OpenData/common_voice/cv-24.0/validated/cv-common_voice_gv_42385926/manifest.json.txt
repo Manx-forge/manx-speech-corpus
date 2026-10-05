@@ -3,6 +3,7 @@
   "name": "As ynsee mee dy freayl.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385926",
   "origin": "human",
   "transcript_form": "raw",

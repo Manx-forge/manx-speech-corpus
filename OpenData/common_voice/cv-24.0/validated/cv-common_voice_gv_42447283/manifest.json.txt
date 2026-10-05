@@ -3,6 +3,7 @@
   "name": "Ny gow yindys dy dooyrt mee rhyt, Shegin diu v'er nyn ruggey reesht.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447283",
   "origin": "human",
   "transcript_form": "raw",

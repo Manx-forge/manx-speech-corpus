@@ -3,6 +3,8 @@
   "name": "Er y fa dy vel eh anmagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05554113",
   "origin": "human",
   "transcript_form": "normalised",

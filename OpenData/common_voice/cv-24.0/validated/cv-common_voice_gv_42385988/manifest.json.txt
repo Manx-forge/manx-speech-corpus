@@ -3,6 +3,7 @@
   "name": "Croym sheese dty chleaysh hym: jean siyr dy my livrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385988",
   "origin": "human",
   "transcript_form": "raw",

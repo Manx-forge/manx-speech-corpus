@@ -3,6 +3,8 @@
   "name": "Ta ny roaryn bree beggan feiyral",
   "source": "https://www.youtube.com/watch?v=UqVPjwz0s_o",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04143",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cur-jee moylley da ayns e obbraghyn ooasle: moylley-jee eh cordail rish e phooar erskyn-earroo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386834",
   "origin": "human",
   "transcript_form": "raw",

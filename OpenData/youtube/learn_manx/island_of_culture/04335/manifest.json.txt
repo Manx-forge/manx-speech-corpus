@@ -3,6 +3,8 @@
   "name": "She Germaanagh mish",
   "source": "https://www.youtube.com/watch?v=AC2YfxjxiAg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04335",
   "origin": "human",
   "transcript_form": "normalised",

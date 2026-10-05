@@ -3,6 +3,8 @@
   "name": "Cre nee oo mairagh my vees eh grianagh?",
   "source": "https://www.youtube.com/watch?v=SzKiiwxjwPU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04180",
   "origin": "human",
   "transcript_form": "normalised",

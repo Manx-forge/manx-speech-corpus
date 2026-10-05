@@ -3,6 +3,8 @@
   "name": "thie bee restaurant",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/thie%20bee%20-%20restaurant.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059248",
   "origin": "human",
   "transcript_form": "normalised",

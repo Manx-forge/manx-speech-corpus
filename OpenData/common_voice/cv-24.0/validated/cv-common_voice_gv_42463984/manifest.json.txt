@@ -3,6 +3,7 @@
   "name": "Son t'eh er vrishey ny giattyn-prash: as er yiarey ny barryn yiarn veih-my-cheilley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463984",
   "origin": "human",
   "transcript_form": "raw",

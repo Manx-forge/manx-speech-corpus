@@ -3,6 +3,7 @@
   "name": "Yn peccah dy ghunverys, ny dy varroo my naboo jeh my yoin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42620451",
   "origin": "human",
   "transcript_form": "raw",

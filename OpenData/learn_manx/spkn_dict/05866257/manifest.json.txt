@@ -3,6 +3,8 @@
   "name": "bolg stomach",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Stomach.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866257",
   "origin": "human",
   "transcript_form": "normalised",

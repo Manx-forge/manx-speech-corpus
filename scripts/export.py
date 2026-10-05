@@ -201,7 +201,7 @@ def export():
              **{k: cw[k] for k in ("createdCircaStart", "createdCircaEnd", "author", "notes", "translated") if k in cw},
              **({"createdCircaStart": r["date"], "createdCircaEnd": r["date"]} if r["date"] else {}),
              "source": r["url"] if r["link_class"] in ("youtube_video", "web_page") else None,
-             "platform": r["source"], "resource_id": rid, "origin": origin,
+             "platform": r["source"], **{k: r[k] for k in ("domain", "style") if r[k]}, "resource_id": rid, "origin": origin,
              **({"asr_model": ASR_MODEL} if origin == "asr" else {"transcript_form": r["transcript_form"]}),
              "aligner": "timestamper", "duration": float(r["duration_s"] or 0) or None,
              "deep_link": deep_link(r) if rid not in issues else None, "alt_urls": alt.get(rid, []),

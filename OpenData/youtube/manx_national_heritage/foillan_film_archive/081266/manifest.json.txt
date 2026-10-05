@@ -3,6 +3,7 @@
   "name": "Yn Gaaue",
   "source": "https://www.youtube.com/watch?v=OlyRdx9WlzA",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "081266",
   "origin": "human",
   "transcript_form": "raw",

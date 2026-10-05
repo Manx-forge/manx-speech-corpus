@@ -3,6 +3,8 @@
   "name": "shligganagh tortoise",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Pets/shligganagh%20-%20tortoise.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058696",
   "origin": "human",
   "transcript_form": "normalised",

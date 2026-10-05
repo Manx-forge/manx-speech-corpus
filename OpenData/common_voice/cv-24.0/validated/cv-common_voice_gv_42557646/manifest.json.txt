@@ -3,6 +3,7 @@
   "name": "Dy ve coonsheansagh jeh jannoo dy mie ta cur lesh y leagh hene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42557646",
   "origin": "human",
   "transcript_form": "raw",

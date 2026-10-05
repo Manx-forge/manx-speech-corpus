@@ -3,6 +3,7 @@
   "name": "T'an seihll dy ve kionnit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447809",
   "origin": "human",
   "transcript_form": "raw",

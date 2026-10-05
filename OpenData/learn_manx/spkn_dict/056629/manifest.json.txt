@@ -3,6 +3,8 @@
   "name": "eirinagh farmer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/eirinagh%20-%20farmer.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056629",
   "origin": "human",
   "transcript_form": "normalised",

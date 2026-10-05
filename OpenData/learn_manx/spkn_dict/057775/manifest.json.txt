@@ -3,6 +3,8 @@
   "name": "caashey cheese",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/caashey%20-%20cheese.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057775",
   "origin": "human",
   "transcript_form": "normalised",

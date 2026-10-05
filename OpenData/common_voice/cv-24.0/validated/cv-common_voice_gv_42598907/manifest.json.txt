@@ -3,6 +3,7 @@
   "name": "\"Eisht denee eh ymmodee questionyn jeh; agh cha dug eh ansoor erbee da.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42598907",
   "origin": "human",
   "transcript_form": "raw",

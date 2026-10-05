@@ -3,6 +3,7 @@
   "name": "Er-lhimmey jehsyn, cha row peiagh erbee lowit sthie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42503659",
   "origin": "human",
   "transcript_form": "raw",

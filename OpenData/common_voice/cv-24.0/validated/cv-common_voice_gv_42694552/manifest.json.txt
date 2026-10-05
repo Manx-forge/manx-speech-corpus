@@ -3,6 +3,7 @@
   "name": "Dy ymmyrkey mee hene dy injil as dy biallagh gys dagh unnane share na mee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694552",
   "origin": "human",
   "transcript_form": "raw",

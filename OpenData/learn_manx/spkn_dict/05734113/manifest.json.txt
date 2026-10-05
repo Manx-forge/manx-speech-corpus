@@ -3,6 +3,8 @@
   "name": "Beeym ayns Purt le Moirrey Jesarn",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05734113",
   "origin": "human",
   "transcript_form": "normalised",

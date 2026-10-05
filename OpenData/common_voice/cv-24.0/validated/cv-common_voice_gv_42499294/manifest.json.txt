@@ -3,6 +3,7 @@
   "name": "\"Cha vel graih jannoo aggair da e naboo; shen-y-fa she graih lhieeney yn leigh.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42499294",
   "origin": "human",
   "transcript_form": "raw",

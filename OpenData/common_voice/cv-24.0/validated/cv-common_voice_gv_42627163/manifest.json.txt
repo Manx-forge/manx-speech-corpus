@@ -3,6 +3,7 @@
   "name": "Shen-y-fa cha vel ad ny sodjey jees, agh un 'eill.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42627163",
   "origin": "human",
   "transcript_form": "raw",

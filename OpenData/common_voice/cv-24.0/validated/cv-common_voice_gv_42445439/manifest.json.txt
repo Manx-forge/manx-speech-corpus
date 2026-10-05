@@ -3,6 +3,7 @@
   "name": "Chyndaa dt'eddin veih my pheccah: as cur ersooyl ooilley my ghrogh-yannoo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445439",
   "origin": "human",
   "transcript_form": "raw",

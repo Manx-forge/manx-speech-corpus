@@ -3,6 +3,8 @@
   "name": "tead-ï¿½hionn tight rope",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/tead-%E7hionn%20-%20tight%20rope.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059054",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Dy Jarroo. Craad nee oo goll?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051419113",
   "origin": "human",
   "transcript_form": "normalised",

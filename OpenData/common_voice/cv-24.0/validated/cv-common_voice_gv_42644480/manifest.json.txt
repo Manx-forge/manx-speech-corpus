@@ -3,6 +3,7 @@
   "name": "Er dys laa ny banshey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644480",
   "origin": "human",
   "transcript_form": "raw",

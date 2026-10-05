@@ -3,6 +3,8 @@
   "name": "Beagh oo maynrey cummal ayns Purt Le Moirrey? Veign",
   "source": "https://www.youtube.com/watch?v=sLo1P9a1IA0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04304",
   "origin": "human",
   "transcript_form": "normalised",

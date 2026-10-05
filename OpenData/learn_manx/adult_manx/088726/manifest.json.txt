@@ -3,6 +3,8 @@
   "name": "LG K4 L17 CLIAGHTEY",
   "source": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20K4%20sound%20files/LG%20K4%20L17%20CLIAGHTEY.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "088726",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "T'eh ny s'fastee sthie ayns Crook na ve mooie ec yn cheayn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445623",
   "origin": "human",
   "transcript_form": "raw",

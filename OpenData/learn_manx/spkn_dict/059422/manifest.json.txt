@@ -3,6 +3,8 @@
   "name": "cosney winning",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/cosney%20-%20winning.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059422",
   "origin": "human",
   "transcript_form": "normalised",

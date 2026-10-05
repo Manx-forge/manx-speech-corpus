@@ -3,6 +3,8 @@
   "name": "boayrd doo black board",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/boayrd%20doo%20-%20black%20board.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058715",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "castreycair middlin",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/castreycair%20-%20middlin.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058177",
   "origin": "human",
   "transcript_form": "normalised",

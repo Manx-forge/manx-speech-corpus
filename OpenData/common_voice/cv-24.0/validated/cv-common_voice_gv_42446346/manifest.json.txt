@@ -3,6 +3,7 @@
   "name": "As v'ad pleadeil ry-cheilley, gra, Ta shoh er-yn-oyr nagh vel arran ain.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446346",
   "origin": "human",
   "transcript_form": "raw",

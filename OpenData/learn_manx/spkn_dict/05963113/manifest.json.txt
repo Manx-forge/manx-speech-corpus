@@ -3,6 +3,8 @@
   "name": "Ta, ta murran orrym",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05963113",
   "origin": "human",
   "transcript_form": "normalised",

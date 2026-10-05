@@ -3,6 +3,8 @@
   "name": "Ta mee ayns Purt Chiarn agh ta mee geearree goll dys Purt ny h-Inshey",
   "source": "https://www.youtube.com/watch?v=8X5lS1tMcqg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0455",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Yn trass ayrn jeh'n çharmane mychione saualtys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623514",
   "origin": "human",
   "transcript_form": "raw",

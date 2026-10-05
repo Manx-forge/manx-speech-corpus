@@ -3,6 +3,7 @@
   "name": "Faagmayd nyn Mannaght Ec Lerpoyl - Foillan Films (Manx Language Film - We'll say farewell to L'pool)",
   "source": "https://www.youtube.com/watch?v=_KfYHAu4V2Y",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "086491",
   "origin": "human",
   "transcript_form": "raw",

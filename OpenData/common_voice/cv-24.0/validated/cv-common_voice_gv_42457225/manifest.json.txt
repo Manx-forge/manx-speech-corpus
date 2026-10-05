@@ -3,6 +3,7 @@
   "name": "O dy beagh my raaidyn cha jeeragh shen: dy voddin dty lattyssyn y reayll!",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457225",
   "origin": "human",
   "transcript_form": "raw",

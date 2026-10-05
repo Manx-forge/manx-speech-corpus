@@ -3,6 +3,7 @@
   "name": "Dick_y_Radlagh_yn_Foawr_",
   "source": "https://www.learnmanx.com/media/Files/Dick%20y%20Radlagh%20yn%20Foawr%20.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "086218",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

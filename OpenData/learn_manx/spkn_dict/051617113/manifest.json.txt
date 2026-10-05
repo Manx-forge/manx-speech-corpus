@@ -3,6 +3,8 @@
   "name": "Yinnagh Maayl gyllagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051617113",
   "origin": "human",
   "transcript_form": "normalised",

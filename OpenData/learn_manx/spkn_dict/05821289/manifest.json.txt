@@ -3,6 +3,8 @@
   "name": "My sailt Please",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/My%20sailt.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05821289",
   "origin": "human",
   "transcript_form": "normalised",

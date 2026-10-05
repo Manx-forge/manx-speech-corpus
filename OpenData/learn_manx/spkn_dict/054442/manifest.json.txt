@@ -3,6 +3,8 @@
   "name": "naunt aunt",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/naunt%20-%20aunt.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054442",
   "origin": "human",
   "transcript_form": "normalised",

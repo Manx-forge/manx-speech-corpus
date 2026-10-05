@@ -3,6 +3,8 @@
   "name": "pabyr paper",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/pabyr%20-%20paper.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058094",
   "origin": "human",
   "transcript_form": "normalised",

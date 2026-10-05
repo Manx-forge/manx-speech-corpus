@@ -3,6 +3,8 @@
   "name": "Cha jeanym shooyl er Raad ny Foillan nish er y fa dy vel mee litcheragh",
   "source": "https://www.youtube.com/watch?v=Sm8wDXjqLfA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04325",
   "origin": "human",
   "transcript_form": "normalised",

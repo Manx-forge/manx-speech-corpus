@@ -3,6 +3,7 @@
   "name": "Eshyn shinney lesh Jee, ver eh dwoaie as feoh da peccah as meechraueeaght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623473",
   "origin": "human",
   "transcript_form": "raw",

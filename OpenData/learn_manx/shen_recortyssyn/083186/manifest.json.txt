@@ -3,6 +3,7 @@
   "name": "future tense",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20checklist/future%20tense.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "083186",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

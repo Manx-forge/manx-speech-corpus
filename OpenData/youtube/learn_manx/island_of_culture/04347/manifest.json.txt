@@ -3,6 +3,8 @@
   "name": "C'raad ta Jishag y Nollick?",
   "source": "https://www.youtube.com/watch?v=3T5p-V9DjDk",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04347",
   "origin": "human",
   "transcript_form": "normalised",

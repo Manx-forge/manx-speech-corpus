@@ -3,6 +3,8 @@
   "name": "kishtey pooar battery",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/kishtey%20pooar%20-%20battery.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059760",
   "origin": "human",
   "transcript_form": "normalised",

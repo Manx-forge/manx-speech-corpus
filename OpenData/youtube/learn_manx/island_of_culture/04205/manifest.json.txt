@@ -3,6 +3,8 @@
   "name": "C'raad ta ny berreenyn?",
   "source": "https://www.youtube.com/watch?v=LipKLLy-2eg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04205",
   "origin": "human",
   "transcript_form": "normalised",

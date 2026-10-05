@@ -3,6 +3,7 @@
   "name": "Ny-yeih, hug oo clashtyn da coraa my phadjer: tra ren mee geamagh ort.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335160",
   "origin": "human",
   "transcript_form": "raw",

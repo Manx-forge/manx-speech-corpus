@@ -3,6 +3,7 @@
   "name": "Cur-my-ner, nee ree reill ayns ynrickys, as nee princeyn gymmyrkey reill ayns briwnys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386954",
   "origin": "human",
   "transcript_form": "raw",

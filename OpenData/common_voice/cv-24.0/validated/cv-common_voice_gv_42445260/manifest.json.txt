@@ -3,6 +3,7 @@
   "name": "Freill-ym dty oardaghyn: O ny treig mee dy bollagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445260",
   "origin": "human",
   "transcript_form": "raw",

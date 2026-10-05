@@ -3,6 +3,8 @@
   "name": "Nod oo snaue?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05992113",
   "origin": "human",
   "transcript_form": "normalised",

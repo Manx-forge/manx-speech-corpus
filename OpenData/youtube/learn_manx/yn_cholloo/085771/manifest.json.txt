@@ -3,6 +3,7 @@
   "name": "Yn Cholloo? Aiee eayil ec Purt Jiass",
   "source": "https://www.youtube.com/watch?v=vi8Ip2Rj3wc",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "085771",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

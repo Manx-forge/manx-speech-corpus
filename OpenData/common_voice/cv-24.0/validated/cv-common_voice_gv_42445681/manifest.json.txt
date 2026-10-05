@@ -3,6 +3,7 @@
   "name": "Cre jir mayd eisht? jean mayd tannaghtyn ayns peccah, dy vod grayse bishaghey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445681",
   "origin": "human",
   "transcript_form": "raw",

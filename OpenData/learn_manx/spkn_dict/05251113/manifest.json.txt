@@ -3,6 +3,8 @@
   "name": "Cre s'mie lhiat jannoo Jesarn?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05251113",
   "origin": "human",
   "transcript_form": "normalised",

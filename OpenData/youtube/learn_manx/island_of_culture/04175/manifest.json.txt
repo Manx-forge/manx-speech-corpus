@@ -3,6 +3,8 @@
   "name": "Vaik oo Cesar Jesarn? Cha vaik",
   "source": "https://www.youtube.com/watch?v=uGzKnr5S8a8",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04175",
   "origin": "human",
   "transcript_form": "normalised",

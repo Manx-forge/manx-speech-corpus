@@ -3,6 +3,7 @@
   "name": "Dy vroo fo e chassyn ooilley pryssoonee ny hooirey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335503",
   "origin": "human",
   "transcript_form": "raw",

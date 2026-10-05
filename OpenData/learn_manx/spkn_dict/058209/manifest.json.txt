@@ -3,6 +3,8 @@
   "name": "my sailt please",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/my%20sailt%20-%20please.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058209",
   "origin": "human",
   "transcript_form": "normalised",

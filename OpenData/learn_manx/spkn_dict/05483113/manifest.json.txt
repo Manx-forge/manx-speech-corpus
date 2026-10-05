@@ -3,6 +3,8 @@
   "name": "Cre'n laa nee oo goll dys Doolish?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05483113",
   "origin": "human",
   "transcript_form": "normalised",

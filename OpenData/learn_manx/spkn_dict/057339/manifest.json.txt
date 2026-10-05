@@ -3,6 +3,8 @@
   "name": "hullad owl",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/hullad%20-%20owl.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057339",
   "origin": "human",
   "transcript_form": "normalised",

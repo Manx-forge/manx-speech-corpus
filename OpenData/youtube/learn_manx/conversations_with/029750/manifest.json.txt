@@ -3,6 +3,8 @@
   "name": "Placenames of the Isle of Man",
   "source": "https://www.youtube.com/watch?v=N6L5G3EB5b0",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "029750",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

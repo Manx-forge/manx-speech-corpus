@@ -3,6 +3,7 @@
   "name": "Mychione y daa sacrament; as hoshiaght mychione bashtey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42665133",
   "origin": "human",
   "transcript_form": "raw",

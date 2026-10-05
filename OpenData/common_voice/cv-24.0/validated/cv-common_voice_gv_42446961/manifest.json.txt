@@ -3,6 +3,7 @@
   "name": "V'eh mee-lowit dy enmys mwaagh er boayrd, as conning, marish roddan as kayt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446961",
   "origin": "human",
   "transcript_form": "raw",

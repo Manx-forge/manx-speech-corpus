@@ -3,6 +3,7 @@
   "name": "Agh vainshter, mannagh vel mee jannoo rour daanys, voddym fenagh cre'n ennym t'erriu?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42635046",
   "origin": "human",
   "transcript_form": "raw",

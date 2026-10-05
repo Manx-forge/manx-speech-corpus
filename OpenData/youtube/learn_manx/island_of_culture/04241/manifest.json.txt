@@ -3,6 +3,8 @@
   "name": "Ta mee ayns Doolish jiu agh va mee ayns Purt le Moirrey jea",
   "source": "https://www.youtube.com/watch?v=3t0f3fD9sWs",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04241",
   "origin": "human",
   "transcript_form": "normalised",

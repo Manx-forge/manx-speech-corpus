@@ -3,6 +3,7 @@
   "name": "L3Manx08",
   "source": null,
   "platform": "saysomething",
+  "domain": "education",
   "resource_id": "081919",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

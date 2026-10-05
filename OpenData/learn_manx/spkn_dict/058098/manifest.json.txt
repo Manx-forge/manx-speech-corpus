@@ -3,6 +3,8 @@
   "name": "pabyr-aitt comic",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/pabyr-aitt%20-%20comic.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058098",
   "origin": "human",
   "transcript_form": "normalised",

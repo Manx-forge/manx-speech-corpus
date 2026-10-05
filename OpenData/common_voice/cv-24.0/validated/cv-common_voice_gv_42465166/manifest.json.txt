@@ -3,6 +3,7 @@
   "name": "Dooinney nagh vel creeney ayns e obbraghyn, cha vel eh creeney ayns e chredjue.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42465166",
   "origin": "human",
   "transcript_form": "raw",

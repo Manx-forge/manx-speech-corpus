@@ -3,6 +3,7 @@
   "name": "Raad nagh vod graase Yee freayl shiu, cha vel e ard-chiarailys er choyrt shiu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42558549",
   "origin": "human",
   "transcript_form": "raw",

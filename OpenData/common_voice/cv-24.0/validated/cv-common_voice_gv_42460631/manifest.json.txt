@@ -3,6 +3,7 @@
   "name": "D'el crosh yn Chiarn lhie faggys da my chree.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42460631",
   "origin": "human",
   "transcript_form": "raw",

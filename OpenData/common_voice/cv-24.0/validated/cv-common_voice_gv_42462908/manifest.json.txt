@@ -3,6 +3,7 @@
   "name": "Vel oo smooinaghtyn dy nee-ym feill teirroo: as dy niu-ym fuill goair?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42462908",
   "origin": "human",
   "transcript_form": "raw",

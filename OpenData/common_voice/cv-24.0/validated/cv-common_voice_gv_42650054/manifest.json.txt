@@ -3,6 +3,7 @@
   "name": "Shoh goan nyn Saualtagh hene mychione graih er nyn naboo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650054",
   "origin": "human",
   "transcript_form": "raw",

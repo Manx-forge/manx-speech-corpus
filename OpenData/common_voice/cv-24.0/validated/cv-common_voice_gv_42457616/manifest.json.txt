@@ -3,6 +3,7 @@
   "name": "Dooys v'eh myr muc-awin ny lhie farkiaght, as myr lion cooyl-chlea.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457616",
   "origin": "human",
   "transcript_form": "raw",

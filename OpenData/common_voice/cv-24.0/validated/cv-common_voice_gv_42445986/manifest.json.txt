@@ -3,6 +3,7 @@
   "name": "As ren ny shiaght ainleyn, oc va ny shiaght cayrnyn, kiartaghey ad-hene dy heidey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445986",
   "origin": "human",
   "transcript_form": "raw",

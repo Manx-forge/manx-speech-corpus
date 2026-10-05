@@ -3,6 +3,8 @@
   "name": "Veign feer vaynrey dy beagh oo ayns shoh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051700113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Mish as my vaidjeryn",
   "source": "https://www.youtube.com/watch?v=2NjOSZbkZmA",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "027690",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

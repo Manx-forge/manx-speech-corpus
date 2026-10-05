@@ -3,6 +3,7 @@
   "name": "brian_and_doug_fargher",
   "source": "https://www.learnmanx.com/media/Files/brian%20and%20doug%20fargher.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085365",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

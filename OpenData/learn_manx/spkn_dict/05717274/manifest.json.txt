@@ -3,6 +3,8 @@
   "name": "Ayns ennym y Chiarn, Hosanna ayns yn yrjid  In the name of the Lord, Hosanna in the highest",
   "source": "https://www.learnmanx.com/media/dictionary%20for%20church/Ayns_ennym_y_chiarn_hosanna_ayns_yn_yrjid.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05717274",
   "origin": "human",
   "transcript_form": "normalised",

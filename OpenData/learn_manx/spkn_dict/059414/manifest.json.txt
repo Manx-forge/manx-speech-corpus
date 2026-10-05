@@ -3,6 +3,8 @@
   "name": "cooney helping",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/cooney%20-%20helping.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059414",
   "origin": "human",
   "transcript_form": "normalised",

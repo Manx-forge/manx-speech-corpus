@@ -3,6 +3,8 @@
   "name": "Shoh skeeal mychione daa vuggane",
   "source": "https://www.youtube.com/watch?v=xCeVZexksUE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04264",
   "origin": "human",
   "transcript_form": "normalised",

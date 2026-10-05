@@ -3,6 +3,8 @@
   "name": "Cowag marish Jack McLean",
   "source": "https://www.youtube.com/watch?v=OCZ2K0xx5-M",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "029629",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

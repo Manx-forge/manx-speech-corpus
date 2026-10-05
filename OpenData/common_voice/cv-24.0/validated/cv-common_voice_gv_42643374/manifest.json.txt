@@ -3,6 +3,7 @@
   "name": "Son dooyrt ee, My oddym agh bentyn rish e eaddagh, bee'm er my laanaghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643374",
   "origin": "human",
   "transcript_form": "raw",

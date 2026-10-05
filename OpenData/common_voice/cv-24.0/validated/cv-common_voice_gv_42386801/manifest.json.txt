@@ -3,6 +3,7 @@
   "name": "T'eh dy choontey yiarn myr coonlagh, as prash myr fuygh loau.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386801",
   "origin": "human",
   "transcript_form": "raw",

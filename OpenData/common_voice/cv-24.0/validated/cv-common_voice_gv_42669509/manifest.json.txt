@@ -3,6 +3,7 @@
   "name": "Veagh e laue chiare fo my chione, as veagh e laue yesh mygeayrt-y-moom.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42669509",
   "origin": "human",
   "transcript_form": "raw",

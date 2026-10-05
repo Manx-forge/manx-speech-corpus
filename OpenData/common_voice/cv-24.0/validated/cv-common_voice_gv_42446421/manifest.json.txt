@@ -3,6 +3,7 @@
   "name": "Ver ish er dty chione yn attey dy ghrayse: crown gloyroil stowys ee ort.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446421",
   "origin": "human",
   "transcript_form": "raw",

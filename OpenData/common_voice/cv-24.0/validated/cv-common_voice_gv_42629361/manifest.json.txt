@@ -3,6 +3,7 @@
   "name": "Bee dty naboonyn er-creau ec feiyr yllaghey dty philotyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629361",
   "origin": "human",
   "transcript_form": "raw",

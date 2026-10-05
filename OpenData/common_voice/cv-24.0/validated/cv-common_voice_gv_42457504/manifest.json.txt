@@ -3,6 +3,7 @@
   "name": "Myr smoo vees er yn tailley, shen myr smoovees yn eeck.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457504",
   "origin": "human",
   "transcript_form": "raw",

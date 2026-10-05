@@ -3,6 +3,7 @@
   "name": "Lhig da dy chooilley annym ve biallagh dy ny pooaraghyn syrjey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644517",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Agh bee ymmodee jeusyn ta hoshiaght er-jerrey: as jeusyn ta er-jerrey, hoshiaght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457854",
   "origin": "human",
   "transcript_form": "raw",

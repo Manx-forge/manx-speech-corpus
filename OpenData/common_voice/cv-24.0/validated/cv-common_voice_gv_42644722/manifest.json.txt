@@ -3,6 +3,7 @@
   "name": "Ayr ain, t'ayns niau; casherick dy row dt'ennym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644722",
   "origin": "human",
   "transcript_form": "raw",

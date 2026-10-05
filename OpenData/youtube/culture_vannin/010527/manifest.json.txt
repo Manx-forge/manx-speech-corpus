@@ -3,6 +3,8 @@
   "name": "Teeval? Ben-Phrinse ny Marrey",
   "source": "https://www.youtube.com/watch?v=5wM-KF3EqD0&t=1s",
   "platform": "youtube",
+  "domain": "folklore",
+  "style": "dialogue",
   "resource_id": "010527",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

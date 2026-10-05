@@ -3,6 +3,7 @@
   "name": "Ny glessyn, as yn aanrit-keyl, as ny hoodyn, as coodaghey nyn eddinyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599850",
   "origin": "human",
   "transcript_form": "raw",

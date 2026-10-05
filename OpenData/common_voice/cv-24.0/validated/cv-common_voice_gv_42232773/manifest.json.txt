@@ -3,6 +3,7 @@
   "name": "As lhie-ym dty eill er ny sleityn, as lhieen-ym ny coanyn lesh dty hummyd.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42232773",
   "origin": "human",
   "transcript_form": "raw",

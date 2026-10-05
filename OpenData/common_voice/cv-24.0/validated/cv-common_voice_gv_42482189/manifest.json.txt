@@ -3,6 +3,7 @@
   "name": "Son deiyr yn slane chaglym jeh'n pobble geiyrt er, gyllagh, Ersooyl lesh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482189",
   "origin": "human",
   "transcript_form": "raw",

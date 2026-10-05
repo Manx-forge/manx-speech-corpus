@@ -3,6 +3,8 @@
   "name": "booa cow",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/booa%20-%20cow.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054203",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "As tra t'ad çheet thie veih'n vargey, cha vel ad gee, derrey t'ad nieeit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643001",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Yn Cholloo? Ellan jeh ymmodee daaghyn",
   "source": "https://www.youtube.com/watch?v=16MqukyzO_8",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "089904",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

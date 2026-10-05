@@ -3,6 +3,8 @@
   "name": "Shirveish y Nollick? Manx language church service, 2022",
   "source": "https://www.youtube.com/watch?v=2XU9KRoLfSk",
   "platform": "youtube",
+  "domain": "religion",
+  "style": "monologue",
   "resource_id": "0101829",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

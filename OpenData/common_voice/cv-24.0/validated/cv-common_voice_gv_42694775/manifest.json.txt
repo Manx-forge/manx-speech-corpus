@@ -3,6 +3,7 @@
   "name": "Ta paart dy h-Ewnyn myrgeddyn nagh vel fo currym yn Society tendeil ny cheayrtyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694775",
   "origin": "human",
   "transcript_form": "raw",

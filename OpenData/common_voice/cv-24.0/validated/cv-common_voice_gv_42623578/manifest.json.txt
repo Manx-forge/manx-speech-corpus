@@ -3,6 +3,7 @@
   "name": "Wooinney veen! Cre ny caghlaaghyn yindyssagh ta jeant ayns y valley beg shen.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623578",
   "origin": "human",
   "transcript_form": "raw",

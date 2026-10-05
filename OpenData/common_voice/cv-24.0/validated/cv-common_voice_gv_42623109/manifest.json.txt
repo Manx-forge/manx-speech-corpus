@@ -3,6 +3,7 @@
   "name": "Son cha nee shiuish ta loayrt, agh spyrryd yn Ayr eu ta loayrt ayndiu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623109",
   "origin": "human",
   "transcript_form": "raw",

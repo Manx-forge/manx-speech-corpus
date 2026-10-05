@@ -3,6 +3,8 @@
   "name": "By vie lhiat goll dys Sulby Jecrean?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052068113",
   "origin": "human",
   "transcript_form": "normalised",

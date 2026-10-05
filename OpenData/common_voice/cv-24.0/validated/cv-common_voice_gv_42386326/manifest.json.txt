@@ -3,6 +3,7 @@
   "name": "Cha vel screeuyn firrinagh jeh Chreest screeut lesh ink nagh vod ve fakinit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386326",
   "origin": "human",
   "transcript_form": "raw",

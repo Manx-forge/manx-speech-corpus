@@ -3,6 +3,7 @@
   "name": "Ogh! Ta'n cryss er vrishey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549756",
   "origin": "human",
   "transcript_form": "raw",

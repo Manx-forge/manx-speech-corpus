@@ -3,6 +3,7 @@
   "name": "Ellan Vannin, ta shen dy ghra.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644786",
   "origin": "human",
   "transcript_form": "raw",

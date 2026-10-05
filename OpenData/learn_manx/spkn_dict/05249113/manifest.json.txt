@@ -3,6 +3,8 @@
   "name": "Cha mie",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05249113",
   "origin": "human",
   "transcript_form": "normalised",

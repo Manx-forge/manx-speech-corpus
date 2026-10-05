@@ -3,6 +3,8 @@
   "name": "Charlie Joughin - Juan y Crellin",
   "source": "https://www.youtube.com/watch?v=xW0oDgaxWJI",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "02722",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "Goll dys Doolish",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05775113",
   "origin": "human",
   "transcript_form": "normalised",

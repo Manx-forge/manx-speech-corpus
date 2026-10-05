@@ -3,6 +3,7 @@
   "name": "Agh erreish dou v'er n'irree reesht, hem reue gys Galilee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650147",
   "origin": "human",
   "transcript_form": "raw",

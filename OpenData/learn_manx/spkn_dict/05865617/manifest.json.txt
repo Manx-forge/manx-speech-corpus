@@ -3,6 +3,8 @@
   "name": "nane-jeig eleven (11)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20numbers/numbers_Nane%20jeig-%20eleven.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865617",
   "origin": "human",
   "transcript_form": "normalised",

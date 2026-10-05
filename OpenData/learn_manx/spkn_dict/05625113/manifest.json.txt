@@ -3,6 +3,8 @@
   "name": "Cha nel. Ta moddey doo aym",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05625113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "ta kiare shuyraghyn aym i have four sisters",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20four%20sisters.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866711",
   "origin": "human",
   "transcript_form": "normalised",

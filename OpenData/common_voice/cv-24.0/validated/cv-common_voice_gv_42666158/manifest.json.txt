@@ -3,6 +3,7 @@
   "name": "As smerg dauesyn ta torragh, as dauesyn ta cur keeagh ayns ny laghyn shen.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666158",
   "origin": "human",
   "transcript_form": "raw",

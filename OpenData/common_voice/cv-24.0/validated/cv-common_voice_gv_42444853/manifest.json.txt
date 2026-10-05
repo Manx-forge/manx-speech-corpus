@@ -3,6 +3,7 @@
   "name": "As roie ny cretooryn bio, as hyndaa ad goll-rish chentyn-taarnee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42444853",
   "origin": "human",
   "transcript_form": "raw",

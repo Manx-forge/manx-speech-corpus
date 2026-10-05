@@ -3,6 +3,7 @@
   "name": "Dy chooilley ghooinney, ny bio, adsyn vees ec y traa shen bio, as ny merriu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650461",
   "origin": "human",
   "transcript_form": "raw",

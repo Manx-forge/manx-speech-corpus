@@ -3,6 +3,7 @@
   "name": "ayrn_14",
   "source": "https://www.learnmanx.com/media/Vampire%20murders/ayrn%2014.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "087524",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

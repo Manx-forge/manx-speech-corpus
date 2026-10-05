@@ -3,6 +3,8 @@
   "name": "How to use nee in Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=f2fnVvzR68A",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "022419",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

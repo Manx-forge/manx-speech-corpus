@@ -3,6 +3,7 @@
   "name": "Cha vel toiggal ec unnane erbee jeh graih Yee agh ec Jee hene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650880",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "By vie lhiam fakin shen?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051072113",
   "origin": "human",
   "transcript_form": "normalised",

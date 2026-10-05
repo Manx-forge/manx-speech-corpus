@@ -3,6 +3,7 @@
   "name": "Ny geiyrt yn chlaasagh voish dty chray.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666261",
   "origin": "human",
   "transcript_form": "raw",

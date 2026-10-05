@@ -3,6 +3,8 @@
   "name": "Raun seal",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sea/raun%20-seal.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522039",
   "origin": "human",
   "transcript_form": "normalised",

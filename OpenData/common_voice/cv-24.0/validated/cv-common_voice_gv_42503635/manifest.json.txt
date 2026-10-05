@@ -3,6 +3,7 @@
   "name": "Ta smooinaghtyn y dooinney ynrick cairal: agh ta coyrleyn ny mee-chrauee son molteyrys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42503635",
   "origin": "human",
   "transcript_form": "raw",

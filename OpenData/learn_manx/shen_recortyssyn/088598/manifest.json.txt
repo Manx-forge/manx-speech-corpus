@@ -3,6 +3,7 @@
   "name": "appendix 02",
   "source": "https://www.learnmanx.com/media/john%20gell/appendix%2002.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "088598",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

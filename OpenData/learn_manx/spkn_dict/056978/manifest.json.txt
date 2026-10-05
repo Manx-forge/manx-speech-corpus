@@ -3,6 +3,8 @@
   "name": "braew fine",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/braew%20-%20fine.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056978",
   "origin": "human",
   "transcript_form": "normalised",

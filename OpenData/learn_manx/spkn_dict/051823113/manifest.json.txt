@@ -3,6 +3,8 @@
   "name": "Dooyrt mee dy ren mee loayrt rish Bob",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051823113",
   "origin": "human",
   "transcript_form": "normalised",

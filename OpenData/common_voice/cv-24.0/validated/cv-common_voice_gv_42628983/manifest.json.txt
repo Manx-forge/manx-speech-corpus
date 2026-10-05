@@ -3,6 +3,7 @@
   "name": "Agh ta mish gra riu, dy vel ayns shoh fer syrjey na'n çhiamble.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42628983",
   "origin": "human",
   "transcript_form": "raw",

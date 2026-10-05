@@ -3,6 +3,8 @@
   "name": "trogh-eeast fish tank",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/trogh-eeast%20-%20fish%20tank.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058162",
   "origin": "human",
   "transcript_form": "normalised",

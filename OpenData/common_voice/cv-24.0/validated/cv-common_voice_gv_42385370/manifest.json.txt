@@ -3,6 +3,7 @@
   "name": "Ny cur cadley da dty hooillyn, ny saveenagh da ferrooghyn dty hooill.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385370",
   "origin": "human",
   "transcript_form": "raw",

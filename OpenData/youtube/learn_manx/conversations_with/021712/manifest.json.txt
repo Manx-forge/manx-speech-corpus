@@ -3,6 +3,8 @@
   "name": "How to use hug and hooar in Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=g4Ko6PxDgeA",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "021712",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

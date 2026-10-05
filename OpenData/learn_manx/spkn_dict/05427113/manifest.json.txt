@@ -3,6 +3,8 @@
   "name": "Nee Skeet Illiam?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05427113",
   "origin": "human",
   "transcript_form": "normalised",

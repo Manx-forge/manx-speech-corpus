@@ -3,6 +3,7 @@
   "name": "Ec dty laue yesh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42665002",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Manx Gaelic recording - Ned Maddrell (Last native Manx Speaker)",
   "source": "https://www.youtube.com/watch?v=-286xpqtC7M",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "027797",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

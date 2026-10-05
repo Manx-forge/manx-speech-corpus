@@ -3,6 +3,8 @@
   "name": "scrodeyder screwdriver",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/scrodeyder%20-%20screwdriver.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059792",
   "origin": "human",
   "transcript_form": "normalised",

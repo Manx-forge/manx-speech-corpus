@@ -3,6 +3,7 @@
   "name": "Myrgeddin lheead eddin y thie, as yn chlose er-lheh lesh y niar, keead cubit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463921",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "O ven, dooyrt eshyn, cha vel mish feeu dy heet stiagh fo dty chlea.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650077",
   "origin": "human",
   "transcript_form": "raw",

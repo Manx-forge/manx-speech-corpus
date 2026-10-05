@@ -3,6 +3,8 @@
   "name": "Er y fa nagh vel eh loayrt Gaelg",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05553113",
   "origin": "human",
   "transcript_form": "normalised",

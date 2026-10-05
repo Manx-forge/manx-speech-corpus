@@ -3,6 +3,7 @@
   "name": "\"Ta mee glen veih drogh-yannoo, ta mee gyn-loght; chamoo ta mee-chairys erbee aynym.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447527",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Dy voddagh oo loayrt rish peiagh erbee veih shennaghys, quoi yinnagh oo loayrt roo?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42472",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

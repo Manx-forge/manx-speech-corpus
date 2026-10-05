@@ -3,6 +3,7 @@
   "name": "Meeryn Gaelgagh",
   "source": "https://www.learnmanx.com/media/Stories/Meeryn%20Gaelgagh.pdf",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "087401",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

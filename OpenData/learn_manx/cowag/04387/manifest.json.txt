@@ -3,6 +3,8 @@
   "name": "Conversation 23",
   "source": "https://www.learnmanx.com/media//cowag/23%20Track%2023%205.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04387",
   "origin": "human",
   "transcript_form": "normalised",

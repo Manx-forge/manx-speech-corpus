@@ -3,6 +3,8 @@
   "name": "cashtal castle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/cashtal%20-%20castle.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059136",
   "origin": "human",
   "transcript_form": "normalised",

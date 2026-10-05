@@ -3,6 +3,8 @@
   "name": "Smie lhiam",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051546113",
   "origin": "human",
   "transcript_form": "normalised",

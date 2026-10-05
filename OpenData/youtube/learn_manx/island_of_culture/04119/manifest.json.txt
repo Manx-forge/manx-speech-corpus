@@ -3,6 +3,8 @@
   "name": "Cre by vie lhiat giu nish? By vie lhiam ushtey, my sailt",
   "source": "https://www.youtube.com/watch?v=FRyAJ5DgpJc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04119",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Well cha nee skeet mish as she toot agglagh mish",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05740113",
   "origin": "human",
   "transcript_form": "normalised",

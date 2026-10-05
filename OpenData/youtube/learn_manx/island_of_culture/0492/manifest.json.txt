@@ -3,6 +3,8 @@
   "name": "S'mie lhiam yn traie ayns Purt ny h-Inshey",
   "source": "https://www.youtube.com/watch?v=2GSuPHqAm5Y",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0492",
   "origin": "human",
   "transcript_form": "normalised",

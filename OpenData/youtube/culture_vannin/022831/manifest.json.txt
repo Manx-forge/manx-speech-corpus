@@ -3,6 +3,8 @@
   "name": "Straid ny Droghad, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=zomc27CW-i4",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "022831",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

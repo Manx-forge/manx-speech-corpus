@@ -3,6 +3,7 @@
   "name": "Foddee yn raad ve garroo agh yiarn as prash foddee ny braagyn ve.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42362053",
   "origin": "human",
   "transcript_form": "raw",

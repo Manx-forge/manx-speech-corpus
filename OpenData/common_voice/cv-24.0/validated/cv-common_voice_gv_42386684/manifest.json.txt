@@ -3,6 +3,7 @@
   "name": "Cha vel fer erbee elley ta mee smooinaght briagh mychione aym nish.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386684",
   "origin": "human",
   "transcript_form": "raw",

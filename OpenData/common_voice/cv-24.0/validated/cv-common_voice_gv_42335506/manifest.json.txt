@@ -3,6 +3,7 @@
   "name": "\"My vac, ny jarrood my leigh; agh lhig da dty chree freayll my annaghyn.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335506",
   "origin": "human",
   "transcript_form": "raw",

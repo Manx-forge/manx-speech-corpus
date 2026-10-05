@@ -3,6 +3,8 @@
   "name": "Nagh mie lhiat kiaull Manninagh?",
   "source": "https://www.youtube.com/watch?v=ElBns5PJjhU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04198",
   "origin": "human",
   "transcript_form": "normalised",

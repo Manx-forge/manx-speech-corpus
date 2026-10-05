@@ -3,6 +3,7 @@
   "name": "Eshyn ren lhiassaghey er nyn son liorish e vaase.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694882",
   "origin": "human",
   "transcript_form": "raw",

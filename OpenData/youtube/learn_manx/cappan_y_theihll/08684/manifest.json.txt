@@ -3,6 +3,7 @@
   "name": "Cappan y theihll ayns #Gaelg - World cup in #Manx (part 03)",
   "source": "https://www.youtube.com/watch?v=iYqGWU4DneY",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "08684",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

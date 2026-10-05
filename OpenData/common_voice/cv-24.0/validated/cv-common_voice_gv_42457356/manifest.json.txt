@@ -3,6 +3,7 @@
   "name": "Ta kerraghey kiarit son ny craidoilee as scutchal son dreeym ny mee cheeayllee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457356",
   "origin": "human",
   "transcript_form": "raw",

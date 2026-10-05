@@ -3,6 +3,7 @@
   "name": "Ren shickerys Yoseph son yn chairys troggal eh gys stoyl reeoil Egypt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42460629",
   "origin": "human",
   "transcript_form": "raw",

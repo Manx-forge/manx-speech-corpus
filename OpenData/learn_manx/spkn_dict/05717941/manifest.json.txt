@@ -3,6 +3,8 @@
   "name": "Kys t'ou?  How are you?",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Kys%20t'ou.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05717941",
   "origin": "human",
   "transcript_form": "normalised",

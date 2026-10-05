@@ -3,6 +3,8 @@
   "name": "er y fa dy vel eh beg",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051395113",
   "origin": "human",
   "transcript_form": "normalised",

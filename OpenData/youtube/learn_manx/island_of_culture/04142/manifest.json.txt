@@ -3,6 +3,8 @@
   "name": "Mie lhiat ny ratchyn TT?",
   "source": "https://www.youtube.com/watch?v=otcq8XrfoNk",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04142",
   "origin": "human",
   "transcript_form": "normalised",

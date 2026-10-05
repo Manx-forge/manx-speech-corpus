@@ -3,6 +3,8 @@
   "name": "Nee Bleb ish?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05410113",
   "origin": "human",
   "transcript_form": "normalised",

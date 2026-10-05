@@ -3,6 +3,8 @@
   "name": "t'eh çhirrym its dry",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/chirrym%20-%20dry.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059733",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "T'ad dy chroymmey ad-hene, t'ad breh nyn lheiyee, garveigagh ayns pian.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457361",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "doillee difficult",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/doillee%20-%20difficult.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056986",
   "origin": "human",
   "transcript_form": "normalised",

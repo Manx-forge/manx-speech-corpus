@@ -3,6 +3,7 @@
   "name": "Lhisagh shappyn ceau magh yn bee nagh ren ad creck?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42174",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

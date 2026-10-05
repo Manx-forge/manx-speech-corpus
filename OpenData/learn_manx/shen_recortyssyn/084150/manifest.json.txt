@@ -3,6 +3,7 @@
   "name": "19b",
   "source": "https://www.youtube.com/watch?v=Ho_h5Odi0Rs&feature=plcp&context=C4f4e19bVDvjVQa1PpcFOg_t_tS15-n0F9fRnKW8P0-HDhT6w3EKU=",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "084150",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

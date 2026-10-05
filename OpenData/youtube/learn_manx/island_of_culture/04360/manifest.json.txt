@@ -3,6 +3,8 @@
   "name": "S'mie lhiam goll Shelg y Drean",
   "source": "https://www.youtube.com/watch?v=xvdGRLeiZcs",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04360",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "My ta shiu graihagh orrym's, freill jee my annaghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457342",
   "origin": "human",
   "transcript_form": "raw",

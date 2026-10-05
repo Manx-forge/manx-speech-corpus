@@ -3,6 +3,7 @@
   "name": "Cha vel reiltys erbee ec aspick y Raue ayns reeriaght Hostyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643304",
   "origin": "human",
   "transcript_form": "raw",

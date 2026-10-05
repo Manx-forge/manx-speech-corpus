@@ -3,6 +3,7 @@
   "name": "Eisht v'ad ooilley ayns cree mie, as ghow adsyn myrgeddin beaghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42495745",
   "origin": "human",
   "transcript_form": "raw",

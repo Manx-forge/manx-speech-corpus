@@ -3,6 +3,7 @@
   "name": "Nish mychione y chooish cheddin nee shiu clashtyn ny sodjey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643189",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Ta mee cummal ayns Croit e Caley",
   "source": "https://www.youtube.com/watch?v=eqbN-mDd9Yg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04191",
   "origin": "human",
   "transcript_form": "normalised",

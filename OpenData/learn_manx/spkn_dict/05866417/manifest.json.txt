@@ -3,6 +3,8 @@
   "name": "poagey-laue handbag",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Handbag.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866417",
   "origin": "human",
   "transcript_form": "normalised",

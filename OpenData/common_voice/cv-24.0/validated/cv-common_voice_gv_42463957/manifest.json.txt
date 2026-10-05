@@ -3,6 +3,7 @@
   "name": "Shen ny ta foddey jeh, as erskyn-towse dowin, quoi oddys y gheddyn magh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463957",
   "origin": "human",
   "transcript_form": "raw",

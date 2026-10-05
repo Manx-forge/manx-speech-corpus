@@ -3,6 +3,8 @@
   "name": "spein spoon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/spein%20-%20spoon.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058324",
   "origin": "human",
   "transcript_form": "normalised",

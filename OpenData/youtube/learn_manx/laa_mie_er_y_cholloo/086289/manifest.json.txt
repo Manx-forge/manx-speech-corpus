@@ -3,6 +3,7 @@
   "name": "Laa Mie er y Cholloo? Ushagyn",
   "source": "https://www.youtube.com/watch?v=hE_8L7AqOG0",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "086289",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

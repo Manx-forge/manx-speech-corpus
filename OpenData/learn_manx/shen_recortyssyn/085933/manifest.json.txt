@@ -3,6 +3,7 @@
   "name": "perfect tense part 2",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20checklist/perfect%20tense%20part%202.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085933",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

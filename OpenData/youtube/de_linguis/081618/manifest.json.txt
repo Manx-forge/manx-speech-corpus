@@ -3,6 +3,7 @@
   "name": "Cooishyn Gailckagh 9 - Pronunciation of Manx words - Part 3?3",
   "source": "https://www.youtube.com/watch?v=KfoDc3WKHMU",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "081618",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

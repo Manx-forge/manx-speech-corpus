@@ -3,6 +3,8 @@
   "name": "How to use she & cha nee in Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=Zthow_1j7cw",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "028919",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

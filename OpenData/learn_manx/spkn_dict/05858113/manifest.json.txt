@@ -3,6 +3,8 @@
   "name": "Kione ny h-Ayrey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05858113",
   "origin": "human",
   "transcript_form": "normalised",

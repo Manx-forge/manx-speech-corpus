@@ -3,6 +3,7 @@
   "name": "Lhig da'n laa mairagh cur lesh my sallish, ta Jee jee yn laa mairagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457212",
   "origin": "human",
   "transcript_form": "raw",

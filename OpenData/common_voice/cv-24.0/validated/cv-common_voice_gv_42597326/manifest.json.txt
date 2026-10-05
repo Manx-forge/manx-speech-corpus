@@ -3,6 +3,7 @@
   "name": "Kyndagh rish coraa my accan: scoan nee my chraueyn lhiantyn gys m'eill.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42597326",
   "origin": "human",
   "transcript_form": "raw",

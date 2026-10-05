@@ -3,6 +3,7 @@
   "name": "Cooishyn Gailckagh 2 - Months in Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=RS2iwJA-obs",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "084248",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

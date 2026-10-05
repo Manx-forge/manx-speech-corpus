@@ -3,6 +3,7 @@
   "name": "As va boggey mooar ayns yn ard-valley shen.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42443285",
   "origin": "human",
   "transcript_form": "raw",

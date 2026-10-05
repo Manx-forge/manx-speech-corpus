@@ -3,6 +3,8 @@
   "name": "C'red t'ou geearree son yn Nollick?",
   "source": "https://www.youtube.com/watch?v=GDtlN4Mp2sM",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04345",
   "origin": "human",
   "transcript_form": "normalised",

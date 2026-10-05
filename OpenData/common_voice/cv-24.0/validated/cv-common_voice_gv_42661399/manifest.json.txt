@@ -3,6 +3,7 @@
   "name": "Er-yn-oyr dy vel aym liorish shen ooilley ny saaseyn ta ymmyrçhagh gys saualtys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42661399",
   "origin": "human",
   "transcript_form": "raw",

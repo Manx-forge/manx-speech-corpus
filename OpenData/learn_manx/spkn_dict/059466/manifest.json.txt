@@ -3,6 +3,8 @@
   "name": "fakin seeing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/fakin%20-%20seeing.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059466",
   "origin": "human",
   "transcript_form": "normalised",

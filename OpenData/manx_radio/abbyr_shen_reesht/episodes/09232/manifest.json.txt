@@ -5,6 +5,7 @@
   "createdCircaEnd": "2024-01-21",
   "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-21st-january-20241/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09232",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

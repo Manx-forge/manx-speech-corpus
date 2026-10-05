@@ -3,6 +3,8 @@
   "name": "S'mie lhiam Puddin y Nollick",
   "source": "https://www.youtube.com/watch?v=6Y8ojTERtdI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04351",
   "origin": "human",
   "transcript_form": "normalised",

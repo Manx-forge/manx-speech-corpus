@@ -3,6 +3,7 @@
   "name": "Eshyn neesht ta liastey ayns e obbyr eeh ny vraar da'n ard stroialtagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445098",
   "origin": "human",
   "transcript_form": "raw",

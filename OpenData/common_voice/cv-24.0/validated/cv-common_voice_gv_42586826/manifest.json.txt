@@ -3,6 +3,7 @@
   "name": "Cre t'ou jannoo tra t'ou gennaghtyn granganagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42586826",
   "origin": "human",
   "transcript_form": "raw",

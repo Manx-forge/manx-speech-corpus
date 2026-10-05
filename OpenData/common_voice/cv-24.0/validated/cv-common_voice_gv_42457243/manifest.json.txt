@@ -3,6 +3,7 @@
   "name": "Cooinniee cre ta trimmid fuill Yeesey Chreest.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457243",
   "origin": "human",
   "transcript_form": "raw",

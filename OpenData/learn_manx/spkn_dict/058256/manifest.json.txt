@@ -3,6 +3,8 @@
   "name": "cappan cup",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/cappan%20-%20cup.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058256",
   "origin": "human",
   "transcript_form": "normalised",

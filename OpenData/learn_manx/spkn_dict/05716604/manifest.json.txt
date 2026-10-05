@@ -3,6 +3,8 @@
   "name": "Ta'n Chiarn ayns shoh. Ta'n Spyrryd echey marin The Lord is here. His spirit is with us",
   "source": "https://www.learnmanx.com/media/dictionary%20for%20church/The_Lord_is_here_his_spirit_is_with_us.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05716604",
   "origin": "human",
   "transcript_form": "normalised",

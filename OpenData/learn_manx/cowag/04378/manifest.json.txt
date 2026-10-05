@@ -3,6 +3,8 @@
   "name": "Conversation 14",
   "source": "https://www.learnmanx.com/media//cowag/14%20Track%2014%208.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04378",
   "origin": "human",
   "transcript_form": "normalised",

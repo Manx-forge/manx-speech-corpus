@@ -3,6 +3,8 @@
   "name": "Cur yn bluckan dou, my sailt (Gura mie ayd)",
   "source": "https://www.youtube.com/watch?v=RmdeK0F3DY4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04224",
   "origin": "human",
   "transcript_form": "normalised",

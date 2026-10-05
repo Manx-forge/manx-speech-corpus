@@ -3,6 +3,7 @@
   "name": "Dooyrt Yeesey rishyn, eisht cha vel veg er y chloan dy eeck.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42640930",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "mac son",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/mac%20-%20son.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054422",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "We Will Remember Them' in Manx? Nee mayd cooinaghtyn orroo",
   "source": "https://www.youtube.com/watch?v=0T2YRcgOXKs",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "015659",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

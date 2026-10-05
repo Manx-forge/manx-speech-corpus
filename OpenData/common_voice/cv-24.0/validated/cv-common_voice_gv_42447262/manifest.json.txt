@@ -3,6 +3,7 @@
   "name": "Cha jean shiu aile y oaddey trooid magh nyn gummallyn er y doonaght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447262",
   "origin": "human",
   "transcript_form": "raw",

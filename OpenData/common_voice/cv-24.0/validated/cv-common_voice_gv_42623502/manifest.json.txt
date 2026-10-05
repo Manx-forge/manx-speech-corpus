@@ -3,6 +3,7 @@
   "name": "Kys t'ou prowal eh mee-lowal dy vee-ooashlaghey ennym Yee liorish loo siyragh ny cadjin?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623502",
   "origin": "human",
   "transcript_form": "raw",

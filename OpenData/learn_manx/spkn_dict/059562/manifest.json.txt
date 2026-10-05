@@ -3,6 +3,8 @@
   "name": "shassoo standing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/shassoo%20-%20standing.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059562",
   "origin": "human",
   "transcript_form": "normalised",

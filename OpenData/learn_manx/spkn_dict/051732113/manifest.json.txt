@@ -3,6 +3,8 @@
   "name": "C'raad t'ou er ve er y gerrid?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051732113",
   "origin": "human",
   "transcript_form": "normalised",

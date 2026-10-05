@@ -3,6 +3,8 @@
   "name": "Yn Cholloo: Kitterland, y Thousla as coayl y 'Vrig Lily'",
   "source": "https://www.youtube.com/watch?v=s0hh507JN4I",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "088450",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

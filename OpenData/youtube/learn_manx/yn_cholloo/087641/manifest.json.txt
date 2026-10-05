@@ -3,6 +3,7 @@
   "name": "Yn Cholloo? Thie-eirinagh Carey",
   "source": "https://www.youtube.com/watch?v=5_cK8ycBQfo",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "087641",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

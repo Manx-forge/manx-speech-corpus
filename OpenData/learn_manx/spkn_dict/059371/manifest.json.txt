@@ -3,6 +3,8 @@
   "name": "toor reill control tower",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/toor%20reill%20-%20control%20tower.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059371",
   "origin": "human",
   "transcript_form": "normalised",

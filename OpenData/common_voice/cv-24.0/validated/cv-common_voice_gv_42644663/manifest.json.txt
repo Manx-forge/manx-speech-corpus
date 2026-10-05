@@ -3,6 +3,7 @@
   "name": "Son kindagh rish gueeaghyn as loo-oaiagh ta'n çheer dobberan.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644663",
   "origin": "human",
   "transcript_form": "raw",

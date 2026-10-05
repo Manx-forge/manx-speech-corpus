@@ -3,6 +3,8 @@
   "name": "Raad-yiarn lectragh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052116113",
   "origin": "human",
   "transcript_form": "normalised",

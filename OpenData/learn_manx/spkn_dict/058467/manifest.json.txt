@@ -3,6 +3,8 @@
   "name": "moghrey mie  good morning",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/moghrey%20mie%20%20-%20good%20morning.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058467",
   "origin": "human",
   "transcript_form": "normalised",

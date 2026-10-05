@@ -3,6 +3,8 @@
   "name": "eaddagh-breagey fancy dress",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/eaddagh-breagey%20-%20fancy%20dress.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057442",
   "origin": "human",
   "transcript_form": "normalised",

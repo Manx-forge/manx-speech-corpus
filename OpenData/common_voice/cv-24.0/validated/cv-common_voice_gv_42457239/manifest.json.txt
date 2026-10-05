@@ -3,6 +3,7 @@
   "name": "Son cha vel eh aggindagh er kerraghey chamoo er seaghney cloan gheiney.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457239",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "As hrog ad jeh'n fooilliagh as jeh ny eeastyn lane daa vaskad jeig.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457797",
   "origin": "human",
   "transcript_form": "raw",

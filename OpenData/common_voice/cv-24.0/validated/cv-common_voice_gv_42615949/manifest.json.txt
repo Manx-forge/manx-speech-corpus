@@ -3,6 +3,7 @@
   "name": "C'red t'ou jannoo dy 'eailley y Nollick?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42615949",
   "origin": "human",
   "transcript_form": "raw",

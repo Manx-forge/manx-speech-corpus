@@ -3,6 +3,7 @@
   "name": "Ayraghyn, ny jean-jee nyn gloan y vrasnaghey, er-aggle dy gaill ad nyn gree.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42591360",
   "origin": "human",
   "transcript_form": "raw",

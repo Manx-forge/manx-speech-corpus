@@ -3,6 +3,7 @@
   "name": "Te mie son dooinney dy ymmyrkey'n whing ayns e aegid.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447423",
   "origin": "human",
   "transcript_form": "raw",

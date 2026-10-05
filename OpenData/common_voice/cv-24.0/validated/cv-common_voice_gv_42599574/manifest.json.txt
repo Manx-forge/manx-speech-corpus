@@ -3,6 +3,7 @@
   "name": "Bee giattyn ny hawinyn er nyn vosley, as bee yn phlaase er ny lhieggal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599574",
   "origin": "human",
   "transcript_form": "raw",

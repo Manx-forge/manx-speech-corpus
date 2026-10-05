@@ -3,6 +3,7 @@
   "name": "Myr shen haink ad er boayrd as ren eh geeck dy chooilley phing.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42512852",
   "origin": "human",
   "transcript_form": "raw",

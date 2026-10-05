@@ -3,6 +3,8 @@
   "name": "As mee hene. Vel oo dty vleb?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051424113",
   "origin": "human",
   "transcript_form": "normalised",

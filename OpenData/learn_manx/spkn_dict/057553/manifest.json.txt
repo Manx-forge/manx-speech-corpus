@@ -3,6 +3,8 @@
   "name": "glass natural green",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/glass%20-%20natural%20green.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057553",
   "origin": "human",
   "transcript_form": "normalised",

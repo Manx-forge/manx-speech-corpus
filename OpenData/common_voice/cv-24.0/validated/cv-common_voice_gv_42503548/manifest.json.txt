@@ -3,6 +3,7 @@
   "name": "My t'ou er-y-fa shen jeeaghyn orrym myr sheshey-creestee, gow rishyn myr rhym pene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42503548",
   "origin": "human",
   "transcript_form": "raw",

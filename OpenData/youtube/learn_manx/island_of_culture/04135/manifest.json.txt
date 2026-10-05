@@ -3,6 +3,8 @@
   "name": "Vel shuyr ayd?  Cha nel shuyr ayms agh ta braar ayms",
   "source": "https://www.youtube.com/watch?v=VuXukuci9hc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04135",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "As eisht cur ayrn dou Mayrt ayns yn vea noa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42387007",
   "origin": "human",
   "transcript_form": "raw",

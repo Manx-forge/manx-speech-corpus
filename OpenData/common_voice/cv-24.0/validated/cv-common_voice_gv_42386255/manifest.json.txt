@@ -3,6 +3,7 @@
   "name": "Tra s'reagh yn chloie share faagail jeh",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386255",
   "origin": "human",
   "transcript_form": "raw",

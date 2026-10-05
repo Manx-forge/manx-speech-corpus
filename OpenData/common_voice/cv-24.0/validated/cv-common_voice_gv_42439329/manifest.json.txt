@@ -3,6 +3,7 @@
   "name": "Myr shen, foddee mayd credjal nagh row eh molteyr erbee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42439329",
   "origin": "human",
   "transcript_form": "raw",

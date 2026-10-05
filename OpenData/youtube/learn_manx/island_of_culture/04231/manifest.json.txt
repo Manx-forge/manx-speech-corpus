@@ -3,6 +3,8 @@
   "name": "Cur dou yn gansee, my sailt",
   "source": "https://www.youtube.com/watch?v=4bKcgmpClNY",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04231",
   "origin": "human",
   "transcript_form": "normalised",

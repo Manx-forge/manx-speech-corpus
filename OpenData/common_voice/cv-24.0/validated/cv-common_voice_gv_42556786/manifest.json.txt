@@ -3,6 +3,7 @@
   "name": "Nee oo raad lhean dy liooar foym dy immeeaght: nagh skyrr my chesmadyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42556786",
   "origin": "human",
   "transcript_form": "raw",

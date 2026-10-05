@@ -3,6 +3,8 @@
   "name": "Ren mee goll dys yn thie-ellyn ayns Doolish Jecrean",
   "source": "https://www.youtube.com/watch?v=O-nipEYu0OE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04102",
   "origin": "human",
   "transcript_form": "normalised",

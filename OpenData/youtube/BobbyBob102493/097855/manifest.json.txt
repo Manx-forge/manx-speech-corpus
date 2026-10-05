@@ -3,6 +3,7 @@
   "name": "Taishbynys 2021",
   "source": "https://www.youtube.com/watch?v=rolNNLwR7Qw",
   "platform": "youtube",
+  "domain": "podcast",
   "resource_id": "097855",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

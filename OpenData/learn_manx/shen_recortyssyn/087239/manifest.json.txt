@@ -3,6 +3,7 @@
   "name": "Arabagh Vecca",
   "source": "https://www.learnmanx.com/media/Stories/Arabagh%20Vecca.pdf",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "087239",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

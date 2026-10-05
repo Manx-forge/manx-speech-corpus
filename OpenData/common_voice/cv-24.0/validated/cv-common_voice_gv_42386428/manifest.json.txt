@@ -3,6 +3,7 @@
   "name": "Derrey t'eh er lhieeney dty veeal lesh garaghtee, as dty veillyn lesh gennallys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386428",
   "origin": "human",
   "transcript_form": "raw",

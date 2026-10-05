@@ -3,6 +3,8 @@
   "name": "Ta. Ren mee gee kay-riojey ayns Purt ny h-Inshey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052172113",
   "origin": "human",
   "transcript_form": "normalised",

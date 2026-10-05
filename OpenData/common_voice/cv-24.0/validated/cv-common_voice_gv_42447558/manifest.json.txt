@@ -3,6 +3,7 @@
   "name": "Ta craueeaght laad, agh ta casherickys bea craueeagh firinagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447558",
   "origin": "human",
   "transcript_form": "raw",

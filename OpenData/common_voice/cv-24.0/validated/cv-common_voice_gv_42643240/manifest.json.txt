@@ -3,6 +3,7 @@
   "name": "Bee uss firrinagh gys y vaase, as veryms dhyt attey dy vea.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643240",
   "origin": "human",
   "transcript_form": "raw",

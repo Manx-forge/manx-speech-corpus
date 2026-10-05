@@ -3,6 +3,7 @@
   "name": "Dy vod eh eshyn y hoiaghey seose mastey ny princeyn e pobble.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446143",
   "origin": "human",
   "transcript_form": "raw",

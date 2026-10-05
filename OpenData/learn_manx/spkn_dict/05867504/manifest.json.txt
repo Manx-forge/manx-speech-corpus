@@ -3,6 +3,8 @@
   "name": "chirrym dry",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Dry.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05867504",
   "origin": "human",
   "transcript_form": "normalised",

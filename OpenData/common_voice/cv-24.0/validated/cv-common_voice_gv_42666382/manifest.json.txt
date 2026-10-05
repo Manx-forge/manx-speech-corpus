@@ -3,6 +3,7 @@
   "name": "Ny jean builley yn kiaullane son padjer as eisht roie ersooyl.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666382",
   "origin": "human",
   "transcript_form": "raw",

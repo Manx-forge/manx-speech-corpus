@@ -3,6 +3,8 @@
   "name": "Noddym geddyn spollag? Cha nod, gow my leshtal",
   "source": "https://www.youtube.com/watch?v=q9ikTUiBamY",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04116",
   "origin": "human",
   "transcript_form": "normalised",

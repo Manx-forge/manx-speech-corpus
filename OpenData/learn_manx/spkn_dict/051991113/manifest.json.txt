@@ -3,6 +3,8 @@
   "name": "Mee Houney",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051991113",
   "origin": "human",
   "transcript_form": "normalised",

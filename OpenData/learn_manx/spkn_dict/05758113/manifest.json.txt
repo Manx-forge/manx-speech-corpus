@@ -3,6 +3,8 @@
   "name": "Creg ny Baa",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05758113",
   "origin": "human",
   "transcript_form": "normalised",

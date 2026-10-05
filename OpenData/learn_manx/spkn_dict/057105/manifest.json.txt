@@ -3,6 +3,8 @@
   "name": "clag clock",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/clag%20-%20clock.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057105",
   "origin": "human",
   "transcript_form": "normalised",

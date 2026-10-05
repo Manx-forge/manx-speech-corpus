@@ -3,6 +3,8 @@
   "name": "Cre t'ee jannoo?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05109113",
   "origin": "human",
   "transcript_form": "normalised",

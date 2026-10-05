@@ -3,6 +3,8 @@
   "name": "Braew, gura mie ayd Fine, thank you",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0551113",
   "origin": "human",
   "transcript_form": "normalised",

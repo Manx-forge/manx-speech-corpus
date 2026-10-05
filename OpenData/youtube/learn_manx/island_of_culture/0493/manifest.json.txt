@@ -3,6 +3,8 @@
   "name": "S'mie lhiam yn traie ayns Purt ny h-Inshey. Nagh vel eh yindyssagh?",
   "source": "https://www.youtube.com/watch?v=CpwxAyP4BTk",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0493",
   "origin": "human",
   "transcript_form": "normalised",

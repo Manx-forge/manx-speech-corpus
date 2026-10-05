@@ -3,6 +3,7 @@
   "name": "Te ny share dy yannoo mie ny te dy olk.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445582",
   "origin": "human",
   "transcript_form": "raw",

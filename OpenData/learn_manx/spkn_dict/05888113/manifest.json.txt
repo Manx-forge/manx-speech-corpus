@@ -3,6 +3,8 @@
   "name": "Cre nee oo mairagh ayns Balley ny Loghey?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05888113",
   "origin": "human",
   "transcript_form": "normalised",

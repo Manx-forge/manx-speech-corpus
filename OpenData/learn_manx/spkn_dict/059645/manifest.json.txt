@@ -3,6 +3,8 @@
   "name": "dorrin storm",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/dorrin%20-%20storm.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059645",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "soo-mess fruit juice",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/soo-mess%20-%20fruit%20juice.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057983",
   "origin": "human",
   "transcript_form": "normalised",

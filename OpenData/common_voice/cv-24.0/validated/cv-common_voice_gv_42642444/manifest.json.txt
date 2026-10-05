@@ -3,6 +3,7 @@
   "name": "Cre ta ny h-ymmydyn casherick shoh er nyn son va'n doonaght soit er lheh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642444",
   "origin": "human",
   "transcript_form": "raw",

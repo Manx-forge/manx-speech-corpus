@@ -3,6 +3,7 @@
   "name": "As ren eh daa voayrd son corneilyn y chabbane er y daa lhiattee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446562",
   "origin": "human",
   "transcript_form": "raw",

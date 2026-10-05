@@ -3,6 +3,8 @@
   "name": "C'raad ta'n moddey elley?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051433113",
   "origin": "human",
   "transcript_form": "normalised",

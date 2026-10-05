@@ -3,6 +3,7 @@
   "name": "Cre'n sorçh dy lussyn s'laik lhiat jeeaghyn orroo?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42489850",
   "origin": "human",
   "transcript_form": "raw",

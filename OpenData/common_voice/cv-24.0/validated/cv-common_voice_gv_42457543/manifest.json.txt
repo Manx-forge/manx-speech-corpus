@@ -3,6 +3,7 @@
   "name": "As dreggyr ad, nagh voddagh ad ginsh cre voish v'eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457543",
   "origin": "human",
   "transcript_form": "raw",

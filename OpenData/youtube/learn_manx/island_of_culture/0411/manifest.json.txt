@@ -3,6 +3,8 @@
   "name": "Craad t'ou cummal?",
   "source": "https://www.youtube.com/watch?v=JF13GlI7k9Q",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0411",
   "origin": "human",
   "transcript_form": "normalised",

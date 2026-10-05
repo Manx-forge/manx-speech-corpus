@@ -3,6 +3,7 @@
   "name": "As dooyrt nyn ayr, Immee-jee reesht, as kionnee-jee dooin kuse dy veaghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386538",
   "origin": "human",
   "transcript_form": "raw",

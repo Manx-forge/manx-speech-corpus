@@ -3,6 +3,8 @@
   "name": "Vel biggin ayd? Ta un voddey ayms",
   "source": "https://www.youtube.com/watch?v=K6YRpdGIETU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04139",
   "origin": "human",
   "transcript_form": "normalised",

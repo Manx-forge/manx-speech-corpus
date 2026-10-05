@@ -3,6 +3,8 @@
   "name": "Cren sorçh ren ee gee?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052021113",
   "origin": "human",
   "transcript_form": "normalised",

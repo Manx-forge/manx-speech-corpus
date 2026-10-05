@@ -3,6 +3,8 @@
   "name": "Cha nee Toot mish agh she Bleb mish",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05420113",
   "origin": "human",
   "transcript_form": "normalised",

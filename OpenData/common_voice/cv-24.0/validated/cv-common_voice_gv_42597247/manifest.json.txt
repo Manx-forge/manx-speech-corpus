@@ -3,6 +3,7 @@
   "name": "Quoid dy leih t'ou cummal mâroo?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42597247",
   "origin": "human",
   "transcript_form": "raw",

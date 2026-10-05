@@ -3,6 +3,7 @@
   "name": "Trooid seihll ta dagh gerjagh goit ass ec kairail.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445026",
   "origin": "human",
   "transcript_form": "raw",

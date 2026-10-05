@@ -3,6 +3,8 @@
   "name": "Cha jean agh neeym goll Jerdein",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05845113",
   "origin": "human",
   "transcript_form": "normalised",

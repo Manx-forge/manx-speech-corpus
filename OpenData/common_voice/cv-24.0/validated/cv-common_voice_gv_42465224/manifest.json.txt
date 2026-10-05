@@ -3,6 +3,7 @@
   "name": "As my ta thie girree-magh n'oi hene, cha vod y thie shen shassoo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42465224",
   "origin": "human",
   "transcript_form": "raw",

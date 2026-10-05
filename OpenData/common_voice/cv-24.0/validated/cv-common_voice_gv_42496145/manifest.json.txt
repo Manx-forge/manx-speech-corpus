@@ -3,6 +3,7 @@
   "name": "Dooinney t'er ny ruggey jeh ben, t'eh giare-heihltagh, as lane dy hreihys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42496145",
   "origin": "human",
   "transcript_form": "raw",

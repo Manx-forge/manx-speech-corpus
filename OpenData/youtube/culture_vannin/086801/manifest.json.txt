@@ -3,6 +3,8 @@
   "name": "A day in the life of the Bunscoill Ghaelgagh",
   "source": "https://www.youtube.com/watch?v=6rUEZ8A-678&t=231s",
   "platform": "youtube",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "086801",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

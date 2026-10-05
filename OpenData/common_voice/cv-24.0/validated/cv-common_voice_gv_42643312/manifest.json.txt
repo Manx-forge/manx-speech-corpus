@@ -3,6 +3,7 @@
   "name": "Cre'n fa ta arrys ymmyrçhagh gys goaill shibbyr y çhiarn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643312",
   "origin": "human",
   "transcript_form": "raw",

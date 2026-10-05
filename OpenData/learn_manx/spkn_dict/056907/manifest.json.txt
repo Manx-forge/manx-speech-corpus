@@ -3,6 +3,8 @@
   "name": "maidjer stick",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/maidjer%20-%20stick.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056907",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "O eisht, cre ny creesteeyn boggeysagh lhisagh shin y ve.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463580",
   "origin": "human",
   "transcript_form": "raw",

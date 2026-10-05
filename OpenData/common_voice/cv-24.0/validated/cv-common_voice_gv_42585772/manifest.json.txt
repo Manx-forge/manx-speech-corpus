@@ -3,6 +3,7 @@
   "name": "Agh eshyn syrjey ta nyn mast' eu, bee eh nyn shirveishagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42585772",
   "origin": "human",
   "transcript_form": "raw",

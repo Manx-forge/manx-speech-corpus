@@ -3,6 +3,8 @@
   "name": "roddan puissagh hampster",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/roddan%20puissagh%20-%20hampster.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054339",
   "origin": "human",
   "transcript_form": "normalised",

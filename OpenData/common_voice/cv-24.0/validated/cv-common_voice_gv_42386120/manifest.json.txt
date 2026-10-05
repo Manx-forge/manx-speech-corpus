@@ -3,6 +3,7 @@
   "name": "Bee nyn Jiarn jymmoosagh rooin myr vees mayd fargagh rish yn vooinjer veggey echey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386120",
   "origin": "human",
   "transcript_form": "raw",

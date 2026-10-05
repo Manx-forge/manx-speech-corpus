@@ -3,6 +3,8 @@
   "name": "kionnaghey buying",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/kionnaghey%20-%20buying.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059506",
   "origin": "human",
   "transcript_form": "normalised",

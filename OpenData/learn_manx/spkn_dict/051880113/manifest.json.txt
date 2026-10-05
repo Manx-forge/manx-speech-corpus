@@ -3,6 +3,8 @@
   "name": "Ta daa ven ayns my vaatey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051880113",
   "origin": "human",
   "transcript_form": "normalised",

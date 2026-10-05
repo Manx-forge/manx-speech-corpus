@@ -3,6 +3,8 @@
   "name": "troggal building",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/troggal%20-%20building.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059602",
   "origin": "human",
   "transcript_form": "normalised",

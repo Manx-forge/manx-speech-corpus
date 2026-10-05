@@ -3,6 +3,8 @@
   "name": "Cre smie lhiat jannoo ec yn jerrey-shiaghtin?",
   "source": "https://www.youtube.com/watch?v=PeHZhZyFYko",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0474",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Er-lhiam nagh vaik",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051812113",
   "origin": "human",
   "transcript_form": "normalised",

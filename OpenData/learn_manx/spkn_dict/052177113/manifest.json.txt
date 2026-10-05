@@ -3,6 +3,8 @@
   "name": "Ta, ta un shuyr as daa vraar",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052177113",
   "origin": "human",
   "transcript_form": "normalised",

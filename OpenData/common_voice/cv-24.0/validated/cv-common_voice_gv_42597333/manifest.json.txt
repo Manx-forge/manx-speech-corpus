@@ -3,6 +3,7 @@
   "name": "Cairys as corymid ta stoyl-reeoil dty ynnyd-vaghee: hed myghin as firrinys roish dt'eddin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42597333",
   "origin": "human",
   "transcript_form": "raw",

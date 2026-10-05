@@ -3,6 +3,7 @@
   "name": "\"Ta mee streeu dy ve Chreestee,\"\" dooyrt ee fegooish monney treishteil.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386223",
   "origin": "human",
   "transcript_form": "raw",

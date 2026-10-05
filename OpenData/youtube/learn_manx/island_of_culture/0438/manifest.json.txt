@@ -3,6 +3,8 @@
   "name": "Cha nel eh feer tarroogh ayns Rhumsaa jiu agh t'eh tarroogh dy liooar",
   "source": "https://www.youtube.com/watch?v=BHE8CRU8Hfc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0438",
   "origin": "human",
   "transcript_form": "normalised",

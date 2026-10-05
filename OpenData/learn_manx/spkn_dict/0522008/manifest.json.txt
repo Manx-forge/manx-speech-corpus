@@ -3,6 +3,8 @@
   "name": "Cruick bucket",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20beach/cruick%20-%20bucket.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522008",
   "origin": "human",
   "transcript_form": "normalised",

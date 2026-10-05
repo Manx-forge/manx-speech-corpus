@@ -3,6 +3,7 @@
   "name": "Cre t'ou coontey jeh scrutaghey-irriney er linney?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42444",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

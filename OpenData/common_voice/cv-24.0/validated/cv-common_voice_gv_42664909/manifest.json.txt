@@ -3,6 +3,7 @@
   "name": "Ta aigney dooinney myr shen er ny chummey, dy vel eh graihagh er caghlaa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42664909",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Oie'll Vreeshey ec Earyween? Skeeal voish Ned Beg Hom Ruy",
   "source": "https://www.youtube.com/watch?v=vnN044a_Erg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "084514",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

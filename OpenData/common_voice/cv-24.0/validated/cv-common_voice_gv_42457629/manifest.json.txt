@@ -3,6 +3,7 @@
   "name": "Trog-ym seose my hooillyn gys ny croink: vouesyn ta my chooney cheet.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457629",
   "origin": "human",
   "transcript_form": "raw",

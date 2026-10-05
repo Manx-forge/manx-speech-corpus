@@ -3,6 +3,8 @@
   "name": "yiarn smoodal iron",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/yiarn%20smoodal%20-%20iron.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058170",
   "origin": "human",
   "transcript_form": "normalised",

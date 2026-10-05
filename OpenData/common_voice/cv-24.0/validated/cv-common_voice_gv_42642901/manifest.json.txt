@@ -3,6 +3,7 @@
   "name": "Cur-jee lhieu whilleen jeh'n lught-thie eu meriu as oddys er aght erbee ve shaghnit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642901",
   "origin": "human",
   "transcript_form": "raw",

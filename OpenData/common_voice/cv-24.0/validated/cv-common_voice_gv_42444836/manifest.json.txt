@@ -3,6 +3,7 @@
   "name": "Ymmyrk-jee erraghyn y cheilley, as myr shoh lhieen-jee yn leigh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42444836",
   "origin": "human",
   "transcript_form": "raw",

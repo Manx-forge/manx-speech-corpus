@@ -3,6 +3,7 @@
   "name": "Ta ny fraueyn echey skeayley mysh y charnane, as aase mastey creggyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445936",
   "origin": "human",
   "transcript_form": "raw",

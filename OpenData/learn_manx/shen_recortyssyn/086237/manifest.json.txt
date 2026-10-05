@@ -3,6 +3,7 @@
   "name": "noo ean 02",
   "source": "https://www.learnmanx.com/media/noo%20ean/noo%20ean%2002.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "086237",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

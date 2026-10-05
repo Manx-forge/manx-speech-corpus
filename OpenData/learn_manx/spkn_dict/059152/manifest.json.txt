@@ -3,6 +3,8 @@
   "name": "crou tire",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/crou%20-%20tire.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059152",
   "origin": "human",
   "transcript_form": "normalised",

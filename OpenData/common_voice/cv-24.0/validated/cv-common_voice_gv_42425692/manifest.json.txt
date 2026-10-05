@@ -3,6 +3,7 @@
   "name": "Tra scuirrys y lane dy choyrt, scuirrys y veeal dy voylley",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425692",
   "origin": "human",
   "transcript_form": "raw",

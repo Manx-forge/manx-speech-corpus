@@ -3,6 +3,7 @@
   "name": "Ta traa creenagh yn arroo, agh cha vel eh traaue ny magheryn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42495657",
   "origin": "human",
   "transcript_form": "raw",

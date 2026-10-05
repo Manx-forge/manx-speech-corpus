@@ -3,6 +3,7 @@
   "name": "Eshyn ta annoon 'sy chredjue gow-jee rish, agh cha nee gys jengleyrys dooyteilagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42501095",
   "origin": "human",
   "transcript_form": "raw",

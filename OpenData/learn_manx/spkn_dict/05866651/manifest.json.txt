@@ -3,6 +3,8 @@
   "name": "jishigyn dads",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Dads.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866651",
   "origin": "human",
   "transcript_form": "normalised",

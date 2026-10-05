@@ -3,6 +3,8 @@
   "name": "Jean oo tannaghtyn sthie my vees eh fliugh?",
   "source": "https://www.youtube.com/watch?v=ssfXCvxZeQ0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04183",
   "origin": "human",
   "transcript_form": "normalised",

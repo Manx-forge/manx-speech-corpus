@@ -3,6 +3,8 @@
   "name": "Vel Colby ny smoo danjeyragh na Purt ny h-Inshey?",
   "source": "https://www.youtube.com/watch?v=VmGGtKMbHVI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0479",
   "origin": "human",
   "transcript_form": "normalised",

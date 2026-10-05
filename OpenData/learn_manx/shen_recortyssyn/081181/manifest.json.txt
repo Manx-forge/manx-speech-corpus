@@ -3,6 +3,7 @@
   "name": "conversations 09 hie as honnick",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2009%20hie%20as%20honnick.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "081181",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

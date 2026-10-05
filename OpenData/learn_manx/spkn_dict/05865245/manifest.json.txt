@@ -3,6 +3,8 @@
   "name": "fuinneyder baker",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Baker.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865245",
   "origin": "human",
   "transcript_form": "normalised",

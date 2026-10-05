@@ -3,6 +3,7 @@
   "name": "Fow-jee aarloo yn scape as yn eilley-caggee, as tayrn-jee magh gys y chaggey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42465210",
   "origin": "human",
   "transcript_form": "raw",

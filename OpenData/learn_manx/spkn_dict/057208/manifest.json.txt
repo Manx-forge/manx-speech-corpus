@@ -3,6 +3,8 @@
   "name": "boyn heel",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/boyn%20-%20heel.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057208",
   "origin": "human",
   "transcript_form": "normalised",

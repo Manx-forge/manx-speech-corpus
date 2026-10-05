@@ -3,6 +3,8 @@
   "name": "S'mie lhiam curree agh share lhiam kay riojey shocklaid",
   "source": "https://www.youtube.com/watch?v=ZihC_RvHPHw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0495",
   "origin": "human",
   "transcript_form": "normalised",

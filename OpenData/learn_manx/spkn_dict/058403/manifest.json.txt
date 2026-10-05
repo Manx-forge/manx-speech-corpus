@@ -3,6 +3,8 @@
   "name": "jiu today",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jiu%20-%20today.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058403",
   "origin": "human",
   "transcript_form": "normalised",

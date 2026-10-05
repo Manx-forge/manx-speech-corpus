@@ -3,6 +3,8 @@
   "name": "Cha nel mee ayns Colby nish as cha row mee ayns Colby jea as cha beeym ayns Colby mairagh",
   "source": "https://www.youtube.com/watch?v=F00g5a9eFLo",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04240",
   "origin": "human",
   "transcript_form": "normalised",

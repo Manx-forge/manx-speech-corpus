@@ -3,6 +3,7 @@
   "name": "Foshil dty veeal, cur-briwnys cairal, as loayr ayns cooish ny boghtyn as ymmyrchee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42598905",
   "origin": "human",
   "transcript_form": "raw",

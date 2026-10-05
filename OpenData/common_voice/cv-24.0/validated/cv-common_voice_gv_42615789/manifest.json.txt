@@ -3,6 +3,7 @@
   "name": "Cre'd t'ou coontey jeh çhellvaneyn glick?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42615789",
   "origin": "human",
   "transcript_form": "raw",

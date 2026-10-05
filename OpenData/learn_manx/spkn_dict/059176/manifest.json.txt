@@ -3,6 +3,8 @@
   "name": "keeill church",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/keeill%20-%20church.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059176",
   "origin": "human",
   "transcript_form": "normalised",

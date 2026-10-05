@@ -3,6 +3,7 @@
   "name": "Chrauee-oalsey, s'mie ren Esaias phadeyrys diu, gra.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644664",
   "origin": "human",
   "transcript_form": "raw",

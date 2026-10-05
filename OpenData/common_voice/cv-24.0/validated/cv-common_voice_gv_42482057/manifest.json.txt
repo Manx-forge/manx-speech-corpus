@@ -3,6 +3,7 @@
   "name": "Cre yinnagh oo dy beagh carrey ayd va gobbragh rour?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482057",
   "origin": "human",
   "transcript_form": "raw",

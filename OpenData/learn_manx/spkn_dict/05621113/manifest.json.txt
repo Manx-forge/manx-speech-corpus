@@ -3,6 +3,8 @@
   "name": "Ta. Ta Balley Chashtal yindyssagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05621113",
   "origin": "human",
   "transcript_form": "normalised",

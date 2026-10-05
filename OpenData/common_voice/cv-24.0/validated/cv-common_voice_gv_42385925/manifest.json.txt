@@ -3,6 +3,7 @@
   "name": "As gowee shiu un phrince jeh dagh tribe, dy rheynn y thalloo son eiraght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385925",
   "origin": "human",
   "transcript_form": "raw",

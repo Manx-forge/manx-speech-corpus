@@ -3,6 +3,8 @@
   "name": "Share lhiam Doolish er y fa dy vel eh mooar",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051396113",
   "origin": "human",
   "transcript_form": "normalised",

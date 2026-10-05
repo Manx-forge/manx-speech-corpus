@@ -3,6 +3,7 @@
   "name": "Gaelg son paarantyn? Anjeeal",
   "source": "https://www.youtube.com/watch?v=TYA1KmWL3FM",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "089646",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

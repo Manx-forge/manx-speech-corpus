@@ -3,6 +3,8 @@
   "name": "geddyn getting",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/geddyn%20-%20getting.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059482",
   "origin": "human",
   "transcript_form": "normalised",

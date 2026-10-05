@@ -3,6 +3,8 @@
   "name": "Raad y Stashoon & Juan ny Jeih Cooatyn",
   "source": "https://www.youtube.com/watch?v=YqH87qanMRA",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "023180",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

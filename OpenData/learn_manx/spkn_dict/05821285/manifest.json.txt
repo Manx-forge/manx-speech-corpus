@@ -3,6 +3,8 @@
   "name": "By vie lhiam feeyn I would like wine",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/By%20vie%20lhiam%20feeyn%20v3.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05821285",
   "origin": "human",
   "transcript_form": "normalised",

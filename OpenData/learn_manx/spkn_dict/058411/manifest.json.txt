@@ -3,6 +3,8 @@
   "name": "laa day",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/laa%20-%20day%20.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058411",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "carr ratch racing car",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/carr%20ratch%20-%20racing%20car.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058926",
   "origin": "human",
   "transcript_form": "normalised",

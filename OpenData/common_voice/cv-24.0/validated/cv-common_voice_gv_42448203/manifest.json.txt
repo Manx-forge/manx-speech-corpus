@@ -3,6 +3,7 @@
   "name": "Veagh mennick rouail ayn yn oie veih nyn oayl.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448203",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Cre'n laa ren oo gynsaghey Gaelg?",
   "source": "https://www.youtube.com/watch?v=ltmxYLMAv_8",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04106",
   "origin": "human",
   "transcript_form": "normalised",

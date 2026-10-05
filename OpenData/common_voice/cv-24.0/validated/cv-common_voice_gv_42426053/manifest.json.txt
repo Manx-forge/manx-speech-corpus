@@ -3,6 +3,7 @@
   "name": "Marish ny brynnyree va grindeyryn connyssagh: ren snaggeraght orrym lesh nyn veeacklyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42426053",
   "origin": "human",
   "transcript_form": "raw",

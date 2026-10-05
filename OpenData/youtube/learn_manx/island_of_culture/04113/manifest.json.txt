@@ -3,6 +3,8 @@
   "name": "Foddym snaue agh cha noddym snaue gollrish eeast",
   "source": "https://www.youtube.com/watch?v=6S2fzIlAAMo",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04113",
   "origin": "human",
   "transcript_form": "normalised",

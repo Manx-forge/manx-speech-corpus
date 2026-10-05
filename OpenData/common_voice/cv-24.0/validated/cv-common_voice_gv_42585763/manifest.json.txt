@@ -3,6 +3,7 @@
   "name": "Son mayrts ta farrane y vea: as ayns dty hoilshey nee mayd fakin soilshey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42585763",
   "origin": "human",
   "transcript_form": "raw",

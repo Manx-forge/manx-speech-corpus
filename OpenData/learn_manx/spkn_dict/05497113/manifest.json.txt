@@ -3,6 +3,8 @@
   "name": "Bee eh maynrey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05497113",
   "origin": "human",
   "transcript_form": "normalised",

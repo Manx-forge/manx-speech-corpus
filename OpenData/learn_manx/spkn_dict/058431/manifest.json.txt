@@ -3,6 +3,8 @@
   "name": "mayrnt march",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mayrnt%20-%20march.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058431",
   "origin": "human",
   "transcript_form": "normalised",

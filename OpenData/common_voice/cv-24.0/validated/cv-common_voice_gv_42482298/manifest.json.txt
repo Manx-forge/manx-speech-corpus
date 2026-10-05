@@ -3,6 +3,7 @@
   "name": "Shiuish soilshey yn theihll Cha vod ard-valley ta soit er cronk ve follit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482298",
   "origin": "human",
   "transcript_form": "raw",

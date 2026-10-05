@@ -3,6 +3,8 @@
   "name": "Cha nel agh ta Purt le Moirrey na smoo aalin na Laksaa",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052071113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cha dooar mee monney eunys agh anvea.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42476833",
   "origin": "human",
   "transcript_form": "raw",

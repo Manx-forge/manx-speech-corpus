@@ -3,6 +3,7 @@
   "name": "Ny jean-jee briwnys rere yn caslys, agh jean-jee briwnys cairagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42464026",
   "origin": "human",
   "transcript_form": "raw",

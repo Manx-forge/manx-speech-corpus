@@ -3,6 +3,8 @@
   "name": "mwarree grandmother",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Grandmother.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866547",
   "origin": "human",
   "transcript_form": "normalised",

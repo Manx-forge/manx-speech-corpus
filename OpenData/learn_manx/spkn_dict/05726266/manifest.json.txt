@@ -3,6 +3,8 @@
   "name": "eeast as spollagyn fish and chips",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Eeast%20as%20spollagyn.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05726266",
   "origin": "human",
   "transcript_form": "normalised",

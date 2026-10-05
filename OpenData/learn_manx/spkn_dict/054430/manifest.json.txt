@@ -3,6 +3,8 @@
   "name": "moir mother",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/moir%20-%20mother.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054430",
   "origin": "human",
   "transcript_form": "normalised",

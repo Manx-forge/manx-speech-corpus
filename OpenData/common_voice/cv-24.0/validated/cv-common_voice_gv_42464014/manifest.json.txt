@@ -3,6 +3,7 @@
   "name": "Cha vel asslayntyn dy bragh çheet gys Chreesteeyn fegooish geeck mie son nyn aagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42464014",
   "origin": "human",
   "transcript_form": "raw",

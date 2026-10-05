@@ -3,6 +3,8 @@
   "name": "Cha beeym agh bee Breeshey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05534113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Kys t'ou prowal yn çheshaght shoh dy nooghyn dy ve cairys yn agglish?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629223",
   "origin": "human",
   "transcript_form": "raw",

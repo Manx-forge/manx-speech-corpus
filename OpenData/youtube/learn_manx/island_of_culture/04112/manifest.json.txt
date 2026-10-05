@@ -3,6 +3,8 @@
   "name": "Foddym snaue feer vie agh cha nel mee geearree snaue nish",
   "source": "https://www.youtube.com/watch?v=rmHBi4u6fs8",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04112",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cha lhiass dhyt ghoaill aggle nagh jean yn kionefenish echey jannoo seose son ooilley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457615",
   "origin": "human",
   "transcript_form": "raw",

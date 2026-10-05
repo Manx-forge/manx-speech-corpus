@@ -3,6 +3,7 @@
   "name": "ab_04_c",
   "source": "https://www.learnmanx.com/media/annie%20and%20breesha/ab%2004%20c.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085291",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

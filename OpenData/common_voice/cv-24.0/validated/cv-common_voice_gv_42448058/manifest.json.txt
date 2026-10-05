@@ -3,6 +3,7 @@
   "name": "As jimmee ad ayns lhong gys ynnyd faasagh er-lheh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448058",
   "origin": "human",
   "transcript_form": "raw",

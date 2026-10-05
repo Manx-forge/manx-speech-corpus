@@ -3,6 +3,7 @@
   "name": "Eisht haink ny sharvaantyn er-gerrey, ad-hene as nyn gloan, as chroym ad ad-hene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42502827",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Ta'n feeyn oc pyshoon dragonyn, as gah bassoil ard-nieughyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448341",
   "origin": "human",
   "transcript_form": "raw",

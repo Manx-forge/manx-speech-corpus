@@ -3,6 +3,7 @@
   "name": "Ta mish my hiarn yn braar graihagh eu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642808",
   "origin": "human",
   "transcript_form": "raw",

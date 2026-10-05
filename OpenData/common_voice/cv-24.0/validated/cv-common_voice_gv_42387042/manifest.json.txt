@@ -3,6 +3,7 @@
   "name": "Bannit t'adsyn ta dobberan: son bee ad er nyn gherjaghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42387042",
   "origin": "human",
   "transcript_form": "raw",

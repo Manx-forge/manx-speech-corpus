@@ -3,6 +3,8 @@
   "name": "rumbyl skirt",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Skirt.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866325",
   "origin": "human",
   "transcript_form": "normalised",

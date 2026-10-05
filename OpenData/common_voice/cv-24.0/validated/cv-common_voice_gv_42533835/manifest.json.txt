@@ -3,6 +3,7 @@
   "name": "Cha row kied echey, agh ren eh gimman yn varroose ansherbee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533835",
   "origin": "human",
   "transcript_form": "raw",

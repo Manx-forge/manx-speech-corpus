@@ -3,6 +3,8 @@
   "name": "Lhig dooin booise y choyrt da'n Chiarn. Te cooie as cair shen y yannoo Let us give thanks to the Lord. It is right to give thanks and praise",
   "source": "https://www.learnmanx.com/media/dictionary%20for%20church/Let_us_give_thanks_to_the_lord_it_is_right_to_give_thanks_and_praise.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05716564",
   "origin": "human",
   "transcript_form": "normalised",

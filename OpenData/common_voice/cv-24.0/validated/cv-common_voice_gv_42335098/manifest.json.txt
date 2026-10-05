@@ -3,6 +3,7 @@
   "name": "Cha vod eh veih jymmoose scapail.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335098",
   "origin": "human",
   "transcript_form": "raw",

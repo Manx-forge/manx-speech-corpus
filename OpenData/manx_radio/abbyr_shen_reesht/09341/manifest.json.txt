@@ -5,6 +5,7 @@
   "createdCircaEnd": "2026-03-22",
   "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-22ah-mee-vayrt-2026-march-22nd/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09341",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

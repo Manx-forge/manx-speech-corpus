@@ -3,6 +3,8 @@
   "name": "scobbey (a) snack",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Scobbey.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05726290",
   "origin": "human",
   "transcript_form": "normalised",

@@ -5,6 +5,7 @@
   "createdCircaEnd": "2020-06-06",
   "source": "https://www.manxradio.com/player/podcasts/episodes/abbyr-shen-reesht-7th-june-20201/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09053",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

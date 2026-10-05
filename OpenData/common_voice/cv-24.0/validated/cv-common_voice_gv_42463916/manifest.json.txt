@@ -3,6 +3,7 @@
   "name": "Cre yn bannaght mooar, cre'n gioot erskin insh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463916",
   "origin": "human",
   "transcript_form": "raw",

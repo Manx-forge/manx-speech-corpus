@@ -3,6 +3,7 @@
   "name": "Ta ynsagh coamrey stoamey yn doonney berchagh, as t'eh berchys yn dooinney boght",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445722",
   "origin": "human",
   "transcript_form": "raw",

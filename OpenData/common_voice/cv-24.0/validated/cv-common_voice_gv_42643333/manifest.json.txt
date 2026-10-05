@@ -3,6 +3,7 @@
   "name": "Cha vod billey mie drogh vess y chur magh: ny drogh villey mess mie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643333",
   "origin": "human",
   "transcript_form": "raw",

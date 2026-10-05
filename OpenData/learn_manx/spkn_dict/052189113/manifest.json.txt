@@ -3,6 +3,8 @@
   "name": "By vie lhiam goll dys San Francisco",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052189113",
   "origin": "human",
   "transcript_form": "normalised",

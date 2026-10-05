@@ -3,6 +3,7 @@
   "name": "Lesh nyn lheid t'eh coyrt lheihys, as leodaghey nyn bianyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386783",
   "origin": "human",
   "transcript_form": "raw",

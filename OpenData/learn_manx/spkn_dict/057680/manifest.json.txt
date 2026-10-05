@@ -3,6 +3,8 @@
   "name": "laagh mud",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/laagh%20-%20mud.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057680",
   "origin": "human",
   "transcript_form": "normalised",

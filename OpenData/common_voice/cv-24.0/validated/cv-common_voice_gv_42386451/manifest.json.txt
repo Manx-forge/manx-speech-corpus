@@ -3,6 +3,7 @@
   "name": "T'eh yn ghraih chair dy chur dwoaie da shen ny ta stroie anmeeyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386451",
   "origin": "human",
   "transcript_form": "raw",

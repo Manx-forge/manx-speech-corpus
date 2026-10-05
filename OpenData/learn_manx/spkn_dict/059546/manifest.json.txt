@@ -3,6 +3,8 @@
   "name": "reurey digging",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/reurey%20-%20digging.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059546",
   "origin": "human",
   "transcript_form": "normalised",

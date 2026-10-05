@@ -3,6 +3,8 @@
   "name": "smie lhiam I Like",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/smie%20lhiam%20-%20I%20Like.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058225",
   "origin": "human",
   "transcript_form": "normalised",

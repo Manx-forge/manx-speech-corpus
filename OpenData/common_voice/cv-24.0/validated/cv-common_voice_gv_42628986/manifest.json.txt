@@ -3,6 +3,7 @@
   "name": "Er-yn-oyr dy row eh dy hauail e phobble veih nyn beccaghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42628986",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Lhiggey boght vock bouyran roauyr myr t'ou, deam y chied vuggane",
   "source": "https://www.youtube.com/watch?v=bBHXvZLQt-A",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04273",
   "origin": "human",
   "transcript_form": "normalised",

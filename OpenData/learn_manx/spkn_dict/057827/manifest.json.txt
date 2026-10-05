@@ -3,6 +3,8 @@
   "name": "glassyr lettuce",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/glassyr%20-%20lettuce.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057827",
   "origin": "human",
   "transcript_form": "normalised",

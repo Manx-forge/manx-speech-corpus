@@ -3,6 +3,8 @@
   "name": "Cre nee oo my vees eh grianagh?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051684113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Mie lhee Marmite?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051451113",
   "origin": "human",
   "transcript_form": "normalised",

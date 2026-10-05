@@ -3,6 +3,7 @@
   "name": "Myr shen ghow'n pobble fea er y chiaghtoo laa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386136",
   "origin": "human",
   "transcript_form": "raw",

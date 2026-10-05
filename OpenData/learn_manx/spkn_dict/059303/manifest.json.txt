@@ -3,6 +3,8 @@
   "name": "fainagh bee restaurant car",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/fainagh%20bee%20-%20restaurant%20car.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059303",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "troggeyder builder",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Builder.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865169",
   "origin": "human",
   "transcript_form": "normalised",

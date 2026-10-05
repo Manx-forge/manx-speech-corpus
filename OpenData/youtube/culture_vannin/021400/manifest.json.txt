@@ -3,6 +3,8 @@
   "name": "Dooinney va goit bun ry skyn ayns chimlee - Juan y Crellin",
   "source": "https://www.youtube.com/watch?v=ig27loIbdY0",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "021400",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

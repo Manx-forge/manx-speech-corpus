@@ -3,6 +3,8 @@
   "name": "Yinnin cummal ayns y twoaie",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052166113",
   "origin": "human",
   "transcript_form": "normalised",

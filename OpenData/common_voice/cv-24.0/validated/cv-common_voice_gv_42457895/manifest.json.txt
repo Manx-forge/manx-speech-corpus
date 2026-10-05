@@ -3,6 +3,7 @@
   "name": "Va ny princeyn nyn-dhost, as hug ad nyn laue er nyn meeal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457895",
   "origin": "human",
   "transcript_form": "raw",

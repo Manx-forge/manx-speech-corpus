@@ -3,6 +3,8 @@
   "name": "Yindyssagh, ren yn nah vuggane scredey",
   "source": "https://www.youtube.com/watch?v=e2ZSQ_dNH8k",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04289",
   "origin": "human",
   "transcript_form": "normalised",

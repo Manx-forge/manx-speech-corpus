@@ -3,6 +3,7 @@
   "name": "Cha daink shoh rieau my raad's ayns gynsagh yn Vaarle.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650410",
   "origin": "human",
   "transcript_form": "raw",

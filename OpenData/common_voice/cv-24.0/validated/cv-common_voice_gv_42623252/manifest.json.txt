@@ -3,6 +3,7 @@
   "name": "Yn 'er s'cooie as cair dy cheau ee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623252",
   "origin": "human",
   "transcript_form": "raw",

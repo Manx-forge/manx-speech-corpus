@@ -3,6 +3,8 @@
   "name": "ny gleash don't move",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Don't%20Move.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05867160",
   "origin": "human",
   "transcript_form": "normalised",

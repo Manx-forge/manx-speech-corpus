@@ -3,6 +3,8 @@
   "name": "post stiuree sign post",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/post%20stiuree%20-%20sign%20post.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059212",
   "origin": "human",
   "transcript_form": "normalised",

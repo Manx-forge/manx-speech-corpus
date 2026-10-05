@@ -3,6 +3,8 @@
   "name": "Cre share lhiat: traen ny baatey?",
   "source": "https://www.youtube.com/watch?v=VEbLFXIXiCs",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04170",
   "origin": "human",
   "transcript_form": "normalised",

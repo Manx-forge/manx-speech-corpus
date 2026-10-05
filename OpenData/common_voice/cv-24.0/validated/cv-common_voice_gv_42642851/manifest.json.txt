@@ -3,6 +3,7 @@
   "name": "My sailt's goll stiagh ayns bea, freill ny annaghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642851",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cre ta Creest jannoo ec laue yesh Yee?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42620453",
   "origin": "human",
   "transcript_form": "raw",

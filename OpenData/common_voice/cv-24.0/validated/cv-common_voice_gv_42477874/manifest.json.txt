@@ -3,6 +3,7 @@
   "name": "My ta mee gymmyrkey feanish jee'm pene, cha vel my eanish firrinagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42477874",
   "origin": "human",
   "transcript_form": "raw",

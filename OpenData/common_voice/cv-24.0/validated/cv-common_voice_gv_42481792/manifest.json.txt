@@ -3,6 +3,7 @@
   "name": "Er-be dy row my voggey ayns dty leigh: veign er herraghtyn ayns my heaghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42481792",
   "origin": "human",
   "transcript_form": "raw",

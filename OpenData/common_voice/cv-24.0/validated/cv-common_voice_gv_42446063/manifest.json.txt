@@ -3,6 +3,7 @@
   "name": "Cha vel eshyn laccal gerjagh ta goaill soylley jeh aigney booiagh",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446063",
   "origin": "human",
   "transcript_form": "raw",

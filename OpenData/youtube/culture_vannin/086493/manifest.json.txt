@@ -3,6 +3,7 @@
   "name": "Yn Chrosh Cheirn",
   "source": "https://www.youtube.com/watch?v=0CO39IKx1OI",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "086493",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

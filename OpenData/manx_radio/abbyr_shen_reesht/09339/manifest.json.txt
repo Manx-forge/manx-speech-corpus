@@ -5,6 +5,7 @@
   "createdCircaEnd": "2026-03-08",
   "source": null,
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09339",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

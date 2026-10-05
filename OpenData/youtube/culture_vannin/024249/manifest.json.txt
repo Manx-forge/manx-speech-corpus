@@ -3,6 +3,8 @@
   "name": "Straid Duke, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=huavkQxUzr0",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "024249",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

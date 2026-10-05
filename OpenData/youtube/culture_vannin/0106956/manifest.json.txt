@@ -3,6 +3,8 @@
   "name": "Shuinyn son Manannan",
   "source": "https://www.youtube.com/watch?v=2bXLakMWKJ0",
   "platform": "youtube",
+  "domain": "folklore",
+  "style": "monologue",
   "resource_id": "0106956",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

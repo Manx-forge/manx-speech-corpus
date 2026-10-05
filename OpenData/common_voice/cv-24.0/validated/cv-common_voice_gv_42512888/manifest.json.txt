@@ -3,6 +3,7 @@
   "name": "Eisht nee oo yn voteil y vrishey ayns shilley ny deiney hed mayrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42512888",
   "origin": "human",
   "transcript_form": "raw",

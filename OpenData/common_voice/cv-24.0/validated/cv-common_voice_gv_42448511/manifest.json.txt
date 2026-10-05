@@ -3,6 +3,7 @@
   "name": "Cha nee tra ta'n cheyrrey gee yn ouw te cheet r'ee",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448511",
   "origin": "human",
   "transcript_form": "raw",

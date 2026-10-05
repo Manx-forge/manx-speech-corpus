@@ -3,6 +3,7 @@
   "name": "Ta ny shenn fir-ynsee soilshaghey dy vel credjue ny lomarcan seyrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42665964",
   "origin": "human",
   "transcript_form": "raw",

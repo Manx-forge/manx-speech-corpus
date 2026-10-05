@@ -3,6 +3,8 @@
   "name": "Turrys mygeayrt Purt ny Hinshey? Corneil y Ghless Earish dys Halley Albert",
   "source": "https://www.youtube.com/watch?v=9kI4QKiEuj8",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "022766",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

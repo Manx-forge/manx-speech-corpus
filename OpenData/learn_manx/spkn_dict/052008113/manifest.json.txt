@@ -3,6 +3,8 @@
   "name": "Jinnagh Orry goll shappal son Voirrey?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052008113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Dooyrt mee dy dooar mee arran",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051821113",
   "origin": "human",
   "transcript_form": "normalised",

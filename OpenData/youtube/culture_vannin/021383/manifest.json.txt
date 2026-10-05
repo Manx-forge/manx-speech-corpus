@@ -3,6 +3,8 @@
   "name": "Ny Skibbyltee Boghtey",
   "source": "https://www.youtube.com/watch?v=qDjdQDQypg8",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "021383",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "As v'adsyn ren gee mysh kiare thousaneyn, as hug eh ad ersooyl.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385392",
   "origin": "human",
   "transcript_form": "raw",

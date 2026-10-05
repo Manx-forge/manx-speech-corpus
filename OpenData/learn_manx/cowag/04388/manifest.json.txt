@@ -3,6 +3,8 @@
   "name": "Conversation 24",
   "source": "https://www.learnmanx.com/media//cowag/24%20Track%2024%204.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04388",
   "origin": "human",
   "transcript_form": "normalised",

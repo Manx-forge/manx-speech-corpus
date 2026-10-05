@@ -3,6 +3,8 @@
   "name": "creg rock",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/creg%20-%20rock.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057636",
   "origin": "human",
   "transcript_form": "normalised",

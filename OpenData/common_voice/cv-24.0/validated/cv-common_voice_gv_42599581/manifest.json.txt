@@ -3,6 +3,7 @@
   "name": "Ayns brishey jeh'n eayst ta mee er vakin moghrey grouw cur lesh fastyr aalin",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599581",
   "origin": "human",
   "transcript_form": "raw",

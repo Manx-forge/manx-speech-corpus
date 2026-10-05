@@ -3,6 +3,7 @@
   "name": "Hug mee orrym aanrit-sack myrgeddin: as ren ad craidey moo'm.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549724",
   "origin": "human",
   "transcript_form": "raw",

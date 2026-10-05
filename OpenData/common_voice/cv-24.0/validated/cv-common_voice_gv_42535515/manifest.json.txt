@@ -3,6 +3,7 @@
   "name": "Cha bee trubbyl erbee ec fer biallagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42535515",
   "origin": "human",
   "transcript_form": "raw",

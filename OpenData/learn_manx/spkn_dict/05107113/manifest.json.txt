@@ -3,6 +3,8 @@
   "name": "Ta Orry gynsagh Gaelg ayns Kionedroghad",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05107113",
   "origin": "human",
   "transcript_form": "normalised",

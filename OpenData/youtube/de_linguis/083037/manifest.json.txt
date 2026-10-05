@@ -3,6 +3,7 @@
   "name": "Cooishyn Gailckagh 1 - How to search the Corpus of Manx Gaelic Texts",
   "source": "https://www.youtube.com/watch?v=vJFNtzkgS5M",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "083037",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

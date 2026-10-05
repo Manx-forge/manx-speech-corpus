@@ -3,6 +3,7 @@
   "name": "Foddee dooinney ve faase agh lajer ayns laue yn ooilley Niartal Jee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463780",
   "origin": "human",
   "transcript_form": "raw",

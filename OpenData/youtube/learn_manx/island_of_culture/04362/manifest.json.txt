@@ -3,6 +3,8 @@
   "name": "Hooar mee ram reddyn mie son y Nollick",
   "source": "https://www.youtube.com/watch?v=UXvZzbbBgt0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04362",
   "origin": "human",
   "transcript_form": "normalised",

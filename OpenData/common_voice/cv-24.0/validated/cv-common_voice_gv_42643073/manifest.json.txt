@@ -3,6 +3,7 @@
   "name": "Agh c'red t'ou smooniaghtyn nish?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643073",
   "origin": "human",
   "transcript_form": "raw",

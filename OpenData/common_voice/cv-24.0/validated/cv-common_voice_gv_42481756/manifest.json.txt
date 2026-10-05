@@ -3,6 +3,7 @@
   "name": "Cha bailleu coyrle goaill ayns traa nyn mea.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42481756",
   "origin": "human",
   "transcript_form": "raw",

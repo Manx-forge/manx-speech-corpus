@@ -3,6 +3,7 @@
   "name": "Foddee fastyr grianagh ve ec moghrey bodjalagh",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42481932",
   "origin": "human",
   "transcript_form": "raw",

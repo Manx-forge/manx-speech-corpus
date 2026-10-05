@@ -3,6 +3,7 @@
   "name": "Ta m'annym er vreayll dty recortyssyn: as er choyrt graih erskyn towse daue.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445305",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Insh dou c'raad t'ou cummal, my sailt",
   "source": "https://www.youtube.com/watch?v=XrJ73s2vVpc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04227",
   "origin": "human",
   "transcript_form": "normalised",

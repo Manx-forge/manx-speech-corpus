@@ -3,6 +3,7 @@
   "name": "Ny jean shiu foshley nyn meeal ayns folliaghtyn sleih elley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446090",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Vel Purt le Moirrey yindyssagh?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0558113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "tarroo bull",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/tarroo%20-%20bull.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054363",
   "origin": "human",
   "transcript_form": "normalised",

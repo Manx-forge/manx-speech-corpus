@@ -3,6 +3,7 @@
   "name": "As hug eh lesh yn oural-losht, as heb eh shen cordail rish yn oardagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446347",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Cre shegin da Voirrey jannoo noght?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052067113",
   "origin": "human",
   "transcript_form": "normalised",

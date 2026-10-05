@@ -3,6 +3,8 @@
   "name": "Shoh my charrey Davy",
   "source": "https://www.youtube.com/watch?v=NyK8UWQFpK4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04252",
   "origin": "human",
   "transcript_form": "normalised",

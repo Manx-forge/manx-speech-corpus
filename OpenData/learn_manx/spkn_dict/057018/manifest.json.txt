@@ -3,6 +3,8 @@
   "name": "noa new",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/noa%20-%20new.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057018",
   "origin": "human",
   "transcript_form": "normalised",

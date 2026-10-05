@@ -3,6 +3,7 @@
   "name": "Cur-jee moylley da er ny cymballyn shiaullit: moylley-jee eh er ny cymballyn bingey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457309",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Tra ta'n laa gaas lauyr ta'n feeragh gaase ny strosey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482345",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Ver-ym lhiam ad sheese myr eayin gys y skynn, myr reaghyn ny goair fyrryn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386527",
   "origin": "human",
   "transcript_form": "raw",

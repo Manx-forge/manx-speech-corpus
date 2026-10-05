@@ -3,6 +3,7 @@
   "name": "Son ta Jee soiaghey shin seose, cha vod Satan pluggey shin sheese.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42464031",
   "origin": "human",
   "transcript_form": "raw",

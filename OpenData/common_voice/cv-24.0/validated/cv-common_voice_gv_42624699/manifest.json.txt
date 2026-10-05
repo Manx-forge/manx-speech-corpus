@@ -3,6 +3,7 @@
   "name": "Noi glutteraght as meshtallys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42624699",
   "origin": "human",
   "transcript_form": "raw",

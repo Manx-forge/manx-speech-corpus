@@ -3,6 +3,7 @@
   "name": "Cre whilleen aghin t'ayns Padjer y Çhiarn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623176",
   "origin": "human",
   "transcript_form": "raw",

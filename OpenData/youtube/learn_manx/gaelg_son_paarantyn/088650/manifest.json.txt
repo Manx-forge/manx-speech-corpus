@@ -3,6 +3,7 @@
   "name": "Gaelg son paarantyn? Traa cloie",
   "source": "https://www.youtube.com/watch?v=leC1giWDSiE",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "088650",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

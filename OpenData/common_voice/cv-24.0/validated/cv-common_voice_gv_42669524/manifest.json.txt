@@ -3,6 +3,7 @@
   "name": "Ta banglane noa er ve currit er bun ta reaghey çhaglymyn ayns yn Affrick.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42669524",
   "origin": "human",
   "transcript_form": "raw",

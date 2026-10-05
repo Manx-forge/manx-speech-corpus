@@ -3,6 +3,7 @@
   "name": "Cha row mieys cree erbee ec ny politickeyryn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533901",
   "origin": "human",
   "transcript_form": "raw",

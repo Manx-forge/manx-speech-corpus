@@ -3,6 +3,8 @@
   "name": "Ta Purt ny h-Inshey feer aalin",
   "source": "https://www.youtube.com/watch?v=60aKGF_PWnE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0486",
   "origin": "human",
   "transcript_form": "normalised",

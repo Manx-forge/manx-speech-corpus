@@ -3,6 +3,8 @@
   "name": "sthowran statue",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/sthowran%20-%20statue.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059240",
   "origin": "human",
   "transcript_form": "normalised",

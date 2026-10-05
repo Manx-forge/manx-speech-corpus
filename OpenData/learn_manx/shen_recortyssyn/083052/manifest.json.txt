@@ -3,6 +3,7 @@
   "name": "Aspickyn Vannin as ny hellanyn",
   "source": "https://www.learnmanx.com/media/chronicles/Aspickyn%20Vannin%20as%20ny%20hellanyn.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "083052",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

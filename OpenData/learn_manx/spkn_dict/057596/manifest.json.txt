@@ -3,6 +3,8 @@
   "name": "baaieagh cow house",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/baaieagh%20-%20cow%20house.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057596",
   "origin": "human",
   "transcript_form": "normalised",

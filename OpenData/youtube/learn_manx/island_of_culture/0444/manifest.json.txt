@@ -3,6 +3,8 @@
   "name": "Vel oo geearree Marmite nish? Cha nel, cha mie lhiam Marmite",
   "source": "https://www.youtube.com/watch?v=SYJcZcwAuls",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0444",
   "origin": "human",
   "transcript_form": "normalised",

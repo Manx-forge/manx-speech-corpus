@@ -3,6 +3,8 @@
   "name": "Shoh baatyn eeastee",
   "source": "https://www.youtube.com/watch?v=FM5bX6klsT4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0434",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "\"Three reddyn ta jannoo shin ny sneissey da Yeesey; imleeid, maynrys as casherickys.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42465148",
   "origin": "human",
   "transcript_form": "raw",

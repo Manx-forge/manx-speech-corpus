@@ -3,6 +3,7 @@
   "name": "Dy hoilshaghey dooghys eajee pheccah.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650791",
   "origin": "human",
   "transcript_form": "raw",

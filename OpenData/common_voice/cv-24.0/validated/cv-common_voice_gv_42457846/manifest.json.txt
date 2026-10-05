@@ -3,6 +3,7 @@
   "name": "Ta mee yeearree diu shee as slaynt as cadley sauçhey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457846",
   "origin": "human",
   "transcript_form": "raw",

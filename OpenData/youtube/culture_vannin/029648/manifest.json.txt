@@ -3,6 +3,8 @@
   "name": "Goll stiagh ayns thieyn feallagh elley - Juan y Crellin",
   "source": "https://www.youtube.com/watch?v=I-JAgWjepF8",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "029648",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

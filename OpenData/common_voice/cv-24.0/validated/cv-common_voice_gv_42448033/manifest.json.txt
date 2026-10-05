@@ -3,6 +3,7 @@
   "name": "Ta'n ommydan filley e laueyn dy cheilley, as gee yn eill echey hene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448033",
   "origin": "human",
   "transcript_form": "raw",

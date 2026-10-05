@@ -3,6 +3,8 @@
   "name": "apag monkey",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/apag%20-%20monkey%20.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054187",
   "origin": "human",
   "transcript_form": "normalised",

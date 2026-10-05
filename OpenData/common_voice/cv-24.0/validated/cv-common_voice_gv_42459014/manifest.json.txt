@@ -3,6 +3,7 @@
   "name": "Ta shoh raa firrinagh as feeu ard-soiagh ve jeant jeh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42459014",
   "origin": "human",
   "transcript_form": "raw",

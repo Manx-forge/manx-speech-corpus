@@ -3,6 +3,7 @@
   "name": "Cha lhisagh persoon erbee ve marrit ec persoon elley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666297",
   "origin": "human",
   "transcript_form": "raw",

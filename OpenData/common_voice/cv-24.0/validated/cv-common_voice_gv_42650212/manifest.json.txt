@@ -3,6 +3,7 @@
   "name": "Cre'n fa t'ou genmys shoh confirmation?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650212",
   "origin": "human",
   "transcript_form": "raw",

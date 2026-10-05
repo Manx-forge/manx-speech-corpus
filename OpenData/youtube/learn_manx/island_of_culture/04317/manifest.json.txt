@@ -3,6 +3,8 @@
   "name": "Shoh my charrey Ali as shoh my verreen",
   "source": "https://www.youtube.com/watch?v=o_YrlAJ_8MQ",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04317",
   "origin": "human",
   "transcript_form": "normalised",

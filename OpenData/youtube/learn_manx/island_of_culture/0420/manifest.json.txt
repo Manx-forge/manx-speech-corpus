@@ -3,6 +3,8 @@
   "name": "Ta mee cummal ayns Purt ny h-Inshey agh ta mee shappal ayns Doolish",
   "source": "https://www.youtube.com/watch?v=uxX8tHD2RfM",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0420",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Lhisagh scoillyn jannoo ny smoo son paitçhyn nagh vel jannoo dy mie ayns cooishyn acadoil?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42448",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

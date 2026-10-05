@@ -3,6 +3,7 @@
   "name": "Cummee my laue eshyn dy-shickyr: as nee my roih eh y niartaghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457837",
   "origin": "human",
   "transcript_form": "raw",

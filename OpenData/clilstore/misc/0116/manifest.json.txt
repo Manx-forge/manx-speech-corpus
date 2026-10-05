@@ -3,6 +3,7 @@
   "name": "Text Reading",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=8699{and}hl=en",
   "platform": "clilstore",
+  "domain": "religion",
   "resource_id": "0116",
   "origin": "human",
   "transcript_form": "normalised",

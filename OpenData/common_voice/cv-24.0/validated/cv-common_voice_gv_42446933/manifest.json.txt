@@ -3,6 +3,7 @@
   "name": "\"Shoh yn dreamal; as nee mayd soilshaghey yn bun echey, fenish y ree.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446933",
   "origin": "human",
   "transcript_form": "raw",

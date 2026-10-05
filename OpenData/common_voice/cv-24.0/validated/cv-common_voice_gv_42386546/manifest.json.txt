@@ -3,6 +3,7 @@
   "name": "As ta e vyghin orroosyn ta goaill aggle roish, veih sheeloghe gys sheeloghe.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386546",
   "origin": "human",
   "transcript_form": "raw",

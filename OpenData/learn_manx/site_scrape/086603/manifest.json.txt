@@ -3,6 +3,7 @@
   "name": "maralyn_-_why_manx",
   "source": "https://www.learnmanx.com/media/Files/maralyn%20-%20why%20manx.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "086603",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

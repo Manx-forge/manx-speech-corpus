@@ -3,6 +3,8 @@
   "name": "ymmydoil useful",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/ymmydoil%20-%20useful.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057062",
   "origin": "human",
   "transcript_form": "normalised",

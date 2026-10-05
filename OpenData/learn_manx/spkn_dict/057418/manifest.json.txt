@@ -3,6 +3,8 @@
   "name": "clesp buckle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/clesp%20-%20buckle.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057418",
   "origin": "human",
   "transcript_form": "normalised",

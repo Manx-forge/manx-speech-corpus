@@ -3,6 +3,8 @@
   "name": "meilley niee sink",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/meilley%20niee%20-%20sink.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058288",
   "origin": "human",
   "transcript_form": "normalised",

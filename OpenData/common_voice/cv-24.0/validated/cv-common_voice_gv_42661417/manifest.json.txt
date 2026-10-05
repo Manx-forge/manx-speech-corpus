@@ -3,6 +3,7 @@
   "name": "Ta mee toiggal liorish saynt, as ooilley cliaghtaghyn meechrauee as fardailagh y theihll.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42661417",
   "origin": "human",
   "transcript_form": "raw",

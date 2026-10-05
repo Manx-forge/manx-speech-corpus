@@ -3,6 +3,8 @@
   "name": "spollagyn chips",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/spollagyn%20-%20chips.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057991",
   "origin": "human",
   "transcript_form": "normalised",

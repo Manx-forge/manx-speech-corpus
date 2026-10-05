@@ -3,6 +3,7 @@
   "name": "Shegin da Creestee firrinagh ve ooilley cooidjagh ny wooinney mie, ooilley yn un chooid.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694766",
   "origin": "human",
   "transcript_form": "raw",

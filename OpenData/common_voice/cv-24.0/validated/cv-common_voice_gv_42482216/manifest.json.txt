@@ -3,6 +3,7 @@
   "name": "As shoh towse yn ard-valley er cheu-twoaie, kiare thousaneyn as queig cheead towshan.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482216",
   "origin": "human",
   "transcript_form": "raw",

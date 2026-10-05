@@ -3,6 +3,8 @@
   "name": "Vel yn jiass ny share na'n twoaie?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051404113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cha nel cooyrt sy çheer veagh deyrey eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42535573",
   "origin": "human",
   "transcript_form": "raw",

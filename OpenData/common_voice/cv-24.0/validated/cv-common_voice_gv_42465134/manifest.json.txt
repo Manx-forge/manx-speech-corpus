@@ -3,6 +3,7 @@
   "name": "Cronk glass foddey voym, loam, loam tra roshym eh",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42465134",
   "origin": "human",
   "transcript_form": "raw",

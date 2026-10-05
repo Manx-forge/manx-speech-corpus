@@ -3,6 +3,8 @@
   "name": "As t'ou uss cho fliugh as bog as lhiannag arroo ta baiht ayns bainney gyere!",
   "source": "https://www.youtube.com/watch?v=zITYisjDF-8",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04277",
   "origin": "human",
   "transcript_form": "normalised",

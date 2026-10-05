@@ -3,6 +3,8 @@
   "name": "Va mee ruggit er yn chiarroo laa Mee Averil",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051893113",
   "origin": "human",
   "transcript_form": "normalised",

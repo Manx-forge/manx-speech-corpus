@@ -3,6 +3,7 @@
   "name": "Irree-jee, as lhig dooin goll: cur-my-ner, t'eh eshyn er-gerrey dooin ta dy my vrah.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662220",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "berreenyn cakes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Cakes_Berreenyn.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865329",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "etlan cassee helicopter",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/etlan%20cassee%20-%20helicopter.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059299",
   "origin": "human",
   "transcript_form": "normalised",

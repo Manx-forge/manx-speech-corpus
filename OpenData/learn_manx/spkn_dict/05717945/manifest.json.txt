@@ -3,6 +3,8 @@
   "name": "Mie dy liooar Good enough (okay)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Mie%20dy%20liooar.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05717945",
   "origin": "human",
   "transcript_form": "normalised",

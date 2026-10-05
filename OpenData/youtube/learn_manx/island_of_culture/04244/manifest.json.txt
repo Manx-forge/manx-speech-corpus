@@ -3,6 +3,8 @@
   "name": "She eeasteyr mish",
   "source": "https://www.youtube.com/watch?v=1ttp0w3iDoA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04244",
   "origin": "human",
   "transcript_form": "normalised",

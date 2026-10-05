@@ -3,6 +3,8 @@
   "name": "Foddym snaue gollrish perkin as foddym loayrt boghtynid",
   "source": "https://www.youtube.com/watch?v=wvBovq6HIfc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04115",
   "origin": "human",
   "transcript_form": "normalised",

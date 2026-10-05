@@ -3,6 +3,8 @@
   "name": "Manx language and dialect archive recordings",
   "source": "https://youtube.com/watch?v=UIJWUSisbaA",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "0338",
   "origin": "human",
   "transcript_form": "normalised",

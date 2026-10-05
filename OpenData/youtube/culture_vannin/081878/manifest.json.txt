@@ -3,6 +3,7 @@
   "name": "Nollick： Some Manx words for Christmas, #2",
   "source": "https://www.youtube.com/watch?v=130IAZ1fJKA",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "081878",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

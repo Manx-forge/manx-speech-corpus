@@ -3,6 +3,7 @@
   "name": "Dy hauail yn maase veih yn chagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386835",
   "origin": "human",
   "transcript_form": "raw",

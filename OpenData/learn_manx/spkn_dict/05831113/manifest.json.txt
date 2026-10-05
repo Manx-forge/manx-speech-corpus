@@ -3,6 +3,8 @@
   "name": "er y fa dy vel eh gobbragh ayns shen",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05831113",
   "origin": "human",
   "transcript_form": "normalised",

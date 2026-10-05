@@ -3,6 +3,7 @@
   "name": "Son shimmey t'er nyn eam, agh s'tiark t'er nyn reih.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42669413",
   "origin": "human",
   "transcript_form": "raw",

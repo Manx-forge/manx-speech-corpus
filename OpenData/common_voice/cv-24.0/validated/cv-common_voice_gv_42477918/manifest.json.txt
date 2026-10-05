@@ -3,6 +3,7 @@
   "name": "As tra hed shiu stiagh ayns thie, bannee-jee daue.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42477918",
   "origin": "human",
   "transcript_form": "raw",

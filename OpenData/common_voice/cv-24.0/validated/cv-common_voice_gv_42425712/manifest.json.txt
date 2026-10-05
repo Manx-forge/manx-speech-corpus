@@ -3,6 +3,7 @@
   "name": "Ta bodjallyn as dorraghys mygeayrt-y-mysh: ta cairys as briwnys coamrey e stoyl-reeoil.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425712",
   "origin": "human",
   "transcript_form": "raw",

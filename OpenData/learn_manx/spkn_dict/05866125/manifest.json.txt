@@ -3,6 +3,8 @@
   "name": "argid silver",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/Colours_Silver.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866125",
   "origin": "human",
   "transcript_form": "normalised",

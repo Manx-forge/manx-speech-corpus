@@ -3,6 +3,7 @@
   "name": "Sy laa shen gow-jee arrane mychione eck, Garey-feeyney dy feeyn jiarg.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457271",
   "origin": "human",
   "transcript_form": "raw",

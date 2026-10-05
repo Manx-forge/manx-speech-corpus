@@ -3,6 +3,8 @@
   "name": "S'mie lhiam loayrt Gaelg as gee berreen ayns Purt ny h-Inshey",
   "source": "https://www.youtube.com/watch?v=8D8BO5UcAy8",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04322",
   "origin": "human",
   "transcript_form": "normalised",

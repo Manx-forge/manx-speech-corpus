@@ -3,6 +3,7 @@
   "name": "Adrian Cain ayns Purt le Moirrey - part 4",
   "source": "https://www.youtube.com/watch?v=3GL5rzY_QoA",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "082636",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

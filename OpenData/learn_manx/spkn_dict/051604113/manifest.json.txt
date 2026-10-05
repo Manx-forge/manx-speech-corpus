@@ -3,6 +3,8 @@
   "name": "Beagh oo maynrey cummal ayns LA?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051604113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cre'n far-skeeal v'ou credjal dy ve feer rish tammylt?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42615801",
   "origin": "human",
   "transcript_form": "raw",

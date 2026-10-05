@@ -3,6 +3,7 @@
   "name": "Follaghey Vannin, yn çheyoo-laa-yeig jeh'n tourey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642897",
   "origin": "human",
   "transcript_form": "raw",

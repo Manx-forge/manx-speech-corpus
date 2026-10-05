@@ -3,6 +3,7 @@
   "name": "Cre erbee ny leighyn ta dheiney Mananagh jannoo t'ad shicker dy ve arrysagh jeh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386618",
   "origin": "human",
   "transcript_form": "raw",

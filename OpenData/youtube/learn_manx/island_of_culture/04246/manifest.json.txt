@@ -3,6 +3,8 @@
   "name": "Nod oo fakin my vaatey? She er my chooyl ayns shoh",
   "source": "https://www.youtube.com/watch?v=EbDgutbqx_c",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04246",
   "origin": "human",
   "transcript_form": "normalised",

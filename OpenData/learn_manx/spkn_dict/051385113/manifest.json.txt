@@ -3,6 +3,8 @@
   "name": "By vie, gura mie ayd",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051385113",
   "origin": "human",
   "transcript_form": "normalised",

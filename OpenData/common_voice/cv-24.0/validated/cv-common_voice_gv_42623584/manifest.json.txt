@@ -3,6 +3,7 @@
   "name": "Cre'n phrowal t'ayd veih'n scriptyr son cliaghtey yn oardagh shoh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623584",
   "origin": "human",
   "transcript_form": "raw",

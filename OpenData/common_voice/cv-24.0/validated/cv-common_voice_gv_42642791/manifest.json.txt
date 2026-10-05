@@ -3,6 +3,7 @@
   "name": "My ta shiu cooie dy ghoaill padjer, ta shiu cooie dy ghoaill Creesteeaght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642791",
   "origin": "human",
   "transcript_form": "raw",

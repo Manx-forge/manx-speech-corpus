@@ -3,6 +3,7 @@
   "name": "Goll thie yn ghoayr dy hirrey ollan",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42556778",
   "origin": "human",
   "transcript_form": "raw",

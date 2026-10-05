@@ -3,6 +3,8 @@
   "name": "Fovarrane submarine",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sea/fovarrane%20-%20submarine.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522051",
   "origin": "human",
   "transcript_form": "normalised",

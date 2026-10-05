@@ -3,6 +3,8 @@
   "name": "S'mie lhiam y Nollick",
   "source": "https://www.youtube.com/watch?v=ygkQC2EeK6w",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04350",
   "origin": "human",
   "transcript_form": "normalised",

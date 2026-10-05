@@ -3,6 +3,8 @@
   "name": "scaaliaghee umbrella",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Umbrella.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866421",
   "origin": "human",
   "transcript_form": "normalised",

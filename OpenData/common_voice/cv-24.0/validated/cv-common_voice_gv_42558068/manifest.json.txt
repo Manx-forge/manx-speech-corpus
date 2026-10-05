@@ -3,6 +3,7 @@
   "name": "Ny bee shiu dy bragh nearagh dy ghoaill rish nyn voiljyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42558068",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "lioaryn books",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/lioaryn%20-%20books.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058827",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Nee dty gheiney tuittym liorish y chliwe, as dty hreanee ayns y chaggey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42598940",
   "origin": "human",
   "transcript_form": "raw",

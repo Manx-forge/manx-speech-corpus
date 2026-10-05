@@ -3,6 +3,7 @@
   "name": "02b",
   "source": "https://mailchi.mp/c302b3e9e3ef/brastyl-lhaih-gaelg-advanced-reading-class-12632990",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085271",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

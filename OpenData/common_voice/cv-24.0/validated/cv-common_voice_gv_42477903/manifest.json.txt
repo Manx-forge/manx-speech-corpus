@@ -3,6 +3,7 @@
   "name": "Abbyr abb as ny gleashee dy cab.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42477903",
   "origin": "human",
   "transcript_form": "raw",

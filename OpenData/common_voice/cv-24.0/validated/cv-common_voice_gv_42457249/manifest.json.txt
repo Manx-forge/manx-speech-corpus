@@ -3,6 +3,7 @@
   "name": "As brish ny geulaghyn dy pheccah jee'm.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457249",
   "origin": "human",
   "transcript_form": "raw",

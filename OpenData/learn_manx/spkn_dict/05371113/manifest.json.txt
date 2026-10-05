@@ -3,6 +3,8 @@
   "name": "Row Guy Martin ayns Purt le Moirrey?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05371113",
   "origin": "human",
   "transcript_form": "normalised",

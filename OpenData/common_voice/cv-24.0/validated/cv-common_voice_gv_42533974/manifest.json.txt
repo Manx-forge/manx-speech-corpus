@@ -3,6 +3,7 @@
   "name": "Ta fir-oik ny keeshyn feer vie ec feddyn boiraghyn ayns ferrymyn keeshyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533974",
   "origin": "human",
   "transcript_form": "raw",

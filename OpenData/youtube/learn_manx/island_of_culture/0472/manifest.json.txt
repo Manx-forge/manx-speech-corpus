@@ -3,6 +3,8 @@
   "name": "S'mie lhiam thie Harry Kelly agh ta mee maynrey nagh vel mee cummal ayns shen",
   "source": "https://www.youtube.com/watch?v=WPPgrXRJXi4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0472",
   "origin": "human",
   "transcript_form": "normalised",

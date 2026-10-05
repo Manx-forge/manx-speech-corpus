@@ -3,6 +3,8 @@
   "name": "kay-broghe fog",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/kay-broghe%20-%20fog.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059681",
   "origin": "human",
   "transcript_form": "normalised",

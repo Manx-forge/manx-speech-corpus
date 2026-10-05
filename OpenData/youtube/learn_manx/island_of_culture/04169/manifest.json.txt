@@ -3,6 +3,8 @@
   "name": "Ta mee goll dys Rhumsaa, cha nel mee goll er y traen, ta mee goll er y varroose",
   "source": "https://www.youtube.com/watch?v=MhmUHavdN-0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04169",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Kys haink oo gys y stayd shoh dy haualtys?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644433",
   "origin": "human",
   "transcript_form": "raw",

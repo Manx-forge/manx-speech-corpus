@@ -3,6 +3,7 @@
   "name": "Laa Mie er y Cholloo? Y Voalley",
   "source": "https://www.youtube.com/watch?v=nlINTnTFNhg",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "089074",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

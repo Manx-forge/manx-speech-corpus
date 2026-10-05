@@ -8,6 +8,8 @@
   "translated": "Walter Clarke, Ramsey (2003); Christoper Lewin (2024)",
   "source": "https://youtube.com/watch?v=4ZURy3R7tMc",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "0301",
   "origin": "human",
   "transcript_form": "raw",

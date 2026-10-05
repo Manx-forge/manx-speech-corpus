@@ -3,6 +3,7 @@
   "name": "Agh c'red va shen er lheh hug ort jannoo lhied y vriwnys jeed hene?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650411",
   "origin": "human",
   "transcript_form": "raw",

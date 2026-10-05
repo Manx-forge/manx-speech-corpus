@@ -3,6 +3,7 @@
   "name": "Hie ee back dys y thie eck as hie ee dy lhie rish shiaghtin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533820",
   "origin": "human",
   "transcript_form": "raw",

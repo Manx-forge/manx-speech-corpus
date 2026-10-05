@@ -3,6 +3,8 @@
   "name": "cummal rea flat",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/cummal%20rea%20-%20flat.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059164",
   "origin": "human",
   "transcript_form": "normalised",

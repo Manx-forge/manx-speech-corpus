@@ -3,6 +3,8 @@
   "name": "Ta shen braew agh share lhiam baatey Yonee",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051414113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "costraayl jar",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/costraayl%20-%20jar.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058268",
   "origin": "human",
   "transcript_form": "normalised",

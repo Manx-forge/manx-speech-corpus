@@ -3,6 +3,8 @@
   "name": "mean-fouyir September",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mean-fouyir%20-%20September.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058439",
   "origin": "human",
   "transcript_form": "normalised",

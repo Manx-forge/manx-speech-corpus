@@ -3,6 +3,8 @@
   "name": "yn_jerrey_john_pilling_translated_by_bob_carswell",
   "source": "https://www.learnmanx.com/media//Stories/Yn_Jerrey_John_Pilling.mp3",
   "platform": "learn_manx",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "072393",
   "origin": "human",
   "transcript_form": "raw",

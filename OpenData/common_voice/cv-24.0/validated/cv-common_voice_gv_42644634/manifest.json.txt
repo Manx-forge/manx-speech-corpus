@@ -3,6 +3,7 @@
   "name": "Tree reeaghyn jeig jeh Ree Gorree.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644634",
   "origin": "human",
   "transcript_form": "raw",

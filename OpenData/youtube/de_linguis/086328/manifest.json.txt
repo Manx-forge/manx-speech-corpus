@@ -3,6 +3,7 @@
   "name": "Cooishyn Gailckagh 7 - Pronouncing OI in Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=2NOF2d2xoy8",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "086328",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

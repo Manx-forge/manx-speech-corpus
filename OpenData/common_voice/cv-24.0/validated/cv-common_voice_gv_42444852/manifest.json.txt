@@ -3,6 +3,7 @@
   "name": "T'eh faitagh dy streeu dy gheddyn rea rish dy chooilley nhee nagh vel taitnysagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42444852",
   "origin": "human",
   "transcript_form": "raw",

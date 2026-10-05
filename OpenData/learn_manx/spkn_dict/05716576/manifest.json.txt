@@ -3,6 +3,8 @@
   "name": "Hiarn, ta shin credjal Lord, we believe",
   "source": "https://www.learnmanx.com/media/dictionary%20for%20church/Lord_we_believe.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05716576",
   "origin": "human",
   "transcript_form": "normalised",

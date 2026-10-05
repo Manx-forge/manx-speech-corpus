@@ -3,6 +3,8 @@
   "name": "Daa whooinney ayns baatey? 10",
   "source": "https://www.youtube.com/watch?v=_YBC33tkKPo",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "028646",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

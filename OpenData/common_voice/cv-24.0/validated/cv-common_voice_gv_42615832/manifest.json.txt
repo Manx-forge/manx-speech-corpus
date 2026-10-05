@@ -3,6 +3,7 @@
   "name": "Cre yn red share oddagh shin jannoo dy hauail yn çhymmyltaght?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42615832",
   "origin": "human",
   "transcript_form": "raw",

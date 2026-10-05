@@ -3,6 +3,8 @@
   "name": "ec y",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051339113",
   "origin": "human",
   "transcript_form": "normalised",

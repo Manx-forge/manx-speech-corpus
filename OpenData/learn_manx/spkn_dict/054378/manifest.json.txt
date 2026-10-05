@@ -3,6 +3,8 @@
   "name": "ben woman",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/ben%20-%20woman.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054378",
   "origin": "human",
   "transcript_form": "normalised",

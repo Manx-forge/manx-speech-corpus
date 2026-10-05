@@ -3,6 +3,7 @@
   "name": "As ghow ad yn clagh vooar ersooyl.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42460608",
   "origin": "human",
   "transcript_form": "raw",

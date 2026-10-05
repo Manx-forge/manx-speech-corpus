@@ -3,6 +3,8 @@
   "name": "lhiackvoalley wall tile",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/lhiackvoalley%20-%20wall%20tile.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059764",
   "origin": "human",
   "transcript_form": "normalised",

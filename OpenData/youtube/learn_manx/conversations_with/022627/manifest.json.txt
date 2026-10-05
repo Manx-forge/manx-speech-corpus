@@ -3,6 +3,8 @@
   "name": "How to use Vel oo er nakin? in Manx Gaelic.",
   "source": "https://www.youtube.com/watch?v=i7_JEhAJWIU",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "022627",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

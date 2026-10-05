@@ -3,6 +3,7 @@
   "name": "Doardee eh dorraghys, as ve dorraghey: as cha row ad arrymagh da e ghoo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457677",
   "origin": "human",
   "transcript_form": "raw",

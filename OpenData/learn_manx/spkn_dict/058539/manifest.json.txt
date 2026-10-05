@@ -3,6 +3,8 @@
   "name": "yn arragh the spring",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/yn%20arragh%20-%20the%20spring.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058539",
   "origin": "human",
   "transcript_form": "normalised",

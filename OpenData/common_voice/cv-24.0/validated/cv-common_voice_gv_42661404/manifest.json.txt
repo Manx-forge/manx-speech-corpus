@@ -3,6 +3,7 @@
   "name": "Myr rosh shin dys y Vungaloo, va shin braew skee, son v'eh çheh agglagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42661404",
   "origin": "human",
   "transcript_form": "raw",

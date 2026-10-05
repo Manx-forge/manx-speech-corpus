@@ -3,6 +3,8 @@
   "name": "Sniaghtey Bane: Bunscoill Ghaelgagh Summer Play, 2024",
   "source": "https://www.youtube.com/watch?v=lzjlgHSd9_o",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "dialogue",
   "resource_id": "010298",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

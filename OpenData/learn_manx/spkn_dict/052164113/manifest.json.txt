@@ -3,6 +3,8 @@
   "name": "Neeym goll shapppal ayns Rhumaa",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052164113",
   "origin": "human",
   "transcript_form": "normalised",

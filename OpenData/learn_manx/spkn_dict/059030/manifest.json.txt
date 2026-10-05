@@ -3,6 +3,8 @@
   "name": "skibbyltys gymnastics",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skibbyltys%20-%20gymnastics.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059030",
   "origin": "human",
   "transcript_form": "normalised",

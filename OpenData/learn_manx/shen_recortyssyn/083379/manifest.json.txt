@@ -3,6 +3,7 @@
   "name": "conversations 17 comparative",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2017%20comparative.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "083379",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

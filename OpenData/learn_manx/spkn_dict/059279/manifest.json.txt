@@ -3,6 +3,8 @@
   "name": "car-laadee lorry",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/car-laadee%20-%20lorry.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059279",
   "origin": "human",
   "transcript_form": "normalised",

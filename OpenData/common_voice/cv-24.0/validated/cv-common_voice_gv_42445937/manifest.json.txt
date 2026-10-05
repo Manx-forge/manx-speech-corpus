@@ -3,6 +3,7 @@
   "name": "Ny-yeih cha vel red erbee elley aym dy yannoo dy chur shaghey yn traa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445937",
   "origin": "human",
   "transcript_form": "raw",

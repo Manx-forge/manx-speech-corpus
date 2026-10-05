@@ -3,6 +3,7 @@
   "name": "Cur-jee my-ner, cre cha mie as eunyssagh te: vraaraghyn, dy vaghey cooidjagh ayns unnaneys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42556774",
   "origin": "human",
   "transcript_form": "raw",

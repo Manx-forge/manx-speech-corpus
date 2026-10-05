@@ -3,6 +3,8 @@
   "name": "treiney nail",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/treiney%20-%20nail.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059816",
   "origin": "human",
   "transcript_form": "normalised",

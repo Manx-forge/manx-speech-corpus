@@ -5,6 +5,7 @@
   "createdCircaEnd": "2025-10-19",
   "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-19oo-jerrey-fouyir-2025-october-25th/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09321",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

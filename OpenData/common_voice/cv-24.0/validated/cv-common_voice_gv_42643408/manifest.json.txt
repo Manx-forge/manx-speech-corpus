@@ -3,6 +3,7 @@
   "name": "Mychione loayrt ayns y çhaglym-cooidjagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643408",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cha vel scansh y voddee ort.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385534",
   "origin": "human",
   "transcript_form": "raw",

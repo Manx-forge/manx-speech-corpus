@@ -3,6 +3,7 @@
   "name": "Ta smooinaghtyn olk dy mennick çheet liorish v'eh ny haue.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446825",
   "origin": "human",
   "transcript_form": "raw",

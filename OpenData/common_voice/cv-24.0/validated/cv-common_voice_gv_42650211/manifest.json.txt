@@ -3,6 +3,7 @@
   "name": "Agh cha jean eh, as cha vel eh sauail dy chooilley wooinney peccoil.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650211",
   "origin": "human",
   "transcript_form": "raw",

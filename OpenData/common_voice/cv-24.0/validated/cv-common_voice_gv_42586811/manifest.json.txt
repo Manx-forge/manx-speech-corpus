@@ -3,6 +3,7 @@
   "name": "Cur coontey jeh traa ren oo meeiteil rish peiagh ard-ghooagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42586811",
   "origin": "human",
   "transcript_form": "raw",

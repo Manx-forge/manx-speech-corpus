@@ -3,6 +3,8 @@
   "name": "Padjer gys y Ven Seyr Ain jeh Rushen",
   "source": "https://www.youtube.com/watch?v=jQi2ICXyxYw",
   "platform": "youtube",
+  "domain": "religion",
+  "style": "monologue",
   "resource_id": "0102053",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

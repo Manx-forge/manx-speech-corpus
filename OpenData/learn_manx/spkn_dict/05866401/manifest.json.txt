@@ -3,6 +3,8 @@
   "name": "fainaghyn-cleayshey earrings",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Earrings.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866401",
   "origin": "human",
   "transcript_form": "normalised",

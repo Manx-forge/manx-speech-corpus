@@ -3,6 +3,7 @@
   "name": "Ta mee treishteil dy vel.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643373",
   "origin": "human",
   "transcript_form": "raw",

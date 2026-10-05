@@ -3,6 +3,7 @@
   "name": "Myr s'doo yn feeagh yiow eh sheshey",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446407",
   "origin": "human",
   "transcript_form": "raw",

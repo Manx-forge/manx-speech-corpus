@@ -3,6 +3,8 @@
   "name": "Neeym goll dys Droghad Vraddan",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051420113",
   "origin": "human",
   "transcript_form": "normalised",

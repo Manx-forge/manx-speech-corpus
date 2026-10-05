@@ -3,6 +3,7 @@
   "name": "Laik lhiat goll dys gienseyn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42615798",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "tobbyr oonlee bath",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/tobbyr%20oonlee%20-bath.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058158",
   "origin": "human",
   "transcript_form": "normalised",

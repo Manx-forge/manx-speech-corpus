@@ -3,6 +3,8 @@
   "name": "imbyl_y_vuitch_john_pilling_translated_by_bob_carswell",
   "source": "https://www.learnmanx.com/media//Stories/Imbyl_y_Vuitch_John_Pilling.mp3",
   "platform": "learn_manx",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "07914",
   "origin": "human",
   "transcript_form": "raw",

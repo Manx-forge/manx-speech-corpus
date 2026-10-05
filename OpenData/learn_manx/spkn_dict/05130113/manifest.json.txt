@@ -3,6 +3,8 @@
   "name": "Folt",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05130113",
   "origin": "human",
   "transcript_form": "normalised",

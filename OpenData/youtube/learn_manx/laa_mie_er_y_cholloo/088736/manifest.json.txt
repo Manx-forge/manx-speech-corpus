@@ -3,6 +3,7 @@
   "name": "Laa mie er y Cholloo? Y Ghaaue",
   "source": "https://www.youtube.com/watch?v=o37quiPVCzk",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "088736",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

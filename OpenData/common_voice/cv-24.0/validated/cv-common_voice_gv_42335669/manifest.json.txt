@@ -3,6 +3,7 @@
   "name": "Gys yn laue yesh. dooyrt eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335669",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Ta my chronney er duittym ayns cheer aalin: dy feer, ta aym eiraght ooasle.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463665",
   "origin": "human",
   "transcript_form": "raw",

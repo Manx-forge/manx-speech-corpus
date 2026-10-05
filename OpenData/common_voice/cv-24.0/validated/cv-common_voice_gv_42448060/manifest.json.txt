@@ -3,6 +3,7 @@
   "name": "Eisht va nyn meeal lhieent lesh gennallys: as y chengey ain lesh boggey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448060",
   "origin": "human",
   "transcript_form": "raw",

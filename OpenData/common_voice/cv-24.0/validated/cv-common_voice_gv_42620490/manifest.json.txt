@@ -3,6 +3,7 @@
   "name": "Kys ta Creest er ny ghra dy ve nyn jiarn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42620490",
   "origin": "human",
   "transcript_form": "raw",

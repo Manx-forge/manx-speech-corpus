@@ -3,6 +3,8 @@
   "name": "t'eh ceau fliagh its raining",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/teh%20ceau%20fliagh%20-%20its%20raining.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059705",
   "origin": "human",
   "transcript_form": "normalised",

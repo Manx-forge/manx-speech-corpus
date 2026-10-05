@@ -3,6 +3,8 @@
   "name": "Vel Voirrey beggan skee?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05646113",
   "origin": "human",
   "transcript_form": "normalised",

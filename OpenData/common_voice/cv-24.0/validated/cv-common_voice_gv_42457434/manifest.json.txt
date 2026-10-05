@@ -3,6 +3,7 @@
   "name": "Ny-yeih ta lane oyr aym dy ve booisal da Jee son ooilley e vyghin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457434",
   "origin": "human",
   "transcript_form": "raw",

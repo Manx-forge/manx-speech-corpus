@@ -3,6 +3,8 @@
   "name": "Ny keayrtyn, loayr ny bugganeyn ry-cheilley trooid towl sy clieau",
   "source": "https://www.youtube.com/watch?v=Z-ZJ1GiN8MA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04266",
   "origin": "human",
   "transcript_form": "normalised",

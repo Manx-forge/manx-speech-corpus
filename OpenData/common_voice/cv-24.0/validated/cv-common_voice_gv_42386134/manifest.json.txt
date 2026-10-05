@@ -3,6 +3,7 @@
   "name": "Son va ny ostyllyn er n'gholl gys y valley dy chionnaghey beaghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386134",
   "origin": "human",
   "transcript_form": "raw",

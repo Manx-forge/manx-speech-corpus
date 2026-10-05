@@ -3,6 +3,8 @@
   "name": "Ta mee geaishtagh rish kiaull Manninagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051517113",
   "origin": "human",
   "transcript_form": "normalised",

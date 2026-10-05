@@ -3,6 +3,8 @@
   "name": "Yn Thammag son Shelg yn Drean",
   "source": "https://www.youtube.com/watch?v=KQ6Us0pfWpM",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "021453",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "\"Haink yn ven thie kione feanish, \"\"Vel red erbee eu foddym lhaih?\"\" dooyrt ee.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42235394",
   "origin": "human",
   "transcript_form": "raw",

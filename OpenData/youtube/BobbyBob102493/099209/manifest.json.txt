@@ -3,6 +3,7 @@
   "name": "Loghanyn Snaue Purt ny hInshey",
   "source": "https://www.youtube.com/watch?v=eqHHaNbsjE4",
   "platform": "youtube",
+  "domain": "podcast",
   "resource_id": "099209",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

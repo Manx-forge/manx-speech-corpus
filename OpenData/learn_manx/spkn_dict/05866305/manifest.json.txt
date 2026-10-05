@@ -3,6 +3,8 @@
   "name": "troosyn trousers",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Trousers.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866305",
   "origin": "human",
   "transcript_form": "normalised",

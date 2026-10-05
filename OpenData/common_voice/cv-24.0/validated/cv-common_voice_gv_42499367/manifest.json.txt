@@ -3,6 +3,7 @@
   "name": "Dooinney ta ec kione y cheilley cha nel eh ec kione y credjue.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42499367",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Kys ta peiagh reih cre by vie lhieu gynsagh ec yn ollooscoill?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42477938",
   "origin": "human",
   "transcript_form": "raw",

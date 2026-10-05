@@ -3,6 +3,8 @@
   "name": "Jinnagh oo cummal ayns Rhumsaa dy beagh oo berchagh?",
   "source": "https://www.youtube.com/watch?v=9P9IdiyZ4K8",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04309",
   "origin": "human",
   "transcript_form": "normalised",

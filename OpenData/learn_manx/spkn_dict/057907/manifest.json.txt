@@ -3,6 +3,8 @@
   "name": "pershagh peach",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/pershagh%20-%20peach.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057907",
   "origin": "human",
   "transcript_form": "normalised",

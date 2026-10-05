@@ -3,6 +3,8 @@
   "name": "unnish onion",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/unnish%20-%20onion.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057999",
   "origin": "human",
   "transcript_form": "normalised",

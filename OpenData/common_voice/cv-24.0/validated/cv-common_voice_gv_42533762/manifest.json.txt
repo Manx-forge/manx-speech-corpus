@@ -3,6 +3,7 @@
   "name": "Va tashtaghyn ny çheerey follit fo'n ghrunt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533762",
   "origin": "human",
   "transcript_form": "raw",

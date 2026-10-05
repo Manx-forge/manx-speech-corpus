@@ -3,6 +3,8 @@
   "name": "Mannin aboo! Falkirk aboo!",
   "source": "https://www.youtube.com/watch?v=cMqJ_zYv-0U",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04155",
   "origin": "human",
   "transcript_form": "normalised",

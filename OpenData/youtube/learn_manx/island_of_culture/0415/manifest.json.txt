@@ -3,6 +3,8 @@
   "name": "Ta mee er y twoaie jiu",
   "source": "https://www.youtube.com/watch?v=F-lL_ukza-U",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0415",
   "origin": "human",
   "transcript_form": "normalised",

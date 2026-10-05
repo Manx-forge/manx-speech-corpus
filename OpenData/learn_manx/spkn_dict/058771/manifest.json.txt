@@ -3,6 +3,8 @@
   "name": "frangish French",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/frangish%20-%20French.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058771",
   "origin": "human",
   "transcript_form": "normalised",

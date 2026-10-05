@@ -3,6 +3,7 @@
   "name": "Hall Caine as y Ven Rein",
   "source": "https://www.youtube.com/watch?v=Sf96oxo5o28",
   "platform": "youtube",
+  "domain": "podcast",
   "resource_id": "092096",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

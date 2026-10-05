@@ -3,6 +3,7 @@
   "name": "Dy choyrt keeayll da'n oney, da'n dooinney aeg, toiggal as feeudys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42558180",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "stroin eairkagh rhinoceros",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/stroin%20eairkagh%20-%20rhinoceros.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054359",
   "origin": "human",
   "transcript_form": "normalised",

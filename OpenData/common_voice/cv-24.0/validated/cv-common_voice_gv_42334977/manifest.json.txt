@@ -3,6 +3,7 @@
   "name": "As druigh ta ooragh yn faiyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42334977",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "obbyr",
   "source": "https://mailchi.mp/72a9964f4d1f/obbyr-ec-y-vunscoill",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "082178",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

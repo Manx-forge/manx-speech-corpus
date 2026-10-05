@@ -3,6 +3,7 @@
   "name": "T'eh tilgey sniaghtey myr ollan: as skeayley yn lheeah-rio myr leoie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482215",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Son veih'n er smoo syrjey ta lheiys cheet, as yiow eh ooashley veih'n Ree.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425573",
   "origin": "human",
   "transcript_form": "raw",

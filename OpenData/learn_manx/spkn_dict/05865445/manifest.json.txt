@@ -3,6 +3,8 @@
   "name": "ooyllyn apples",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Apples_Ooyllyn(A).mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865445",
   "origin": "human",
   "transcript_form": "normalised",

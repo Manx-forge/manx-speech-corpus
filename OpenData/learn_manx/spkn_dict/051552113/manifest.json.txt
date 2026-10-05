@@ -3,6 +3,8 @@
   "name": "Nhegin da Jonee çheet?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051552113",
   "origin": "human",
   "transcript_form": "normalised",

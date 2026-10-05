@@ -3,6 +3,8 @@
   "name": "Ta Cummins ny smoo tappee er y clieau",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051505113",
   "origin": "human",
   "transcript_form": "normalised",

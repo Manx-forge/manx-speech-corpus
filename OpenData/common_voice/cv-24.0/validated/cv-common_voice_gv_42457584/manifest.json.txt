@@ -3,6 +3,7 @@
   "name": "Dy hoiggal creenaght as ynsagh, dy chur-my-ner ny goan dy hushtey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457584",
   "origin": "human",
   "transcript_form": "raw",

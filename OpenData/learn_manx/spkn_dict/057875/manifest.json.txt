@@ -3,6 +3,8 @@
   "name": "nannys pineapple",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/nannys%20-%20pineapple.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057875",
   "origin": "human",
   "transcript_form": "normalised",

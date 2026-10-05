@@ -3,6 +3,7 @@
   "name": "Yn Cholloo? Ushagyn 'sy toor arroo",
   "source": "https://www.youtube.com/watch?v=hewzVjouMsM",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "089276",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

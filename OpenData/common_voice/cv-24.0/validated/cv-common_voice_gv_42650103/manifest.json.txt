@@ -3,6 +3,7 @@
   "name": "S'maynrey'n skeeal, feer vaynrey ta nyn stayd.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650103",
   "origin": "human",
   "transcript_form": "raw",

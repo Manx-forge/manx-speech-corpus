@@ -3,6 +3,8 @@
   "name": "milleen pill",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/milleen%20-%20pill.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058292",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "S'mie lhiam gee berreen ayns Purt ny h-Inshey",
   "source": "https://www.youtube.com/watch?v=xgLcsvxFcLE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04321",
   "origin": "human",
   "transcript_form": "normalised",

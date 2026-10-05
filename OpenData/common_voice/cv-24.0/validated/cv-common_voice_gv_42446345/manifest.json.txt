@@ -3,6 +3,7 @@
   "name": "Dooyrt eshyn rish, Cre ta scruit ayns y leigh? kys t'ou lhaih?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446345",
   "origin": "human",
   "transcript_form": "raw",

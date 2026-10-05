@@ -3,6 +3,8 @@
   "name": "Mie lesh Voirrey cummal ayns Purt Çhiarn?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05766113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "V'eh tree punt dy chosney stiagh, as queig punt dy chosney magh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42615928",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Creest ta ec laue yesh Yee, ta myrgeddin loayrt ayns y lieh ain.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650346",
   "origin": "human",
   "transcript_form": "raw",

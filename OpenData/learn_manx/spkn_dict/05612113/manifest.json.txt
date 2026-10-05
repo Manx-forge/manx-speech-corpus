@@ -3,6 +3,8 @@
   "name": "Nagh vel eh feer vie?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05612113",
   "origin": "human",
   "transcript_form": "normalised",

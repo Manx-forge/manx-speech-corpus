@@ -3,6 +3,8 @@
   "name": "Ta mee maynrey cummal ayns Purt ny h-Inshey as ta mee feer vaynrey cummal ayns Mannin",
   "source": "https://www.youtube.com/watch?v=ZB-isyFFaK0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0419",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Ta mee ayns Doolish jiu agh va mee ayns Purt le Moirrey jea as beeym ayns Colby mairagh",
   "source": "https://www.youtube.com/watch?v=9fwcRAcPhMo",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04242",
   "origin": "human",
   "transcript_form": "normalised",

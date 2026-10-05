@@ -3,6 +3,8 @@
   "name": "Manannan Episode 4 (part two) Come Dine With Us",
   "source": "https://www.youtube.com/watch?v=aFownn3Zj90",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "077651",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

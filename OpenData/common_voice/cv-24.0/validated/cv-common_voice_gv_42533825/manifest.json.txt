@@ -3,6 +3,7 @@
   "name": "Va treihys ny mraane-lhee baghtal lurg da'n immeeaght goll bun-ry-skyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533825",
   "origin": "human",
   "transcript_form": "raw",

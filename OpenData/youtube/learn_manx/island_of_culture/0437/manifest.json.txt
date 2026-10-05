@@ -3,6 +3,8 @@
   "name": "T'ad cloie feeal",
   "source": "https://www.youtube.com/watch?v=0NOswM9tg1o",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0437",
   "origin": "human",
   "transcript_form": "normalised",

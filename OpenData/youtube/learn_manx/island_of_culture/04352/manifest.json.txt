@@ -3,6 +3,8 @@
   "name": "S'mie lhiam shoh",
   "source": "https://www.youtube.com/watch?v=IWg-ohQorBE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04352",
   "origin": "human",
   "transcript_form": "normalised",

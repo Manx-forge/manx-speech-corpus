@@ -3,6 +3,7 @@
   "name": "Agh cha hoig ad yn raa shen, as cha by-lhoys daue fenaghtyn jeh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42503642",
   "origin": "human",
   "transcript_form": "raw",

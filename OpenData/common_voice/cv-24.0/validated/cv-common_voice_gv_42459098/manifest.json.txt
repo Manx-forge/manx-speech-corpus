@@ -3,6 +3,7 @@
   "name": "As cha row eh abyl cur fys gys Judy c'red va cumrail eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42459098",
   "origin": "human",
   "transcript_form": "raw",

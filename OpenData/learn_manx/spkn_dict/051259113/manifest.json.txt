@@ -3,6 +3,8 @@
   "name": "Shoh Perick",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051259113",
   "origin": "human",
   "transcript_form": "normalised",

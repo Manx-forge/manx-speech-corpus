@@ -3,6 +3,7 @@
   "name": "As ghow ad ooilley'n spooilley, as ooilley'n chragh, chammah deiney as maase.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447261",
   "origin": "human",
   "transcript_form": "raw",

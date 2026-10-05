@@ -3,6 +3,8 @@
   "name": "Er-lhiam dy vel yn jiass yindyssagh",
   "source": "https://www.youtube.com/watch?v=ykwcFM8-k9w",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0435",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "T'eh beggan grianagh jiu agh bodjallagh",
   "source": "https://www.youtube.com/watch?v=4lrg9PljlTw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04263",
   "origin": "human",
   "transcript_form": "normalised",

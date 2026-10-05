@@ -3,6 +3,7 @@
   "name": "Prow-jee dy chooilley nhee: cum-jee shickyr shen ta mie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457887",
   "origin": "human",
   "transcript_form": "raw",

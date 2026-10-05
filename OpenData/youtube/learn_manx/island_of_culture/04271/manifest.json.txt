@@ -3,6 +3,8 @@
   "name": "Deam eh trooid y towl. She blebbin uss! Dooist oo, ta'n oie goll ersooyl",
   "source": "https://www.youtube.com/watch?v=ydPvaKU3Pxc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04271",
   "origin": "human",
   "transcript_form": "normalised",

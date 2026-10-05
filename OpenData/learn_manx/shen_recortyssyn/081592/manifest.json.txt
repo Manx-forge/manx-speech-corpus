@@ -3,6 +3,7 @@
   "name": "cooinaghtyn my aegid 04 pages 8-11",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20my%20aegid/cooinaghtyn%20my%20aegid%2004%20pages%208-11.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "081592",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

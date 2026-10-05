@@ -3,6 +3,8 @@
   "name": "Ta mee geearree kay riojey nish",
   "source": "https://www.youtube.com/watch?v=fya7vmRJIYY",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0423",
   "origin": "human",
   "transcript_form": "normalised",

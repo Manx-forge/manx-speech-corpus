@@ -3,6 +3,8 @@
   "name": "Cha nee skeet mish",
   "source": "https://www.youtube.com/watch?v=6Y0fLtyrjrY",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04337",
   "origin": "human",
   "transcript_form": "normalised",

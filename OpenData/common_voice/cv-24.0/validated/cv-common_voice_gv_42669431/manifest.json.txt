@@ -3,6 +3,7 @@
   "name": "Nish ga nagh vel oo brishey poosey, ny-yeih my t'ou dunverys, t'ou brishey'n leigh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42669431",
   "origin": "human",
   "transcript_form": "raw",

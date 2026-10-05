@@ -8,6 +8,8 @@
   "translated": "Fiona McArdle, Kirk Michael",
   "source": "https://youtube.com/watch?v=L4cisJQa_ao",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "0305",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "As v'eh three laa fegooish soilshey, as cha ren eh gee ny giu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457369",
   "origin": "human",
   "transcript_form": "raw",

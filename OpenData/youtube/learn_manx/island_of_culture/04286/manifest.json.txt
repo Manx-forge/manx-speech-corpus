@@ -3,6 +3,8 @@
   "name": "As son y chied cheayrt",
   "source": "https://www.youtube.com/watch?v=5ETJ43mFF7U",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04286",
   "origin": "human",
   "transcript_form": "normalised",

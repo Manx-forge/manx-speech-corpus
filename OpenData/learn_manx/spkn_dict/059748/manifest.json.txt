@@ -3,6 +3,8 @@
   "name": "bink obbrree work bench",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/binkobbrree%20-%20work%20bench.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059748",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Jerrey Souree",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051987113",
   "origin": "human",
   "transcript_form": "normalised",

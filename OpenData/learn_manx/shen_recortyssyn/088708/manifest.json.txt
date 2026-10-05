@@ -3,6 +3,7 @@
   "name": "Creenaght ny mraane",
   "source": "https://www.learnmanx.com/media/Rollage%20Vanninagh/Creenaght%20ny%20mraane.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "088708",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

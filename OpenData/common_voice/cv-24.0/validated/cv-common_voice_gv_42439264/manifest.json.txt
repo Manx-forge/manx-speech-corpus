@@ -3,6 +3,7 @@
   "name": "Lhie dty laue er dy veeal my t'ou er ve smooinaghtyn er olk.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42439264",
   "origin": "human",
   "transcript_form": "raw",

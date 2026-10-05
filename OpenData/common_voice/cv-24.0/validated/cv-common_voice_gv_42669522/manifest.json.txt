@@ -3,6 +3,7 @@
   "name": "Dy der yn cronney shoh treishteil as gerjagh da dy chooilley annym mee-hreishteilagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42669522",
   "origin": "human",
   "transcript_form": "raw",

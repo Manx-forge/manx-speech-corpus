@@ -3,6 +3,8 @@
   "name": "Baatey-ymmyrt rowing boat",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20beach/baatey-ymmyrt%20-%20rowing%20boat.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522012",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Tra t'ad lhie croymmey ayns nyn ooigyn, as cooyl-chlea fo coodagh ny keylljyn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482060",
   "origin": "human",
   "transcript_form": "raw",

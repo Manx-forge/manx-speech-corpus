@@ -3,6 +3,8 @@
   "name": "Ta Kiaull Manninagh yindyssagh",
   "source": "https://www.youtube.com/watch?v=pHMqzajbRks",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04201",
   "origin": "human",
   "transcript_form": "normalised",

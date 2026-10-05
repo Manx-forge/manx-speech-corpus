@@ -3,6 +3,8 @@
   "name": "Straid y Chashtal, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=osa0y-oTygY",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "027132",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

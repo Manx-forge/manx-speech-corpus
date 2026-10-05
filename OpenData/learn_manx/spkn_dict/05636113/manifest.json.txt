@@ -3,6 +3,8 @@
   "name": "Ren oo goll dys ny ratçhyn Jeheiney?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05636113",
   "origin": "human",
   "transcript_form": "normalised",

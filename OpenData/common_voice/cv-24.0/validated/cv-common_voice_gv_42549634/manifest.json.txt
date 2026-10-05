@@ -3,6 +3,7 @@
   "name": "Yiow mayd dy chooilley cheint dy chooid chostal, lhieenee mayd nyn dhieyn lesh spooilley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549634",
   "origin": "human",
   "transcript_form": "raw",

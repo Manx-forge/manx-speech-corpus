@@ -3,6 +3,8 @@
   "name": "roar bree motor bike",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/roar%20bree%20-%20motor%20bike.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059331",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Son ta paart ta hannah er jyndaa dy lhiattee geiyrt er noid ny hanmey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599819",
   "origin": "human",
   "transcript_form": "raw",

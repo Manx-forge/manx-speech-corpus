@@ -3,6 +3,7 @@
   "name": "Cre ny boiraghyn smoo lesh troailt theayagh ayns dty valley?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42503626",
   "origin": "human",
   "transcript_form": "raw",

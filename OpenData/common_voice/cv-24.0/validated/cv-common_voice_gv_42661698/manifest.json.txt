@@ -3,6 +3,7 @@
   "name": "Agh ta ard-reiltee Ellan Vannin noi'n Ghaelg.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42661698",
   "origin": "human",
   "transcript_form": "raw",

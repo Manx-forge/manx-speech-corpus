@@ -3,6 +3,8 @@
   "name": "peetsey pizza",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Pizza_Peetsey.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865465",
   "origin": "human",
   "transcript_form": "normalised",

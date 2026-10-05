@@ -3,6 +3,8 @@
   "name": "Ta mee maynrey er y fa nagh vel mee cummal ayns Purt Çhiarn!",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05712113",
   "origin": "human",
   "transcript_form": "normalised",

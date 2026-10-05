@@ -3,6 +3,7 @@
   "name": "Aless dy vel lheid yn chosoylagh eddyr deiney as muckyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457188",
   "origin": "human",
   "transcript_form": "raw",

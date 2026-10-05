@@ -3,6 +3,7 @@
   "name": "Traa dy Liooar 23 jerrey gheuree 2012",
   "source": "https://www.learnmanx.com/media/traa%20dy%20liooar/Traa%20dy%20Liooar%2023%20jerrey%20gheuree%202012.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "088801",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

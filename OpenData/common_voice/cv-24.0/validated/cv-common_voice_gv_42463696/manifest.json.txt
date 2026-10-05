@@ -3,6 +3,7 @@
   "name": "Bee dy chooilley laue faase, as dy chooilley ghlioon lhag myr ushtey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463696",
   "origin": "human",
   "transcript_form": "raw",

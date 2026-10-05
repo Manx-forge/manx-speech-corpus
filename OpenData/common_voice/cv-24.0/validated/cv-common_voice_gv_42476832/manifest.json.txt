@@ -3,6 +3,7 @@
   "name": "Ren mee fakin eisht cre va er haghyrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42476832",
   "origin": "human",
   "transcript_form": "raw",

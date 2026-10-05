@@ -3,6 +3,8 @@
   "name": "Cha nel mee ayns Colby nish ta mee ayns Purt ny h-Inshey",
   "source": "https://www.youtube.com/watch?v=DToW2AU9niw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04253",
   "origin": "human",
   "transcript_form": "normalised",

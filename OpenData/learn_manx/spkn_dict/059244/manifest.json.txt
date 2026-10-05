@@ -3,6 +3,8 @@
   "name": "thie fillym cinema",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/thie%20fillym%20-%20cinema.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059244",
   "origin": "human",
   "transcript_form": "normalised",

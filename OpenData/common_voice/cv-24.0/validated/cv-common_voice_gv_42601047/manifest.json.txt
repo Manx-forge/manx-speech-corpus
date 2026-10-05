@@ -3,6 +3,7 @@
   "name": "Vel red erbee er y rolley cruick ayd?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42601047",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Ta lane caillit eddyr y laue as y veeal",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42334997",
   "origin": "human",
   "transcript_form": "raw",

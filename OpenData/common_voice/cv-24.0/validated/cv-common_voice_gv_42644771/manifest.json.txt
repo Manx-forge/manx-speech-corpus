@@ -3,6 +3,7 @@
   "name": "Ta'n slattys shoh kiarail rolaue dy chur pooar son raceyn lesh greinyn gleashaghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644771",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Craad veagh oo ny smoo maynrey?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052237113",
   "origin": "human",
   "transcript_form": "normalised",

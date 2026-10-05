@@ -3,6 +3,8 @@
   "name": "T'eh feayr agh chirrym jiu",
   "source": "https://www.youtube.com/watch?v=Y8op88ylvJo",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04260",
   "origin": "human",
   "transcript_form": "normalised",

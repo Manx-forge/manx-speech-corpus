@@ -3,6 +3,8 @@
   "name": "kayt cat",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Pets/kayt%20-%20cat.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058676",
   "origin": "human",
   "transcript_form": "normalised",

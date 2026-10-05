@@ -3,6 +3,7 @@
   "name": "chronicle 80-91",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2080-91.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "083869",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

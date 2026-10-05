@@ -3,6 +3,7 @@
   "name": "Moghrey mie ort, Vannanan veg vac y Leirr, ta yindys orrym dy veeteil rhyts aynshoh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642426",
   "origin": "human",
   "transcript_form": "raw",

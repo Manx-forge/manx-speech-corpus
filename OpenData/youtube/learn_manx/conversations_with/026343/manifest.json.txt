@@ -3,6 +3,8 @@
   "name": "Native Speakers of Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=s4_OuAHW434",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "026343",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

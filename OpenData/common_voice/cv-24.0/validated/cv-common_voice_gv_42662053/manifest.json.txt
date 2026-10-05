@@ -3,6 +3,7 @@
   "name": "Raad t'adsyn fakin grian, t'eh fakin Jee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662053",
   "origin": "human",
   "transcript_form": "raw",

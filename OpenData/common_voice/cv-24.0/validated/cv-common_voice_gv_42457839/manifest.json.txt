@@ -3,6 +3,7 @@
   "name": "Son va fys echey dy nee ayns goanlys v'ad er chur stiagh eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457839",
   "origin": "human",
   "transcript_form": "raw",

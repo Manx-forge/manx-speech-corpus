@@ -3,6 +3,7 @@
   "name": "Mychione obbraghyn roish nyn seyrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629311",
   "origin": "human",
   "transcript_form": "raw",

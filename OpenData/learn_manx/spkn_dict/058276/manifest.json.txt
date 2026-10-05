@@ -3,6 +3,8 @@
   "name": "frynnepan frying pan",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/frynnepan%20-%20frying%20pan.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058276",
   "origin": "human",
   "transcript_form": "normalised",

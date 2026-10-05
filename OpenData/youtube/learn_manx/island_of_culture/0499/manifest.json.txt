@@ -3,6 +3,8 @@
   "name": "Ren mee goll dys thie-bee ayns Doolish Jedoonee",
   "source": "https://www.youtube.com/watch?v=8i_ZLVhy69U",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0499",
   "origin": "human",
   "transcript_form": "normalised",

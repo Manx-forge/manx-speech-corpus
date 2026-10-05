@@ -3,6 +3,7 @@
   "name": "Dooyrt yn bogane ny cur eaie orryms as cha derryms eaie ort.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42481940",
   "origin": "human",
   "transcript_form": "raw",

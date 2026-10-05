@@ -3,6 +3,8 @@
   "name": "Yn skeeal jeh Bollan Bane",
   "source": "https://www.youtube.com/watch?v=pPl8manFS1U",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "028604",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

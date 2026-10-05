@@ -3,6 +3,7 @@
   "name": "Agh shione dooys eh, son ta mee veih, as t'eh er my choyrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447023",
   "origin": "human",
   "transcript_form": "raw",

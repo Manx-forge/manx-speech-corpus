@@ -3,6 +3,8 @@
   "name": "mollag aeragh hot air balloon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/mollag%20aeragh%20-%20hot%20air%20balloon.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058994",
   "origin": "human",
   "transcript_form": "normalised",

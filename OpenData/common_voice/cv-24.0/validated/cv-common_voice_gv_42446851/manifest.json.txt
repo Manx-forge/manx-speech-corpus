@@ -3,6 +3,7 @@
   "name": "Cre'n aght yinnagh oo caghlaa coarys slaynt dty heer?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446851",
   "origin": "human",
   "transcript_form": "raw",

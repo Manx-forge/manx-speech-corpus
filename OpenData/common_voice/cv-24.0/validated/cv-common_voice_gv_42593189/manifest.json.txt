@@ -3,6 +3,7 @@
   "name": "Feanish foalsey ta ginsh breagyn, as eshyn ta doostey anvea eddyr braaraghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42593189",
   "origin": "human",
   "transcript_form": "raw",

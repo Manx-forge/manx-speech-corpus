@@ -3,6 +3,7 @@
   "name": "Soie sheese dy iu soo yn arroo-oarn",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42620475",
   "origin": "human",
   "transcript_form": "raw",

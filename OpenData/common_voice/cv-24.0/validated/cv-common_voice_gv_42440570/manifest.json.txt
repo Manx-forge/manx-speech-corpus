@@ -3,6 +3,7 @@
   "name": "Ta ny dangeeryn smoo ain lie follyt ayns reddyn beggey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42440570",
   "origin": "human",
   "transcript_form": "raw",

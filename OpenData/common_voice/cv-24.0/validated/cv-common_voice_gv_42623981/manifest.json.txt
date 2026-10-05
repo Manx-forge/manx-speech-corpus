@@ -3,6 +3,7 @@
   "name": "My ta beaghey as coamrey ain, lhig dooin ve booiagh lhieu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623981",
   "origin": "human",
   "transcript_form": "raw",

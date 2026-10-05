@@ -3,6 +3,8 @@
   "name": "S'mie lhiam Creneash agh cha nel monney shappyn ayns shoh",
   "source": "https://www.youtube.com/watch?v=klCEE-Gz9VI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0470",
   "origin": "human",
   "transcript_form": "normalised",

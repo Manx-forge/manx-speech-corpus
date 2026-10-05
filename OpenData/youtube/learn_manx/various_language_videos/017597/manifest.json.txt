@@ -3,6 +3,8 @@
   "name": "Bunscoill Ghaelgagh - Yn Moddey Doo",
   "source": "https://www.youtube.com/watch?v=FibpxdIFI4w",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "monologue",
   "resource_id": "017597",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

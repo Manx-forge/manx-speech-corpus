@@ -3,6 +3,7 @@
   "name": "Mychione neu-feeuid ny shirveishee, nagh vel eh lhiettal vondeish y sacrament.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42625449",
   "origin": "human",
   "transcript_form": "raw",

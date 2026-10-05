@@ -3,6 +3,7 @@
   "name": "Ta'n obbyr er choyrt yn rheumatism er ash dou.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463936",
   "origin": "human",
   "transcript_form": "raw",

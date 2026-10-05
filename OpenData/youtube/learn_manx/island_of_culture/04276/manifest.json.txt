@@ -3,6 +3,8 @@
   "name": "Cha nel uss agh shenn ooyl ommidagh ta lane dy gheay",
   "source": "https://www.youtube.com/watch?v=gy6LORxZl4Y",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04276",
   "origin": "human",
   "transcript_form": "normalised",

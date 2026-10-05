@@ -3,6 +3,7 @@
   "name": "Padjer yn saagh ayn ta shin cur lesh ushtey veih'n chreg.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447815",
   "origin": "human",
   "transcript_form": "raw",

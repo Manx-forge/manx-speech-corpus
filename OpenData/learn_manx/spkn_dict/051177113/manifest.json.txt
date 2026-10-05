@@ -3,6 +3,8 @@
   "name": "Faggys da",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051177113",
   "origin": "human",
   "transcript_form": "normalised",

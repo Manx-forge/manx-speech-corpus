@@ -3,6 +3,8 @@
   "name": "Ta shin ayns keeill ayns Balley Keeill Eoin",
   "source": "https://www.youtube.com/watch?v=P09ubU5s0ik",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04344",
   "origin": "human",
   "transcript_form": "normalised",

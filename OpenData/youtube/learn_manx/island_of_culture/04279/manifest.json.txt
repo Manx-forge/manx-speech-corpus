@@ -3,6 +3,8 @@
   "name": "Chouds va'n laa goll shaghey",
   "source": "https://www.youtube.com/watch?v=5uoS0XFkZ0E",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04279",
   "origin": "human",
   "transcript_form": "normalised",

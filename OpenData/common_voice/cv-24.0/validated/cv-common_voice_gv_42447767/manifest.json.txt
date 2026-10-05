@@ -3,6 +3,7 @@
   "name": "\"Er shoh ghooisht mee, as hug mee my-ner; as va my chadley kiune dou.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447767",
   "origin": "human",
   "transcript_form": "raw",

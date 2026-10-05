@@ -3,6 +3,8 @@
   "name": "She bochilley mish",
   "source": "https://www.youtube.com/watch?v=vwspUY8n9ts",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04353",
   "origin": "human",
   "transcript_form": "normalised",

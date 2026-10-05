@@ -3,6 +3,7 @@
   "name": "Boddagh yn Chooat Laaghagh dooyrt yn fer mooar.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457406",
   "origin": "human",
   "transcript_form": "raw",

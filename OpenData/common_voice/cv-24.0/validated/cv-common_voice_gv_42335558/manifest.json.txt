@@ -3,6 +3,7 @@
   "name": "O cooin lhien noi'n noid: son s'fardalagh ta cooney dooinney.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335558",
   "origin": "human",
   "transcript_form": "raw",

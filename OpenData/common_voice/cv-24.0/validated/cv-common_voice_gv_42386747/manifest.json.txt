@@ -3,6 +3,7 @@
   "name": "Cha vod jee cairagh bannaghey obbraghyn meecairagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386747",
   "origin": "human",
   "transcript_form": "raw",

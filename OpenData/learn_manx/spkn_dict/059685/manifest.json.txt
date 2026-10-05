@@ -3,6 +3,8 @@
   "name": "rio ice",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/rio%20-%20ice.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059685",
   "origin": "human",
   "transcript_form": "normalised",

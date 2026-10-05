@@ -3,6 +3,8 @@
   "name": "Scaan Spurrier ec Shenn Thie-oast ny Marrey, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=JClJqAjcPt8&t=43s",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "02485",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "mair finger",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/mair%20-%20finger.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057260",
   "origin": "human",
   "transcript_form": "normalised",

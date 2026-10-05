@@ -3,6 +3,8 @@
   "name": "thie-lheihys hospital",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/thie-lheihys%20-%20hospital.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059256",
   "origin": "human",
   "transcript_form": "normalised",

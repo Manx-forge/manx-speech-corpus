@@ -3,6 +3,7 @@
   "name": "Er-yn-oyr dy row eh er ny choyrt dou tra va mee jeant my Chreestee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643030",
   "origin": "human",
   "transcript_form": "raw",

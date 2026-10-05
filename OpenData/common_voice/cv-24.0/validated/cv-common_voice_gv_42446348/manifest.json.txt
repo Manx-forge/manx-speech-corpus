@@ -3,6 +3,7 @@
   "name": "As hug ee craitnyn ny mannanyn, er e laueyn, as er lhoamid e wannal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446348",
   "origin": "human",
   "transcript_form": "raw",

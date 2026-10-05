@@ -3,6 +3,7 @@
   "name": "Ec yn traa shen haink dooinney va er vakin ad voish yn toshiaght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447304",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "\"Liorym's, ta'n ushtey gra, \"\"t'ou nhiee oo-hene as cuir paays.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457382",
   "origin": "human",
   "transcript_form": "raw",

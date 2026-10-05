@@ -3,6 +3,7 @@
   "name": "Eisht dooyrt ad rish, Cre vel eh? Dooyrt eshyn, Cha s'aym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457550",
   "origin": "human",
   "transcript_form": "raw",

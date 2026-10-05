@@ -3,6 +3,7 @@
   "name": "Cheb-yms dhyt ourallyn-losht roauyrey, marish oural-millish reaghyn: cheb-ym dew as goair.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599821",
   "origin": "human",
   "transcript_form": "raw",

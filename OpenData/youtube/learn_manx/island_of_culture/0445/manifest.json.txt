@@ -3,6 +3,8 @@
   "name": "Mie lhiat spollagyn? Aye, s'mie lhiam spollagyn ram",
   "source": "https://www.youtube.com/watch?v=6EfjN__MLlM",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0445",
   "origin": "human",
   "transcript_form": "normalised",

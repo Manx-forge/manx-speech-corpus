@@ -3,6 +3,7 @@
   "name": "Mannagh vel fys ayd er fockle ayns çhengey elley, c'red t'ou jannoo?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42476729",
   "origin": "human",
   "transcript_form": "raw",

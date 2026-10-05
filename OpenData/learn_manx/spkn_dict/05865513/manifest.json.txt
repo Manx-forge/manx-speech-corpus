@@ -3,6 +3,8 @@
   "name": "puiddin y nollick christmas pudding",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Christmas%20Pudding_Puiddin%20y%20Nollick.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865513",
   "origin": "human",
   "transcript_form": "normalised",

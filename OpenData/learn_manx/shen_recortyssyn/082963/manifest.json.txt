@@ -3,6 +3,7 @@
   "name": "chronicle 43b-50",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2043b-50.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "082963",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

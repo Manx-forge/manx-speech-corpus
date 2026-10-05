@@ -3,6 +3,8 @@
   "name": "Lhoan y Thie Obbree, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=zuXEep8t2OE",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "028828",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

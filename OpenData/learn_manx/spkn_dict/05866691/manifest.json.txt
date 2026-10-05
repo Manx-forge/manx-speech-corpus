@@ -3,6 +3,8 @@
   "name": "ta un vraar as daa huyr aym i have one brother and two sisters",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20one%20brother%20and%20two%20sisters.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866691",
   "origin": "human",
   "transcript_form": "normalised",

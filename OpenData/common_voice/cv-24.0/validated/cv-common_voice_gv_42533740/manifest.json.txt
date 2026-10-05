@@ -3,6 +3,7 @@
   "name": "Cre'n ghreie ayns dty hie ta'n chooid smoo dy ymmyd jeant jeh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533740",
   "origin": "human",
   "transcript_form": "raw",

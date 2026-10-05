@@ -3,6 +3,8 @@
   "name": "Jagh oo dys Colby?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051832113",
   "origin": "human",
   "transcript_form": "normalised",

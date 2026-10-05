@@ -3,6 +3,8 @@
   "name": "Ta Voirrey shooyl Voirrey is walking",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0581113",
   "origin": "human",
   "transcript_form": "normalised",

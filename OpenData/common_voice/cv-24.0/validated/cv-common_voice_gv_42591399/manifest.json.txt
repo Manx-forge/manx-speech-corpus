@@ -3,6 +3,7 @@
   "name": "Rheynn ad my gharmadyn ny mast'oc: as er my chooat hilg ad lottyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42591399",
   "origin": "human",
   "transcript_form": "raw",

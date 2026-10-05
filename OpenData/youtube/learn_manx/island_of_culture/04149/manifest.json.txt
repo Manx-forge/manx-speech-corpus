@@ -3,6 +3,8 @@
   "name": "Fastyr mie, mish....",
   "source": "https://www.youtube.com/watch?v=XFolVO5V_F8",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04149",
   "origin": "human",
   "transcript_form": "normalised",

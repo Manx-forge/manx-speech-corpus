@@ -3,6 +3,7 @@
   "name": "Ass lheih yn reeriaght, as yn ashoon ain.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335057",
   "origin": "human",
   "transcript_form": "raw",

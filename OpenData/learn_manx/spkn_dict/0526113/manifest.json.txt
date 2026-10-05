@@ -3,6 +3,8 @@
   "name": "Vel oo braew? Are you fine?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0526113",
   "origin": "human",
   "transcript_form": "normalised",

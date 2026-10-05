@@ -3,6 +3,7 @@
   "name": "As ayns wheesh as nagh row eh er ny oardaghey ny haggyrt fegooish breearrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549737",
   "origin": "human",
   "transcript_form": "raw",

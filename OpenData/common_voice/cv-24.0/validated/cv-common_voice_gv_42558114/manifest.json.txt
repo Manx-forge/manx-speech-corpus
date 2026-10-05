@@ -3,6 +3,7 @@
   "name": "Meenid: sheeltys, noi nyn lheid cha vel leigh erbee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42558114",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Ayns trimshey dy bragh beayn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694898",
   "origin": "human",
   "transcript_form": "raw",

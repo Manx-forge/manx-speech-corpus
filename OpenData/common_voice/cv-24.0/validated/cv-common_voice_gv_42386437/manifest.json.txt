@@ -3,6 +3,7 @@
   "name": "Agh ayns ny ourallyn shen ta cooinaghtyn jeant reesht jeh peccaghyn dy chooilley vlein.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386437",
   "origin": "human",
   "transcript_form": "raw",

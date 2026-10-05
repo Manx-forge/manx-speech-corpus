@@ -3,6 +3,7 @@
   "name": "Lesh yn raad fo-chosh, v'ad bunnys er roshtyn dys yn oik postagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549342",
   "origin": "human",
   "transcript_form": "raw",

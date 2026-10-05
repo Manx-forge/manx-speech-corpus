@@ -3,6 +3,7 @@
   "name": "My vee oo creeoil dy liooar, foddee oo jannoo cre erbee sailt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42535516",
   "origin": "human",
   "transcript_form": "raw",

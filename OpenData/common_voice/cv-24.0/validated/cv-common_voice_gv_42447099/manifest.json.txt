@@ -3,6 +3,7 @@
   "name": "Nyn ennym beayn ve nieer ayns fuill e chree.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447099",
   "origin": "human",
   "transcript_form": "raw",

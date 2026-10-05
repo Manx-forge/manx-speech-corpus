@@ -3,6 +3,7 @@
   "name": "bunneydys_16",
   "source": "https://www.learnmanx.com/media/bunneydys/bunneydys%2016.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "084089",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

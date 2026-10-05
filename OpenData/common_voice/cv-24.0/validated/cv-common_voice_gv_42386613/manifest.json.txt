@@ -3,6 +3,7 @@
   "name": "Ta mee cheet dy chur shilley ort reesht.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386613",
   "origin": "human",
   "transcript_form": "raw",

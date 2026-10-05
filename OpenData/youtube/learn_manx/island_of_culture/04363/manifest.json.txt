@@ -3,6 +3,8 @@
   "name": "S'mie lhiam cloie dub",
   "source": "https://www.youtube.com/watch?v=6sinlGiHFbc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04363",
   "origin": "human",
   "transcript_form": "normalised",

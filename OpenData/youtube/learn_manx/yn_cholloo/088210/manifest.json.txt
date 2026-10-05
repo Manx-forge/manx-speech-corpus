@@ -3,6 +3,7 @@
   "name": "Yn Cholloo? Gymmydey reesht greieyn whaaley veih lhong-vrisht",
   "source": "https://www.youtube.com/watch?v=9x6OH7cUnuY",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "088210",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

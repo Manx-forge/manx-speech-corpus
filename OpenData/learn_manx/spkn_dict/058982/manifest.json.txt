@@ -3,6 +3,8 @@
   "name": "lheimyraght-cabbyl show jumping",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/lheimyraght-cabbyl%20-%20show%20jumping.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058982",
   "origin": "human",
   "transcript_form": "normalised",

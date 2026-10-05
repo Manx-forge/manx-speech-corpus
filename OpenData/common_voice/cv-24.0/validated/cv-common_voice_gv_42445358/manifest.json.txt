@@ -3,6 +3,7 @@
   "name": "Son cha vel eh possible dy jinnagh fuill terriu as goair goaill ersooyl peccaghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445358",
   "origin": "human",
   "transcript_form": "raw",

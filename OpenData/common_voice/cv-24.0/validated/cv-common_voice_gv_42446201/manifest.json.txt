@@ -3,6 +3,7 @@
   "name": "\"Troaltee elley? dooyrt yn Barron. \"\"Nee mraane seyr ad?\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446201",
   "origin": "human",
   "transcript_form": "raw",

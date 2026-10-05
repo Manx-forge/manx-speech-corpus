@@ -3,6 +3,8 @@
   "name": "Conversation 01",
   "source": "https://www.learnmanx.com/media//cowag/01%20Track%2001%2010.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04365",
   "origin": "human",
   "transcript_form": "normalised",

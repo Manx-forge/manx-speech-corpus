@@ -3,6 +3,7 @@
   "name": "Agh mannagh jean oo breearrey, cha bee eh peccah dhyt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445441",
   "origin": "human",
   "transcript_form": "raw",

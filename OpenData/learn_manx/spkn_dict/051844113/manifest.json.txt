@@ -3,6 +3,8 @@
   "name": "Haink mee thie er daa-wheeyl",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051844113",
   "origin": "human",
   "transcript_form": "normalised",

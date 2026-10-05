@@ -3,6 +3,7 @@
   "name": "Lhig dooin briwnys y yannoo 'sy chooish shoh cordail rish goo Yee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642435",
   "origin": "human",
   "transcript_form": "raw",

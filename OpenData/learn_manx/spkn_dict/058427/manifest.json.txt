@@ -3,6 +3,8 @@
   "name": "mairagh tomorrow",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mairagh%20-%20tomorrow.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058427",
   "origin": "human",
   "transcript_form": "normalised",

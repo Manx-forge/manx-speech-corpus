@@ -3,6 +3,7 @@
   "name": "Ren Jee goaill eh ec e 'ockle, as myr shoh geamagh er dys beaynid.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42665961",
   "origin": "human",
   "transcript_form": "raw",

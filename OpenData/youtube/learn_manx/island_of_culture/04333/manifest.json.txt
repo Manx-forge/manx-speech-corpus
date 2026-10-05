@@ -3,6 +3,8 @@
   "name": "She Spanniagh mish",
   "source": "https://www.youtube.com/watch?v=OQO2J4vfH0E",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04333",
   "origin": "human",
   "transcript_form": "normalised",

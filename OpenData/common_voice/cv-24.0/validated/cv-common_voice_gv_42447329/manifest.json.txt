@@ -3,6 +3,7 @@
   "name": "Dooyrt y ven rish, Vainshter, ta mee cur tastey dy nee phadeyr oo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447329",
   "origin": "human",
   "transcript_form": "raw",

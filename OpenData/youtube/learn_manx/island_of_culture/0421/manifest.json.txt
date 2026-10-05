@@ -3,6 +3,8 @@
   "name": "Mish Jenny as shoh my charrey Ali",
   "source": "https://www.youtube.com/watch?v=qCH_Ghl6HJU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0421",
   "origin": "human",
   "transcript_form": "normalised",

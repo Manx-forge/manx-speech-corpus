@@ -3,6 +3,8 @@
   "name": "Ta mee shappal ayns Doolish. Craad t'ou shappal?",
   "source": "https://www.youtube.com/watch?v=zVHiba99PbE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0412",
   "origin": "human",
   "transcript_form": "normalised",

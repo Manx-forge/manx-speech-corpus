@@ -3,6 +3,7 @@
   "name": "T'ou jannoo yindys dou dy vel oo briaght lhied ny feyshtyn jeem, my 'henn ven.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643281",
   "origin": "human",
   "transcript_form": "raw",

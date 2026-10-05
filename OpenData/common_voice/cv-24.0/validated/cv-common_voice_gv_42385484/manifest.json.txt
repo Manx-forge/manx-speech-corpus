@@ -3,6 +3,7 @@
   "name": "Agh ooilley ny t'ayn faagys oo ayns traa giare.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385484",
   "origin": "human",
   "transcript_form": "raw",

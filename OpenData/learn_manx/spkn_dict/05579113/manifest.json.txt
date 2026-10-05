@@ -3,6 +3,8 @@
   "name": "Vel Barak Obama cummal ayns Colby?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05579113",
   "origin": "human",
   "transcript_form": "normalised",

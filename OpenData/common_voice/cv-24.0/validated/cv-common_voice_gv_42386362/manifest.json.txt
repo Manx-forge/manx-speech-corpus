@@ -3,6 +3,7 @@
   "name": "As jimmee dy chooilley ghooinney roish gys e hie hene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386362",
   "origin": "human",
   "transcript_form": "raw",

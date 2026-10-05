@@ -3,6 +3,7 @@
   "name": "Ta dooinney mee-chrauee goaill leagh dy follit, dy chassey raaidyn y vriwnys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335164",
   "origin": "human",
   "transcript_form": "raw",

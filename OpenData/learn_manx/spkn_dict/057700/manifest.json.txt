@@ -3,6 +3,8 @@
   "name": "slieau mountain",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/slieau%20-%20mountain.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057700",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Vel oo er ve çhing yn çhiaghtin shoh?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051742113",
   "origin": "human",
   "transcript_form": "normalised",

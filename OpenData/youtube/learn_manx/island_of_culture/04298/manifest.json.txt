@@ -3,6 +3,8 @@
   "name": "Cre shegin dhyt jannoo jiu? Shegin dou drappal seose Barrool",
   "source": "https://www.youtube.com/watch?v=nQl95QMY5zQ",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04298",
   "origin": "human",
   "transcript_form": "normalised",

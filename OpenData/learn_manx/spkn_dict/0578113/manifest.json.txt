@@ -3,6 +3,8 @@
   "name": "T'ou gee You eat",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0578113",
   "origin": "human",
   "transcript_form": "normalised",

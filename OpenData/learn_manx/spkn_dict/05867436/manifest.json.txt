@@ -3,6 +3,8 @@
   "name": "keyl thin",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Thin.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05867436",
   "origin": "human",
   "transcript_form": "normalised",

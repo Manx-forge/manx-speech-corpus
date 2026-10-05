@@ -3,6 +3,8 @@
   "name": "Ayns cooinaghtyn jeh JJ Kneen",
   "source": "https://www.youtube.com/watch?v=RBz-4kd_bW8",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "025551",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

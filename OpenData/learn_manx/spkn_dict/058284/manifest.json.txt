@@ -3,6 +3,8 @@
   "name": "meilley basin",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/meilley%20-%20basin.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058284",
   "origin": "human",
   "transcript_form": "normalised",

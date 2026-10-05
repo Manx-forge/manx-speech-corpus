@@ -3,6 +3,7 @@
   "name": "S'giare y jough na yn skeall",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386907",
   "origin": "human",
   "transcript_form": "raw",

@@ -5,6 +5,7 @@
   "createdCircaEnd": "2026-07-05",
   "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-5oo-jerrey-souree-2026-july-5th/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09356",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

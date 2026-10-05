@@ -3,6 +3,7 @@
   "name": "Dy chadley ayns y joan.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42499314",
   "origin": "human",
   "transcript_form": "raw",

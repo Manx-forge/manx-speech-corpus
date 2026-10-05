@@ -3,6 +3,8 @@
   "name": "paitchey child",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/paitchey%20-%20child.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054454",
   "origin": "human",
   "transcript_form": "normalised",

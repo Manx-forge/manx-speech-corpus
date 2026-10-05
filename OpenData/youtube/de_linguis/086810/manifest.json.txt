@@ -3,6 +3,7 @@
   "name": "Cooishyn Gailckagh 9 - Pronunciation of Manx words with Juan y Crellin Part 1?3",
   "source": "https://www.youtube.com/watch?v=vlEuSeDOhaI",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "086810",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

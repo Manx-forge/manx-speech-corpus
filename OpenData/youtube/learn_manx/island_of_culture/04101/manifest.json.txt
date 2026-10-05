@@ -3,6 +3,8 @@
   "name": "Ren mee goll dys yn thie-fillym ayns Doolish Jemayrt",
   "source": "https://www.youtube.com/watch?v=unAh5sMha40",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04101",
   "origin": "human",
   "transcript_form": "normalised",

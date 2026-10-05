@@ -3,6 +3,7 @@
   "name": "Quoid dy çhaghteraghtyn post-l neu-lhaihit t'ayd dy cliaghtagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42664796",
   "origin": "human",
   "transcript_form": "raw",

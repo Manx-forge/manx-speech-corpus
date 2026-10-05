@@ -3,6 +3,8 @@
   "name": "S'mie lhiam Purt ny h-Inshey as s'mie lhiam loayrt Gaelg",
   "source": "https://www.youtube.com/watch?v=mrHG39OlUOA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0484",
   "origin": "human",
   "transcript_form": "normalised",

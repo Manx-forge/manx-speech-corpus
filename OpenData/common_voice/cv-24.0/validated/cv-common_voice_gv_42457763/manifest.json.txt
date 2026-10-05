@@ -3,6 +3,7 @@
   "name": "Roish nee ad cheet dy hassoo roish e oaie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457763",
   "origin": "human",
   "transcript_form": "raw",

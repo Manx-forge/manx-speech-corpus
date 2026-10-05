@@ -3,6 +3,8 @@
   "name": "barroose bus",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/barroose%20-%20bus.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059267",
   "origin": "human",
   "transcript_form": "normalised",

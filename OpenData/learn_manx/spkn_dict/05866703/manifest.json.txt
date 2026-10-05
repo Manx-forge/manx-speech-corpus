@@ -3,6 +3,8 @@
   "name": "cha nel braaraghyn aym agh ta shuyraghyn aym i don't have brothers but i have sisters",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20don't%20have%20brothers%20but%20I%20have%20sisters.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866703",
   "origin": "human",
   "transcript_form": "normalised",

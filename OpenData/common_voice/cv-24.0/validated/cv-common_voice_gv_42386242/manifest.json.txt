@@ -3,6 +3,7 @@
   "name": "Dy jarroo, lesh dty hooillyn ver oo my-ner: as hee oo leagh ny mee-chrauee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386242",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Shegin dooin ve er ny ruggey jeh'n spyrryd.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644448",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Ansoor flaunyssagh: Son mish y Çhiarn ta cur dhyt dty 'laynt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662129",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cre yn red smoo scanshoil tra t'ou reih boayl dy chummal?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42292",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

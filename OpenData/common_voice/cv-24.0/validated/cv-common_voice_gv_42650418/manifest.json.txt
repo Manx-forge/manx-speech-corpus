@@ -3,6 +3,7 @@
   "name": "Shen-y-fa ta'n mac dooinney ny hiarn myrgeddin er y doonaght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650418",
   "origin": "human",
   "transcript_form": "raw",

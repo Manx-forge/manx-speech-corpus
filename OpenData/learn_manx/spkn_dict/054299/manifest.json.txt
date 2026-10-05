@@ -3,6 +3,8 @@
   "name": "moddey oaldey wolf",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/moddey%20oaldey%20-%20wolf.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054299",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "T'eh cair da'n slane shiaghtin ve shiaght shamyryn currit da jee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42333433",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Scriut ayns yn vlein hoght cheead yeig kaire feed as nuy jeig.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42462423",
   "origin": "human",
   "transcript_form": "raw",

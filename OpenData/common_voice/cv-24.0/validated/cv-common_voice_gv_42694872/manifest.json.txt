@@ -3,6 +3,7 @@
   "name": "Ta shiu liorish shoh cur coyrle dou dy chur mee-hene seose dys mee-hreishteil.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694872",
   "origin": "human",
   "transcript_form": "raw",

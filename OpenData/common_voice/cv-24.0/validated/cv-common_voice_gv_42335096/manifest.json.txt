@@ -3,6 +3,7 @@
   "name": "Er nonney n'oo plaiynt ec laccal dty laynt",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335096",
   "origin": "human",
   "transcript_form": "raw",

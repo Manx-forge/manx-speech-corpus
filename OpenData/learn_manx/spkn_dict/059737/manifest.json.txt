@@ -3,6 +3,8 @@
   "name": "tendreil lightning",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/tendreil%20-%20lightning.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059737",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "caffee coffee",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/caffee%20-%20coffee.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057787",
   "origin": "human",
   "transcript_form": "normalised",

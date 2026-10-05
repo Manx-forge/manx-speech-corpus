@@ -3,6 +3,8 @@
   "name": "oolyn eggs",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Ooylyn.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05726282",
   "origin": "human",
   "transcript_form": "normalised",

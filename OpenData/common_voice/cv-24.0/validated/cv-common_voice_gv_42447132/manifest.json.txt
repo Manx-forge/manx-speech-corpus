@@ -3,6 +3,7 @@
   "name": "Dy jarroo ta slane dwoaie aym orroo: myr dy beagh ad my eer noidyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447132",
   "origin": "human",
   "transcript_form": "raw",

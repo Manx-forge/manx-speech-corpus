@@ -3,6 +3,8 @@
   "name": "ollan wool",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/ollan%20-%20wool.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054450",
   "origin": "human",
   "transcript_form": "normalised",

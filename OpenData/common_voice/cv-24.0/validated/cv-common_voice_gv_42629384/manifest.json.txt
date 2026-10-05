@@ -3,6 +3,7 @@
   "name": "She, as eisht bee yn sleih cooilleenit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629384",
   "origin": "human",
   "transcript_form": "raw",

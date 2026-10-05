@@ -3,6 +3,7 @@
   "name": "Veagh ee berçhagh dy liooar mannagh beagh ee baarail dagh ping t'ee cosney.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42598891",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "ab_13_c",
   "source": "https://www.learnmanx.com/media/Ned%20Maddrell/ab%2013%20c.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "088107",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "Cre'n fa t'ad er ny ghra dy ve erskyn ooilley ymmyrçhagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629234",
   "origin": "human",
   "transcript_form": "raw",

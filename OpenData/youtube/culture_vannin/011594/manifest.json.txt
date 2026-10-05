@@ -3,6 +3,8 @@
   "name": "Aalican - A poem by John Gell",
   "source": "https://www.youtube.com/watch?v=OR3Pc3wWTqQ",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "011594",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

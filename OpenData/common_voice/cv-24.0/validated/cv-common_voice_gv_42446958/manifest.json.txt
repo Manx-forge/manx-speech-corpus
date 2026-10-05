@@ -3,6 +3,7 @@
   "name": "Shen-y-fa va'n magher shen enmyssit, Yn magher-foalley, gys y laa t'ayn jiu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446958",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Echeysyn ny lomarcan ta'n vea dy bragh farraghtyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42628985",
   "origin": "human",
   "transcript_form": "raw",

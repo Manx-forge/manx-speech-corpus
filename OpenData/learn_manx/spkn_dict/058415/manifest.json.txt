@@ -3,6 +3,8 @@
   "name": "laa Nollick Beg New Year's day",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/laa%20Nollick%20Beg%20-%20New%20Year%20day.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058415",
   "origin": "human",
   "transcript_form": "normalised",

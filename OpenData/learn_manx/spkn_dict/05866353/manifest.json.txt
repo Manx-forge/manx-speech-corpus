@@ -3,6 +3,8 @@
   "name": "braagyn shoes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Shoes.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866353",
   "origin": "human",
   "transcript_form": "normalised",

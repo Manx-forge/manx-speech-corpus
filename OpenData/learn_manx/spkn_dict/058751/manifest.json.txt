@@ -3,6 +3,8 @@
   "name": "driaght-pabyr paper chains",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/driaght-pabyr%20-%20paper%20chains.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058751",
   "origin": "human",
   "transcript_form": "normalised",

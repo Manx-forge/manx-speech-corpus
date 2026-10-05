@@ -3,6 +3,7 @@
   "name": "Quoid dy vuill glass t'ayns dty valley?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42489893",
   "origin": "human",
   "transcript_form": "raw",

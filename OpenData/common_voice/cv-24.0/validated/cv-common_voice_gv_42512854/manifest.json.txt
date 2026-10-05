@@ -3,6 +3,7 @@
   "name": "Eisht hie ad son argane ry-cheilley, quoi jeu syrjey veagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42512854",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Conversation 08",
   "source": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20track08.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04401",
   "origin": "human",
   "transcript_form": "normalised",

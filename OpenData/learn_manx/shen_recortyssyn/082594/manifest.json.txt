@@ -3,6 +3,7 @@
   "name": "chronicle 26a-27",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2026a-27.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "082594",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

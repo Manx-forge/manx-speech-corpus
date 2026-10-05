@@ -3,6 +3,7 @@
   "name": "She maarlee as breagyryn ad ooilley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533962",
   "origin": "human",
   "transcript_form": "raw",

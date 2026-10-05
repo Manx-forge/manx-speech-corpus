@@ -3,6 +3,7 @@
   "name": "\"Yinnin's earroo my chesmadyn y hoilshaghey da; myr prince harrin er-gerrey da.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457780",
   "origin": "human",
   "transcript_form": "raw",

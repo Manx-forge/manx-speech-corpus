@@ -3,6 +3,8 @@
   "name": "Cha nel mee keoie ta mee maynrey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0534113",
   "origin": "human",
   "transcript_form": "normalised",

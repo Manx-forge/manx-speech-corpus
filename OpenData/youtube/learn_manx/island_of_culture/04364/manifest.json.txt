@@ -3,6 +3,8 @@
   "name": "Cha nel mee feer vie ec dub",
   "source": "https://www.youtube.com/watch?v=cRsNFRYiACc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04364",
   "origin": "human",
   "transcript_form": "normalised",

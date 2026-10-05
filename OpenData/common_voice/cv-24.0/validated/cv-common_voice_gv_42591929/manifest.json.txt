@@ -3,6 +3,7 @@
   "name": "As ghuee ad er gyn eh dy oardaghey daue goll sheese gys y diunid.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42591929",
   "origin": "human",
   "transcript_form": "raw",

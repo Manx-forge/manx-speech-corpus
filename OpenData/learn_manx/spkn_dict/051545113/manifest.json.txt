@@ -3,6 +3,8 @@
   "name": "Mie lhiat Droghad y Cherroo?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051545113",
   "origin": "human",
   "transcript_form": "normalised",

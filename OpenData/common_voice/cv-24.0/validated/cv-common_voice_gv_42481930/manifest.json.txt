@@ -3,6 +3,7 @@
   "name": "Ta'n dooinney tarroogh laboragh da hene, son ta e veeal dy eGinaghey eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42481930",
   "origin": "human",
   "transcript_form": "raw",

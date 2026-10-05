@@ -3,6 +3,8 @@
   "name": "Jinnagh oo gimman harrish y clieau feer tappee?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051640113",
   "origin": "human",
   "transcript_form": "normalised",

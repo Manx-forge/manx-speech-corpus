@@ -3,6 +3,8 @@
   "name": "S'mie lhiam TT",
   "source": "https://www.youtube.com/watch?v=Yr_DqkJNl4M",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04157",
   "origin": "human",
   "transcript_form": "normalised",

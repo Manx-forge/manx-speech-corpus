@@ -3,6 +3,7 @@
   "name": "Ta'n Scriptyr Casherick ynsagh fondagh son nyn taualtys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662113",
   "origin": "human",
   "transcript_form": "raw",

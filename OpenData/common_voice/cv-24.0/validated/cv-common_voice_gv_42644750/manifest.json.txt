@@ -3,6 +3,7 @@
   "name": "Mychione yn gholl-sheese echey gys Niurin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644750",
   "origin": "human",
   "transcript_form": "raw",

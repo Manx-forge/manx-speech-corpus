@@ -3,6 +3,8 @@
   "name": "Dy beagh oo berçhagh c'raad yinnagh oo cummal?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052165113",
   "origin": "human",
   "transcript_form": "normalised",

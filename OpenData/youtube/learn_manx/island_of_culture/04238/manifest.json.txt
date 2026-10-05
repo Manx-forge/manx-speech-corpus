@@ -3,6 +3,8 @@
   "name": "Ta mee ayns Purt ny h-Inshey jiu agh va mee ayns Purt le Moirrey jea",
   "source": "https://www.youtube.com/watch?v=XkBEvH-3hTc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04238",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Nee'm y chooid share, son coontey feer y choyrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650335",
   "origin": "human",
   "transcript_form": "raw",

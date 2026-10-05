@@ -3,6 +3,7 @@
   "name": "As dooyrt ad, Kys by-lhoys da dellal rish y chuyr ain, myr rish streebagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42593129",
   "origin": "human",
   "transcript_form": "raw",

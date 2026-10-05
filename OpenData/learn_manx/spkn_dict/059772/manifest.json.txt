@@ -3,6 +3,8 @@
   "name": "oard hammer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/oard%20-%20hammer.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059772",
   "origin": "human",
   "transcript_form": "normalised",

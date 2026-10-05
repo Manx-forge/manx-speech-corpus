@@ -3,6 +3,7 @@
   "name": "Er nyn seyrey eisht veih peccah, haink shiu dy ve sharvaantyn dy chairys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385704",
   "origin": "human",
   "transcript_form": "raw",

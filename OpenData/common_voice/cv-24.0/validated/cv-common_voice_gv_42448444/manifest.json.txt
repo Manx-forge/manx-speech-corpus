@@ -3,6 +3,7 @@
   "name": "My oddys shiu jannoo mie jiu ny jean shiu liggey shaghey gys mairagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448444",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Va ny hakeyn gee dy tappee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447555",
   "origin": "human",
   "transcript_form": "raw",

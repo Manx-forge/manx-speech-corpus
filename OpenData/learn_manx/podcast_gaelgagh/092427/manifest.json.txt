@@ -3,6 +3,7 @@
   "name": "learning manx part 93",
   "source": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2093.mp3",
   "platform": "learn_manx",
+  "domain": "podcast",
   "resource_id": "092427",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

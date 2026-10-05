@@ -3,6 +3,8 @@
   "name": "Shiaght",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051912113",
   "origin": "human",
   "transcript_form": "normalised",

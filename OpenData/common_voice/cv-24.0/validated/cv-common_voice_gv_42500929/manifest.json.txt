@@ -3,6 +3,7 @@
   "name": "Bee ny looghyn ayns loobyn yn arg: cha bee ad goit assdoo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42500929",
   "origin": "human",
   "transcript_form": "raw",

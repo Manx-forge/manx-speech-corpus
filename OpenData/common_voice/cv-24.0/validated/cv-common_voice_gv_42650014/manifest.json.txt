@@ -3,6 +3,7 @@
   "name": "As crown dy gloyr yiow shiu lurg baase.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650014",
   "origin": "human",
   "transcript_form": "raw",

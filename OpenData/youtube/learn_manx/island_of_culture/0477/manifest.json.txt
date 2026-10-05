@@ -3,6 +3,8 @@
   "name": "Vel Rhumsaa ny share na Purt le Moirrey? S'liklee dy vel eh",
   "source": "https://www.youtube.com/watch?v=GM8lPz9Bsx0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0477",
   "origin": "human",
   "transcript_form": "normalised",

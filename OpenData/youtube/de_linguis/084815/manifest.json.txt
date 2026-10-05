@@ -3,6 +3,8 @@
   "name": "Cooishyn Gailckagh 8 - Pronouncing T, D, Tr, Dr in Manx and IOL 2023",
   "source": "https://www.youtube.com/watch?v=rIvyePGNuK0&t=520s",
   "platform": "youtube",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "084815",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

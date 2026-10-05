@@ -3,6 +3,7 @@
   "name": "T'eshyn lesh fea-anmey slane cooilleenit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643393",
   "origin": "human",
   "transcript_form": "raw",

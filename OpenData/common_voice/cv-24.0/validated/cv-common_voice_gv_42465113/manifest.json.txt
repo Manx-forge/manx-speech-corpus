@@ -3,6 +3,7 @@
   "name": "As mannagh bee inneen echey, eisht ver shiu yn eiraght da e vraaraghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42465113",
   "origin": "human",
   "transcript_form": "raw",

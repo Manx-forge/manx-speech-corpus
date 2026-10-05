@@ -3,6 +3,7 @@
   "name": "Cha lhig eh dou goaill m'ennal, agh eeh dy my lhieeney lesh sherriuid.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445307",
   "origin": "human",
   "transcript_form": "raw",

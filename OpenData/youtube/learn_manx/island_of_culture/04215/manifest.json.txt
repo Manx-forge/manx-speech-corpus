@@ -3,6 +3,8 @@
   "name": "Er-lhiam dy bee eh braew as grianagh mairagh",
   "source": "https://www.youtube.com/watch?v=929xvQHGLow",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04215",
   "origin": "human",
   "transcript_form": "normalised",

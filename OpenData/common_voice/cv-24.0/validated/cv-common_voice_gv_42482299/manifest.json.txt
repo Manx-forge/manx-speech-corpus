@@ -3,6 +3,7 @@
   "name": "Cur dty chass er dhiane as nee e chyndaa ort.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42482299",
   "origin": "human",
   "transcript_form": "raw",

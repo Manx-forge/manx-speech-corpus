@@ -3,6 +3,7 @@
   "name": "Ta my gheiney-mooinjer er my hreigeil, as ta my chaarjyn dooie er my yarrood.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446948",
   "origin": "human",
   "transcript_form": "raw",

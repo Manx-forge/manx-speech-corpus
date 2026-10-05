@@ -3,6 +3,8 @@
   "name": "Cre gollrish vees yn emshyr mairagh? Bee eh braew",
   "source": "https://www.youtube.com/watch?v=Qx8gq34QRnI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04218",
   "origin": "human",
   "transcript_form": "normalised",

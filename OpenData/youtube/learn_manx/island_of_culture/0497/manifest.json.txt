@@ -3,6 +3,8 @@
   "name": "By vie lhiat kay riojey?",
   "source": "https://www.youtube.com/watch?v=O-fHAvbKCBg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0497",
   "origin": "human",
   "transcript_form": "normalised",

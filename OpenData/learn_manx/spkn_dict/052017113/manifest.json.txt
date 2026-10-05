@@ -3,6 +3,8 @@
   "name": "Craad yinnagh Orry cummal dy beagh eh berçhagh?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052017113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Shen-y-fa t'eh fosley e veeal ayns fardail: t'eh branlaadee lesh e ghoan.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425677",
   "origin": "human",
   "transcript_form": "raw",

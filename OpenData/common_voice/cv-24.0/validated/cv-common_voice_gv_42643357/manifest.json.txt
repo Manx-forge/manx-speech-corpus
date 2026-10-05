@@ -3,6 +3,7 @@
   "name": "Lhig da'n ymmyrkey-bea eu ve fegooish saynt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643357",
   "origin": "human",
   "transcript_form": "raw",

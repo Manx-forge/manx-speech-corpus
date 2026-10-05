@@ -3,6 +3,8 @@
   "name": "oikan baby",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/oikan%20-%20baby.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054446",
   "origin": "human",
   "transcript_form": "normalised",

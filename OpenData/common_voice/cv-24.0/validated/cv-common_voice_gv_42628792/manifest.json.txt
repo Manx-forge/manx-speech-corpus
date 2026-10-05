@@ -3,6 +3,7 @@
   "name": "Dy m'injillaghey hene gys ooilley my chiannoortyn, fir-ynsee, bochillyn spyrrydoil as mainshtyryn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42628792",
   "origin": "human",
   "transcript_form": "raw",

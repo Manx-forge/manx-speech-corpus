@@ -3,6 +3,7 @@
   "name": "Er-yn-oyr dy nee er y chied laa jeh'n çhiaghtin dirree Creest veih ny merriu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643305",
   "origin": "human",
   "transcript_form": "raw",

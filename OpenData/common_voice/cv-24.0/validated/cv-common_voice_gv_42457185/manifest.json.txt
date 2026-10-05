@@ -3,6 +3,7 @@
   "name": "As amnagh syn astyr t'ee reesht goll dy lhie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457185",
   "origin": "human",
   "transcript_form": "raw",

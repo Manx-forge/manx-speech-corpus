@@ -3,6 +3,8 @@
   "name": "Cha ren agh neeym goll mairagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866114",
   "origin": "human",
   "transcript_form": "normalised",

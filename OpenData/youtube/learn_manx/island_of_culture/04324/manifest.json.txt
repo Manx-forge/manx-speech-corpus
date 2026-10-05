@@ -3,6 +3,8 @@
   "name": "S'liklee nagh jeanym shooyl er Raad ny Foillan nish",
   "source": "https://www.youtube.com/watch?v=dEYmpnXhnHg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04324",
   "origin": "human",
   "transcript_form": "normalised",

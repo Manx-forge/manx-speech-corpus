@@ -3,6 +3,7 @@
   "name": "Lesh frassyn as lesh grian.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42587220",
   "origin": "human",
   "transcript_form": "raw",

@@ -5,6 +5,7 @@
   "createdCircaEnd": "2026-05-17",
   "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-17oo-mee-voaldyn-2026-may-17th/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09349",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

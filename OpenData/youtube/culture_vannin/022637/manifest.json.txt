@@ -3,6 +3,8 @@
   "name": "Yn Ven Seyr Ain jeh Rushen",
   "source": "https://www.youtube.com/watch?v=cr5AtzHpSr4",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "022637",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

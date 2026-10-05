@@ -3,6 +3,7 @@
   "name": "Dy jinnagh shin shin hene y vriwnys, cha beagh shin er nyn mriwnys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629207",
   "origin": "human",
   "transcript_form": "raw",

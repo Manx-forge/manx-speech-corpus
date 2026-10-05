@@ -3,6 +3,8 @@
   "name": "Cha nel gleashtan aym as cha nel moddey aym",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05628113",
   "origin": "human",
   "transcript_form": "normalised",

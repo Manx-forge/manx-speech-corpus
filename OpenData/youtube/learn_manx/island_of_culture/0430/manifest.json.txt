@@ -3,6 +3,8 @@
   "name": "Mish Agatha, shoh James. Ta shin cummal ayns Mannin",
   "source": "https://www.youtube.com/watch?v=CcEbAVX57bA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0430",
   "origin": "human",
   "transcript_form": "normalised",

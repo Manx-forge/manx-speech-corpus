@@ -3,6 +3,7 @@
   "name": "Moylley-jee eh, ooilley shiuish niaughyn: as shiuish ushtaghyn ta erskyn yn aer.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42665926",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Vel oo er ve ayns Purt ny h-Inshey er y gherrid?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052169113",
   "origin": "human",
   "transcript_form": "normalised",

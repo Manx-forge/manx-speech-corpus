@@ -3,6 +3,7 @@
   "name": "As jannoo mish my vac dy Yee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446781",
   "origin": "human",
   "transcript_form": "raw",

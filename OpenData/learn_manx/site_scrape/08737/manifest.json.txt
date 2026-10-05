@@ -3,6 +3,7 @@
   "name": "gynsaghey_y_ghaelg",
   "source": "https://www.learnmanx.com/media/Files/gynsaghey%20y%20ghaelg.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "08737",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

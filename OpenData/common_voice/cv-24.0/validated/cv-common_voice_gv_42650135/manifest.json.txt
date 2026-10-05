@@ -3,6 +3,7 @@
   "name": "Cre'n fa ta peccah er ny enmys obbyr y drogh-spyrryd?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650135",
   "origin": "human",
   "transcript_form": "raw",

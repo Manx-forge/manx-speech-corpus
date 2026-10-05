@@ -5,6 +5,7 @@
   "createdCircaEnd": "2023-08-19",
   "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-20th-august-20231/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09215",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

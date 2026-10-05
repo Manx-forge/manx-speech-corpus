@@ -3,6 +3,8 @@
   "name": "Ta murran orrym",
   "source": "https://www.youtube.com/watch?v=1VFQzLJ4PCM",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04330",
   "origin": "human",
   "transcript_form": "normalised",

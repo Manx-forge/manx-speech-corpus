@@ -3,6 +3,8 @@
   "name": "Cre dooyrt oo?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051826113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Ta ny spollagyn yindyssagh.",
   "source": "https://www.youtube.com/watch?v=9-dC8shkDA4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0446",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Tra ta shin gerjagh y cheilley, lhig da ve gerjagh Yee ta shin coyrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457511",
   "origin": "human",
   "transcript_form": "raw",

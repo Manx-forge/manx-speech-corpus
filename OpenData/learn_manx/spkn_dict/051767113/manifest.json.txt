@@ -3,6 +3,8 @@
   "name": "Ny bee trimshagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051767113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cha bee feanish foalsey fegooish kerraghey, as nee yn breagerey dy shickyr cherraghtyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457772",
   "origin": "human",
   "transcript_form": "raw",

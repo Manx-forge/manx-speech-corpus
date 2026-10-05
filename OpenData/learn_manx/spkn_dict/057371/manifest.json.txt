@@ -3,6 +3,8 @@
   "name": "urley eagle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/urley%20-%20eagle.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057371",
   "origin": "human",
   "transcript_form": "normalised",

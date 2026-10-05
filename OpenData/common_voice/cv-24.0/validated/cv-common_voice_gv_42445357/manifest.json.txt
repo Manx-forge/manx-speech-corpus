@@ -3,6 +3,7 @@
   "name": "Surree eh yn flout, my yiow eh yn glout",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445357",
   "origin": "human",
   "transcript_form": "raw",

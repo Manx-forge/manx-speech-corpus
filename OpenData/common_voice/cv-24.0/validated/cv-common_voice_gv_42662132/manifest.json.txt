@@ -3,6 +3,7 @@
   "name": "C'raad t'eh nish eisht; vel eh gyndyr boayl ennagh ayns shoh?\" dooyrt eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662132",
   "origin": "human",
   "transcript_form": "raw",

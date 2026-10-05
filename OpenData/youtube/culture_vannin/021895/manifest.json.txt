@@ -3,6 +3,8 @@
   "name": "Mygeayrt y Thie Bouyr",
   "source": "https://www.youtube.com/watch?v=ULO-ArSKjaA",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "021895",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

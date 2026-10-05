@@ -3,6 +3,7 @@
   "name": "Ta beeal yn er-ynrick cur magh creenaght: agh bee yn chengey vee-reiltagh giarit ass.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425689",
   "origin": "human",
   "transcript_form": "raw",

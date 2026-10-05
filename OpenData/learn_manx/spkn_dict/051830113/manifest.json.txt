@@ -3,6 +3,8 @@
   "name": "Cha jagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051830113",
   "origin": "human",
   "transcript_form": "normalised",

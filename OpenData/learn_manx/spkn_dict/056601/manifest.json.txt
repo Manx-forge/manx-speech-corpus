@@ -3,6 +3,8 @@
   "name": "boandyr nurse",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/boandyr%20-%20nurse.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056601",
   "origin": "human",
   "transcript_form": "normalised",

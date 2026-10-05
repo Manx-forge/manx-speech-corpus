@@ -3,6 +3,7 @@
   "name": "As dooyrt eh roo, Ny trog-jee ny smoo na ta er nyn gurrym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386405",
   "origin": "human",
   "transcript_form": "raw",

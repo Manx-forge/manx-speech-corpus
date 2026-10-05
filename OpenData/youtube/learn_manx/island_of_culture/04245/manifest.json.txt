@@ -3,6 +3,8 @@
   "name": "S'mie lhiam gobbraghey er y cheayn",
   "source": "https://www.youtube.com/watch?v=4wiKikgi2Xk",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04245",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "WALTER_CLARKE_AND_THE_KARRANS",
   "source": "https://www.learnmanx.com/media/Files/WALTER%20CLARKE%20AND%20THE%20KARRANS.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085810",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

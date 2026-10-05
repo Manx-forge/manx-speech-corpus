@@ -3,6 +3,8 @@
   "name": "The months of the year in Manx",
   "source": "https://www.youtube.com/watch?v=fsyczeWL-vU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04158",
   "origin": "human",
   "transcript_form": "normalised",

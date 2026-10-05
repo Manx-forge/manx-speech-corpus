@@ -3,6 +3,7 @@
   "name": "Ghow eh ersooyl my niart er my yurnah: as ren eh my laghyn giare.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42495787",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Ren mee goll dys Doolish Jesarn",
   "source": "https://www.youtube.com/watch?v=qv02du8WOAk",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0498",
   "origin": "human",
   "transcript_form": "normalised",

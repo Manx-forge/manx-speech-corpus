@@ -3,6 +3,8 @@
   "name": "Nagh bare lesh Jo spollagyn?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051132113",
   "origin": "human",
   "transcript_form": "normalised",

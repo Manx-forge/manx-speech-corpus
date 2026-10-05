@@ -3,6 +3,8 @@
   "name": "Foddym snaue gollrish perkin",
   "source": "https://www.youtube.com/watch?v=X03Lui3C4fw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04114",
   "origin": "human",
   "transcript_form": "normalised",

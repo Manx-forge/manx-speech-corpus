@@ -3,6 +3,7 @@
   "name": "T'eh dty churrym gyn dy ve lhiastey ayns obbyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644458",
   "origin": "human",
   "transcript_form": "raw",

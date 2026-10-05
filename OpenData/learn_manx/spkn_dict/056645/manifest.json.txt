@@ -3,6 +3,8 @@
   "name": "fer-obbee magician",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/fer-obbee%20-%20magician.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056645",
   "origin": "human",
   "transcript_form": "normalised",

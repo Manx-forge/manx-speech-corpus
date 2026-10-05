@@ -3,6 +3,7 @@
   "name": "cooinaghtyn elley 10 pages 25-jerrey",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2010%20pages%2025-jerrey.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "084322",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "Tan gleashtan aym ny smoo tappee",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051192113",
   "origin": "human",
   "transcript_form": "normalised",

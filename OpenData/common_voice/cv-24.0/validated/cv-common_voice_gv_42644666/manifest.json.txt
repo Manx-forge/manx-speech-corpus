@@ -3,6 +3,7 @@
   "name": "Ec yn irree seose reesht, t'ad myr ainlyn Yee t'ayns niau.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644666",
   "origin": "human",
   "transcript_form": "raw",

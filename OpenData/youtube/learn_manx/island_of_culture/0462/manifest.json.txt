@@ -3,6 +3,8 @@
   "name": "S'mie lhiam giu bainney, gee curree as loayrt Gaelg. Cre s'mie lhiat?",
   "source": "https://www.youtube.com/watch?v=NbUAzQG6m50",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0462",
   "origin": "human",
   "transcript_form": "normalised",

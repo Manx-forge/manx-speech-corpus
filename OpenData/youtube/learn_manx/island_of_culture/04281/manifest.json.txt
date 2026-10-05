@@ -3,6 +3,8 @@
   "name": "Cha ren ny claghyn bentyn rish ny bugganeyn",
   "source": "https://www.youtube.com/watch?v=pWPnuftWAVY",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04281",
   "origin": "human",
   "transcript_form": "normalised",

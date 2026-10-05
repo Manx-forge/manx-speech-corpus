@@ -3,6 +3,8 @@
   "name": "Hee'm oo I'll see you (to one person)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Hee'm%20oo.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05821213",
   "origin": "human",
   "transcript_form": "normalised",

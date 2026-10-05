@@ -3,6 +3,8 @@
   "name": "Vel monney sleih shappal ayns Rhumsaa jiu?",
   "source": "https://www.youtube.com/watch?v=ou9EOApit68",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0439",
   "origin": "human",
   "transcript_form": "normalised",

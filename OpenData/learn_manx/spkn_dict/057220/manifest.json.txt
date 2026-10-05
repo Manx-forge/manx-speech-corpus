@@ -3,6 +3,8 @@
   "name": "cleeau chest",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/cleeau%20-%20chest.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057220",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cre ta'n stayd t'ou er ny choyrt ayn liorish bashtey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694501",
   "origin": "human",
   "transcript_form": "raw",

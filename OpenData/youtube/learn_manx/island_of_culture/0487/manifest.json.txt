@@ -3,6 +3,8 @@
   "name": "S'mie lhiam snaue agh cha nel mee geearree snaue nish",
   "source": "https://www.youtube.com/watch?v=K876TRJrHVI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0487",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Accryssagh as paagh: hug yn annym oc naardey ayndoo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42477915",
   "origin": "human",
   "transcript_form": "raw",

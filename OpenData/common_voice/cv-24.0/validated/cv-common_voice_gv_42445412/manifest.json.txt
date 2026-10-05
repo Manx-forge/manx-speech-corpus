@@ -3,6 +3,7 @@
   "name": "Ta gioot follit mooghey jymmoose, as leagh 'syn oghrish corree hrome.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445412",
   "origin": "human",
   "transcript_form": "raw",

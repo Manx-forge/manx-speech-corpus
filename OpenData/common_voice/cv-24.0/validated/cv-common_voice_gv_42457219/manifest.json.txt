@@ -3,6 +3,7 @@
   "name": "As nee eh marroo unnane jeh ny eeanlee ayns saagh craie, harrish ushtey-farrane.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457219",
   "origin": "human",
   "transcript_form": "raw",

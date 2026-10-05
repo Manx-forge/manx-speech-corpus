@@ -3,6 +3,7 @@
   "name": "Screeb my greem, my graih, neose as seose rish clash my hoaney.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42465192",
   "origin": "human",
   "transcript_form": "raw",

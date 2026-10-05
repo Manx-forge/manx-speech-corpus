@@ -3,6 +3,7 @@
   "name": "Ta'n thalloo gymmyrkey magh arroo as faiyr, as ny biljyn gymmyrkey mess.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629323",
   "origin": "human",
   "transcript_form": "raw",

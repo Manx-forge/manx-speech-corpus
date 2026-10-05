@@ -3,6 +3,8 @@
   "name": "Oie ayns Baatey-eeastee liorish Ned Beg Hom Ruy",
   "source": "https://www.youtube.com/watch?v=v0YpSQSLgsY&t=250s",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "019670",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

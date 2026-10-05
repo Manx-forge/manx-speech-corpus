@@ -3,6 +3,7 @@
   "name": "Ta jannoo cairys dauesyn ta surranse aggair: ta beaghey ny accryssee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599798",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Kys yinnagh oo ceau kione-shiaghtin gyn foill?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650868",
   "origin": "human",
   "transcript_form": "raw",

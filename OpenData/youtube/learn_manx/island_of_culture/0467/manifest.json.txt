@@ -3,6 +3,8 @@
   "name": "S'mie lhiam gee curree er y fa dy vel eh blasstal",
   "source": "https://www.youtube.com/watch?v=kpkbmg7ZChE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0467",
   "origin": "human",
   "transcript_form": "normalised",

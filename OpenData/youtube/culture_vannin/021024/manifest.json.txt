@@ -3,6 +3,8 @@
   "name": "Drogh-haghyrt etlan ayns Skylley Andreas - Juan y Crellin",
   "source": "https://www.youtube.com/watch?v=i7kU8uPzq-A",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "021024",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

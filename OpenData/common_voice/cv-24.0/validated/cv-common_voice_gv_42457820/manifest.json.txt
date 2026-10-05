@@ -3,6 +3,7 @@
   "name": "As tra cheayll y pobble shoh, ghow ad yindys jeh'n ynsaghey echey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457820",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cre'n fa veagh oo dooisht ec 3 'sy voghree?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42300",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

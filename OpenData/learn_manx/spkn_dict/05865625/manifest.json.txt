@@ -3,6 +3,8 @@
   "name": "tree-jeig thirteen (13)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20numbers/numbers_tree%20jeig-%20thirteen.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865625",
   "origin": "human",
   "transcript_form": "normalised",

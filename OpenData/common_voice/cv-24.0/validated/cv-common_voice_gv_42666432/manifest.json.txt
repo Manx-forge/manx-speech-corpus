@@ -3,6 +3,7 @@
   "name": "Hie eh roish quaiyl Tinvaal as dooyrt eh nagh lhisagh ad caghlaa yn leigh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666432",
   "origin": "human",
   "transcript_form": "raw",

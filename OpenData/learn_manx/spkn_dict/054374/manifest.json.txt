@@ -3,6 +3,8 @@
   "name": "ayr father",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/ayr%20-%20father.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054374",
   "origin": "human",
   "transcript_form": "normalised",

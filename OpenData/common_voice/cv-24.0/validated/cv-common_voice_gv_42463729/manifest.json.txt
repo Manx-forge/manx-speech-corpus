@@ -3,6 +3,7 @@
   "name": "Share craght ve 'sy cheer, na mee ny mannan cheet stiagh meein",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463729",
   "origin": "human",
   "transcript_form": "raw",

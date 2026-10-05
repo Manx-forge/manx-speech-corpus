@@ -3,6 +3,7 @@
   "name": "As mysh da-eed blein dy hraa dymmyrk eh ayns yn aasagh lesh nyn ghrogh-ellyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457764",
   "origin": "human",
   "transcript_form": "raw",

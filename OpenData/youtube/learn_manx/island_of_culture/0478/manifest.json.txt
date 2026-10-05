@@ -3,6 +3,8 @@
   "name": "Vel Doolish ny smoo aalin na Purt ny h-Inshey? Cha nel eh",
   "source": "https://www.youtube.com/watch?v=m1oyOFA-EYU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0478",
   "origin": "human",
   "transcript_form": "normalised",

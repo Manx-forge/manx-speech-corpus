@@ -3,6 +3,7 @@
   "name": "Eer ayns y leigh eu hene te scruit, dy vel feanish daa ghooinney firrinagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463965",
   "origin": "human",
   "transcript_form": "raw",

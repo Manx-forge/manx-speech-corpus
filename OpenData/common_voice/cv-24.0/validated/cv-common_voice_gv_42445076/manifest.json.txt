@@ -3,6 +3,7 @@
   "name": "Ta shin troailt trooid seihll fadaneagh, ta'n raad dorraghey, as yn cassan garroo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445076",
   "origin": "human",
   "transcript_form": "raw",

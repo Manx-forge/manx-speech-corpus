@@ -3,6 +3,8 @@
   "name": "Ta'n ennym orrym Ali as s'mie lhiam berreen",
   "source": "https://www.youtube.com/watch?v=IDxDo3Yv-Kc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04315",
   "origin": "human",
   "transcript_form": "normalised",

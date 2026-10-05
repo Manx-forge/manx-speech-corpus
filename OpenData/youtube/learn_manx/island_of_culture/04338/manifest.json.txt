@@ -3,6 +3,8 @@
   "name": "She Gaelgeyr mish",
   "source": "https://www.youtube.com/watch?v=STyKXx622Nw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04338",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Ta mee loayrt Gaelg ayns Doolish nish. C'raad t'ou loayrt Gaelg?",
   "source": "https://www.youtube.com/watch?v=w_CjtnyZXvI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0414",
   "origin": "human",
   "transcript_form": "normalised",

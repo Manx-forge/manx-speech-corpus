@@ -3,6 +3,7 @@
   "name": "\"Agh, cha vel mee lowit! dooyrt ish, \"\"Son t'ad pryssoonee yn Count.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448061",
   "origin": "human",
   "transcript_form": "raw",

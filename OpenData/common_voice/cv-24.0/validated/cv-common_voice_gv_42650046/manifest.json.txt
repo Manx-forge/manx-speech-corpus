@@ -3,6 +3,7 @@
   "name": "Cre'n fa shegin fys ve ec yn agglish er shoh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650046",
   "origin": "human",
   "transcript_form": "raw",

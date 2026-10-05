@@ -3,6 +3,7 @@
   "name": "Lhig-jee daue: she leeideilee doal ta kione y vooinjer ghoal ad.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666356",
   "origin": "human",
   "transcript_form": "raw",

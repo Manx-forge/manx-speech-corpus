@@ -3,6 +3,7 @@
   "name": "Ayns mee-chairys drogh-ghooinney ta ribbey: agh gowee yn dooinney mie arraneyn-moyllee dy gennal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445179",
   "origin": "human",
   "transcript_form": "raw",

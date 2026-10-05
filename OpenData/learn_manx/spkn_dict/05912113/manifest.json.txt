@@ -3,6 +3,8 @@
   "name": "Jean oo shappal ayns Doolish mairagh?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05912113",
   "origin": "human",
   "transcript_form": "normalised",

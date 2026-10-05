@@ -3,6 +3,7 @@
   "name": "Nee Creest ynrican ta loayrt eddyr Jee as shinyn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666160",
   "origin": "human",
   "transcript_form": "raw",

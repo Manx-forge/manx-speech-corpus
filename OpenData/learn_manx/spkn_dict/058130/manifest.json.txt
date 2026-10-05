@@ -3,6 +3,8 @@
   "name": "sheeabin soap",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/sheeabin%20-%20soap.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058130",
   "origin": "human",
   "transcript_form": "normalised",

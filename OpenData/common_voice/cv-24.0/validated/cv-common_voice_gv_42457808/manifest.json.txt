@@ -3,6 +3,7 @@
   "name": "Ta fys ayd dy vel mee feer aarloo dy gholl er shagheryn voyd.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457808",
   "origin": "human",
   "transcript_form": "raw",

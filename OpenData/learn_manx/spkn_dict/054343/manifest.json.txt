@@ -3,6 +3,8 @@
   "name": "shellan bee",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/shellan%20-%20bee.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054343",
   "origin": "human",
   "transcript_form": "normalised",

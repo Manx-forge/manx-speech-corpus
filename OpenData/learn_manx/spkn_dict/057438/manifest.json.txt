@@ -3,6 +3,8 @@
   "name": "eaddagh clothes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/eaddagh%20-%20clothes.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057438",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "As ec yn astyr haink eh marish yn daa ostyl yeig.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599971",
   "origin": "human",
   "transcript_form": "raw",

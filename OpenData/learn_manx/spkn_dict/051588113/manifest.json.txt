@@ -3,6 +3,8 @@
   "name": "Cuin veagh oo aarloo?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051588113",
   "origin": "human",
   "transcript_form": "normalised",

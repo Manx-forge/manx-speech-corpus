@@ -3,6 +3,7 @@
   "name": "Nagh der yn Noid daue aggair.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386620",
   "origin": "human",
   "transcript_form": "raw",

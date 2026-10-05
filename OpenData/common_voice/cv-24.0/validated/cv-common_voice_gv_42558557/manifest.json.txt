@@ -3,6 +3,7 @@
   "name": "Bee ooilley shoh toshiaght seaghyn diu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42558557",
   "origin": "human",
   "transcript_form": "raw",

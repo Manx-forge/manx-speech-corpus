@@ -3,6 +3,7 @@
   "name": "Nee Jee cur lesh shiu trooid yn aile as gyn faagail shin ayn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457476",
   "origin": "human",
   "transcript_form": "raw",

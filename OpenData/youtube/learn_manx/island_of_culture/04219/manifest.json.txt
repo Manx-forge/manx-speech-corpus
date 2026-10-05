@@ -3,6 +3,8 @@
   "name": "Cre gollrish vees yn emshyr mairagh? Er-lhiams dy bee eh fliugh",
   "source": "https://www.youtube.com/watch?v=J46ZqgOWAvw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04219",
   "origin": "human",
   "transcript_form": "normalised",

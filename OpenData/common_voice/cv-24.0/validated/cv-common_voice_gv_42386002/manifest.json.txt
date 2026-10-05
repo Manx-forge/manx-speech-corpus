@@ -3,6 +3,7 @@
   "name": "As dreggyr eh ad, gra, Quoi my voir, ny my vraaraghyn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386002",
   "origin": "human",
   "transcript_form": "raw",

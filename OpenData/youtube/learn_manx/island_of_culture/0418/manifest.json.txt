@@ -3,6 +3,8 @@
   "name": "Ta mee cummal ayns Mannin as ta Mannin yindyssagh",
   "source": "https://www.youtube.com/watch?v=PIFF8vLRDsE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0418",
   "origin": "human",
   "transcript_form": "normalised",

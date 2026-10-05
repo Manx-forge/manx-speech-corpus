@@ -3,6 +3,7 @@
   "name": "Agh ta eer renaigyn nyn ghing ooilley er nyn earroo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42481996",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "As d'ee ny beiyn thanney as graney seose, ny chied shiaght beiyn roauyrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447388",
   "origin": "human",
   "transcript_form": "raw",

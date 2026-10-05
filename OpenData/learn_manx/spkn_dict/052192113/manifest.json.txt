@@ -3,6 +3,8 @@
   "name": "Cre hooar oo ayns shen?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052192113",
   "origin": "human",
   "transcript_form": "normalised",

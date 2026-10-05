@@ -3,6 +3,7 @@
   "name": "Ny-yeih cha nel eh monney madyr dou, cre ta'n sleih coontey mee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42512889",
   "origin": "human",
   "transcript_form": "raw",

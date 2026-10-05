@@ -3,6 +3,8 @@
   "name": "Jiu ta mee ayns Purt Chiarn agh share lhiam Purt ny h-Inshey",
   "source": "https://www.youtube.com/watch?v=4XOlmnHuUZQ",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0454",
   "origin": "human",
   "transcript_form": "normalised",

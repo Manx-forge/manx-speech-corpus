@@ -3,6 +3,8 @@
   "name": "Ta Guy Martin ny smoo tappee er y clieau",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051507113",
   "origin": "human",
   "transcript_form": "normalised",

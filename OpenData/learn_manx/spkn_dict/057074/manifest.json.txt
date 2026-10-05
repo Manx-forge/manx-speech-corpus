@@ -3,6 +3,8 @@
   "name": "çheu-sthie inside",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/cheu-sthie%20-%20inside.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057074",
   "origin": "human",
   "transcript_form": "normalised",

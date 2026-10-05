@@ -3,6 +3,8 @@
   "name": "Cammag? Gamman Manninagh",
   "source": "https://www.youtube.com/watch?v=5mQUqg76BfE",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "026172",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "Cuchulainn 5 - Baase y Feniagh",
   "source": "https://www.youtube.com/watch?v=lR5xJcVgMgA",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "dialogue",
   "resource_id": "073184",
   "origin": "human",
   "transcript_form": "raw",

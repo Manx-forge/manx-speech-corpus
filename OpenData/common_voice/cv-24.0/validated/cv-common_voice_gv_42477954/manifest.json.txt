@@ -3,6 +3,7 @@
   "name": "Cre t'ou coontey dy ve yn red share cheayll oo yn çhiaghtin shoh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42477954",
   "origin": "human",
   "transcript_form": "raw",

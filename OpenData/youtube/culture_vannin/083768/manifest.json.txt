@@ -3,6 +3,8 @@
   "name": "Gymmydey reesht greieyn whaaley veih lhong-vrisht",
   "source": "https://www.youtube.com/watch?v=5Ql7GZqQHzs",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "083768",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

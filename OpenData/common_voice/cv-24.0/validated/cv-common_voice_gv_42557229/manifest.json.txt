@@ -3,6 +3,7 @@
   "name": "Ta ommijys boggey dasyn ta laccal tushtey: agh ta dooinney lowal gimmeeaght jeeragh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42557229",
   "origin": "human",
   "transcript_form": "raw",

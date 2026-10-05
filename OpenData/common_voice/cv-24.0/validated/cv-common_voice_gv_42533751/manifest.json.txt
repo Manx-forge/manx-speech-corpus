@@ -3,6 +3,7 @@
   "name": "Vel eh foast feeu lhaih pabyryn naight?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533751",
   "origin": "human",
   "transcript_form": "raw",

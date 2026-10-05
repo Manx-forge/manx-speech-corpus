@@ -3,6 +3,7 @@
   "name": "Lhig dooin smooinaght er ny ta kiarit liorish yn vriwnys shen.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42625489",
   "origin": "human",
   "transcript_form": "raw",

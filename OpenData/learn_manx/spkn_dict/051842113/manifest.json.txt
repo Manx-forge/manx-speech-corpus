@@ -3,6 +3,8 @@
   "name": "Honnick mee eh er y traie ayns Purt ny h-Inshey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051842113",
   "origin": "human",
   "transcript_form": "normalised",

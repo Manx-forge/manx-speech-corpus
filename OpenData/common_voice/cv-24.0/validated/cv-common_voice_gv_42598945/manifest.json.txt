@@ -3,6 +3,7 @@
   "name": "As hug eh currym geyre er, as chelleeragh hug eh ersooyl eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42598945",
   "origin": "human",
   "transcript_form": "raw",

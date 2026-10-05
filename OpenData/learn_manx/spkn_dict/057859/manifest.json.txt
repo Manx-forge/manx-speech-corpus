@@ -3,6 +3,8 @@
   "name": "melloon melon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/melloon%20-%20melon.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057859",
   "origin": "human",
   "transcript_form": "normalised",

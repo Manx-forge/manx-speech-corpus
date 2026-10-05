@@ -3,6 +3,7 @@
   "name": "Bee yn sluight echey niartal er y thalloo: bee bannaght cour yn vooinjer ynrick.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446713",
   "origin": "human",
   "transcript_form": "raw",

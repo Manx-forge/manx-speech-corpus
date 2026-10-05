@@ -3,6 +3,7 @@
   "name": "Agh ta'n jerrey eck sharroo myr yn ullymar, gyere myr cliwe dy ghaa-foyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42598959",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Foddee shiu jerkal rish fliaghey",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463902",
   "origin": "human",
   "transcript_form": "raw",

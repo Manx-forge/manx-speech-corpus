@@ -3,6 +3,8 @@
   "name": "maidjey corragh see saw",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/maidjey%20corragh%20-%20see%20saw.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058839",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "T'eh er lhiggey sideyn e whiver ayns my veeghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42460491",
   "origin": "human",
   "transcript_form": "raw",

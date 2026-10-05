@@ -3,6 +3,8 @@
   "name": "Ta un vraar aym",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051945113",
   "origin": "human",
   "transcript_form": "normalised",

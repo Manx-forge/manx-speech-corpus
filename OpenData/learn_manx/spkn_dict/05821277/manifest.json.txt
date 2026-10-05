@@ -3,6 +3,8 @@
   "name": "By vie lhiat tey? Would you like tea?",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/By%20vie%20lhiat%20tey.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05821277",
   "origin": "human",
   "transcript_form": "normalised",

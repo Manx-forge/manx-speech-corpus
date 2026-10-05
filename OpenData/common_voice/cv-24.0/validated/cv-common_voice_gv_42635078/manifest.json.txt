@@ -3,6 +3,7 @@
   "name": "As dys yn cheeill feer dree v'ad troailt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42635078",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cre'n fa t'ou genmys eh Padjer y Çhiarn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42649946",
   "origin": "human",
   "transcript_form": "raw",

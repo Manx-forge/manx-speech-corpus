@@ -3,6 +3,7 @@
   "name": "Turrys mygeayrt Purt le Moirrey",
   "source": "https://www.youtube.com/watch?v=p512pDRZ1Vk",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "087008",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

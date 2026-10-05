@@ -3,6 +3,8 @@
   "name": "1000words_entry_314310",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_314310.html",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "068449",
   "origin": "human",
   "transcript_form": "raw",

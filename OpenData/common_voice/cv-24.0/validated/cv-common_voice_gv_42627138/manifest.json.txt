@@ -3,6 +3,7 @@
   "name": "Va shilley echey nish jeh bun as bree e ghreamal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42627138",
   "origin": "human",
   "transcript_form": "raw",

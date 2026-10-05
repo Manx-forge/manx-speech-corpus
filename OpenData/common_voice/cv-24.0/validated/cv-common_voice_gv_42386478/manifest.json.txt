@@ -3,6 +3,7 @@
   "name": "Cha vel ny smoo dy aggle aynyd na ta ayns clagh vane",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386478",
   "origin": "human",
   "transcript_form": "raw",

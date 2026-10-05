@@ -3,6 +3,7 @@
   "name": "\"Ta mish cur dhyt ennal, ta'n gheay gra \"\"as ymmodee keintyn dy ushagyn.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457716",
   "origin": "human",
   "transcript_form": "raw",

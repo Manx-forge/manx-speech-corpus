@@ -3,6 +3,8 @@
   "name": "Slat eeastee fishing rod",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sea/slat%20eeastee%20-%20fishing%20rod.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522047",
   "origin": "human",
   "transcript_form": "normalised",

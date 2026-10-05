@@ -3,6 +3,8 @@
   "name": "Yn chiarroo laa jeig",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052046113",
   "origin": "human",
   "transcript_form": "normalised",

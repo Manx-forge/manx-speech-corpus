@@ -3,6 +3,8 @@
   "name": "Veign ny smoo maynrey dy beagh oo berçhagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051699113",
   "origin": "human",
   "transcript_form": "normalised",

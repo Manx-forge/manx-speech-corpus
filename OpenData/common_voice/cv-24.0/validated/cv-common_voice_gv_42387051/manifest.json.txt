@@ -3,6 +3,7 @@
   "name": "Son ta un laa ayns dty chooyrtyn: ny share na thousane.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42387051",
   "origin": "human",
   "transcript_form": "raw",

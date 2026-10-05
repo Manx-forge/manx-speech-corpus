@@ -3,6 +3,8 @@
   "name": "Cha vaik agh honnick mee eh Jelune",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052084113",
   "origin": "human",
   "transcript_form": "normalised",

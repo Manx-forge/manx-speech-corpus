@@ -3,6 +3,7 @@
   "name": "T'eh gynsaghey dooin dy ghoaill padjer lesh arrym, graih, as shickyrys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42669432",
   "origin": "human",
   "transcript_form": "raw",

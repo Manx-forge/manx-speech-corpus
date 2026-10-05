@@ -3,6 +3,7 @@
   "name": "Foddee yn laa mairagh ve dty laa s'jerree.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643331",
   "origin": "human",
   "transcript_form": "raw",

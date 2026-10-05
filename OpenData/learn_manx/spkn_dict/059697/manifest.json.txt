@@ -3,6 +3,8 @@
   "name": "sheidey blowing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/sheidey%20-%20blowing.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059697",
   "origin": "human",
   "transcript_form": "normalised",

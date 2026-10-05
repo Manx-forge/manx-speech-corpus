@@ -3,6 +3,8 @@
   "name": "TT aboo!",
   "source": "https://www.youtube.com/watch?v=shhREDULcSQ",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04146",
   "origin": "human",
   "transcript_form": "normalised",

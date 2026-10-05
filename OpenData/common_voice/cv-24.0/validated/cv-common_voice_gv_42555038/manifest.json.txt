@@ -3,6 +3,7 @@
   "name": "Son cur-my-ner ta'n geurey ceaut, ta'n fliaghey harrish as ersooyl.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42555038",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Foddym snaue feer vie",
   "source": "https://www.youtube.com/watch?v=cmUH6ZuSbsU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04111",
   "origin": "human",
   "transcript_form": "normalised",

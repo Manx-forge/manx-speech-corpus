@@ -3,6 +3,8 @@
   "name": "Neeym goll shappal",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052058113",
   "origin": "human",
   "transcript_form": "normalised",

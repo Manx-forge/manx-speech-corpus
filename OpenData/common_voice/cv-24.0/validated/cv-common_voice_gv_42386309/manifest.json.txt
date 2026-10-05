@@ -3,6 +3,7 @@
   "name": "Ren y cheer oc gymmyrkey magh froggyn: ayns eer shamyryn nyn reeaghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386309",
   "origin": "human",
   "transcript_form": "raw",

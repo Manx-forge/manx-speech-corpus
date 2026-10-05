@@ -3,6 +3,7 @@
   "name": "Cregeen 03? Mayrnt",
   "source": "https://www.youtube.com/watch?v=ZEiEXYAI4UM",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "087780",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

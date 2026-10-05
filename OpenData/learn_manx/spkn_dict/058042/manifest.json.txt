@@ -3,6 +3,8 @@
   "name": "curtan curtain",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/curtan%20-%20curtain.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058042",
   "origin": "human",
   "transcript_form": "normalised",

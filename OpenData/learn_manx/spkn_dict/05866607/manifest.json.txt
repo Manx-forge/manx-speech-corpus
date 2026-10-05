@@ -3,6 +3,8 @@
   "name": "braar 'sy leigh brother in law",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Brother%20In%20Law.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05866607",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "As hug ad ad son magher fer-ny-craie, myr va'n çhiarn er noardaghey dooys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650869",
   "origin": "human",
   "transcript_form": "raw",

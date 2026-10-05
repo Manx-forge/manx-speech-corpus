@@ -3,6 +3,7 @@
   "name": "Cha row fys erbee echey er fockleyn yn arrane ashoonagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666273",
   "origin": "human",
   "transcript_form": "raw",

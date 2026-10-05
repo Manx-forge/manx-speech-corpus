@@ -3,6 +3,8 @@
   "name": "Craad vou Jedoonee?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05632113",
   "origin": "human",
   "transcript_form": "normalised",

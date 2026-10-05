@@ -3,6 +3,7 @@
   "name": "Agh dy chur nyn mraagyn orroo, as gyn ad dy chur orroo daa chooat.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694514",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "ben-chiaullee female singer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20music/ben-chiaullee%20-%20female%20singer.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058546",
   "origin": "human",
   "transcript_form": "normalised",

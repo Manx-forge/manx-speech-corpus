@@ -3,6 +3,8 @@
   "name": "bayrn cap",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/bayrn%20-%20cap.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057382",
   "origin": "human",
   "transcript_form": "normalised",

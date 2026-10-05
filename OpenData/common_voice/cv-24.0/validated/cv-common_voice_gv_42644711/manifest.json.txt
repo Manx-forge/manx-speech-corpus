@@ -3,6 +3,7 @@
   "name": "Eshyn ta abyl shoh y ghoaill er, lhig eh eh y ghoaill er.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644711",
   "origin": "human",
   "transcript_form": "raw",

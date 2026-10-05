@@ -3,6 +3,7 @@
   "name": "Cha vod shiu goaill shibbyr marish yn Ree fegooish yn garmad banshey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549706",
   "origin": "human",
   "transcript_form": "raw",

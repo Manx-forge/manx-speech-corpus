@@ -3,6 +3,7 @@
   "name": "As dooyrt eh myrgeddin rishyn, Gow uss yn reill neesht er queig ard-valjyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447204",
   "origin": "human",
   "transcript_form": "raw",

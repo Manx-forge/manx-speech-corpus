@@ -3,6 +3,7 @@
   "name": "unit 24",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20checklist/unit%2024.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "082127",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

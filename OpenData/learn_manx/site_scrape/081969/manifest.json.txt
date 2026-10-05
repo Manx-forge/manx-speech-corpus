@@ -3,6 +3,7 @@
   "name": "Recortys_Reeaghyn_recording_3",
   "source": "https://www.learnmanx.com/media/Files/Recortys%20Reeaghyn%20recording%203.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "081969",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

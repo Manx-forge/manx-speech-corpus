@@ -3,6 +3,8 @@
   "name": "Nagh vel eh yindyssagh gee kay riojey er y traie ayns Purt ny h-Inshey",
   "source": "https://www.youtube.com/watch?v=9pQh7PZPcQw",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0496",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "S'mooar ta'n Çhiarn ta'n mooadys echey erskyn roshtyn nyn dushtey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650000",
   "origin": "human",
   "transcript_form": "raw",

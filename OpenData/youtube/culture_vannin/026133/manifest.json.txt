@@ -3,6 +3,8 @@
   "name": "Skeddan Jiarg daunsey 'sy Thalloo Bretnagh",
   "source": "https://www.youtube.com/watch?v=U_iUyorGJzg",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "026133",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

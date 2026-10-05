@@ -3,6 +3,8 @@
   "name": "t'eh çheh its hot",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/teh%20cheh%20-%20its%20hot.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059729",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Lhig dooin dy arryltagh goaill yn gioot costal shoh jeh nyn Ayr flaunyssagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650001",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Ta mee ayns Balley Chashtal agh shegin dou goll dys Colby nish",
   "source": "https://www.youtube.com/watch?v=oB80bB2MfaA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04296",
   "origin": "human",
   "transcript_form": "normalised",

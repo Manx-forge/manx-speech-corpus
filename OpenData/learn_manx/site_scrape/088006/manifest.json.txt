@@ -3,6 +3,7 @@
   "name": "dougie__pronouncing_animals",
   "source": "https://www.learnmanx.com/media/Files/dougie%20%20pronouncing%20animals.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "088006",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

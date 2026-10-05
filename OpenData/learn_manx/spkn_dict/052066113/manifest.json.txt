@@ -3,6 +3,8 @@
   "name": "Shegin jee goll dys Regaby",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052066113",
   "origin": "human",
   "transcript_form": "normalised",

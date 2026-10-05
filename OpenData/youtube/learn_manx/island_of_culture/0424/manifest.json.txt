@@ -3,6 +3,8 @@
   "name": "Ta mee geearree caffee doo nish",
   "source": "https://www.youtube.com/watch?v=jC7eaHU5ZnA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0424",
   "origin": "human",
   "transcript_form": "normalised",

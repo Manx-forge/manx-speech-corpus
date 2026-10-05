@@ -3,6 +3,8 @@
   "name": "geayagh windy",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/geayagh%20-%20windy.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059677",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Ny veggan as ny veggan, dee yn chayt y skeddan",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446600",
   "origin": "human",
   "transcript_form": "raw",

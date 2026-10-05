@@ -3,6 +3,8 @@
   "name": "Traaue yn Aght Manninagh",
   "source": "https://www.youtube.com/watch?v=jPPPA_bLINs",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "025414",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

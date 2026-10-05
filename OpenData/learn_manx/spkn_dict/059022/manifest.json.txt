@@ -3,6 +3,8 @@
   "name": "sheeal sking",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/sheeal%20-%20sking.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059022",
   "origin": "human",
   "transcript_form": "normalised",

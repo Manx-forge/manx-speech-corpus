@@ -3,6 +3,8 @@
   "name": "Solace in Wicca",
   "source": "https://www.youtube.com/watch?v=16o5fmargkE&t=93s",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "dialogue",
   "resource_id": "013763",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

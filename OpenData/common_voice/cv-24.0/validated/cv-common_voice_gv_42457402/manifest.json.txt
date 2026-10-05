@@ -3,6 +3,7 @@
   "name": "Cre'd t'ou jannoo ta sleih elley coontey dy ve beggan quaagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457402",
   "origin": "human",
   "transcript_form": "raw",

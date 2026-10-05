@@ -3,6 +3,7 @@
   "name": "Sniaghtey as rio ny sleityn va fo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457796",
   "origin": "human",
   "transcript_form": "raw",

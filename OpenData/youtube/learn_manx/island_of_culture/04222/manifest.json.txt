@@ -3,6 +3,8 @@
   "name": "Foshil yn giat, my sailt",
   "source": "https://www.youtube.com/watch?v=5a876u5T5sg",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04222",
   "origin": "human",
   "transcript_form": "normalised",

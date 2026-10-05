@@ -3,6 +3,7 @@
   "name": "As three-feed as daa housane jeig dy ghew.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425574",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Yn Cholloo? Lhong-vrisht er y Thousla",
   "source": "https://www.youtube.com/watch?v=CCL7NsZwLbU",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "082179",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

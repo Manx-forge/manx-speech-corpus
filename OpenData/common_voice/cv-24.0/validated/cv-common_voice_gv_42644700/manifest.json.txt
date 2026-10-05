@@ -3,6 +3,7 @@
   "name": "Slattys son jannoo ny skirrey glare 'Lattysyn Tinvaal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644700",
   "origin": "human",
   "transcript_form": "raw",

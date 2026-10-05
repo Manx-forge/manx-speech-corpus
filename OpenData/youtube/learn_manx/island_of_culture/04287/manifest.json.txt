@@ -3,6 +3,8 @@
   "name": "Haghyr shoh kiart myr va'n ghrian goll dy lhie reesht",
   "source": "https://www.youtube.com/watch?v=oDt26QY-TME",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04287",
   "origin": "human",
   "transcript_form": "normalised",

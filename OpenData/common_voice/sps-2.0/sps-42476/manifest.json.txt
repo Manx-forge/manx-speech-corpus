@@ -3,6 +3,7 @@
   "name": "Cre t'ou jannoo tra t'ou gennaghtyn granganagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42476",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

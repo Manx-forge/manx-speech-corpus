@@ -3,6 +3,8 @@
   "name": "Ta'n traen goll dys Doolish agh ta mish goll dys yn thie-lhionney",
   "source": "https://www.youtube.com/watch?v=rA-5dq09qes",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04166",
   "origin": "human",
   "transcript_form": "normalised",

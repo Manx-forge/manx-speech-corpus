@@ -3,6 +3,7 @@
   "name": "Cha vell monney maynrys eck dhoinney ta ayns yn seihll ny lomyrken.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42444953",
   "origin": "human",
   "transcript_form": "raw",

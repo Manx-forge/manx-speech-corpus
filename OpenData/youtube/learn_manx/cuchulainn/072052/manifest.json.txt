@@ -3,6 +3,8 @@
   "name": "Cuchulainn 3 - Graih as Caggey",
   "source": "https://www.youtube.com/watch?v=cQpA-Qz-nR4",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "dialogue",
   "resource_id": "072052",
   "origin": "human",
   "transcript_form": "raw",

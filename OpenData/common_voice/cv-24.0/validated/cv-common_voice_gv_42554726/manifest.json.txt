@@ -3,6 +3,7 @@
   "name": "Woaill eh yn ollagh oc myrgeddin lesh claghyn-sniaghtee: as ny shioltaneyn oc lesh claghyn-taarnee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42554726",
   "origin": "human",
   "transcript_form": "raw",

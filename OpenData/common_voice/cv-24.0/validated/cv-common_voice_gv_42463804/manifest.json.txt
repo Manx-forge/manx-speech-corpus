@@ -3,6 +3,7 @@
   "name": "Ta mish ynrican gynsagh Gaelg, myr shen cha nhegin dhyt yannoo faghid j'eem.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463804",
   "origin": "human",
   "transcript_form": "raw",

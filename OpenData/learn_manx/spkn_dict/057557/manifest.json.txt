@@ -3,6 +3,8 @@
   "name": "jiarg red",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/jiarg%20-%20red.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057557",
   "origin": "human",
   "transcript_form": "normalised",

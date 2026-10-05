@@ -3,6 +3,8 @@
   "name": "Kione Droghad Onchan",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Kione%20Droghad%20v2.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05821249",
   "origin": "human",
   "transcript_form": "normalised",

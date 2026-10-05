@@ -3,6 +3,8 @@
   "name": "baase_sy_lught_thie_john_pilling_translated_by_bob_carswell",
   "source": "https://www.learnmanx.com/media//Stories/Baase_sy_Lught-thie_John_Pilling.mp3",
   "platform": "learn_manx",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "075466",
   "origin": "human",
   "transcript_form": "raw",

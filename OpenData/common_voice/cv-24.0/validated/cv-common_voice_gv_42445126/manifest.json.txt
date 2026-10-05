@@ -3,6 +3,7 @@
   "name": "Kys dy vel shiu gra, Ta shin deiney niartal, as trean son y chaggey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445126",
   "origin": "human",
   "transcript_form": "raw",

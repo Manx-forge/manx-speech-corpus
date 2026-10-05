@@ -3,6 +3,7 @@
   "name": "Laa mie er y Cholloo? Er y raad erash",
   "source": "https://www.youtube.com/watch?v=-kxnX06X8oQ",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "089619",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

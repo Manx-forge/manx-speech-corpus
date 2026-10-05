@@ -3,6 +3,8 @@
   "name": "Ny Tree Braaraghyn",
   "source": "https://www.youtube.com/watch?v=PFVghm58cGs",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "073333",
   "origin": "human",
   "transcript_form": "raw",

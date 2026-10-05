@@ -3,6 +3,8 @@
   "name": "Shoh Creneash",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05847113",
   "origin": "human",
   "transcript_form": "normalised",

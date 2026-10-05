@@ -3,6 +3,7 @@
   "name": "Shen ny ta mee er reayll ry-hoi earish seaghyn, ry-hoi laa cragh as caggey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42396982",
   "origin": "human",
   "transcript_form": "raw",

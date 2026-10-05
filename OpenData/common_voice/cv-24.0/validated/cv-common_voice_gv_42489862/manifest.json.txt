@@ -3,6 +3,7 @@
   "name": "Vel red erbee veih cultoor çheer elley by vie lhiat fakin ayns dty heer?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42489862",
   "origin": "human",
   "transcript_form": "raw",

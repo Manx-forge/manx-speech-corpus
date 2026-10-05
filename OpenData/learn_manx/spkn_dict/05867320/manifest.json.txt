@@ -3,6 +3,8 @@
   "name": "yn ellan skianagh the isle of skye",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Isle%20of%20Skye.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05867320",
   "origin": "human",
   "transcript_form": "normalised",

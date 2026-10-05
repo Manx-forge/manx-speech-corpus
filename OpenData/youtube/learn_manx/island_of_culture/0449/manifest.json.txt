@@ -3,6 +3,8 @@
   "name": "Nane, jees, tree, kiare, queig, shey, shiaght, hoght, nuy, jeih",
   "source": "https://www.youtube.com/watch?v=ZbXWxYkYAqs",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0449",
   "origin": "human",
   "transcript_form": "normalised",

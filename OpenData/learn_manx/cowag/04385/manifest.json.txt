@@ -3,6 +3,8 @@
   "name": "Conversation 21",
   "source": "https://www.learnmanx.com/media//cowag/21%20Track%2021%205.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04385",
   "origin": "human",
   "transcript_form": "normalised",

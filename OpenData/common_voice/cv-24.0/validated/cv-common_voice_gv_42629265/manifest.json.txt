@@ -3,6 +3,7 @@
   "name": "Vel yn arrys ayds lhied's shoh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629265",
   "origin": "human",
   "transcript_form": "raw",

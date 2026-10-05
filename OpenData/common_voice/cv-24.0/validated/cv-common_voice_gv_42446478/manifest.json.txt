@@ -3,6 +3,7 @@
   "name": "Feer tooillit keayrt ny ghaa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446478",
   "origin": "human",
   "transcript_form": "raw",

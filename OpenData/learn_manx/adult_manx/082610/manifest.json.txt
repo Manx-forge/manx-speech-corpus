@@ -3,6 +3,8 @@
   "name": "LG K3 L10 (Coloayrtys 5)",
   "source": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20Keim%203%20sound%20files/LG%20K3%20L10%20%28Coloayrtys%205%29.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "082610",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

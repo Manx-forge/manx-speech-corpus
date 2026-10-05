@@ -3,6 +3,7 @@
   "name": "Lurg ny goan shen, hie yn çhenn ghoinney ooasle roish.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335395",
   "origin": "human",
   "transcript_form": "raw",

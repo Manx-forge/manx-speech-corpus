@@ -3,6 +3,8 @@
   "name": "T'eh feayr agglagh jiu",
   "source": "https://www.youtube.com/watch?v=pAnDP2zQJjU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0428",
   "origin": "human",
   "transcript_form": "normalised",

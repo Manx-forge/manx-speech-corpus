@@ -3,6 +3,7 @@
   "name": "Shoh ta mee tayrn gys my cooinaghtyn, shen-y-fa ta mee ayns treishteil.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42439186",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Yn Cholloo? Puirt er y Cholloo",
   "source": "https://www.youtube.com/watch?v=Kln0Jodo_k8",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "088044",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

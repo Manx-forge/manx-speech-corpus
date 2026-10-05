@@ -3,6 +3,7 @@
   "name": "Chengey ny Mayrey - Foillan Films (Manx Language Film - Mother Tongue)",
   "source": "https://www.youtube.com/watch?v=a0FUQb2wVtI",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "081552",
   "origin": "human",
   "transcript_form": "raw",

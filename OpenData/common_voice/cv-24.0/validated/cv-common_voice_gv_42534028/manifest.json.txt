@@ -3,6 +3,7 @@
   "name": "Va bretnagh ayns y vanc, fuirraghtyn er cooney veih'n argideyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42534028",
   "origin": "human",
   "transcript_form": "raw",

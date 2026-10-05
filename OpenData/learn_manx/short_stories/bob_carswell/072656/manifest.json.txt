@@ -3,6 +3,8 @@
   "name": "faill_mnr_worth_john_pilling_translated_by_bob_carswell",
   "source": "https://www.learnmanx.com/media//Stories/Faill_Mnr_Worth_John_Pilling.mp3",
   "platform": "learn_manx",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "072656",
   "origin": "human",
   "transcript_form": "raw",

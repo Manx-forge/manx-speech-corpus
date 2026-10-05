@@ -3,6 +3,7 @@
   "name": "Agh hrog kay seose veih yn thalloo, ren gushtaghey slane eaghtyr ny hooirey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457679",
   "origin": "human",
   "transcript_form": "raw",

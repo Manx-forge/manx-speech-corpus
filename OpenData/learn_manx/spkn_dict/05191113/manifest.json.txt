@@ -3,6 +3,8 @@
   "name": "Va mee braew",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05191113",
   "origin": "human",
   "transcript_form": "normalised",

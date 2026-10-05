@@ -3,6 +3,8 @@
   "name": "C'raad nee oo goll mairagh?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05480113",
   "origin": "human",
   "transcript_form": "normalised",

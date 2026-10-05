@@ -3,6 +3,7 @@
   "name": "Lhig dooin reih dooin hene briwnys lhig dooin toiggal rooin hene cre ta cair.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42464065",
   "origin": "human",
   "transcript_form": "raw",

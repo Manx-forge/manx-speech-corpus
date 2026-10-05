@@ -3,6 +3,7 @@
   "name": "Va lorg 'sy laue echey, as eshyn ro henn dy hooyl n'egooish.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599950",
   "origin": "human",
   "transcript_form": "raw",

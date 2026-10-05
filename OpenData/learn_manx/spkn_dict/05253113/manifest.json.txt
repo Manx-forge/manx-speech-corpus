@@ -3,6 +3,8 @@
   "name": "Quoi s'mie lhiat?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05253113",
   "origin": "human",
   "transcript_form": "normalised",

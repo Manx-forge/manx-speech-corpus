@@ -3,6 +3,8 @@
   "name": "lugh mouse",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/lugh%20-%20mouse.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054291",
   "origin": "human",
   "transcript_form": "normalised",

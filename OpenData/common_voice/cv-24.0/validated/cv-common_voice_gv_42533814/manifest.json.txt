@@ -3,6 +3,7 @@
   "name": "Cre'n feysht yinnagh oo briaght jeh leeideilagh dty 'heer?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533814",
   "origin": "human",
   "transcript_form": "raw",

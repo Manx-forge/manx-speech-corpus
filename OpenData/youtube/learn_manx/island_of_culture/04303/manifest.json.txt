@@ -3,6 +3,8 @@
   "name": "Veagh eh yindyssagh cummal ayns Balley Chashtal agh veagh eh ny share cummal ayns Colby",
   "source": "https://www.youtube.com/watch?v=3nnvbc6WfuU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04303",
   "origin": "human",
   "transcript_form": "normalised",

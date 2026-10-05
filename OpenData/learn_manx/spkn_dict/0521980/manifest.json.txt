@@ -3,6 +3,8 @@
   "name": "Scaa-greiney sunshade",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20beach/scaa-greiney%20-%20sunshade.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0521980",
   "origin": "human",
   "transcript_form": "normalised",

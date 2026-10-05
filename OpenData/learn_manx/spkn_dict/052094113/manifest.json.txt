@@ -3,6 +3,8 @@
   "name": "Jinnagh oo goll dys ny ratçhyn dy beagh caa ayd?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052094113",
   "origin": "human",
   "transcript_form": "normalised",

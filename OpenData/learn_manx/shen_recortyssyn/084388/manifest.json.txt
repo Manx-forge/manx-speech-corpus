@@ -3,6 +3,7 @@
   "name": "cooinaghtyn elley 05 pages 11-end",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2005%20pages%2011-end.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "084388",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

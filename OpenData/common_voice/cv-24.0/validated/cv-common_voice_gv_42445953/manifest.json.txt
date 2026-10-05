@@ -3,6 +3,7 @@
   "name": "Jean m'y reayll myr clagh ny sooilley: follee mee fo scaa dty skianyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445953",
   "origin": "human",
   "transcript_form": "raw",

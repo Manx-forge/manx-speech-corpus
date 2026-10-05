@@ -3,6 +3,8 @@
   "name": "Aalican' liorish Juan y Gell",
   "source": "https://www.youtube.com/watch?v=9ryG4pD_dXo",
   "platform": "youtube",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "011741",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "Shickyr ayns fardail ta'n lieen er ny skeayley ayns shilley eean erbee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650856",
   "origin": "human",
   "transcript_form": "raw",

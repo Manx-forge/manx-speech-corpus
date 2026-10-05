@@ -3,6 +3,8 @@
   "name": "Cha nel gleashtan ec Voirrey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05671113",
   "origin": "human",
   "transcript_form": "normalised",

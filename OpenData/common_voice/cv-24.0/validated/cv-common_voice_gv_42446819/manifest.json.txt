@@ -3,6 +3,7 @@
   "name": "Smerg dasyn ta troggal balley lesh fuill, as soiaghey seose ard-valley lesh meechairys!",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446819",
   "origin": "human",
   "transcript_form": "raw",

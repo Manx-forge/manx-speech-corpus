@@ -3,6 +3,8 @@
   "name": "Nee oo geaishtagh rish Radio Vannin mairagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05445113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Tra honnick ad y rollage, va boggey erskyn-towse orroo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457624",
   "origin": "human",
   "transcript_form": "raw",

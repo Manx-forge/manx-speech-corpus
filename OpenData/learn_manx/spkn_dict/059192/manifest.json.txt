@@ -3,6 +3,8 @@
   "name": "naighyn carr car wash",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/naighyn%20carr%20-%20car%20wash.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059192",
   "origin": "human",
   "transcript_form": "normalised",

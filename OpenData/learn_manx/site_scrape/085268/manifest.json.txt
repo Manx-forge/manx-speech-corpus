@@ -3,6 +3,7 @@
   "name": "ned_maddrell_marish_stewy",
   "source": "https://www.learnmanx.com/media/Files/ned%20maddrell%20marish%20stewy.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085268",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "Dy voddagh y thie ayd loayrt, cre yiarragh eh my dty chione's?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42533827",
   "origin": "human",
   "transcript_form": "raw",

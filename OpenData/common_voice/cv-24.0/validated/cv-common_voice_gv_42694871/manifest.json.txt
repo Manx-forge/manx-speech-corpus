@@ -3,6 +3,7 @@
   "name": "Trimshey creeoil son peccah, as dy hreigeil eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694871",
   "origin": "human",
   "transcript_form": "raw",

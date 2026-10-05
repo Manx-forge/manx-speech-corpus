@@ -3,6 +3,7 @@
   "name": "Yeearree-jee, as yiow shiu: shir-jee, as nee shiu feddyn: crank-jee, as yiow shiu fosley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662085",
   "origin": "human",
   "transcript_form": "raw",

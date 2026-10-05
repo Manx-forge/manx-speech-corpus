@@ -3,6 +3,8 @@
   "name": "Cre share lhiat jannoo?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051044113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Ta mee dy firrinagh; as mârish cooney Yee shen nee'm.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643238",
   "origin": "human",
   "transcript_form": "raw",

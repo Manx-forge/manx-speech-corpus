@@ -3,6 +3,8 @@
   "name": "cooylley ushtey lock",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/cooylley%20ushtey%20-%20lock.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057624",
   "origin": "human",
   "transcript_form": "normalised",

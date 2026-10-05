@@ -3,6 +3,8 @@
   "name": "Shegin dou goll dys Doolish",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051398113",
   "origin": "human",
   "transcript_form": "normalised",

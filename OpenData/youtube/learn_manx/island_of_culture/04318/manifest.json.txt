@@ -3,6 +3,8 @@
   "name": "C'red t'ou geearree jannoo jiu?",
   "source": "https://www.youtube.com/watch?v=X50JpjMqwlY",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04318",
   "origin": "human",
   "transcript_form": "normalised",

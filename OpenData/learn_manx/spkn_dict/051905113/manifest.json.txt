@@ -3,6 +3,8 @@
   "name": "Va mee ruggit er yn çheyoo laa Mean Souree",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051905113",
   "origin": "human",
   "transcript_form": "normalised",

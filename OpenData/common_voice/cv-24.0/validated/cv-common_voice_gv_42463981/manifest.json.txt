@@ -3,6 +3,7 @@
   "name": "Lesh arroo as faiyr ayns dagh magher.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463981",
   "origin": "human",
   "transcript_form": "raw",

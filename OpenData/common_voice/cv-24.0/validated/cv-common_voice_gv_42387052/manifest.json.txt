@@ -3,6 +3,7 @@
   "name": "Hug y ree chaghter dy eaysley eh: hug prince y phobble e reamys da.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42387052",
   "origin": "human",
   "transcript_form": "raw",

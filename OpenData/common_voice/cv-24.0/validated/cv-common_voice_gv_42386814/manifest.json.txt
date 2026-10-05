@@ -3,6 +3,7 @@
   "name": "O livrey mee veih my hranlaasee: son t'ad ro lajer er my hon.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386814",
   "origin": "human",
   "transcript_form": "raw",

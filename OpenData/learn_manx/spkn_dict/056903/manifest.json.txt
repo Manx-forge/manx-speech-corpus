@@ -3,6 +3,8 @@
   "name": "lossreeyn plants",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/lossreeyn%20-%20plants.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056903",
   "origin": "human",
   "transcript_form": "normalised",

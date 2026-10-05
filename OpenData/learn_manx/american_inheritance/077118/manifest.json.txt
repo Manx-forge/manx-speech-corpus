@@ -3,6 +3,7 @@
   "name": "american_inheritance_final_copy_11",
   "source": "https://www.learnmanx.com/media/American%20Inheritance/american%20inheritance%20final%20copy%2011.mp3",
   "platform": "learn_manx",
+  "domain": "literary",
   "resource_id": "077118",
   "origin": "human",
   "transcript_form": "raw",

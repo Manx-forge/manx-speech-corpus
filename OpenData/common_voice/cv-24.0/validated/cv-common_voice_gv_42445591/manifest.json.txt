@@ -3,6 +3,7 @@
   "name": "Millish dy ghoaill, agh sharroo dy eeck",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445591",
   "origin": "human",
   "transcript_form": "raw",

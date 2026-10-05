@@ -3,6 +3,8 @@
   "name": "Coayl y Vrig Lily, 1852",
   "source": "https://www.youtube.com/watch?v=cLH8a10SMnY",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "029322",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

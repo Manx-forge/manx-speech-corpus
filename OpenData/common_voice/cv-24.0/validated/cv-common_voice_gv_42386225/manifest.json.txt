@@ -3,6 +3,7 @@
   "name": "Hooar shiu yn leigh liorish shirveish ainleyn, agh cha dreill shiu eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386225",
   "origin": "human",
   "transcript_form": "raw",

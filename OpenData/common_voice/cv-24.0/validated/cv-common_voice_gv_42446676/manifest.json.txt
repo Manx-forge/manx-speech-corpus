@@ -3,6 +3,7 @@
   "name": "Lhig dou gobbragh dy jeshagh lesh my ghaa laue, ta beaynid tayrn er gerrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446676",
   "origin": "human",
   "transcript_form": "raw",

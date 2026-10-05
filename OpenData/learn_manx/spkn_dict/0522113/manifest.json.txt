@@ -3,6 +3,8 @@
   "name": "Teh maynrey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522113",
   "origin": "human",
   "transcript_form": "normalised",

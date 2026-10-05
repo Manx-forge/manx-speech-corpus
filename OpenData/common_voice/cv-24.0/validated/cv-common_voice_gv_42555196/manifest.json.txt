@@ -3,6 +3,7 @@
   "name": "Ta raad y litcher myr cleiy drineagh: agh ta raad yn er-cairagh jeant rea.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42555196",
   "origin": "human",
   "transcript_form": "raw",

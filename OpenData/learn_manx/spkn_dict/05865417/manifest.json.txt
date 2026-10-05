@@ -3,6 +3,8 @@
   "name": "lhune beer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Beer_Lhune.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865417",
   "origin": "human",
   "transcript_form": "normalised",

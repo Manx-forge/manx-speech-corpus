@@ -3,6 +3,7 @@
   "name": "Ec y jerrey ren ee claghyn-cruinn y akin er-gerrey dy laue.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629240",
   "origin": "human",
   "transcript_form": "raw",

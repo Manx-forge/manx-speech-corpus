@@ -3,6 +3,8 @@
   "name": "T'eh yindyssagh goaill arrane ayns Gaelg",
   "source": "https://www.youtube.com/watch?v=S1L_4cBQJW4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04196",
   "origin": "human",
   "transcript_form": "normalised",

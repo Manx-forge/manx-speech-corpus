@@ -3,6 +3,8 @@
   "name": "Cur Shilley er Gef, Scaan Ghelbee",
   "source": "https://www.youtube.com/watch?v=Ywa6O-2-jcs",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "028728",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

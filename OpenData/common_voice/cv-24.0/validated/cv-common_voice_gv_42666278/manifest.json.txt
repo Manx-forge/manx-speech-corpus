@@ -3,6 +3,7 @@
   "name": "Lhisagh shappyn ceau magh yn bee nagh ren ad creck?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666278",
   "origin": "human",
   "transcript_form": "raw",

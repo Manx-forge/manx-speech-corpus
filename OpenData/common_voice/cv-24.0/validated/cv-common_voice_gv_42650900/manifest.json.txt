@@ -3,6 +3,7 @@
   "name": "O pheccagh, fuirree ort, as çhyndaa gys Jee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650900",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "T'eh beggan çheh ayns shen",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052236113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Eshyn ta cleashyn echey dy chlashtyn, lhig da clashtyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644783",
   "origin": "human",
   "transcript_form": "raw",

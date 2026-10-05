@@ -3,6 +3,8 @@
   "name": "C'raad t'ou cummal? Where do you live?",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/C'raad%20t'ou%20cummal.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05821217",
   "origin": "human",
   "transcript_form": "normalised",

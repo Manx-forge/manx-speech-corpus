@@ -3,6 +3,7 @@
   "name": "Nagh vel oo er my heeley myr bainney, as er my vinjaghey myr groo?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42512927",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Deiyr eh ad gyn assee da hene, eer ayns raad gyn oayll.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42555093",
   "origin": "human",
   "transcript_form": "raw",

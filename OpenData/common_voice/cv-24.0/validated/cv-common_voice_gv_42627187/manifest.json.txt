@@ -3,6 +3,7 @@
   "name": "Ta shin treishteil ayns y Jee bio.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42627187",
   "origin": "human",
   "transcript_form": "raw",

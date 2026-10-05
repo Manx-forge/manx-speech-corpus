@@ -3,6 +3,8 @@
   "name": "Skeeal 03a",
   "source": "https://www.learnmanx.com/media//cowag_1/cowag_3/skeeal%2003%2001.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04442",
   "origin": "human",
   "transcript_form": "normalised",

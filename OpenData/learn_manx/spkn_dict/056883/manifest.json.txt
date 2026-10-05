@@ -3,6 +3,8 @@
   "name": "giareyder faiyr lawnmower",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/giareyder%20faiyr%20-%20lawnmower.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056883",
   "origin": "human",
   "transcript_form": "normalised",

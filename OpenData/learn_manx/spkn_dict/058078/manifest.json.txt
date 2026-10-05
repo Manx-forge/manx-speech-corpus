@@ -3,6 +3,8 @@
   "name": "mullagh y thie roof",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/mullagh%20y%20thie%20-%20roof.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058078",
   "origin": "human",
   "transcript_form": "normalised",

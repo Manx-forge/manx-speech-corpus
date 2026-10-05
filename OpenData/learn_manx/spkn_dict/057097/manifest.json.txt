@@ -3,6 +3,8 @@
   "name": "caslys picture",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/caslys%20-%20picture.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057097",
   "origin": "human",
   "transcript_form": "normalised",

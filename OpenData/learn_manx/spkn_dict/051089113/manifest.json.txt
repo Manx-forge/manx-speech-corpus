@@ -3,6 +3,8 @@
   "name": "Share lhiam Droghad Sulby",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051089113",
   "origin": "human",
   "transcript_form": "normalised",

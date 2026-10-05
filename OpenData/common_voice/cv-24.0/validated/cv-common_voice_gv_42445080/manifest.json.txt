@@ -3,6 +3,7 @@
   "name": "Ren mee dou hene loghanyn ushtey, dy ushtaghey yn cheyll ta gymmyrkey biljyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445080",
   "origin": "human",
   "transcript_form": "raw",

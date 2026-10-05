@@ -3,6 +3,7 @@
   "name": "Ta'n ollick cheet lesh gien feer vie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666264",
   "origin": "human",
   "transcript_form": "raw",

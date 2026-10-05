@@ -3,6 +3,8 @@
   "name": "Jagh oo dys Crosby jea? Cha jagh",
   "source": "https://www.youtube.com/watch?v=O0DMU50nFmA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04171",
   "origin": "human",
   "transcript_form": "normalised",

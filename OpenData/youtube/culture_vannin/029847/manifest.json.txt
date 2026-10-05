@@ -3,6 +3,8 @@
   "name": "Tip the Scales,' y Groseyr, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=M5HcURFy0PE",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "029847",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

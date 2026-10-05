@@ -3,6 +3,8 @@
   "name": "Famlagh seaweed",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20beach/famlagh%20-%20seaweed.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0521992",
   "origin": "human",
   "transcript_form": "normalised",

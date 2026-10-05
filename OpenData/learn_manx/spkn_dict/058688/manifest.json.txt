@@ -3,6 +3,8 @@
   "name": "pussag hampster",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Pets/pussag%20-%20hampster.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058688",
   "origin": "human",
   "transcript_form": "normalised",

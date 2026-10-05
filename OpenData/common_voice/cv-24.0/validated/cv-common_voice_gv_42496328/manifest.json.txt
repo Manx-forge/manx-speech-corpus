@@ -3,6 +3,7 @@
   "name": "Ta graih goll ny s'dowin ayns yn irriney, ny ta smooinaght goll.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42496328",
   "origin": "human",
   "transcript_form": "raw",

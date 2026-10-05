@@ -3,6 +3,7 @@
   "name": "Ta booa vie ny gha as drogh lheiy ec",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448447",
   "origin": "human",
   "transcript_form": "raw",

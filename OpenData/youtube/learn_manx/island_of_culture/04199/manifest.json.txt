@@ -3,6 +3,8 @@
   "name": "Shoh my viol",
   "source": "https://www.youtube.com/watch?v=Q-jL3M7f28M",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04199",
   "origin": "human",
   "transcript_form": "normalised",

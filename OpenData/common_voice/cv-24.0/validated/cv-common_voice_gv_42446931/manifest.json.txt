@@ -3,6 +3,7 @@
   "name": "Myr s'koie yn mwaagh, fuirree eh rish y heshey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446931",
   "origin": "human",
   "transcript_form": "raw",

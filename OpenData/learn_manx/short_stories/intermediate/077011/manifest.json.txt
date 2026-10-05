@@ -3,6 +3,8 @@
   "name": "skeeal_zen_3_doillee",
   "source": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%203%20(doillee).mp3",
   "platform": "learn_manx",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "077011",
   "origin": "human",
   "transcript_form": "raw",

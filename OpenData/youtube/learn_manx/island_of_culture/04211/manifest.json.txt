@@ -3,6 +3,8 @@
   "name": "Craad bare lhiat cummal: Yn Cholloo ny LA?",
   "source": "https://www.youtube.com/watch?v=0vPMylXucMM",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04211",
   "origin": "human",
   "transcript_form": "normalised",

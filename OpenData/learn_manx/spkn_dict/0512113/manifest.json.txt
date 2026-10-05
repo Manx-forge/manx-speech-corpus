@@ -3,6 +3,8 @@
   "name": "Mish... My name is",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0512113",
   "origin": "human",
   "transcript_form": "normalised",

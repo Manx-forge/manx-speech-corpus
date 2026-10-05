@@ -3,6 +3,7 @@
   "name": "Manx-L1-C09",
   "source": null,
   "platform": "saysomething",
+  "domain": "education",
   "resource_id": "083882",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

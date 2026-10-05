@@ -3,6 +3,7 @@
   "name": "\"Ta mish creenaght cummal marish keeayl; as toiggal bun raaghyn creeney.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42439267",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Shenn Stashoon ny Meoiryn Shee",
   "source": "https://www.youtube.com/watch?v=JJW_RpBtkQM",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "022192",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "Va dooinney tushtagh ny soie ayns e oik tra haink eh dys yn obbyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42586824",
   "origin": "human",
   "transcript_form": "raw",

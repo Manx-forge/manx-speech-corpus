@@ -3,6 +3,7 @@
   "name": "T'eh yn cair ainyn dy ve er nyn arrey, farkiagh son ordrail yn Mainshter.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386722",
   "origin": "human",
   "transcript_form": "raw",

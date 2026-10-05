@@ -3,6 +3,7 @@
   "name": "Ta'n bolg-side oc oaie foshlit, t'ad ooilley nyn gheiney trean.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447134",
   "origin": "human",
   "transcript_form": "raw",

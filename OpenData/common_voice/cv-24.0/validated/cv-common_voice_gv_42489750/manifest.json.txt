@@ -3,6 +3,7 @@
   "name": "Cre'n sorçh dy ghreie t'ou freggyrt y feysht shoh er?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42489750",
   "origin": "human",
   "transcript_form": "raw",

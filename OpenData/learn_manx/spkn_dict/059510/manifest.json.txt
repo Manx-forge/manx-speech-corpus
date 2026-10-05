@@ -3,6 +3,8 @@
   "name": "laccal wanting",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/laccal%20-%20wanting.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059510",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Va mee ec reamys marrey reesht, as va'n aggle aym harrish son tammylt beg.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457646",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Va cabbane mooar dy liooar ec y lught thie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42556735",
   "origin": "human",
   "transcript_form": "raw",

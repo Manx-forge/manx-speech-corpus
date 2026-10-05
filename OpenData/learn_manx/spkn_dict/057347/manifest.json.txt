@@ -3,6 +3,8 @@
   "name": "kellagh frangagh turkey",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/kellagh%20frangagh%20-%20turkey.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057347",
   "origin": "human",
   "transcript_form": "normalised",

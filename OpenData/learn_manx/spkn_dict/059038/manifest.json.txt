@@ -3,6 +3,8 @@
   "name": "skynn knife",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skynn%20-%20knife.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059038",
   "origin": "human",
   "transcript_form": "normalised",

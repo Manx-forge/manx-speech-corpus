@@ -3,6 +3,7 @@
   "name": "Myr shen hig dty voghtynid ort, myr troailtagh, as dt'eme myr dooinney-caggee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42335124",
   "origin": "human",
   "transcript_form": "raw",

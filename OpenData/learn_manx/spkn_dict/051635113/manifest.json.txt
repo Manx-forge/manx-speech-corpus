@@ -3,6 +3,8 @@
   "name": "Cha jinnin",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051635113",
   "origin": "human",
   "transcript_form": "normalised",

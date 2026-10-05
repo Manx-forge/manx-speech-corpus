@@ -5,6 +5,7 @@
   "createdCircaEnd": "2026-08-16",
   "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-16oo-mee-luanistyn-2026-august-16th/",
   "platform": "manx_radio",
+  "domain": "podcast",
   "resource_id": "09362",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

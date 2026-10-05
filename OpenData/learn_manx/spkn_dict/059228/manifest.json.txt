@@ -3,6 +3,8 @@
   "name": "railley rail",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/railley%20-%20rail.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059228",
   "origin": "human",
   "transcript_form": "normalised",

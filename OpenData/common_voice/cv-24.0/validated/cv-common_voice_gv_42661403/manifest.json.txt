@@ -3,6 +3,7 @@
   "name": "Agh dooyrt Yeesey roo, cha lhiass daue goll roue, cur-jee shiuish beaghey daue.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42661403",
   "origin": "human",
   "transcript_form": "raw",

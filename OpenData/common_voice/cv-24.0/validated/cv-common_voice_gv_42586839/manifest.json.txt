@@ -3,6 +3,7 @@
   "name": "Cre dynsee oo y çhiaghtin shoh chaie?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42586839",
   "origin": "human",
   "transcript_form": "raw",

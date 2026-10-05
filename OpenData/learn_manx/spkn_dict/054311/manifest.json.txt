@@ -3,6 +3,8 @@
   "name": "mucawin bear",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/mucawin%20-%20bear.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054311",
   "origin": "human",
   "transcript_form": "normalised",

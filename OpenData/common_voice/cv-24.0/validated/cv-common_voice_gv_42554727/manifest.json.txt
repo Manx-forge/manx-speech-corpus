@@ -3,6 +3,7 @@
   "name": "My vac, freill my ghoan, as tasht seose my haraghyn mayrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42554727",
   "origin": "human",
   "transcript_form": "raw",

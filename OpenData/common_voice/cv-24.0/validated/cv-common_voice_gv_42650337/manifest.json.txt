@@ -3,6 +3,7 @@
   "name": "Ynrican tar gys Yeesey, myr peccagh boght cailt, as vees saualtys lhiats - t'eh shickyr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650337",
   "origin": "human",
   "transcript_form": "raw",

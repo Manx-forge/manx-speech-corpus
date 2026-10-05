@@ -3,6 +3,8 @@
   "name": "Soddag Valloo? Cliaghtey Manninagh son Oie Houney",
   "source": "https://www.youtube.com/watch?v=ZJ-Sw0cwnpE",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "021298",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "Launch of new book in Manx Gaelic by Chris Lewin",
   "source": "https://www.youtube.com/watch?v=mnSWVuKCUz4",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "024158",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

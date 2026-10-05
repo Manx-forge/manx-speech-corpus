@@ -3,6 +3,8 @@
   "name": "meighaghyn scales",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/meighaghyn%20-%20scales.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058280",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Tra t'ou shirrey son lioar, c'red t'ou jannoo?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42316",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "Lesh my veillyn ta mee er ny ve ginsh jeh ooilley briwnyssyn dty veeal.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457836",
   "origin": "human",
   "transcript_form": "raw",

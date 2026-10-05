@@ -3,6 +3,7 @@
   "name": "Dy beagh irree-seose ny co-earrooderyn ayn, c'raad yinnagh oo follaghey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42535520",
   "origin": "human",
   "transcript_form": "raw",

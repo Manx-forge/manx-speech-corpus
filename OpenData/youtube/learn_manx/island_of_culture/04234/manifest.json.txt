@@ -3,6 +3,8 @@
   "name": "Soie sheese er y laare, my sailt",
   "source": "https://www.youtube.com/watch?v=csIJTZuQJ1w",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04234",
   "origin": "human",
   "transcript_form": "normalised",

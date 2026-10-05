@@ -3,6 +3,7 @@
   "name": "As hie goo magh jeh trooid dy chooilley ard jeh'n cheer mygeayrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386004",
   "origin": "human",
   "transcript_form": "raw",

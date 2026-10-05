@@ -3,6 +3,8 @@
   "name": "Jean Orry shappal Jesarn?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05811113",
   "origin": "human",
   "transcript_form": "normalised",

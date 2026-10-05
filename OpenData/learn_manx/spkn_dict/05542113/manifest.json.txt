@@ -3,6 +3,8 @@
   "name": "Er y fa / er yn oyr",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05542113",
   "origin": "human",
   "transcript_form": "normalised",

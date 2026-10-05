@@ -3,6 +3,8 @@
   "name": "Nod Orry snaue dy mie?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051462113",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "Va shen aitt dy liooar ren y chied vuggane giggleragh",
   "source": "https://www.youtube.com/watch?v=CFsYhFbbOaM",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04292",
   "origin": "human",
   "transcript_form": "normalised",

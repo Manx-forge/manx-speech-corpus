@@ -3,6 +3,7 @@
   "name": "Bee laa ny Briwnys dy leah ayns shoh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650372",
   "origin": "human",
   "transcript_form": "raw",

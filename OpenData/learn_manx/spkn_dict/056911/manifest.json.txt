@@ -3,6 +3,8 @@
   "name": "ooir soil",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/ooir%20-%20soil.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "056911",
   "origin": "human",
   "transcript_form": "normalised",

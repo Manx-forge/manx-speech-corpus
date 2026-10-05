@@ -3,6 +3,7 @@
   "name": "Nee Jee goaill kiarail jeusyn ta ceau ooilley nyn laaid ersyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447173",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "T'an faiyr fioghey, ta'n blaa tuittym; son dy vel geay yn Çhiarn sheidey er.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650364",
   "origin": "human",
   "transcript_form": "raw",

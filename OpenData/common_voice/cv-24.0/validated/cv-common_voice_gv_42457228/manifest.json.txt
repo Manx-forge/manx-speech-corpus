@@ -3,6 +3,7 @@
   "name": "Ta my chrackan doo orrym, as my chraueyn shirgit seose lesh chiass.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457228",
   "origin": "human",
   "transcript_form": "raw",

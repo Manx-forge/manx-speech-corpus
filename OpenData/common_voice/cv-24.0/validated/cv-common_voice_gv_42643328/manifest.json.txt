@@ -3,6 +3,7 @@
   "name": "As ny lhig dasyn t'ayns y vagher çhyndaa back, dy chur lesh e eaddagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643328",
   "origin": "human",
   "transcript_form": "raw",

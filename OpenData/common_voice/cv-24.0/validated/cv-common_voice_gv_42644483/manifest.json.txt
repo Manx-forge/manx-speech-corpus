@@ -3,6 +3,7 @@
   "name": "As trog seose Israel veih'n ooir.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644483",
   "origin": "human",
   "transcript_form": "raw",

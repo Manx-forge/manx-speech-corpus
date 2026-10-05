@@ -3,6 +3,8 @@
   "name": "Veign maynrey dy beagh Brad Pitt ayns shoh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051698113",
   "origin": "human",
   "transcript_form": "normalised",

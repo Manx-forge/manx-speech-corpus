@@ -3,6 +3,8 @@
   "name": "Row oo ec yn Thie-Fillym jea?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05215113",
   "origin": "human",
   "transcript_form": "normalised",

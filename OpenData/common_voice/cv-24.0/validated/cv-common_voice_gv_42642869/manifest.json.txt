@@ -3,6 +3,7 @@
   "name": "Ta mee treishteil nagh bee shiu corree rhym son goaill seose y traa eu.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642869",
   "origin": "human",
   "transcript_form": "raw",

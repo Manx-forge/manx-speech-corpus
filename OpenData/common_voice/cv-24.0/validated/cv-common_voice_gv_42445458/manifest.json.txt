@@ -3,6 +3,7 @@
   "name": "As nee oo scrieu ad er essynyn dty ghorrys, as er dty yiattyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445458",
   "origin": "human",
   "transcript_form": "raw",

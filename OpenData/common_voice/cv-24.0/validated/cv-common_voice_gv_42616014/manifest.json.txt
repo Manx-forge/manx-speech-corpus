@@ -3,6 +3,7 @@
   "name": "Cur coontey jeh çhaglym v'ou ayn oddagh v'er ve post-l.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42616014",
   "origin": "human",
   "transcript_form": "raw",

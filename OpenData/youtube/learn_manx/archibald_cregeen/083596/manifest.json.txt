@@ -3,6 +3,7 @@
   "name": "Cregeen? 10 Jerrey Fouyir",
   "source": "https://www.youtube.com/watch?v=aCVr_aESw1I",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "083596",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

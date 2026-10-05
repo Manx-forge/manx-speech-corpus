@@ -3,6 +3,7 @@
   "name": "Feer vie, my vees traa aym nee'm gyllagh er raad back.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643134",
   "origin": "human",
   "transcript_form": "raw",

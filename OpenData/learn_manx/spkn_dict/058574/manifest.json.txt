@@ -3,6 +3,8 @@
   "name": "possan-kiaullee band",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20music/possan-kiaullee%20-%20band.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058574",
   "origin": "human",
   "transcript_form": "normalised",

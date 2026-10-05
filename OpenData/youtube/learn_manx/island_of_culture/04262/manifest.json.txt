@@ -3,6 +3,8 @@
   "name": "Cha nel eh ceau sniaghtey ayns Purt ny h-Inshey jiu",
   "source": "https://www.youtube.com/watch?v=BfOLfNazbc4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04262",
   "origin": "human",
   "transcript_form": "normalised",

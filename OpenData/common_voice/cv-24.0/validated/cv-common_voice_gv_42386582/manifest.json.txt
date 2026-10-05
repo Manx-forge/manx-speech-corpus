@@ -3,6 +3,7 @@
   "name": "Er laa elley, va ayns imbagh aalin yn ouyr, v'eh feer çheh as grainagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386582",
   "origin": "human",
   "transcript_form": "raw",

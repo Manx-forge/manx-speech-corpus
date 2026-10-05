@@ -3,6 +3,8 @@
   "name": "Ta mee ayns Purt ny h-inshey jiu as t'eh beggan feayr",
   "source": "https://www.youtube.com/watch?v=p1DgLWgfQqU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04254",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Kys t'ou prowal veih'n Scriptyr, dy nee shoh va oyr irree seose reesht nyn saualtagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42624662",
   "origin": "human",
   "transcript_form": "raw",

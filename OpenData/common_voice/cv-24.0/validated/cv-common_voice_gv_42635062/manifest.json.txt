@@ -3,6 +3,7 @@
   "name": "Ta ny cowraghyn shoh cur oyr dhyt dy hreishteil.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42635062",
   "origin": "human",
   "transcript_form": "raw",

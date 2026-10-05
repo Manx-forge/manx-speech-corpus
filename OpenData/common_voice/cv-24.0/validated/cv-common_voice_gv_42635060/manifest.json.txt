@@ -3,6 +3,7 @@
   "name": "Er-yn-oyr dy row Creest ny oural son peccah.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42635060",
   "origin": "human",
   "transcript_form": "raw",

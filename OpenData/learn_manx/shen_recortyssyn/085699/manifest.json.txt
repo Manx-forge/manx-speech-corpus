@@ -3,6 +3,7 @@
   "name": "Traa dy Liooar 12 mee ny nollick",
   "source": "https://www.learnmanx.com/media/traa%20dy%20liooar/Traa%20dy%20Liooar%2012%20mee%20ny%20nollick.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "085699",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

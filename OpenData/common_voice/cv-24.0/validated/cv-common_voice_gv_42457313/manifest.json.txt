@@ -3,6 +3,7 @@
   "name": "Eisht slane sheelnaue shegin chymsagh fenish Chreest.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457313",
   "origin": "human",
   "transcript_form": "raw",

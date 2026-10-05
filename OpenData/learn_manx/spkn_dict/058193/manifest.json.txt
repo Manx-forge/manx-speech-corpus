@@ -3,6 +3,8 @@
   "name": "kys tou how are you",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/kys%20tou%20-%20how%20are%20you.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058193",
   "origin": "human",
   "transcript_form": "normalised",

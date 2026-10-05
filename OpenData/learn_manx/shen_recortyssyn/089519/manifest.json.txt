@@ -3,6 +3,7 @@
   "name": "doug faragher prouncing birds",
   "source": "https://www.learnmanx.com/media/Pronouning%20Dictionary/doug%20faragher%20prouncing%20birds.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "089519",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

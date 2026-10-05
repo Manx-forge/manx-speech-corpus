@@ -3,6 +3,8 @@
   "name": "Ren eh troggal clagh smoo as ren eh ceau shen erash",
   "source": "https://www.youtube.com/watch?v=d57BNR9_qaE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04274",
   "origin": "human",
   "transcript_form": "normalised",

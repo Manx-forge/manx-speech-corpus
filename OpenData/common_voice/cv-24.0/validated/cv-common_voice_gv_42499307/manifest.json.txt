@@ -3,6 +3,7 @@
   "name": "Bioys da dooinney as baase da eeast",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42499307",
   "origin": "human",
   "transcript_form": "raw",

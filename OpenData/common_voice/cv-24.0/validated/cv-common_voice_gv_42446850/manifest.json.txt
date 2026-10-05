@@ -3,6 +3,7 @@
   "name": "Cha vel nhee erbee mie aynyds, as cha bee dy bragh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446850",
   "origin": "human",
   "transcript_form": "raw",

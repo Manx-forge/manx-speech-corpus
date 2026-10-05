@@ -3,6 +3,7 @@
   "name": "T'adsyn, ta cur geill da fardalyssyn breagagh, treigeil nyn myghin hene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42460611",
   "origin": "human",
   "transcript_form": "raw",

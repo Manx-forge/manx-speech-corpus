@@ -3,6 +3,7 @@
   "name": "Rosemary_learning_Manx",
   "source": "https://www.learnmanx.com/media/Files/Rosemary%20learning%20Manx.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "089025",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

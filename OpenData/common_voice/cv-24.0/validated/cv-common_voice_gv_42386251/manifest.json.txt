@@ -3,6 +3,7 @@
   "name": "Livrey-jee yn vooinjer ta treigit as ny boghtyn: saue-jee ad veih laue ny mee-chrauee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386251",
   "origin": "human",
   "transcript_form": "raw",

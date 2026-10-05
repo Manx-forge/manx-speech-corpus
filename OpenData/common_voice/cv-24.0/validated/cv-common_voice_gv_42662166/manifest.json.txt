@@ -3,6 +3,7 @@
   "name": "Jeeagh-jee hym's, as bee-jee er nyn sauail, ooilley shiuish ardjyn y theihll.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42662166",
   "origin": "human",
   "transcript_form": "raw",

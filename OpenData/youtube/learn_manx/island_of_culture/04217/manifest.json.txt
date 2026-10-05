@@ -3,6 +3,8 @@
   "name": "Ta mee shickyr dy bee eh grianagh ayns Purt le Moirrey Jesarn",
   "source": "https://www.youtube.com/watch?v=x2BXJ8eTEqA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04217",
   "origin": "human",
   "transcript_form": "normalised",

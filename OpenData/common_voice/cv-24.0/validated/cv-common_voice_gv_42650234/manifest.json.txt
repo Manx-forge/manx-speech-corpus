@@ -3,6 +3,7 @@
   "name": "Jee yn ayr, as obbyr e chroo?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650234",
   "origin": "human",
   "transcript_form": "raw",

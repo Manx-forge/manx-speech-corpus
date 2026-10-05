@@ -3,6 +3,7 @@
   "name": "\"Myr ushtey feayr da dooinney paagh; myr shen ta naight mie veih cheer foddey.\"",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446872",
   "origin": "human",
   "transcript_form": "raw",

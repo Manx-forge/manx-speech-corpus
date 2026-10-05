@@ -3,6 +3,7 @@
   "name": "intermediate_lesson_04",
   "source": "https://www.learnmanx.com/media/Files/intermediate%20lesson%2004.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "081954",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

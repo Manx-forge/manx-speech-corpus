@@ -3,6 +3,7 @@
   "name": "Ta mee guee erriu dy insh dou cre t'orrym dy yannoo dy chosney saualtys?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42669548",
   "origin": "human",
   "transcript_form": "raw",

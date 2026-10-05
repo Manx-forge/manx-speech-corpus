@@ -3,6 +3,7 @@
   "name": "As dooyrt eh roo, Clasht-jee, ta mee guee erriu, yn dreamal shoh va aym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447306",
   "origin": "human",
   "transcript_form": "raw",

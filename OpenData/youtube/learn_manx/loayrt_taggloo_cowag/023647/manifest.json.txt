@@ -3,6 +3,8 @@
   "name": "Loayrt, Taggloo, Cowag 01",
   "source": "https://www.youtube.com/watch?v=8mhir3FYQwI",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "monologue",
   "resource_id": "023647",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "The origins of Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=qtio1ZnU_SQ",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "025646",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

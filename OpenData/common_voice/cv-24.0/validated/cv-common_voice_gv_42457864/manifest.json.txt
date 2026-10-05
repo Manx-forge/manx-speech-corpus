@@ -3,6 +3,7 @@
   "name": "D'ee ny ayraghyn euish manna ayns yn aasagh, as t'ad marroo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457864",
   "origin": "human",
   "transcript_form": "raw",

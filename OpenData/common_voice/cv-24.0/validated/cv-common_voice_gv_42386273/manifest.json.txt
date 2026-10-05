@@ -3,6 +3,7 @@
   "name": "S'maynrey'n dooinney ta cosney creenaght, as y dooinney ta geddyn tushtey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386273",
   "origin": "human",
   "transcript_form": "raw",

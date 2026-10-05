@@ -3,6 +3,8 @@
   "name": "Rheynn Cullen",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051097113",
   "origin": "human",
   "transcript_form": "normalised",

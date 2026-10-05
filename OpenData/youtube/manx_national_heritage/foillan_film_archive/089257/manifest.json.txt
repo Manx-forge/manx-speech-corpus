@@ -3,6 +3,7 @@
   "name": "Mona Douglas - Foillan Films (Manx Language Film )",
   "source": "https://www.youtube.com/watch?v=Pl0orFfRRhg",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "089257",
   "origin": "human",
   "transcript_form": "raw",

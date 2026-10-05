@@ -3,6 +3,8 @@
   "name": "Vel braar ayd? Ta, ta daa vraar aym",
   "source": "https://www.youtube.com/watch?v=IUl-yU2PfJc",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04136",
   "origin": "human",
   "transcript_form": "normalised",

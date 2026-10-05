@@ -3,6 +3,8 @@
   "name": "Geay Jeh'n Aer? A traditional Manx song performed on Manx Radio",
   "source": "https://www.youtube.com/watch?v=bjT_J37nkoo",
   "platform": "youtube",
+  "domain": "podcast",
+  "style": "dialogue",
   "resource_id": "092177",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

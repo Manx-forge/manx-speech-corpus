@@ -3,6 +3,7 @@
   "name": "Cre ny vondeishyn t'ain liorish yn oardagh shoh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650247",
   "origin": "human",
   "transcript_form": "raw",

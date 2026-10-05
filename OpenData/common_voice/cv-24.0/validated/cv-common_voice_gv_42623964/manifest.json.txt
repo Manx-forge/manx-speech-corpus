@@ -3,6 +3,7 @@
   "name": "Cre'n phrowal t'ayd dy vel oo kianglt dy 'hea veih dy chooilley ghrogh heshaght?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623964",
   "origin": "human",
   "transcript_form": "raw",

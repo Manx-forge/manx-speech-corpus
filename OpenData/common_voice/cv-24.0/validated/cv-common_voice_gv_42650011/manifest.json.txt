@@ -3,6 +3,7 @@
   "name": "As hie ad magh, as ren ad preaçheil, arrys dy ve er ny ghoaill.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650011",
   "origin": "human",
   "transcript_form": "raw",

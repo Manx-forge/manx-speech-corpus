@@ -3,6 +3,8 @@
   "name": "Er-lhiam dy beagh",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051607113",
   "origin": "human",
   "transcript_form": "normalised",

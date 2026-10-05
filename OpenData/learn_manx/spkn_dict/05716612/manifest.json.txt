@@ -3,6 +3,8 @@
   "name": "Shoh goo yn Chiarn This is the word of the Lord",
   "source": "https://www.learnmanx.com/media/dictionary%20for%20church/This_is_the_word_of_the_Lord.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05716612",
   "origin": "human",
   "transcript_form": "normalised",

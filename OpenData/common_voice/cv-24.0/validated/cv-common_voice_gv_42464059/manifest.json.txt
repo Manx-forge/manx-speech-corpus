@@ -3,6 +3,7 @@
   "name": "As cur-my-ner, ta er-jerrey vees hoshiaght, as ta hoshiaght vees er-jerrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42464059",
   "origin": "human",
   "transcript_form": "raw",

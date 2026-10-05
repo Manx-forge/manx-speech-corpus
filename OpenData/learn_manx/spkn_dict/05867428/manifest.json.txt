@@ -3,6 +3,8 @@
   "name": "lane full",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Full%20(A).mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05867428",
   "origin": "human",
   "transcript_form": "normalised",

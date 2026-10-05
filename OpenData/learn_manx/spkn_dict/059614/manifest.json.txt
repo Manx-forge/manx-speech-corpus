@@ -3,6 +3,8 @@
   "name": "yllagh call",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/yllagh%20-%20call.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059614",
   "origin": "human",
   "transcript_form": "normalised",

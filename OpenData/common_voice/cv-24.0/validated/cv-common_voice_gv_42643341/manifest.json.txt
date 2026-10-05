@@ -3,6 +3,7 @@
   "name": "Yn Conaant Noa ayns glare ny h-Ewnyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643341",
   "origin": "human",
   "transcript_form": "raw",

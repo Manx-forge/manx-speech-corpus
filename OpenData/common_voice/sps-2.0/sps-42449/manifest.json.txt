@@ -3,6 +3,7 @@
   "name": "Cre'n feysht yinnagh oo briaght jeh leeideilagh dty 'heer?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42449",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,8 @@
   "name": "Ta shin ayns Purt Chiarn",
   "source": "https://www.youtube.com/watch?v=_J3pmZ2q5W0",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0422",
   "origin": "human",
   "transcript_form": "normalised",

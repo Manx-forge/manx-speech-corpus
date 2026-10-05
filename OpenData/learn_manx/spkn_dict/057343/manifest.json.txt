@@ -3,6 +3,8 @@
   "name": "foillan gull",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/foillan%20-%20gull.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057343",
   "origin": "human",
   "transcript_form": "normalised",

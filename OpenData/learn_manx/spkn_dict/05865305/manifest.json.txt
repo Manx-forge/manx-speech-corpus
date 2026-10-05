@@ -3,6 +3,8 @@
   "name": "arran greddan toast",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Toast_Arran%20greddan.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05865305",
   "origin": "human",
   "transcript_form": "normalised",

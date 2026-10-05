@@ -3,6 +3,7 @@
   "name": "As my hig accan my raad's laccal signal, verrym's my laue huggey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694556",
   "origin": "human",
   "transcript_form": "raw",

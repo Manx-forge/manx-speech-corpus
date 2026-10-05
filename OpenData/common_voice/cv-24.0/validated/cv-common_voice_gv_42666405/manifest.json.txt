@@ -3,6 +3,7 @@
   "name": "Ginjillaghey shiu hene yn derrey yeh gys y jeh elley ayns aggle Yee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42666405",
   "origin": "human",
   "transcript_form": "raw",

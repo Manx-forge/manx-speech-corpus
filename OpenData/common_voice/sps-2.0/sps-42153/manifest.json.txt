@@ -3,6 +3,7 @@
   "name": "Cur coontey jeh traa ren oo coayl red ennagh scanshoil as kys hooar oo eh.",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42153",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

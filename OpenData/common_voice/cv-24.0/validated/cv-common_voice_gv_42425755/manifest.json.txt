@@ -3,6 +3,7 @@
   "name": "Eshyn nagh gow rish briw erbee t'eh deyrey eh hene",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425755",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Nee eh chea veih'n wapin-yiarn, agh nee'n bow-steillin eh dy woalley trooid.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42558470",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Vel oo er nee kay-riojey er y gerrid?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052171113",
   "origin": "human",
   "transcript_form": "normalised",

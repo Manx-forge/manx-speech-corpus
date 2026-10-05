@@ -3,6 +3,7 @@
   "name": "Vel red erbee elley er ny hirrey orroosyn ta çheet gys shibbyr y çhiarn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42661857",
   "origin": "human",
   "transcript_form": "raw",

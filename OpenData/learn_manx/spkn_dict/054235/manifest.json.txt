@@ -3,6 +3,8 @@
   "name": "doo oallee spider",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/doo%20oallee%20-%20spider.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054235",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "nollick ghennal Happy Christmas",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/nollick%20ghennal%20-%20Happy%20Christmas.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058491",
   "origin": "human",
   "transcript_form": "normalised",

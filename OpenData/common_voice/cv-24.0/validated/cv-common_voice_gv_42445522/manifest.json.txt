@@ -3,6 +3,7 @@
   "name": "Ta'n kione lheeah attey dy ghloyr, my te ry-gheddyn ayns raad yn ynrickys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445522",
   "origin": "human",
   "transcript_form": "raw",

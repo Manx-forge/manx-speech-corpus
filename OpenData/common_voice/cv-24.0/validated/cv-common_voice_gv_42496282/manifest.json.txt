@@ -3,6 +3,7 @@
   "name": "Cha vel mee-goaill orrym dy loayrt jeh cooishyn mooarey: ta erskyn roshtyn my hushtey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42496282",
   "origin": "human",
   "transcript_form": "raw",

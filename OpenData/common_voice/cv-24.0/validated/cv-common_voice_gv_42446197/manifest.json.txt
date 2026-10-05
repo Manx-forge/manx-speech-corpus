@@ -3,6 +3,7 @@
   "name": "Ta'n gloyr shoh ec graih Yee nagh vel ee dy bragh caghlaa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446197",
   "origin": "human",
   "transcript_form": "raw",

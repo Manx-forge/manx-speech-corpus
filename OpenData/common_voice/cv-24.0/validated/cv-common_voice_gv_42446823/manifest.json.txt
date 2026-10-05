@@ -3,6 +3,7 @@
   "name": "As un vannan veih ny goair, dy yannoo lhiasaghey er nyn son.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446823",
   "origin": "human",
   "transcript_form": "raw",

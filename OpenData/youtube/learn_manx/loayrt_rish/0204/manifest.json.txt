@@ -3,6 +3,8 @@
   "name": "Conversational Interview",
   "source": "https://youtube.com/watch?v=rZLuB6CZYVE&t=8s",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "0204",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Reesht t'eh jannoo yn aasagh ny loghan ushtey: as geillyn jeh thalloo chirrym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549696",
   "origin": "human",
   "transcript_form": "raw",

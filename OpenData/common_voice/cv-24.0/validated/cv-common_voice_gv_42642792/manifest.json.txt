@@ -3,6 +3,7 @@
   "name": "B'eunyssagh dty ghaaraghyn, b'ooasle dty hie!",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642792",
   "origin": "human",
   "transcript_form": "raw",

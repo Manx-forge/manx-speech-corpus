@@ -8,6 +8,8 @@
   "translated": "Walter Clarke, Ramsey",
   "source": "https://youtube.com/watch?v=hJsTeYVBfTU",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "0309",
   "origin": "human",
   "transcript_form": "raw",

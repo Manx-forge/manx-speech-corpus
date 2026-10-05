@@ -3,6 +3,7 @@
   "name": "Veagh shoh resoonagh, dy ghra yn chooid sloo jeh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650831",
   "origin": "human",
   "transcript_form": "raw",

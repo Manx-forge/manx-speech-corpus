@@ -3,6 +3,7 @@
   "name": "Eisht hrog mee seose my hooillyn, as honnick mee, as cur-my-ner kiare eairkyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42499369",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "jerrey-arree April",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jerrey-arree%20-%20April.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058383",
   "origin": "human",
   "transcript_form": "normalised",

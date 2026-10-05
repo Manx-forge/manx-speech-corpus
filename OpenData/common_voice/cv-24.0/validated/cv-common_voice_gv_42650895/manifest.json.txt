@@ -3,6 +3,7 @@
   "name": "T'eh freayll shin bio, as t'eh jannoo nyn mea gerjoilagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650895",
   "origin": "human",
   "transcript_form": "raw",

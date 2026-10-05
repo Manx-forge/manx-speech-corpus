@@ -3,6 +3,7 @@
   "name": "Slattys son jannoo reiltys vie er thieyn aaght cadjin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629232",
   "origin": "human",
   "transcript_form": "raw",

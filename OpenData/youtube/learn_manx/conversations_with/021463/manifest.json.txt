@@ -3,6 +3,8 @@
   "name": "Phil Kelly RBV 2018_ Gaelg",
   "source": "https://www.youtube.com/watch?v=aF7hPa9MK1Y&t=45s",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "021463",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

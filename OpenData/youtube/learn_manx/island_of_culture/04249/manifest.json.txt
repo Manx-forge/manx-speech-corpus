@@ -3,6 +3,8 @@
   "name": "V'eh beggan rastagh er y cheayn jiu",
   "source": "https://www.youtube.com/watch?v=HMGtys2r_kE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04249",
   "origin": "human",
   "transcript_form": "normalised",

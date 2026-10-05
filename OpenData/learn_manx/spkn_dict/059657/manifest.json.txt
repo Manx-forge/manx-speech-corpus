@@ -3,6 +3,8 @@
   "name": "emshyr weather",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/emshyr%20-%20weather.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059657",
   "origin": "human",
   "transcript_form": "normalised",

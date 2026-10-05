@@ -3,6 +3,7 @@
   "name": "Ymmyrçh vooar, ny neu-frioose ny cummaltee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42649994",
   "origin": "human",
   "transcript_form": "raw",

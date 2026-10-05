@@ -3,6 +3,8 @@
   "name": "LG K1 L13 Cliaghtey",
   "source": "https://www.youtube.com/watch?v=RN4vsCycr9g",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "083612",
   "origin": "human",
   "transcript_form": "raw",

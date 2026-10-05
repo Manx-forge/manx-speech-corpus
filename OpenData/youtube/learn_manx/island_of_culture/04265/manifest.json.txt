@@ -3,6 +3,8 @@
   "name": "Keayrt dy row, va buggane cummal dy kiune er y cheu heear jeh slieau",
   "source": "https://www.youtube.com/watch?v=eq7a4GLgzYQ",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04265",
   "origin": "human",
   "transcript_form": "normalised",

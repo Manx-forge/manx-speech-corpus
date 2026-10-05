@@ -3,6 +3,7 @@
   "name": "Mannagh vel mee jannoo obbraghyn m'Ayrey, ny cred-jee mee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446088",
   "origin": "human",
   "transcript_form": "raw",

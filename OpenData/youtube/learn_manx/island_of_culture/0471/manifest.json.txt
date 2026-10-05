@@ -3,6 +3,8 @@
   "name": "Shoh shenn thie Harry Kelly",
   "source": "https://www.youtube.com/watch?v=sqt9KHrrR2M",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0471",
   "origin": "human",
   "transcript_form": "normalised",

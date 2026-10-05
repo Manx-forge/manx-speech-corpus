@@ -3,6 +3,8 @@
   "name": "Ren mee goll dys yn thie-tashtee ayns Doolish Jelune",
   "source": "https://www.youtube.com/watch?v=8fmM58_bNUI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04100",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Liorish meenid ta prince er ny veiyghey, as ta chengey veeley brishey eer craueyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457896",
   "origin": "human",
   "transcript_form": "raw",

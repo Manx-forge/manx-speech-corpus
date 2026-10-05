@@ -3,6 +3,8 @@
   "name": "How to use cre shegin dhyt jannoo in Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=qiIr8gIzeiY",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "023363",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

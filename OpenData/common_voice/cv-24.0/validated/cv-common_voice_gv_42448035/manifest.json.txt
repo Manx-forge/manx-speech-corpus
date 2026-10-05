@@ -3,6 +3,7 @@
   "name": "Agh, cha row veg eck yn phrisoonagh, myr shen va'n prison kiongoyrt rish.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448035",
   "origin": "human",
   "transcript_form": "raw",

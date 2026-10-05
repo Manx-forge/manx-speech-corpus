@@ -3,6 +3,7 @@
   "name": "Vel camlaagys ayns my hengey? nagh vel my heaghyn sharroo gys my vlass?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42598963",
   "origin": "human",
   "transcript_form": "raw",

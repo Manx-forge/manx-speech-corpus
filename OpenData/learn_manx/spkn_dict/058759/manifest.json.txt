@@ -3,6 +3,8 @@
   "name": "ellan art",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/ellan%20-%20art.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058759",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Lesh cre'n ymmyrkey aigney t'eh gynsaghey dooin dy ghoaill padjer?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694657",
   "origin": "human",
   "transcript_form": "raw",

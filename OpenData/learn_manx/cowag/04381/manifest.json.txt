@@ -3,6 +3,8 @@
   "name": "Conversation 17",
   "source": "https://www.learnmanx.com/media//cowag/17%20Track%2017%207.m4a",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "dialogue",
   "resource_id": "04381",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Gaelg son paarantyn? Goll dys scoill",
   "source": "https://www.youtube.com/watch?v=t0Kgnl-wWb4",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "087039",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

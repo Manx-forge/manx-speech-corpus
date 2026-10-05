@@ -3,6 +3,8 @@
   "name": "mollee eyebrow",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/mollee%20-%20eyebrow.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057272",
   "origin": "human",
   "transcript_form": "normalised",

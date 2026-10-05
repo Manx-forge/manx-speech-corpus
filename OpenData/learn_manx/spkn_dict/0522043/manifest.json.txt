@@ -3,6 +3,8 @@
   "name": "Shiaulley sailing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sea/shiaulley%20-%20sailing.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522043",
   "origin": "human",
   "transcript_form": "normalised",

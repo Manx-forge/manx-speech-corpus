@@ -3,6 +3,8 @@
   "name": "shamyr aarlee kitchen",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/shamyr%20aarlee%20-%20kitchen.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058304",
   "origin": "human",
   "transcript_form": "normalised",

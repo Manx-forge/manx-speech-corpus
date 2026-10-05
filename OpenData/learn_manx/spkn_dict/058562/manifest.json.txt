@@ -3,6 +3,8 @@
   "name": "fer-reill y chiaull conductor",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20music/fer-reill%20y%20chiaull%20-%20conductor.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058562",
   "origin": "human",
   "transcript_form": "normalised",

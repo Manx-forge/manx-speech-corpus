@@ -3,6 +3,7 @@
   "name": "Cre ta'n peccah t'ayns shoh er ny lhiettal?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42649988",
   "origin": "human",
   "transcript_form": "raw",

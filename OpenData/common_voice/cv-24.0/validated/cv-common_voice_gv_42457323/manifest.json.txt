@@ -3,6 +3,7 @@
   "name": "Son ta my whing aashagh, as my errey eddrym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457323",
   "origin": "human",
   "transcript_form": "raw",

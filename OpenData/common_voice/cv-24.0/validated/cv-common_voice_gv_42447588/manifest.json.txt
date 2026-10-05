@@ -3,6 +3,7 @@
   "name": "Cha vel eh cheet jesh da moyrn dy yannoo red erbee ta laccal leshtal",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447588",
   "origin": "human",
   "transcript_form": "raw",

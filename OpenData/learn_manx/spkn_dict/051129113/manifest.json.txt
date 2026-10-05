@@ -3,6 +3,8 @@
   "name": "Nagh bare lhiat ee?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051129113",
   "origin": "human",
   "transcript_form": "normalised",

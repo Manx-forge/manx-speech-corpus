@@ -3,6 +3,7 @@
   "name": "As nish, cur-my-ner, ta m'eanish ayns niau, as my recortys 'syn yrjid.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42439120",
   "origin": "human",
   "transcript_form": "raw",

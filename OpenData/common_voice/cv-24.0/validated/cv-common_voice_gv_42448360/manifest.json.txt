@@ -3,6 +3,7 @@
   "name": "As liorish keeayl bee ny shamyryn lhieent lesh dy chooilley chooid chostal as aalin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448360",
   "origin": "human",
   "transcript_form": "raw",

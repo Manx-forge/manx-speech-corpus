@@ -3,6 +3,8 @@
   "name": "praddag caterpillar",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/praddag%20-%20caterpillar.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054323",
   "origin": "human",
   "transcript_form": "normalised",

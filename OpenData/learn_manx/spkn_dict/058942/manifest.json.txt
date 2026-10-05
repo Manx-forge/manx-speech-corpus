@@ -3,6 +3,8 @@
   "name": "cront-bleihghyn jigsaw",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/cront-bleihghyn%20-%20jigsaw.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058942",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "Cha nel shoh boall yn fea ain.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42333665",
   "origin": "human",
   "transcript_form": "raw",

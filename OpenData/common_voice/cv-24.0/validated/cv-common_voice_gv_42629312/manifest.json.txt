@@ -3,6 +3,7 @@
   "name": "Tar-jee hym's ooilley shiuish ta deinagh as trome laadit, as neem's shiu y ooraghey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629312",
   "origin": "human",
   "transcript_form": "raw",

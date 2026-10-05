@@ -3,6 +3,8 @@
   "name": "Ta mee geearree ram berreenyn",
   "source": "https://www.youtube.com/watch?v=kxgYHFvAEew",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04206",
   "origin": "human",
   "transcript_form": "normalised",

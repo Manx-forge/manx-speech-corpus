@@ -3,6 +3,7 @@
   "name": "Ta shin er ngheddyn yn Spyrryd dy gholtanys, liorish ta shin geamagh Abba, Ayr.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694735",
   "origin": "human",
   "transcript_form": "raw",

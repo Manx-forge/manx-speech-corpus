@@ -3,6 +3,7 @@
   "name": "Agh smerg diuish verchee: son ta shiu er gheddyn nyn gherjagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386952",
   "origin": "human",
   "transcript_form": "raw",

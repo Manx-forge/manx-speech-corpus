@@ -3,6 +3,8 @@
   "name": "finneig canoe",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/finneig%20-%20canoe.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058962",
   "origin": "human",
   "transcript_form": "normalised",

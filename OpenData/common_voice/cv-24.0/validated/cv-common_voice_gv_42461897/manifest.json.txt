@@ -3,6 +3,7 @@
   "name": "Roie-jee er-chea, saue-jee nyn mioys, as bee-jee myr y freoagh ayns yn aasagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42461897",
   "origin": "human",
   "transcript_form": "raw",

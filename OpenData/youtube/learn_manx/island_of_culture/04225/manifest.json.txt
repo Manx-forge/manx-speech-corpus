@@ -3,6 +3,8 @@
   "name": "Cur yn bluckan er yn chione",
   "source": "https://www.youtube.com/watch?v=d5ipymtNnwI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04225",
   "origin": "human",
   "transcript_form": "normalised",

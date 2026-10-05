@@ -3,6 +3,7 @@
   "name": "Turrys mygeayr Creneash - journey around cregneash part 1",
   "source": "https://www.youtube.com/watch?v=yA6a_uRnb48",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "088341",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

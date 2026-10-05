@@ -3,6 +3,8 @@
   "name": "crankal knocking",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/crankal%20-%20knocking.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059426",
   "origin": "human",
   "transcript_form": "normalised",

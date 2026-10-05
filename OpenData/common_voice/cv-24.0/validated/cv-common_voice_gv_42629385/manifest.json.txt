@@ -3,6 +3,7 @@
   "name": "Coontey giare jeh bea chrauee, lesh coyrleyn giare ta leeideil huggey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629385",
   "origin": "human",
   "transcript_form": "raw",

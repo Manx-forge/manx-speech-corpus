@@ -3,6 +3,8 @@
   "name": "Vel yn jiass ny share na'n twoaie?",
   "source": "https://www.youtube.com/watch?v=79Dok_6X3HA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0482",
   "origin": "human",
   "transcript_form": "normalised",

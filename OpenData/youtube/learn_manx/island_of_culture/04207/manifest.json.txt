@@ -3,6 +3,8 @@
   "name": "Vel oo geearree berreen?",
   "source": "https://www.youtube.com/watch?v=y_CLP-3J0Yo",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04207",
   "origin": "human",
   "transcript_form": "normalised",

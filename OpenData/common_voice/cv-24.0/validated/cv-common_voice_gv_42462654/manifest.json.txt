@@ -3,6 +3,7 @@
   "name": "Va jeirnyn dy aigney mie gennalys soilshean ayns dy chooilley hooill.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42462654",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "carbyd tayrn tow truck",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/carbyd%20tayrn%20-%20tow%20truck.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059287",
   "origin": "human",
   "transcript_form": "normalised",

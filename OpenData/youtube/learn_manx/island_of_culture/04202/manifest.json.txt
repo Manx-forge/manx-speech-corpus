@@ -3,6 +3,8 @@
   "name": "T'eh grianagh as cheh jiu",
   "source": "https://www.youtube.com/watch?v=9JoFoPdRNy4",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04202",
   "origin": "human",
   "transcript_form": "normalised",

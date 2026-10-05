@@ -3,6 +3,7 @@
   "name": "Eisht gow shiu dy gheddyn ad thie.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42549762",
   "origin": "human",
   "transcript_form": "raw",

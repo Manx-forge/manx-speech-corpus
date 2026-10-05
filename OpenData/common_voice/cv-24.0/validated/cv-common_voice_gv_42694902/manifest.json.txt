@@ -3,6 +3,7 @@
   "name": "Magh ass beill oikanan as cloan er y cheeagh t'ou er ngheddyn moylley firrinagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694902",
   "origin": "human",
   "transcript_form": "raw",

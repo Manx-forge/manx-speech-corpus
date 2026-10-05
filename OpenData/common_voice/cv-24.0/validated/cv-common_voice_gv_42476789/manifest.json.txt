@@ -3,6 +3,7 @@
   "name": "Kys oddagh yn naight ve smoo treishteilagh?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42476789",
   "origin": "human",
   "transcript_form": "raw",

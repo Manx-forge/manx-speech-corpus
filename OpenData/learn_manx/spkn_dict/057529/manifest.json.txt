@@ -3,6 +3,8 @@
   "name": "daaghyn colours",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/daaghyn%20-%20colours.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057529",
   "origin": "human",
   "transcript_form": "normalised",

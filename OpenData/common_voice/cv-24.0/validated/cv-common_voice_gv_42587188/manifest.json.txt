@@ -3,6 +3,7 @@
   "name": "As ren ny ushtaghyn lhieeney er y thalloo shiaght feed laa as jeih.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42587188",
   "origin": "human",
   "transcript_form": "raw",

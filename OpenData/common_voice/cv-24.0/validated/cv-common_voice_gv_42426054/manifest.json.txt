@@ -3,6 +3,7 @@
   "name": "As adsyn ta dobberan son ocsyn ta er duittym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42426054",
   "origin": "human",
   "transcript_form": "raw",

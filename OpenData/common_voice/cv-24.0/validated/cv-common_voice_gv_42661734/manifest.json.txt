@@ -3,6 +3,7 @@
   "name": "Ta dooinney ny ghaa er ve daunsyn as fer elley geeck yn fiddler.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42661734",
   "origin": "human",
   "transcript_form": "raw",

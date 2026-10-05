@@ -3,6 +3,8 @@
   "name": "feailley ny beishtyn circus",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/feailley%20ny%20beishtyn%20-%20circus.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059180",
   "origin": "human",
   "transcript_form": "normalised",

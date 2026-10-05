@@ -3,6 +3,7 @@
   "name": "O! naik shiu yn fer ta giu rum, brandee, jeneeve?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42644732",
   "origin": "human",
   "transcript_form": "raw",

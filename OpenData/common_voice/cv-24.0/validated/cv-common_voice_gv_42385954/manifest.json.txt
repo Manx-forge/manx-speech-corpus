@@ -3,6 +3,7 @@
   "name": "Agh ta creenaght er ny heyrey liorish ooilley e cloan.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42385954",
   "origin": "human",
   "transcript_form": "raw",

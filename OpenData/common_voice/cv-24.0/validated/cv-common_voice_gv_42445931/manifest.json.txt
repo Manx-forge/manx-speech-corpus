@@ -3,6 +3,7 @@
   "name": "Ard voylley neesht da Yeesey Chreest.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445931",
   "origin": "human",
   "transcript_form": "raw",

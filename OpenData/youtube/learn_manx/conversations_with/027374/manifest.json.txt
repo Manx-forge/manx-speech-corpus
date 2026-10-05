@@ -3,6 +3,8 @@
   "name": "Manx Gaelic Today",
   "source": "https://www.youtube.com/watch?v=Ho_h5Odi0Rs",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "027374",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

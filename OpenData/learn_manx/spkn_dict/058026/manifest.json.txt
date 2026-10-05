@@ -3,6 +3,8 @@
   "name": "cainle candle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/cainle%20-%20candle.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "058026",
   "origin": "human",
   "transcript_form": "normalised",

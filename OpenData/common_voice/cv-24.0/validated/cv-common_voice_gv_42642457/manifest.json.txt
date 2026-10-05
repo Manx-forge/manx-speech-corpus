@@ -3,6 +3,7 @@
   "name": "V'eh soit er lheh ry-hoi ooashley y choyrt da Jee dy foshlit as dy follit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642457",
   "origin": "human",
   "transcript_form": "raw",

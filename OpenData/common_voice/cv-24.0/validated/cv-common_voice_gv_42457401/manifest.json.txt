@@ -3,6 +3,7 @@
   "name": "Veagh dooinney lhiastey yn çhaghter cair dy chur son y vaase.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457401",
   "origin": "human",
   "transcript_form": "raw",

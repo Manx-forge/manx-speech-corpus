@@ -3,6 +3,8 @@
   "name": "Vel eh feeu goll shappal ayns Rhumsaa?",
   "source": "https://www.youtube.com/watch?v=ZlsawDb3hmU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0436",
   "origin": "human",
   "transcript_form": "normalised",

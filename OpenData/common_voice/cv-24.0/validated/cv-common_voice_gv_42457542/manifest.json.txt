@@ -3,6 +3,7 @@
   "name": "Son ta sooill aym gys ooilley e leighyn: as cha dilgym e annaghyn voym.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457542",
   "origin": "human",
   "transcript_form": "raw",

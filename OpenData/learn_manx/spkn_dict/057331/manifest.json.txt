@@ -3,6 +3,8 @@
   "name": "eean-kiark chicken",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/eean-kiark%20-%20chicken.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057331",
   "origin": "human",
   "transcript_form": "normalised",

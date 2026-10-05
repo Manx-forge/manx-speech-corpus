@@ -3,6 +3,7 @@
   "name": "As haink kiare beishtyn mooar seose veih yn aarkey, nagh row goll ry-cheilley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446715",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Cregeen 04? Averil",
   "source": "https://www.youtube.com/watch?v=DQDuJtdJr1E",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "083112",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

@@ -3,6 +3,7 @@
   "name": "Ta bannaght shickyr dy heet ec y jerrey dy gherjaghey yn aghinagh ynrick.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629155",
   "origin": "human",
   "transcript_form": "raw",

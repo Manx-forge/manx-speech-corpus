@@ -3,6 +3,7 @@
   "name": "Oltee-jee yn derrey yeh yn jeh elley lesh y phaag dy hee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650875",
   "origin": "human",
   "transcript_form": "raw",

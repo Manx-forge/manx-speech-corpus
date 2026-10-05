@@ -3,6 +3,7 @@
   "name": "Fud seihll dy voirey laadit lesh cairail.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42333497",
   "origin": "human",
   "transcript_form": "raw",

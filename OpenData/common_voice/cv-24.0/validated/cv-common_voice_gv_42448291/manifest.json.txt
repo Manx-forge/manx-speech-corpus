@@ -3,6 +3,7 @@
   "name": "Ren eh freayl e hooil urree gys v'ee ersooyl ass e hilley.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448291",
   "origin": "human",
   "transcript_form": "raw",

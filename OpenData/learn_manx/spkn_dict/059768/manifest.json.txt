@@ -3,6 +3,8 @@
   "name": "meinn saue saw dust",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/meinn%20saue%20-%20saw%20dust.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059768",
   "origin": "human",
   "transcript_form": "normalised",

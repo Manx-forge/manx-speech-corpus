@@ -3,6 +3,7 @@
   "name": "Dy vel aym trimshey trome as dobberan kinjagh ayns my chree.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42440721",
   "origin": "human",
   "transcript_form": "raw",

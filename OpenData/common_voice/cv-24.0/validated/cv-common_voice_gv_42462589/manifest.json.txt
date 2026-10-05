@@ -3,6 +3,7 @@
   "name": "Cha n'ymmyrk oo feanish foalsey noi dty naboo.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42462589",
   "origin": "human",
   "transcript_form": "raw",

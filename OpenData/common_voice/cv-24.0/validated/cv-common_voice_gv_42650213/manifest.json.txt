@@ -3,6 +3,7 @@
   "name": "Вee dy chooilley unnane ta goaill loo-oaiagh er ny yiarrey jeh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650213",
   "origin": "human",
   "transcript_form": "raw",

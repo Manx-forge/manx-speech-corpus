@@ -3,6 +3,7 @@
   "name": "Cre t'er ny hoiggal liorish dy vel eh ny hoie ec laue yesh Yee?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694539",
   "origin": "human",
   "transcript_form": "raw",

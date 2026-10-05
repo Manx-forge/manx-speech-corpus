@@ -3,6 +3,7 @@
   "name": "Agh gow-jee hoshiaght gys kirree cailjey thie Israel.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650891",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Ta shin çheet. Son ta shin hannah er jeet lesh ooilley peccaghyn as annooinidyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42599731",
   "origin": "human",
   "transcript_form": "raw",

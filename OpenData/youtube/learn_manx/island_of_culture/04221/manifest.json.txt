@@ -3,6 +3,8 @@
   "name": "Shass seose, my sailt",
   "source": "https://www.youtube.com/watch?v=nkTyuIyoYNk",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04221",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,8 @@
   "name": "daunsin dancing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/daunsin%20-%20dancing.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059446",
   "origin": "human",
   "transcript_form": "normalised",

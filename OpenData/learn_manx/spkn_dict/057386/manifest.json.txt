@@ -3,6 +3,8 @@
   "name": "boandey tie",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/boandey%20-%20tie.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057386",
   "origin": "human",
   "transcript_form": "normalised",

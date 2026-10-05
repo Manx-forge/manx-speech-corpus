@@ -3,6 +3,7 @@
   "name": "As my ver eh lesh eayn son oural-peccah, ver eh lesh bwoirrinagh fegooish lheamys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42426056",
   "origin": "human",
   "transcript_form": "raw",

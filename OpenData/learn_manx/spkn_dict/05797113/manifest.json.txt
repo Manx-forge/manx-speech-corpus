@@ -3,6 +3,8 @@
   "name": "Bee Orry ayns Doolish Jerdein?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05797113",
   "origin": "human",
   "transcript_form": "normalised",

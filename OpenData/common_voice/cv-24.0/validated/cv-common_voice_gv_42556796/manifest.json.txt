@@ -3,6 +3,7 @@
   "name": "Tra t'ad stampey, ta'n thalloo foue craa.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42556796",
   "origin": "human",
   "transcript_form": "raw",

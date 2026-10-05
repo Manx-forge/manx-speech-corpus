@@ -3,6 +3,7 @@
   "name": "Gaelg son paarantyn? What would you want?",
   "source": "https://www.youtube.com/watch?v=WzDpdwQ3-vY",
   "platform": "youtube",
+  "domain": "education",
   "resource_id": "083723",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

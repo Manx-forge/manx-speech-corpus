@@ -3,6 +3,7 @@
   "name": "T'eh yn un chooid rish Messiah, as t'er ny hoiggal liorish, yn fer-ooillit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42694767",
   "origin": "human",
   "transcript_form": "raw",

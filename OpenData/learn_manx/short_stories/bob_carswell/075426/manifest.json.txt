@@ -3,6 +3,8 @@
   "name": "yn_chied_er_elley_john_pilling_translated_by_bob_carswell",
   "source": "https://www.learnmanx.com/media//Stories/Yn_Chied_Er_Elley_John_Pilling.mp3",
   "platform": "learn_manx",
+  "domain": "literary",
+  "style": "read-speech",
   "resource_id": "075426",
   "origin": "human",
   "transcript_form": "raw",

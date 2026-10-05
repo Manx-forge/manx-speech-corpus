@@ -3,6 +3,8 @@
   "name": "puttey pushing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/puttey%20-%20pushing.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059542",
   "origin": "human",
   "transcript_form": "normalised",

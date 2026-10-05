@@ -3,6 +3,7 @@
   "name": "Eisht dooyrt eh roo, Nee ashoon girree-magh noi ashoon, as reeriaght noi reeriaght.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463935",
   "origin": "human",
   "transcript_form": "raw",

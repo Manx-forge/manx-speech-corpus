@@ -3,6 +3,8 @@
   "name": "droghearish bad weather",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/droghearish%20-%20bad%20weather.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059653",
   "origin": "human",
   "transcript_form": "normalised",

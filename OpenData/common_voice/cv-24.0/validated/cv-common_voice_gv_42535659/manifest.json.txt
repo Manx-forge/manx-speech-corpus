@@ -3,6 +3,7 @@
   "name": "Cre'n sorçh dy vainney t'ou gymmydey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42535659",
   "origin": "human",
   "transcript_form": "raw",

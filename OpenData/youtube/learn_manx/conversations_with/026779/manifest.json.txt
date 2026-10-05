@@ -3,6 +3,8 @@
   "name": "In conversation with Davy Quillin? Where you live",
   "source": "https://www.youtube.com/watch?v=_nGeZL2_Xpw",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "026779",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

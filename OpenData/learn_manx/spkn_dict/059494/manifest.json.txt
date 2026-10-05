@@ -3,6 +3,8 @@
   "name": "jannoo making or doing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/jannoo%20-%20making%20or%20doing.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059494",
   "origin": "human",
   "transcript_form": "normalised",

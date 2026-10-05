@@ -3,6 +3,7 @@
   "name": "As daa villey-olive liorish, billey er dagh cheu jeh'n chlaare.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463627",
   "origin": "human",
   "transcript_form": "raw",

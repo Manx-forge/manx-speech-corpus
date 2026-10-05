@@ -3,6 +3,8 @@
   "name": "Additional material 14",
   "source": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20trackadditional%20material14.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04432",
   "origin": "human",
   "transcript_form": "normalised",

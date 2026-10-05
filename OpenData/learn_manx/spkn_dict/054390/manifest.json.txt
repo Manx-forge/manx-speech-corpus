@@ -3,6 +3,8 @@
   "name": "carbyd clienney pram",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/carbyd%20clienney%20-%20pram.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054390",
   "origin": "human",
   "transcript_form": "normalised",

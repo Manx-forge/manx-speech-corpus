@@ -3,6 +3,8 @@
   "name": "Birling yacht",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20beach/birling%20-%20yacht.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "0522004",
   "origin": "human",
   "transcript_form": "normalised",

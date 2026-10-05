@@ -3,6 +3,7 @@
   "name": "Ec yn un oor jeh'n laa ta ooilley shoh dy ve jeant.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42629350",
   "origin": "human",
   "transcript_form": "raw",

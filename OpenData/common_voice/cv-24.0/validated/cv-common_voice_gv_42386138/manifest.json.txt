@@ -3,6 +3,7 @@
   "name": "As hass e huyr tammylt jeh, dy yeeaghyn cre'n erree harragh er.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386138",
   "origin": "human",
   "transcript_form": "raw",

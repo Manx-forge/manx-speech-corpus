@@ -3,6 +3,8 @@
   "name": "Moghrey mie Good morning",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059114",
   "origin": "human",
   "transcript_form": "normalised",

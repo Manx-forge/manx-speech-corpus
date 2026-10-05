@@ -3,6 +3,7 @@
   "name": "V'ad shiaulley ga dy row yn emshir agglagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42554725",
   "origin": "human",
   "transcript_form": "raw",

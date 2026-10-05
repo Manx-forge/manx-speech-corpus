@@ -3,6 +3,7 @@
   "name": "Ny-yeih cha vel graih aym er yn cheayn nish.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457283",
   "origin": "human",
   "transcript_form": "raw",

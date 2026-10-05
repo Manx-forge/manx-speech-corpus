@@ -3,6 +3,7 @@
   "name": "Quoi eh shoh ta tilgey scadoo harrish creenaght liorish goan gyn tushtey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42513000",
   "origin": "human",
   "transcript_form": "raw",

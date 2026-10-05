@@ -3,6 +3,8 @@
   "name": "jough a drink",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/jough%20-%20a%20drink.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057839",
   "origin": "human",
   "transcript_form": "normalised",

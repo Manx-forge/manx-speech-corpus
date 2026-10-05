@@ -3,6 +3,8 @@
   "name": "Cha by vie. Bare lhiam goll dys Surby",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "052069113",
   "origin": "human",
   "transcript_form": "normalised",

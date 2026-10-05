@@ -3,6 +3,8 @@
   "name": "Va'n buggane elley boirit syn aght cheddin as s'olk va'n cadley echey",
   "source": "https://www.youtube.com/watch?v=IH59-u-TYDs",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04270",
   "origin": "human",
   "transcript_form": "normalised",

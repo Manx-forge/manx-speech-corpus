@@ -3,6 +3,7 @@
   "name": "My charrey deyr, Ollick reagh as blein vie noa maynrey tra hig ee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425987",
   "origin": "human",
   "transcript_form": "raw",

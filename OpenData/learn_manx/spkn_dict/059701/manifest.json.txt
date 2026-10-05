@@ -3,6 +3,8 @@
   "name": "sniaghtey snow",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/sniaghtey%20-%20snow.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059701",
   "origin": "human",
   "transcript_form": "normalised",

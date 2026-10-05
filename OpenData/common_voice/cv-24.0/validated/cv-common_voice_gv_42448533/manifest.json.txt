@@ -3,6 +3,7 @@
   "name": "Tra ta Yeesey çheet lesh pardoon t'eh cur lesh ooilley ny grayseyn marish.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448533",
   "origin": "human",
   "transcript_form": "raw",

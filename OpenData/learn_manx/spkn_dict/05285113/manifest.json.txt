@@ -3,6 +3,8 @@
   "name": "Jiu",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05285113",
   "origin": "human",
   "transcript_form": "normalised",

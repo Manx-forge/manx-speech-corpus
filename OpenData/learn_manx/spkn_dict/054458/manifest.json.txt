@@ -3,6 +3,8 @@
   "name": "paitchyn children",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/paitchyn%20-%20children.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "054458",
   "origin": "human",
   "transcript_form": "normalised",

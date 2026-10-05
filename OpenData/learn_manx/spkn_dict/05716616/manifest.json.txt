@@ -3,6 +3,8 @@
   "name": "Dhyts dy row gloyr as moylley son dy bragh to you be glory and praise forever",
   "source": "https://www.learnmanx.com/media/dictionary%20for%20church/To_you_be_glory_and_praise_forvever.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05716616",
   "origin": "human",
   "transcript_form": "normalised",

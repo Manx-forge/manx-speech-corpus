@@ -3,6 +3,7 @@
   "name": "Ta'n scornagh oc oaie foshlit: t'ad brynneraght lesh nyn jengey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457829",
   "origin": "human",
   "transcript_form": "raw",

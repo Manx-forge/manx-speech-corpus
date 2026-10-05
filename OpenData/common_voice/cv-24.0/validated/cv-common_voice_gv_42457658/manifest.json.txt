@@ -3,6 +3,7 @@
   "name": "Ta nyn merchys er n'gholl mow, as nyn goamraghyn eeit lesh lhemeenyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457658",
   "origin": "human",
   "transcript_form": "raw",

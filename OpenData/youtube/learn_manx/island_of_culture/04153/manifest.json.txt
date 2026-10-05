@@ -3,6 +3,8 @@
   "name": "Ta mee cummal ayns Kiondroghad",
   "source": "https://www.youtube.com/watch?v=v-ZlnlxabiI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04153",
   "origin": "human",
   "transcript_form": "normalised",

@@ -3,6 +3,7 @@
   "name": "As jean mee niartaghey ayns grayse.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42445117",
   "origin": "human",
   "transcript_form": "raw",

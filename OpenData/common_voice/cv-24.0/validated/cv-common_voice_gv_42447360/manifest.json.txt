@@ -3,6 +3,7 @@
   "name": "Ass ny stroanyn echey ta jaagh goll magh, myr bree oghe ny coirrey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447360",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Spot�h liorish Finn? Thie-Bee",
   "source": "https://www.youtube.com/watch?v=4kCM3q5OwEA",
   "platform": "youtube",
+  "domain": "podcast",
+  "style": "dialogue",
   "resource_id": "096440",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

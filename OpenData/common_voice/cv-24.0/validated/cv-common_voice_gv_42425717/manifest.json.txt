@@ -3,6 +3,7 @@
   "name": "As cairys vees cryss mysh e vean, as ynrickys cryss mysh e veeghyn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42425717",
   "origin": "human",
   "transcript_form": "raw",

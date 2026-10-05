@@ -3,6 +3,8 @@
   "name": "curneen ooill oil can",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/curneen%20ooill%20-%20oil%20can.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "059752",
   "origin": "human",
   "transcript_form": "normalised",

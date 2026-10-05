@@ -3,6 +3,8 @@
   "name": "Ren Orry goll dys Rhumsaa riyr?",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05877113",
   "origin": "human",
   "transcript_form": "normalised",

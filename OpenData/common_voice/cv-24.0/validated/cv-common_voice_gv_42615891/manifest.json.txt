@@ -3,6 +3,7 @@
   "name": "Va lossey ny keylley ayns e gharey rish yn chied keayrt.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42615891",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Jean oo cheet dys Rhumsaa my vees eh grianagh?",
   "source": "https://www.youtube.com/watch?v=EjdR1kJ_qpE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04182",
   "origin": "human",
   "transcript_form": "normalised",

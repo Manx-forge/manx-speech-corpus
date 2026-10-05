@@ -3,6 +3,8 @@
   "name": "Ta mee jeeaghyn roym lesh y Nollick mleeaney",
   "source": "https://www.youtube.com/watch?v=P4n03a9HC0A",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04356",
   "origin": "human",
   "transcript_form": "normalised",

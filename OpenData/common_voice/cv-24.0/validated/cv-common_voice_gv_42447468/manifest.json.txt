@@ -3,6 +3,7 @@
   "name": "Veagh eh cur lesh wallad dy veaghey marish veagh jannoo da yn slane shiaghtin.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42447468",
   "origin": "human",
   "transcript_form": "raw",

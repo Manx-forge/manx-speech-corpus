@@ -3,6 +3,7 @@
   "name": "Ta mee Çhiarn er yn eeyn as yn baagh.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386232",
   "origin": "human",
   "transcript_form": "raw",

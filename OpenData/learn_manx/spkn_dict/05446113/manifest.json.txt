@@ -3,6 +3,8 @@
   "name": "Nee eh coaygrey",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05446113",
   "origin": "human",
   "transcript_form": "normalised",

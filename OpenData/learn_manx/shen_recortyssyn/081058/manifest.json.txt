@@ -3,6 +3,7 @@
   "name": "JamysJeheiney 10 toshiaght arree",
   "source": "https://www.learnmanx.com/media/jamys%20jeheiney/JamysJeheiney%2010%20toshiaght%20arree.mp3",
   "platform": "learn_manx",
+  "domain": "education",
   "resource_id": "081058",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

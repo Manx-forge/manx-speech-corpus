@@ -3,6 +3,7 @@
   "name": "Gymmyrkey curnaght, pishyr, corkey's, oarn.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623588",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,8 @@
   "name": "Mie lhiat breck ny marrey?",
   "source": "https://www.youtube.com/watch?v=XW0yxU3Fx8Y",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04250",
   "origin": "human",
   "transcript_form": "normalised",

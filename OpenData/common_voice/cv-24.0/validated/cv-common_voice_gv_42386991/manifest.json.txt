@@ -3,6 +3,7 @@
   "name": "As soie-ee eh ny kirree er e laue-yesh, agh ny goair er e laue-chiare.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386991",
   "origin": "human",
   "transcript_form": "raw",

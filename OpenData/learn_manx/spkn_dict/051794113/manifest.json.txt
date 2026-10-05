@@ -3,6 +3,8 @@
   "name": "Imman dy kiarailagh harrish y clieau",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "051794113",
   "origin": "human",
   "transcript_form": "normalised",

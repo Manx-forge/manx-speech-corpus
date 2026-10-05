@@ -3,6 +3,8 @@
   "name": "Va mee ayns Purt ny h-Inshey jea as ta mee ayns Purt ny h-Inshey jiu gee berreen",
   "source": "https://www.youtube.com/watch?v=FGLdq3MASfI",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04320",
   "origin": "human",
   "transcript_form": "normalised",

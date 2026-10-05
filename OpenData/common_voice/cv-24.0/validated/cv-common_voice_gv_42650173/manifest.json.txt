@@ -3,6 +3,7 @@
   "name": "T'eh er hassoo magh dy 'endeil e chooid hene.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42650173",
   "origin": "human",
   "transcript_form": "raw",

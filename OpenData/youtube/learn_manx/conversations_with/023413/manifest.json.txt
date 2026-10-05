@@ -3,6 +3,8 @@
   "name": "How to use Cre s'mie lhiat? in Manx Gaelic",
   "source": "https://www.youtube.com/watch?v=Q3EkbZnnoCQ",
   "platform": "youtube",
+  "domain": "interview",
+  "style": "dialogue",
   "resource_id": "023413",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

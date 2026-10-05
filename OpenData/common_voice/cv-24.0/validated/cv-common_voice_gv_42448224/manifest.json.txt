@@ -3,6 +3,7 @@
   "name": "Ta cooid y dooinney berchagh e ard-valley lajer, as er-lesh hene myr voalley ard.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42448224",
   "origin": "human",
   "transcript_form": "raw",

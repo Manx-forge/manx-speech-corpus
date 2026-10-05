@@ -3,6 +3,8 @@
   "name": "Y keayrt shoh ren en brebbal clagh vooar ass towse jus dy yannoo caghlaa",
   "source": "https://www.youtube.com/watch?v=MVn4sgvFovE",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04278",
   "origin": "human",
   "transcript_form": "normalised",

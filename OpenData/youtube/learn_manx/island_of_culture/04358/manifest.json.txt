@@ -3,6 +3,8 @@
   "name": "Oie vie as caddil dy mie",
   "source": "https://www.youtube.com/watch?v=S_olMpj5_Fs",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04358",
   "origin": "human",
   "transcript_form": "normalised",

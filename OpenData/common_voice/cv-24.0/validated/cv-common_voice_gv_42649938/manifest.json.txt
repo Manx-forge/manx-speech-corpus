@@ -3,6 +3,7 @@
   "name": "Tra cheayll ree Herod shoh, v'eh seaghnit, as ooilley Jerusalem mârish.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42649938",
   "origin": "human",
   "transcript_form": "raw",

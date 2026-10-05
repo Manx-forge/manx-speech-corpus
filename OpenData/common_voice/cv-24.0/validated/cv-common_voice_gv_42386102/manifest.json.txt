@@ -3,6 +3,7 @@
   "name": "Agh cha row eh ry-gheddyn fo'n villey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42386102",
   "origin": "human",
   "transcript_form": "raw",

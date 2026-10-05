@@ -3,6 +3,7 @@
   "name": "Dy chur dhyt treishteil as gerjagh; boggey as shee.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42642853",
   "origin": "human",
   "transcript_form": "raw",

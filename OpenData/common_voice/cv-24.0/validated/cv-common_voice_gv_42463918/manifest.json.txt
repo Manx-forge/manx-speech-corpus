@@ -3,6 +3,7 @@
   "name": "Cre voish eisht ta creenaght cheet? as cre raad ta tushtey er ny gheddyn?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42463918",
   "origin": "human",
   "transcript_form": "raw",

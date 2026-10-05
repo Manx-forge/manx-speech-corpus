@@ -3,6 +3,7 @@
   "name": "Wooinney veen cre'n soar villish va çheet voish ny magheryn ta giarrit.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42628744",
   "origin": "human",
   "transcript_form": "raw",

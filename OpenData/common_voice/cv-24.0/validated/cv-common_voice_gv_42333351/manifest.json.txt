@@ -3,6 +3,7 @@
   "name": "Jehsyn ta'n slane lught-thie ayns niau as er y thalloo er ny enmys.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42333351",
   "origin": "human",
   "transcript_form": "raw",

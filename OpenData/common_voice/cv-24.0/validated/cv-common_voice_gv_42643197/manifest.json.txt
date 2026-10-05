@@ -3,6 +3,7 @@
   "name": "Quoi adsyn ta loayrt noi yn ynsagh, dy vel credjue ny lomarcan seyrey?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42643197",
   "origin": "human",
   "transcript_form": "raw",

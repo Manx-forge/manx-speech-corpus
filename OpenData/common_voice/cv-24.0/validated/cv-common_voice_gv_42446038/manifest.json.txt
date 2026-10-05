@@ -3,6 +3,7 @@
   "name": "O vaase! cre vel dty ghah? O oaie! cre vel dty varriaght?",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42446038",
   "origin": "human",
   "transcript_form": "raw",

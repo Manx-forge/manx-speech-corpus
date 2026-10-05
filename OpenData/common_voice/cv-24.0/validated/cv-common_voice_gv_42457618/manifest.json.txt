@@ -3,6 +3,7 @@
   "name": "Fo deyrey yn laa gyn kione.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42457618",
   "origin": "human",
   "transcript_form": "raw",

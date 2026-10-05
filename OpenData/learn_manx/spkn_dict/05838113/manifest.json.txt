@@ -3,6 +3,8 @@
   "name": "er y fa nagh vel Voirrey cummal ayns Doolish",
   "source": null,
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "05838113",
   "origin": "human",
   "transcript_form": "normalised",

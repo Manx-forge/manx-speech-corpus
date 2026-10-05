@@ -3,6 +3,8 @@
   "name": "braagynquellagh roller skates",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/braagynquellagh%20-%20roller%20skates.mp3",
   "platform": "learn_manx",
+  "domain": "education",
+  "style": "spoken_dictionary",
   "resource_id": "057406",
   "origin": "human",
   "transcript_form": "normalised",

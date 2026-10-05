@@ -3,6 +3,8 @@
   "name": "Er-lhiam dy jean yn traen goll dys Doolish nish",
   "source": "https://www.youtube.com/watch?v=2ETbSQXevbA",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04164",
   "origin": "human",
   "transcript_form": "normalised",

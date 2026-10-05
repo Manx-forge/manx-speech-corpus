@@ -3,6 +3,7 @@
   "name": "Agh faag main y thalloo, as vermayd shilley er yn 'aarkey.",
   "source": null,
   "platform": "common_voice",
+  "style": "read-speech",
   "resource_id": "cv-common_voice_gv_42623911",
   "origin": "human",
   "transcript_form": "raw",

@@ -3,6 +3,7 @@
   "name": "Vel red erbee veih cultoor çheer elley by vie lhiat fakin ayns dty heer?",
   "source": null,
   "platform": "common_voice",
+  "style": "spontaneous",
   "resource_id": "sps-42481",
   "origin": "asr",
   "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",

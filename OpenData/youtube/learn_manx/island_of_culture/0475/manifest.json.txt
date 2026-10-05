@@ -3,6 +3,8 @@
   "name": "Cre smie lhiat jannoo er y jerrey-shiaghtin? S'mie lhiam cadley",
   "source": "https://www.youtube.com/watch?v=K5gVt3KzkqY",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "0475",
   "origin": "human",
   "transcript_form": "normalised",

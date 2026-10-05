@@ -3,6 +3,8 @@
   "name": "Bee oo ayns Rhumsaa mairagh? S'treisht lhiam nagh beeym",
   "source": "https://www.youtube.com/watch?v=Q7P8SohTzGU",
   "platform": "youtube",
+  "domain": "education",
+  "style": "monologue",
   "resource_id": "04214",
   "origin": "human",
   "transcript_form": "normalised",
