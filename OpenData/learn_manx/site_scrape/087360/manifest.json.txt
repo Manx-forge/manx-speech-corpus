@@ -10,5 +10,6 @@
   "duration": 58.07,
   "deep_link": null,
   "alt_urls": [],
-  "link_status": "ok"
+  "link_status": "unreachable (HTTP 403) [link check] 2026-10-05",
+  "archive_url": "http://web.archive.org/web/20221007104552/http://twitter.com/greinneyder"
 }
