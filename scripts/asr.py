@@ -248,9 +248,13 @@ def score(name, beam=4, shard="0/1", batch=16, limit=None):
     beam = int(beam)
     k, n = map(int, shard.split("/"))
     out = WORK / f"{name}.b{beam}{f'.{k}of{n}' if n > 1 else ''}.score.jsonl"
-    done = {json.loads(l)["seg"] for l in open(out, encoding="utf-8")} if out.exists() else set()
+    # done by any shard: a later run (the weekly job, one shard) must not redo the corpus run's two
+    done = {json.loads(l)["seg"] for f in WORK.glob(f"{name}.b{beam}*.score.jsonl") for l in open(f, encoding="utf-8")}
     cands = candidates(name)
     rows = [s for i, s in enumerate(sorted(cands)) if i % n == k and s not in done][:int(limit) if limit else None]
+    if not rows:
+        print(f"score {name}: nothing to do")
+        return
     dur = {s: torchaudio.info(cands[s][0]).num_frames / 16000 for s in rows}
     rows.sort(key=dur.get)  # batches of similar length
     print(f"score {name}: {len(done)} done, {len(rows)} to do", flush=True)

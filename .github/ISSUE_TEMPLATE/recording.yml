@@ -1,0 +1,42 @@
+name: Contribute a recording
+description: A recording of Manx speech that the corpus is missing (or a better transcript of one it has)
+title: "Recording: "
+labels: [contribution]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you! First check we don't already have it on the corpus's [Contribute page](https://corpus.gaelg.im/contribute).
+  - type: input
+    id: url
+    attributes:
+      label: Link to the recording
+      description: Where anyone can listen to it (YouTube, a podcast episode, a web page with the audio, ...)
+      placeholder: https://www.youtube.com/watch?v=...
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Title
+      description: What it is, who is speaking, and when it was recorded, if you know
+  - type: dropdown
+    id: transcript
+    attributes:
+      label: Transcript
+      options:
+        - I have no transcript (it will be transcribed with speech recognition and marked as AI-generated)
+        - I am attaching a transcript
+        - I am attaching timestamps from the Manx timestamper (https://gaelgai.im/#timestamp)
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Transcript or timestamps
+      description: Paste it here, or drag the file in. An English translation is welcome too.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Who made the transcript or translation (for credit), the licence, or anything we should know

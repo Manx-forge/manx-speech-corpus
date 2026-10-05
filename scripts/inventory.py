@@ -182,11 +182,11 @@ def main():
     found = [r for r in found if r[3] not in derived]  # rows from checks (P2, link checker) are kept, not regenerated
     with open(reg, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter="\t", lineterminator="\n")
-        w.writerow(["id", "source", "url", "issue", "status"])
+        w.writerow(["id", "source", "url", "issue", "status", "archive_url"])  # archive_url: check_links.py
         w.writerows([r["id"], r["source"], r["url"], "removed by publisher" if r["source"] == "saysomething" else issues[r["link_class"]],
-                     "permanent" if r["link_class"] == "app_only" or r["source"] == "saysomething" else "open"]
+                     "permanent" if r["link_class"] == "app_only" or r["source"] == "saysomething" else "open", ""]
                     for r in rows if r["link_class"] in issues and r["source"] != "common_voice")
-        w.writerows(found)
+        w.writerows(r + [""] * (6 - len(r)) for r in found)
     print(f"{len(rows)} recordings -> {OUT / 'recordings.tsv'}")
 
 

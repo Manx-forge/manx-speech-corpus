@@ -8,7 +8,7 @@
   "transcript_form": "raw",
   "aligner": "timestamper",
   "duration": 144.06,
-  "deep_link": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%201%20(doillee).mp3#t={t}",
+  "deep_link": null,
   "alt_urls": [],
-  "link_status": "ok"
+  "link_status": "unreachable (HTTP 404) [link check] 2026-10-05"
 }

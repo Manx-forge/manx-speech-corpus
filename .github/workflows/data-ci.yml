@@ -1,0 +1,16 @@
+# Data CI: every exported work is well-formed (schema, times inside their line, manifest fields)
+name: data-ci
+on:
+  push:
+    paths: [OpenData/**, scripts/export.py, .github/workflows/data-ci.yml]
+  pull_request:
+    paths: [OpenData/**, scripts/export.py, .github/workflows/data-ci.yml]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/export.py check

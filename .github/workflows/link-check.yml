@@ -1,0 +1,30 @@
+# Weekly link check (D29): commits registers/link_register.tsv and opens an issue when a link breaks or comes back.
+# The site picks the change up at the next export (the weekly titan job).
+name: link-check
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/check_links.py | tee report.md
+      - name: Commit the register and report the changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git diff --quiet registers/link_register.tsv && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Link check $(date -u +%F)"
+          git push
+          gh issue create --title "Link check $(date -u +%F)" --label links --body-file report.md \
+            || gh issue create --title "Link check $(date -u +%F)" --body-file report.md

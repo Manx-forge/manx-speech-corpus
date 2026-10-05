@@ -1,22 +1,22 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-05)
-**Done:** P0–P5 (P5 signed off by Chris 2026-10-05; Common Voice kept as one work per clip; old `loayr` and
-`automatic_transcriptions` repos archived). **P6 built**, awaiting Chris's sign-off. See `reports/P6_site.md`.
-Nothing is running.
+**Done:** P0–P6 (P6 signed off by Chris 2026-10-05; site branch `speech` pushed to the Manx-forge fork).
+**P7 in progress.** Nothing is running.
 
-**P6, site** (`manx-corpus-search/`, branch `speech`, commit `f244763` on upstream `c984c32`):
-- Speech search `/speech`, recording page `/speech/<ident>`, Contribute `/contribute`, nav Text / Speech / Contribute.
-  A separate speech index (D4); hits link at the matched word less 1 s (D25).
-- Tests: NUnit 886 pass (+16), vitest 433 pass (+11). tsc, eslint and prettier are clean.
-- Memory (2 cores): text only 437 MB, text + speech 775 MB (peak 910 MB). Fits the 2 GB droplet; a 512 MB free tier
-  fits neither corpus (P7 decision).
-- Pushed to `Manx-forge/manx-corpus-search` branch `speech` (2026-10-05, after Chris added the `workflow` scope to
-  gh account `chris-sj-bartley`).
-- Local toolchain (not in any repo): .NET 10 SDK in `cache/tools/dotnet`, NuGet cache in `cache/tools/nuget`,
-  Playwright Chromium in `cache/tools/playwright`. Run the site locally with
-  `Loading__OpenDataPath=<manx-search-data>/OpenData Speech__OpenDataPath=<this repo>/OpenData`.
-- Next: P7 (issue form `recording.yml`, link checker, data-CI Action, demo deploy, weekly Abbyr Shen Reesht job, HANDOVER.md).
+**P7, ops and demo:**
+- Done: contribution issue form (`.github/ISSUE_TEMPLATE/recording.yml`), data CI (`.github/workflows/data-ci.yml`,
+  runs `export.py check`, which no longer needs titan), weekly link checker (`scripts/check_links.py` +
+  `link-check.yml`; the register gained `archive_url`, and export puts it in the manifest, D12). First full run:
+  3,998 links, 1 newly broken (`076948`, a Learn Manx mp3, 404). `HANDOVER.md` drafted.
+- `scripts/weekly.sh` (D36) is written but has not run yet. Its chain is fetch → inventory → `asr.py tdnn` →
+  `infer_cer.py` (GPU) → nbest → score (GPU) → collect → align → export → check → commit and push. GPU steps queue on
+  gpusched and the script waits for them. `asr.py score` now counts segments done by any shard and exits early when
+  there is nothing to do. Next: Chris launches the first run (2 new episodes, 27 Sep and 4 Oct, are waiting), then
+  installs the cron line given in the script.
+- Demo (D31): a 512 MB free tier cannot run the site (P6 memory). Proposal: Hugging Face Spaces (free Docker, 2 vCPU,
+  16 GB). Needs Chris's decision and account.
+- Then: the PR to David (after the demo URL goes into HANDOVER.md).
 
 **Fix later (Chris, 2026-10-05; not blocking):**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
@@ -233,7 +233,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
 - Build `OpenData/` works and the registers. Merge human over ASR (D17). Absorb the two Manx-forge repos (D35).
 - Data CI passes.
 
-**P6. Site.** BUILT 2026-10-05, awaiting sign-off: see `reports/P6_site.md`.
+**P6. Site.** DONE 2026-10-05, signed off: see `reports/P6_site.md`.
 - Implement the site changes on the `speech` branch, with tests in the repo's existing NUnit/vitest style.
 - Measure memory and run locally.
 

@@ -19,9 +19,7 @@ import sys
 from pathlib import Path
 from urllib.parse import unquote
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from align import ALIGN, REPO, recordings, transcript  # noqa: E402
-
+REPO = Path(__file__).resolve().parents[1]
 OUT = REPO / "OpenData"
 ASR = Path("/store/store3/data/manx_speech_corpus/asr/asr_segments.tsv")
 ENGLISH = REPO / "loayr/full_eng_translations.tsv"
@@ -34,16 +32,14 @@ def norm(w):
     return re.sub(r"[^\w]", "", w.upper())
 
 
-def read_words(rid, kind):
-    f = ALIGN / kind / rid / f"{rid}_words.csv"
+def read_words(f):
     return [dict(word=r["text"], start=float(r["start_sec"]) if r["start_sec"] else None,
                  end=float(r["end_sec"]) if r["end_sec"] else None) for r in csv.DictReader(open(f, encoding="utf-8"))]
 
 
-def english():
+def english(ids):
     """Loayr ground-truth English per recording: [(Manx, English)] in utterance order. Loayr-v2 numbers the spoken
     dictionary 04…, the register 05…"""
-    ids = {r["id"] for r in recordings()}
     out = collections.defaultdict(list)
     for r in csv.DictReader(open(ENGLISH, encoding="utf-8-sig"), delimiter="\t"):
         rid = r["AudioID"] if r["AudioID"] in ids or not r["AudioID"].startswith("04") else "05" + r["AudioID"][2:]
@@ -76,13 +72,13 @@ def pause_split(idx, words):
     return pause_split(idx[:cut], words) + pause_split(idx[cut:], words)
 
 
-def human_lines(r, words, eng):
-    """[(speaker, english, [word indices])] for a human transcript; words match transcript(r).split() one to one."""
+def human_lines(r, text, words, eng):
+    """[(speaker, english, [word indices])] for a human transcript; words match its text.split() one to one."""
     t = r["transcript"]
     if t.endswith("document.csv"):
         src = [(x.get("Speaker") or "", (x.get("English") or "").strip(), x["Manx"] or "") for x in csv.DictReader(open(t, encoding="utf-8-sig"))]
     else:
-        src = [("", "", line) for line in transcript(r).split("\n")]
+        src = [("", "", line) for line in text.split("\n")]
     lines, i = [], 0
     for spk, en, manx in src:
         n = len(manx.split())
@@ -140,6 +136,8 @@ def corpus_manifests():
 
 
 def export():
+    sys.path.insert(0, str(REPO / "scripts"))
+    from align import ALIGN, recordings, transcript  # timestamper's modules: titan only, unlike check()
     recs = {}
     for r in recordings():
         recs.setdefault(r["id"], r)  # the master repeats two ids; alignment used the first row too
@@ -147,21 +145,23 @@ def export():
     for r in recs.values():
         if r["dup_of"] and not r["dup_of"].startswith("disk:") and r["url"]:
             alt[r["dup_of"]].append(r["url"])
-    issues = {r["id"]: r["issue"] for r in csv.DictReader(open(REPO / "registers/link_register.tsv", encoding="utf-8"),
-                                                           delimiter="\t") if r["status"] != "fixed"}
+    register = [r for r in csv.DictReader(open(REPO / "registers/link_register.tsv", encoding="utf-8"), delimiter="\t")
+                if r["status"] != "fixed"]
+    issues = {r["id"]: r["issue"] for r in register}
+    archived = {r["id"]: r["archive_url"] for r in register if r["archive_url"]}  # D12: check_links.py
     segs = collections.defaultdict(list)
     for s in csv.DictReader(open(ASR, encoding="utf-8"), delimiter="\t"):
         segs[s["recording"]].append(s)
-    eng = english()
+    eng = english({r["id"] for r in recs.values()})
     n = collections.Counter()
     for rid, r in recs.items():
         if (ALIGN / "human" / rid / f"{rid}_words.csv").exists():
-            origin, words = "human", read_words(rid, "human")
-            lines = [(spk, en, idx, "human", "") for spk, en, idx in human_lines(r, words, eng.get(rid))]
+            origin, words = "human", read_words(ALIGN / "human" / rid / f"{rid}_words.csv")
+            lines = [(spk, en, idx, "human", "") for spk, en, idx in human_lines(r, transcript(r), words, eng.get(rid))]
             lo, hi = 0.0, float(r["duration_s"] or 0) or max((w["end"] or 0) for w in words)
             spans = fill([span(idx, words) for *_, idx, _, _ in lines], lo, hi)
         elif rid in segs:
-            origin, words = "asr", read_words(rid, "asr")
+            origin, words = "asr", read_words(ALIGN / "asr" / rid / f"{rid}_words.csv")
             lines, spans, i = [], [], 0
             for s in sorted(segs[rid], key=lambda s: float(s["start"])):
                 k = len(s["text"].split())
@@ -205,7 +205,8 @@ def export():
              **({"asr_model": ASR_MODEL} if origin == "asr" else {"transcript_form": r["transcript_form"]}),
              "aligner": "timestamper", "duration": float(r["duration_s"] or 0) or None,
              "deep_link": deep_link(r) if rid not in issues else None, "alt_urls": alt.get(rid, []),
-             "link_status": issues.get(rid, "ok"), **({"corpus_work": r["corpus_work"]} if r["corpus_work"] else {})}
+             "link_status": issues.get(rid, "ok"), **({"archive_url": archived[rid]} if rid in archived else {}),
+             **({"corpus_work": r["corpus_work"]} if r["corpus_work"] else {})}
         (d / "manifest.json.txt").write_text(json.dumps(m, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         n[origin] += 1
         n["lines"] += len(lines)
