@@ -7,8 +7,8 @@ kept as one work per clip). Read the `reports/` files for details. Nothing is ru
 **P5, export** (`scripts/export.py`, `reports/P5_export.md`):
 - `OpenData/`: 11,902 works (10,374 human + 1,528 ASR), 195,187 lines, 2.02 M words. `export.py check` (data CI)
   passes on all of them.
-- D35 done: `loayr/` and `automatic_transcriptions/` imported as subtrees with history. The old repos are superseded
-  (Chris, 2026-10-05); deleting or archiving them on GitHub is pending his confirmation.
+- D35 done: `loayr/` and `automatic_transcriptions/` imported as subtrees with history. The old repos got a "moved" README
+  and were archived on GitHub (Chris, 2026-10-05).
 - `inventory.py` reads Loayr metadata from `loayr/`, and the 8 Skeealyn Vannin recordings we hold that are also corpus
   works now use the corpus `document.csv` (cased, speakers, English; D17). They were realigned; the old alignments are
   kept as `align/human/<id>.normalised/`. `0308` keeps ours (the corpus copy covers 60 %).
