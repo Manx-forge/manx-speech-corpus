@@ -6,8 +6,7 @@ Chris's sign-off. Read the `reports/` files for details. Nothing is running.
 
 **P5, export** (`scripts/export.py`, `reports/P5_export.md`):
 - `OpenData/`: 11,902 works (10,374 human + 1,528 ASR), 195,187 lines, 2.02 M words. `export.py check` (data CI)
-  passes on all of them, except a leftover empty folder `OpenData/learn_manx/spkn_dict/057871` (an empty transcript,
-  written by the first run). Delete it; it is not committed.
+  passes on all of them.
 - D35 done: `loayr/` and `automatic_transcriptions/` imported as subtrees with history. The old repos are untouched;
   a pointer README or archiving them is Chris's call.
 - `inventory.py` reads Loayr metadata from `loayr/`, and the 8 Skeealyn Vannin recordings we hold that are also corpus
