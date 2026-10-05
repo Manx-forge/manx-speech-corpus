@@ -1,6 +1,6 @@
 {
   "ident": "speech-04247",
-  "name": "V'eh yindyssagh er y cheayn jiu",
+  "name": "Culture Vannin: Island of Culture series: 247",
   "source": "https://www.youtube.com/watch?v=e7fxP_eQQwI",
   "platform": "youtube",
   "domain": "education",

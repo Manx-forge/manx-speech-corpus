@@ -1,6 +1,6 @@
 {
   "ident": "speech-0136",
-  "name": "Text Reading",
+  "name": "Phillips - Psalm 23",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9783{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

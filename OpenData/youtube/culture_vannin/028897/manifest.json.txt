@@ -1,6 +1,6 @@
 {
   "ident": "speech-028897",
-  "name": "Laair Vane? Tradishoon son Kegeesh Ommidjagh",
+  "name": "Laair Vane: Tradishoon son Kegeesh Ommidjagh",
   "source": "https://www.youtube.com/watch?v=ARw4pDgLrWU",
   "platform": "youtube",
   "domain": "interview",

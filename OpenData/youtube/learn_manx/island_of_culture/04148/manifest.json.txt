@@ -1,6 +1,6 @@
 {
   "ident": "speech-04148",
-  "name": "S'mie lhiam Mannin",
+  "name": "Culture Vannin: Island of Culture series at the races 03",
   "source": "https://www.youtube.com/watch?v=qytTz8eHuUE",
   "platform": "youtube",
   "domain": "education",

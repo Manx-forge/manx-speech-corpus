@@ -1,6 +1,6 @@
 {
   "ident": "speech-0133",
-  "name": "Text Reading",
+  "name": "LLG-1-05 Pleadeilys 1",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=8654{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

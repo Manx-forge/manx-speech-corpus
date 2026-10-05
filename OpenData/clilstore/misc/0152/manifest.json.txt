@@ -1,6 +1,6 @@
 {
   "ident": "speech-0152",
-  "name": "Text Reading",
+  "name": "LLG-2-12 Skeeal beg mysh Thom Hal",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=8670{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

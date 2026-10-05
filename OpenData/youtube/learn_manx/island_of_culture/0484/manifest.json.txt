@@ -1,6 +1,6 @@
 {
   "ident": "speech-0484",
-  "name": "S'mie lhiam Purt ny h-Inshey as s'mie lhiam loayrt Gaelg",
+  "name": "Culture Vannin: Island of Culture series  84",
   "source": "https://www.youtube.com/watch?v=mrHG39OlUOA",
   "platform": "youtube",
   "domain": "education",

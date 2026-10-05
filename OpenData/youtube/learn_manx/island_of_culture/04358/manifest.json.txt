@@ -1,6 +1,6 @@
 {
   "ident": "speech-04358",
-  "name": "Oie vie as caddil dy mie",
+  "name": "Culture Vannin: Island of Culture series: 358",
   "source": "https://www.youtube.com/watch?v=S_olMpj5_Fs",
   "platform": "youtube",
   "domain": "education",

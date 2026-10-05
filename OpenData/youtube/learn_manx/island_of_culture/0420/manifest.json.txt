@@ -1,6 +1,6 @@
 {
   "ident": "speech-0420",
-  "name": "Ta mee cummal ayns Purt ny h-Inshey agh ta mee shappal ayns Doolish",
+  "name": "Culture Vannin: Island of Culture series 20",
   "source": "https://www.youtube.com/watch?v=uxX8tHD2RfM",
   "platform": "youtube",
   "domain": "education",

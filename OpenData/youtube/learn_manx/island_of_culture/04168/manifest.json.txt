@@ -1,6 +1,6 @@
 {
   "ident": "speech-04168",
-  "name": "S'mie lhiam yn traen, t'eh yindyssagh",
+  "name": "Culture Vannin: Island of Culture series 168",
   "source": "https://www.youtube.com/watch?v=PfODA0Qr1_0",
   "platform": "youtube",
   "domain": "education",

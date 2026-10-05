@@ -1,6 +1,6 @@
 {
   "ident": "speech-0466",
-  "name": "S'mie lhiam kay riojey Vanilla er y fa dy vel eh blasstal",
+  "name": "Culture Vannin: Island of Culture series 66",
   "source": "https://www.youtube.com/watch?v=MJpF3gEpVGs",
   "platform": "youtube",
   "domain": "education",

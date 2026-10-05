@@ -1,6 +1,6 @@
 {
   "ident": "speech-04364",
-  "name": "Cha nel mee feer vie ec dub",
+  "name": "Culture Vannin: Island of Culture series: 364",
   "source": "https://www.youtube.com/watch?v=cRsNFRYiACc",
   "platform": "youtube",
   "domain": "education",

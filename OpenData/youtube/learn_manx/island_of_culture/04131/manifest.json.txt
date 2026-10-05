@@ -1,6 +1,6 @@
 {
   "ident": "speech-04131",
-  "name": "Un vuc, daa vuc, tree muckyn",
+  "name": "Culture Vannin: Island of Culture series 131",
   "source": "https://www.youtube.com/watch?v=6VhXDWfg_pM",
   "platform": "youtube",
   "domain": "education",

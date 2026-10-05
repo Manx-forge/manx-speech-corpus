@@ -1,6 +1,6 @@
 {
   "ident": "speech-0499",
-  "name": "Ren mee goll dys thie-bee ayns Doolish Jedoonee",
+  "name": "Culture Vannin: Island of Culture series 99",
   "source": "https://www.youtube.com/watch?v=8i_ZLVhy69U",
   "platform": "youtube",
   "domain": "education",

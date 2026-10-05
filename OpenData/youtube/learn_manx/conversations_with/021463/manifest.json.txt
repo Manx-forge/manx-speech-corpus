@@ -1,6 +1,6 @@
 {
   "ident": "speech-021463",
-  "name": "Phil Kelly RBV 2018_ Gaelg",
+  "name": "Phil Kelly RBV 2018: Gaelg",
   "source": "https://www.youtube.com/watch?v=aF7hPa9MK1Y&t=45s",
   "platform": "youtube",
   "domain": "interview",

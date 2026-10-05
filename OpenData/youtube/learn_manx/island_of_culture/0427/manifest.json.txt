@@ -1,6 +1,6 @@
 {
   "ident": "speech-0427",
-  "name": "Vel oo fakin yn Moddey Doo?",
+  "name": "Culture Vannin: Island of Culture series 27",
   "source": "https://www.youtube.com/watch?v=w6nxgjsrhH8",
   "platform": "youtube",
   "domain": "education",

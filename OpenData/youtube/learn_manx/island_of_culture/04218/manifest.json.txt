@@ -1,6 +1,6 @@
 {
   "ident": "speech-04218",
-  "name": "Cre gollrish vees yn emshyr mairagh? Bee eh braew",
+  "name": "Culture Vannin: Island of Culture series: 218",
   "source": "https://www.youtube.com/watch?v=Qx8gq34QRnI",
   "platform": "youtube",
   "domain": "education",

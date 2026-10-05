@@ -1,6 +1,6 @@
 {
   "ident": "speech-04154",
-  "name": "Shoh my roar-bree. Nagh vel eh yindyssagh?",
+  "name": "Culture Vannin: Island of Culture series at the races 09",
   "source": "https://www.youtube.com/watch?v=qdqOHBhsWxs",
   "platform": "youtube",
   "domain": "education",

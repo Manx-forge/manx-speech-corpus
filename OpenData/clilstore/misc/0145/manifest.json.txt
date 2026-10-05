@@ -1,6 +1,6 @@
 {
   "ident": "speech-0145",
-  "name": "Text Reading",
+  "name": "LLG-2-42 Screeuyn gys John Kewley 4",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9705{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

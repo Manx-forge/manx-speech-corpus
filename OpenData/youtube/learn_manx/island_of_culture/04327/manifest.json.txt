@@ -1,6 +1,6 @@
 {
   "ident": "speech-04327",
-  "name": "Ta mee goll dys Rhumsaa nish er y fa dy vel mee geearree gee",
+  "name": "Culture Vannin: Island of Culture series: 327",
   "source": "https://www.youtube.com/watch?v=CUGSWpGXxMY",
   "platform": "youtube",
   "domain": "education",

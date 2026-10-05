@@ -1,6 +1,6 @@
 {
   "ident": "speech-04351",
-  "name": "S'mie lhiam Puddin y Nollick",
+  "name": "Culture Vannin: Island of Culture series: 351",
   "source": "https://www.youtube.com/watch?v=6Y8ojTERtdI",
   "platform": "youtube",
   "domain": "education",

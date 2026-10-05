@@ -1,6 +1,6 @@
 {
   "ident": "speech-04271",
-  "name": "Deam eh trooid y towl. She blebbin uss! Dooist oo, ta'n oie goll ersooyl",
+  "name": "Culture Vannin: Island of Culture series: 271",
   "source": "https://www.youtube.com/watch?v=ydPvaKU3Pxc",
   "platform": "youtube",
   "domain": "education",

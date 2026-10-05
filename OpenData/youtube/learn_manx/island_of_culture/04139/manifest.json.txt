@@ -1,6 +1,6 @@
 {
   "ident": "speech-04139",
-  "name": "Vel biggin ayd? Ta un voddey ayms",
+  "name": "Culture Vannin: Island of Culture series 139",
   "source": "https://www.youtube.com/watch?v=K6YRpdGIETU",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-083723",
-  "name": "Gaelg son paarantyn? What would you want?",
+  "name": "Gaelg son paarantyn: What would you want?",
   "source": "https://www.youtube.com/watch?v=WzDpdwQ3-vY",
   "platform": "youtube",
   "domain": "education",

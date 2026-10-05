@@ -1,6 +1,6 @@
 {
   "ident": "speech-0485",
-  "name": "S'mie lhiam cummal ayns Purt ny h-Inshey er y fa dy vel eh aalin",
+  "name": "Culture Vannin: Island of Culture series 85",
   "source": "https://www.youtube.com/watch?v=UI5VatEs7_U",
   "platform": "youtube",
   "domain": "education",

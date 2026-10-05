@@ -1,6 +1,6 @@
 {
   "ident": "speech-04150",
-  "name": "S'mie lhiam Syndey...Syndey aboo!",
+  "name": "Culture Vannin: Island of Culture series at the races 05",
   "source": "https://www.youtube.com/watch?v=CvfJMBOKX_s",
   "platform": "youtube",
   "domain": "education",

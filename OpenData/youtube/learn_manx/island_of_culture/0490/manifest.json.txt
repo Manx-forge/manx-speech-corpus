@@ -1,6 +1,6 @@
 {
   "ident": "speech-0490",
-  "name": "Nagh vel yn baatey shoh yindyssagh?",
+  "name": "Culture Vannin: Island of Culture series 90",
   "source": "https://www.youtube.com/watch?v=NWKJAWlzOzk",
   "platform": "youtube",
   "domain": "education",

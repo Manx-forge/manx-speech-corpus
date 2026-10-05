@@ -1,6 +1,6 @@
 {
   "ident": "speech-04317",
-  "name": "Shoh my charrey Ali as shoh my verreen",
+  "name": "Culture Vannin: Island of Culture series: 317",
   "source": "https://www.youtube.com/watch?v=o_YrlAJ_8MQ",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-029968",
-  "name": "In conversation with Davy Quillin? Holidays",
+  "name": "In conversation with Davy Quillin: Holidays",
   "source": "https://www.youtube.com/watch?v=7hgGyiPwNio",
   "platform": "youtube",
   "domain": "interview",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04217",
-  "name": "Ta mee shickyr dy bee eh grianagh ayns Purt le Moirrey Jesarn",
+  "name": "Culture Vannin: Island of Culture series: 217",
   "source": "https://www.youtube.com/watch?v=x2BXJ8eTEqA",
   "platform": "youtube",
   "domain": "education",

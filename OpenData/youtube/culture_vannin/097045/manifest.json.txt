@@ -1,6 +1,6 @@
 {
   "ident": "speech-097045",
-  "name": "Kiare spot�hyn liorish Finn",
+  "name": "Kiare spotçhyn liorish Finn",
   "source": "https://www.youtube.com/watch?v=CKAT2I1D-DM",
   "platform": "youtube",
   "domain": "podcast",

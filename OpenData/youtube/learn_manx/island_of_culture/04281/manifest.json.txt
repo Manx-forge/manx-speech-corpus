@@ -1,6 +1,6 @@
 {
   "ident": "speech-04281",
-  "name": "Cha ren ny claghyn bentyn rish ny bugganeyn",
+  "name": "Culture Vannin: Island of Culture series: 281",
   "source": "https://www.youtube.com/watch?v=pWPnuftWAVY",
   "platform": "youtube",
   "domain": "education",

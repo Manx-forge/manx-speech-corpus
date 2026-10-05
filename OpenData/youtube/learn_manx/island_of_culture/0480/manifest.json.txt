@@ -1,6 +1,6 @@
 {
   "ident": "speech-0480",
-  "name": "Vel Dalby ny smoo dree na Colby? Cha nel mee shickyr",
+  "name": "Culture Vannin: Island of Culture series 80",
   "source": "https://www.youtube.com/watch?v=T1LIkmCW4ZU",
   "platform": "youtube",
   "domain": "education",

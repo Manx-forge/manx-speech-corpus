@@ -1,6 +1,6 @@
 {
   "ident": "speech-0415",
-  "name": "Ta mee er y twoaie jiu",
+  "name": "Culture Vannin: Island of Culture series 15",
   "source": "https://www.youtube.com/watch?v=F-lL_ukza-U",
   "platform": "youtube",
   "domain": "education",

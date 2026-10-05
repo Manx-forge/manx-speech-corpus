@@ -1,6 +1,6 @@
 {
   "ident": "speech-04198",
-  "name": "Nagh mie lhiat kiaull Manninagh?",
+  "name": "Culture Vannin: Island of Culture series: 198",
   "source": "https://www.youtube.com/watch?v=ElBns5PJjhU",
   "platform": "youtube",
   "domain": "education",

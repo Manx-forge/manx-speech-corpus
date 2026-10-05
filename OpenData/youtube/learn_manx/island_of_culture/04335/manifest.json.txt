@@ -1,6 +1,6 @@
 {
   "ident": "speech-04335",
-  "name": "She Germaanagh mish",
+  "name": "Culture Vannin: Island of Culture series: 335",
   "source": "https://www.youtube.com/watch?v=AC2YfxjxiAg",
   "platform": "youtube",
   "domain": "education",

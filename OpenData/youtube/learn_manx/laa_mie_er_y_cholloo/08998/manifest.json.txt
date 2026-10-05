@@ -1,6 +1,6 @@
 {
   "ident": "speech-08998",
-  "name": "Laa mie er y Cholloo? Ny Loghlynee",
+  "name": "Laa mie er y Cholloo: Ny Loghlynee",
   "source": "https://www.youtube.com/watch?v=WP8Diq7WA8M",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04130",
-  "name": "Shoh daa vuc ayns muclagh",
+  "name": "Culture Vannin: Island of Culture series 130",
   "source": "https://www.youtube.com/watch?v=vY2smU7UDUQ",
   "platform": "youtube",
   "domain": "education",

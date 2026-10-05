@@ -1,6 +1,6 @@
 {
   "ident": "speech-04263",
-  "name": "T'eh beggan grianagh jiu agh bodjallagh",
+  "name": "Culture Vannin: Island of Culture series: 263",
   "source": "https://www.youtube.com/watch?v=4lrg9PljlTw",
   "platform": "youtube",
   "domain": "education",

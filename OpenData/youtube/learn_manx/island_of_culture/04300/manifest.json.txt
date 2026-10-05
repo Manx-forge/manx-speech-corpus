@@ -1,6 +1,6 @@
 {
   "ident": "speech-04300",
-  "name": "Ta mee ayns Balley Chashtal agh cha nel mee geearree tannaghtyn",
+  "name": "Culture Vannin: Island of Culture series: 300",
   "source": "https://www.youtube.com/watch?v=kFswBV15_j0",
   "platform": "youtube",
   "domain": "education",

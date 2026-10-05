@@ -1,6 +1,6 @@
 {
   "ident": "speech-04179",
-  "name": "Craad hie oo jea? Hie mee dys Crosby",
+  "name": "Culture Vannin: Island of Culture series 179",
   "source": "https://www.youtube.com/watch?v=c3hvKk6hixs",
   "platform": "youtube",
   "domain": "education",

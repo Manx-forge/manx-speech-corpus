@@ -1,6 +1,6 @@
 {
   "ident": "speech-04279",
-  "name": "Chouds va'n laa goll shaghey",
+  "name": "Culture Vannin: Island of Culture series: 279",
   "source": "https://www.youtube.com/watch?v=5uoS0XFkZ0E",
   "platform": "youtube",
   "domain": "education",

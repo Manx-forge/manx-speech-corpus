@@ -1,6 +1,6 @@
 {
   "ident": "speech-04158",
-  "name": "The months of the year in Manx",
+  "name": "Culture Vannin: Island of Culture series 158",
   "source": "https://www.youtube.com/watch?v=fsyczeWL-vU",
   "platform": "youtube",
   "domain": "education",

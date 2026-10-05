@@ -1,6 +1,6 @@
 {
   "ident": "speech-011741",
-  "name": "Aalican' liorish Juan y Gell",
+  "name": "Aalican liorish Juan y Gell",
   "source": "https://www.youtube.com/watch?v=9ryG4pD_dXo",
   "platform": "youtube",
   "domain": "literary",

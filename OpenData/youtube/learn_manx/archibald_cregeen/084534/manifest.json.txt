@@ -1,6 +1,6 @@
 {
   "ident": "speech-084534",
-  "name": "Cregeen 02? Toshiaght Arree",
+  "name": "Cregeen 02: Toshiaght Arree",
   "source": "https://www.youtube.com/watch?v=flXfjFgo8Cg",
   "platform": "youtube",
   "domain": "education",

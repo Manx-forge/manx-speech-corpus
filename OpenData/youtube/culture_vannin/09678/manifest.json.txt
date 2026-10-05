@@ -1,6 +1,6 @@
 {
   "ident": "speech-09678",
-  "name": "Spot�h liorish Finn? Thie bleb",
+  "name": "Spotçh liorish Finn: Thie bleb",
   "source": "https://www.youtube.com/watch?v=9Mb07AqdPyM",
   "platform": "youtube",
   "domain": "podcast",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04336",
-  "name": "Cha nee toot mish",
+  "name": "Culture Vannin: Island of Culture series: 336",
   "source": "https://www.youtube.com/watch?v=qRGAhPeOvS0",
   "platform": "youtube",
   "domain": "education",

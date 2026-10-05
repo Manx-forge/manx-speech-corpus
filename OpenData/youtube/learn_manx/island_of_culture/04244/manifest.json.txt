@@ -1,6 +1,6 @@
 {
   "ident": "speech-04244",
-  "name": "She eeasteyr mish",
+  "name": "Culture Vannin: Island of Culture series: 244",
   "source": "https://www.youtube.com/watch?v=1ttp0w3iDoA",
   "platform": "youtube",
   "domain": "education",

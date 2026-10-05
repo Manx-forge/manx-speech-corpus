@@ -1,6 +1,6 @@
 {
   "ident": "speech-0487",
-  "name": "S'mie lhiam snaue agh cha nel mee geearree snaue nish",
+  "name": "Culture Vannin: Island of Culture series 87",
   "source": "https://www.youtube.com/watch?v=K876TRJrHVI",
   "platform": "youtube",
   "domain": "education",

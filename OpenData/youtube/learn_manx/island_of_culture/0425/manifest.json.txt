@@ -1,6 +1,6 @@
 {
   "ident": "speech-0425",
-  "name": "Ta mee goll dys Purt le Moirrey er y traen nish",
+  "name": "Culture Vannin: Island of Culture series 25",
   "source": "https://www.youtube.com/watch?v=BWtBEOVZ9vg",
   "platform": "youtube",
   "domain": "education",

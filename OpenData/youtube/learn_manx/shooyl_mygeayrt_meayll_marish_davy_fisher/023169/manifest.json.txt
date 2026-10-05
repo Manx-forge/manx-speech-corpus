@@ -1,6 +1,6 @@
 {
   "ident": "speech-023169",
-  "name": "Shooyl mygeayrt Meayll mrish Davy Fisher? 04",
+  "name": "Shooyl mygeayrt Meayll mrish Davy Fisher: 04",
   "source": "https://www.youtube.com/watch?v=2gtylf5iGLM",
   "platform": "youtube",
   "domain": "interview",

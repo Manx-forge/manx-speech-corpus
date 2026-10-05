@@ -1,6 +1,6 @@
 {
   "ident": "speech-0438",
-  "name": "Cha nel eh feer tarroogh ayns Rhumsaa jiu agh t'eh tarroogh dy liooar",
+  "name": "Culture Vannin: Island of Culture series 38",
   "source": "https://www.youtube.com/watch?v=BHE8CRU8Hfc",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04183",
-  "name": "Jean oo tannaghtyn sthie my vees eh fliugh?",
+  "name": "Culture Vannin: Island of Culture series 183",
   "source": "https://www.youtube.com/watch?v=ssfXCvxZeQ0",
   "platform": "youtube",
   "domain": "education",

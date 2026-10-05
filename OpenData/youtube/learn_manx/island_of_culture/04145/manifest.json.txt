@@ -1,6 +1,6 @@
 {
   "ident": "speech-04145",
-  "name": "Nagh vel yn twoaie jeeaghyn yindyssagh nish?",
+  "name": "Culture Vannin: Island of Culture series 145",
   "source": "https://www.youtube.com/watch?v=-8y9J2zWo4s",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04215",
-  "name": "Er-lhiam dy bee eh braew as grianagh mairagh",
+  "name": "Culture Vannin: Island of Culture series 215",
   "source": "https://www.youtube.com/watch?v=929xvQHGLow",
   "platform": "youtube",
   "domain": "education",

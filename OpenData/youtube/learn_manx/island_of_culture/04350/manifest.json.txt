@@ -1,6 +1,6 @@
 {
   "ident": "speech-04350",
-  "name": "S'mie lhiam y Nollick",
+  "name": "Culture Vannin: Island of Culture series: 350",
   "source": "https://www.youtube.com/watch?v=ygkQC2EeK6w",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-029485",
-  "name": "Cammag_  Gamman Manninagh",
+  "name": "Cammag: Gamman Manninagh",
   "source": "https://www.youtube.com/watch?v=SLeXJHl689w",
   "platform": "youtube",
   "domain": "interview",

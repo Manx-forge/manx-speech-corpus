@@ -1,6 +1,6 @@
 {
   "ident": "speech-04282",
-  "name": "She brock geayshteenagh mooar-howshagh uss",
+  "name": "Culture Vannin: Island of Culture series: 282",
   "source": "https://www.youtube.com/watch?v=2vdasQ5wP58",
   "platform": "youtube",
   "domain": "education",

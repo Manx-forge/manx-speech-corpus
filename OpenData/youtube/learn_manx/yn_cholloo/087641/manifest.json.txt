@@ -1,6 +1,6 @@
 {
   "ident": "speech-087641",
-  "name": "Yn Cholloo? Thie-eirinagh Carey",
+  "name": "Yn Cholloo: Thie-eirinagh Carey",
   "source": "https://www.youtube.com/watch?v=5_cK8ycBQfo",
   "platform": "youtube",
   "domain": "education",

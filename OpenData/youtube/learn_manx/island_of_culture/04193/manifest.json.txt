@@ -1,6 +1,6 @@
 {
   "ident": "speech-04193",
-  "name": "keayrt dy row",
+  "name": "Culture Vannin: Island of Culture series 193",
   "source": "https://www.youtube.com/watch?v=pE2r49MuN54",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04288",
-  "name": "Ouwatta! As yn chied vuggane",
+  "name": "Culture Vannin: Island of Culture series: 288",
   "source": "https://www.youtube.com/watch?v=b6yMK0WJ-3Q",
   "platform": "youtube",
   "domain": "education",

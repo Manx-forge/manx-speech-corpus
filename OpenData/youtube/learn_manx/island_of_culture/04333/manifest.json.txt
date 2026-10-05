@@ -1,6 +1,6 @@
 {
   "ident": "speech-04333",
-  "name": "She Spanniagh mish",
+  "name": "Culture Vannin: Island of Culture series: 333",
   "source": "https://www.youtube.com/watch?v=OQO2J4vfH0E",
   "platform": "youtube",
   "domain": "education",

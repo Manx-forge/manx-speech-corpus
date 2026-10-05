@@ -1,6 +1,6 @@
 {
   "ident": "speech-022766",
-  "name": "Turrys mygeayrt Purt ny Hinshey? Corneil y Ghless Earish dys Halley Albert",
+  "name": "Turrys mygeayrt Purt ny Hinshey: Corneil y Ghless Earish dys Halley Albert",
   "source": "https://www.youtube.com/watch?v=9kI4QKiEuj8",
   "platform": "youtube",
   "domain": "interview",

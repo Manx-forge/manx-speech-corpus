@@ -1,6 +1,6 @@
 {
   "ident": "speech-096440",
-  "name": "Spot�h liorish Finn? Thie-Bee",
+  "name": "Spotçh liorish Finn: Thie Bee",
   "source": "https://www.youtube.com/watch?v=4kCM3q5OwEA",
   "platform": "youtube",
   "domain": "podcast",

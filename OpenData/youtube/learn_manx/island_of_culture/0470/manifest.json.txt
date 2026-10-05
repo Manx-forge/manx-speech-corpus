@@ -1,6 +1,6 @@
 {
   "ident": "speech-0470",
-  "name": "S'mie lhiam Creneash agh cha nel monney shappyn ayns shoh",
+  "name": "Culture Vannin: Island of Culture series 70",
   "source": "https://www.youtube.com/watch?v=klCEE-Gz9VI",
   "platform": "youtube",
   "domain": "education",

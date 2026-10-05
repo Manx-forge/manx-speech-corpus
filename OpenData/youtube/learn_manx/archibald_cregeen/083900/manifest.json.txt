@@ -1,6 +1,6 @@
 {
   "ident": "speech-083900",
-  "name": "Cregeen 07? Jerrey Souree",
+  "name": "Cregeen 07: Jerrey Souree",
   "source": "https://www.youtube.com/watch?v=9NSwcGV-pPI",
   "platform": "youtube",
   "domain": "education",

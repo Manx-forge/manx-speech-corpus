@@ -1,6 +1,6 @@
 {
   "ident": "speech-04132",
-  "name": "Vel uss cummal gollrish muc ayns muclagh?",
+  "name": "Culture Vannin: Island of Culture series 132",
   "source": "https://www.youtube.com/watch?v=miCU-IFpK5w",
   "platform": "youtube",
   "domain": "education",

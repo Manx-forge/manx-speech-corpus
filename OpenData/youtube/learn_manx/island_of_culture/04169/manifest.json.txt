@@ -1,6 +1,6 @@
 {
   "ident": "speech-04169",
-  "name": "Ta mee goll dys Rhumsaa, cha nel mee goll er y traen, ta mee goll er y varroose",
+  "name": "Culture Vannin: Island of Culture series 169",
   "source": "https://www.youtube.com/watch?v=MhmUHavdN-0",
   "platform": "youtube",
   "domain": "education",

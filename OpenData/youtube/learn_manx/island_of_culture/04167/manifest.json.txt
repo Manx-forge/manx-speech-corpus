@@ -1,6 +1,6 @@
 {
   "ident": "speech-04167",
-  "name": "Ren mee cheet dys Doolish er y traen jiu",
+  "name": "Culture Vannin: Island of Culture series 167",
   "source": "https://www.youtube.com/watch?v=FCVUqRJzxlo",
   "platform": "youtube",
   "domain": "education",

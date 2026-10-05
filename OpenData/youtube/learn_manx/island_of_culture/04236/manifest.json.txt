@@ -1,6 +1,6 @@
 {
   "ident": "speech-04236",
-  "name": "Hee'm shiu reesht ec y Vunscoill",
+  "name": "Culture Vannin: Island of Culture series: 236",
   "source": "https://www.youtube.com/watch?v=WgiX-bPsPFU",
   "platform": "youtube",
   "domain": "education",

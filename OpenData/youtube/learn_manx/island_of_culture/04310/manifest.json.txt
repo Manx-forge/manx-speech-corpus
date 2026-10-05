@@ -1,6 +1,6 @@
 {
   "ident": "speech-04310",
-  "name": "Vel paays ort? Ta, ta paays mooar orryms",
+  "name": "Culture Vannin: Island of Culture series: 310",
   "source": "https://www.youtube.com/watch?v=kSMbixHjPpk",
   "platform": "youtube",
   "domain": "education",

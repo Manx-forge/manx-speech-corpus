@@ -1,6 +1,6 @@
 {
   "ident": "speech-04197",
-  "name": "S'mie lhiam kiaull Manninagh",
+  "name": "Culture Vannin: Island of Culture series: 197",
   "source": "https://www.youtube.com/watch?v=7pyZi_n2JCY",
   "platform": "youtube",
   "domain": "education",

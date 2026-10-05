@@ -1,6 +1,6 @@
 {
   "ident": "speech-0435",
-  "name": "Er-lhiam dy vel yn jiass yindyssagh",
+  "name": "Culture Vannin: Island of Culture series 35",
   "source": "https://www.youtube.com/watch?v=ykwcFM8-k9w",
   "platform": "youtube",
   "domain": "education",

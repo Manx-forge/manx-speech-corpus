@@ -1,6 +1,6 @@
 {
   "ident": "speech-04172",
-  "name": "Jagh oo dys Doolish jea? Hie",
+  "name": "Culture Vannin: Island of Culture series 172",
   "source": "https://www.youtube.com/watch?v=p-A60O-xoKk",
   "platform": "youtube",
   "domain": "education",

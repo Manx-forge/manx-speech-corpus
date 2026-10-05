@@ -1,6 +1,6 @@
 {
   "ident": "speech-04267",
-  "name": "Fastyr beg dy row, deam y chied vuggane trooid y towl",
+  "name": "Culture Vannin: Island of Culture series: 267",
   "source": "https://www.youtube.com/watch?v=DsokF9CUlCo",
   "platform": "youtube",
   "domain": "education",

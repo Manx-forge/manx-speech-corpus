@@ -1,6 +1,6 @@
 {
   "ident": "speech-02871",
-  "name": "In Conversation with Claudia K�nig_ Free time",
+  "name": "In Conversation with Claudia König: Free time",
   "source": "https://www.youtube.com/watch?v=GPh08KhVLtU",
   "platform": "youtube",
   "domain": "interview",

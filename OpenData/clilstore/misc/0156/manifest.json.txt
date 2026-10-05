@@ -1,6 +1,6 @@
 {
   "ident": "speech-0156",
-  "name": "Text Reading",
+  "name": "LLG-2-17 Strung as Bridjen",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9338{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

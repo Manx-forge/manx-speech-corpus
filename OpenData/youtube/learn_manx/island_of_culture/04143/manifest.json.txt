@@ -1,6 +1,6 @@
 {
   "ident": "speech-04143",
-  "name": "Ta ny roaryn bree beggan feiyral",
+  "name": "Culture Vannin: Island of Culture series: 143",
   "source": "https://www.youtube.com/watch?v=UqVPjwz0s_o",
   "platform": "youtube",
   "domain": "education",

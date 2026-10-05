@@ -1,6 +1,6 @@
 {
   "ident": "speech-0488",
-  "name": "S'mie lhiam Colby agh share lhiam Purt ny h-Inshey er y fa dy vel eh feer aalin",
+  "name": "Culture Vannin: Island of Culture series 88",
   "source": "https://www.youtube.com/watch?v=YP0Brp_twUU",
   "platform": "youtube",
   "domain": "education",

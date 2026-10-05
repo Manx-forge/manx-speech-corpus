@@ -1,6 +1,6 @@
 {
   "ident": "speech-0477",
-  "name": "Vel Rhumsaa ny share na Purt le Moirrey? S'liklee dy vel eh",
+  "name": "Culture Vannin: Island of Culture series 77",
   "source": "https://www.youtube.com/watch?v=GM8lPz9Bsx0",
   "platform": "youtube",
   "domain": "education",

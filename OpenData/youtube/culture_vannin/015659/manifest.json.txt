@@ -1,6 +1,6 @@
 {
   "ident": "speech-015659",
-  "name": "We Will Remember Them' in Manx? Nee mayd cooinaghtyn orroo",
+  "name": "'We Will Remember Them' in Manx: Nee mayd cooinaghtyn orroo",
   "source": "https://www.youtube.com/watch?v=0T2YRcgOXKs",
   "platform": "youtube",
   "domain": "literary",

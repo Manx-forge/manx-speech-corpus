@@ -1,6 +1,6 @@
 {
   "ident": "speech-027171",
-  "name": "Cooish 2011_ the Villa Marina Arcade",
+  "name": "Cooish 2011: the Villa Marina Arcade",
   "source": "https://www.youtube.com/watch?v=8Pp6teSXOfc",
   "platform": "youtube",
   "domain": "interview",

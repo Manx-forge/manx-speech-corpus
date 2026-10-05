@@ -1,6 +1,6 @@
 {
   "ident": "speech-04163",
-  "name": "Ta ram smook ayn",
+  "name": "Culture Vannin: Island of Culture series 163",
   "source": "https://www.youtube.com/watch?v=UPS_bViWyxI",
   "platform": "youtube",
   "domain": "education",

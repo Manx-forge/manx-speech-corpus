@@ -1,6 +1,6 @@
 {
   "ident": "speech-04133",
-  "name": "Vel braar ayd? Ta, ta un vraar ayms",
+  "name": "Culture Vannin: Island of Culture series 133",
   "source": "https://www.youtube.com/watch?v=zMDUUnkJzrw",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-021298",
-  "name": "Soddag Valloo? Cliaghtey Manninagh son Oie Houney",
+  "name": "Soddag Valloo: Cliaghtey Manninagh son Oie Houney",
   "source": "https://www.youtube.com/watch?v=ZJ-Sw0cwnpE",
   "platform": "youtube",
   "domain": "interview",

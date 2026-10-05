@@ -1,6 +1,6 @@
 {
   "ident": "speech-0437",
-  "name": "T'ad cloie feeal",
+  "name": "Culture Vannin: Island of Culture series 37",
   "source": "https://www.youtube.com/watch?v=0NOswM9tg1o",
   "platform": "youtube",
   "domain": "education",

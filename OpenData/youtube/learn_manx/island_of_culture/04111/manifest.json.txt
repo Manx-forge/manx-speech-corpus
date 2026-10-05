@@ -1,6 +1,6 @@
 {
   "ident": "speech-04111",
-  "name": "Foddym snaue feer vie",
+  "name": "Culture Vannin: Island of Culture series: 111",
   "source": "https://www.youtube.com/watch?v=cmUH6ZuSbsU",
   "platform": "youtube",
   "domain": "education",

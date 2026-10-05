@@ -1,6 +1,6 @@
 {
   "ident": "speech-04100",
-  "name": "Ren mee goll dys yn thie-tashtee ayns Doolish Jelune",
+  "name": "Culture Vannin: Island of Culture series 100",
   "source": "https://www.youtube.com/watch?v=8fmM58_bNUI",
   "platform": "youtube",
   "domain": "education",

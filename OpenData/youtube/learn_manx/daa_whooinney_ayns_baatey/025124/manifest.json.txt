@@ -1,6 +1,6 @@
 {
   "ident": "speech-025124",
-  "name": "Daa whooinney ayns baatey? 11",
+  "name": "Daa whooinney ayns baatey: 11",
   "source": "https://www.youtube.com/watch?v=MRpPY4VQX2s",
   "platform": "youtube",
   "domain": "interview",

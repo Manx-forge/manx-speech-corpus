@@ -1,6 +1,6 @@
 {
   "ident": "speech-0486",
-  "name": "Ta Purt ny h-Inshey feer aalin",
+  "name": "Culture Vannin: Island of Culture series 86",
   "source": "https://www.youtube.com/watch?v=60aKGF_PWnE",
   "platform": "youtube",
   "domain": "education",

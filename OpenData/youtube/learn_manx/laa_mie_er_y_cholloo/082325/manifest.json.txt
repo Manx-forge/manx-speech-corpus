@@ -1,6 +1,6 @@
 {
   "ident": "speech-082325",
-  "name": "Laa Mie er y Cholloo",
+  "name": "Laa Mie er y Cholloo: Kione Spaaniagh",
   "source": "https://www.youtube.com/watch?v=lR1gRsqT-VQ",
   "platform": "youtube",
   "domain": "education",

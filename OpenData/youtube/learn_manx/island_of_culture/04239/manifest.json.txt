@@ -1,6 +1,6 @@
 {
   "ident": "speech-04239",
-  "name": "Cha nel mee ayns Colby nish as cha row mee ayns Colby jea",
+  "name": "Culture Vannin: Island of Culture series: 239",
   "source": "https://www.youtube.com/watch?v=bp8tbNJrUBI",
   "platform": "youtube",
   "domain": "education",

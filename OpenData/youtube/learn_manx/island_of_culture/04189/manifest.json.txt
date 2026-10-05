@@ -1,6 +1,6 @@
 {
   "ident": "speech-04189",
-  "name": "Ta mee toiggal beggan Gaelg",
+  "name": "Culture Vannin: Island of Culture series 189",
   "source": "https://www.youtube.com/watch?v=f0EilgzY-T0",
   "platform": "youtube",
   "domain": "education",

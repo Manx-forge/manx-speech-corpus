@@ -1,6 +1,6 @@
 {
   "ident": "speech-0115",
-  "name": "Text Reading",
+  "name": "Phillips John 1:1-14",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9784{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

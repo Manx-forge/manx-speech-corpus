@@ -1,6 +1,6 @@
 {
   "ident": "speech-04260",
-  "name": "T'eh feayr agh chirrym jiu",
+  "name": "Culture Vannin: Island of Culture series: 260",
   "source": "https://www.youtube.com/watch?v=Y8op88ylvJo",
   "platform": "youtube",
   "domain": "education",

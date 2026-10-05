@@ -1,6 +1,6 @@
 {
   "ident": "speech-0497",
-  "name": "By vie lhiat kay riojey?",
+  "name": "Culture Vannin: Island of Culture series 97",
   "source": "https://www.youtube.com/watch?v=O-fHAvbKCBg",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04270",
-  "name": "Va'n buggane elley boirit syn aght cheddin as s'olk va'n cadley echey",
+  "name": "Culture Vannin: Island of Culture series: 270",
   "source": "https://www.youtube.com/watch?v=IH59-u-TYDs",
   "platform": "youtube",
   "domain": "education",

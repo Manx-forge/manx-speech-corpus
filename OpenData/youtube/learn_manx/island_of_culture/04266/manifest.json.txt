@@ -1,6 +1,6 @@
 {
   "ident": "speech-04266",
-  "name": "Ny keayrtyn, loayr ny bugganeyn ry-cheilley trooid towl sy clieau",
+  "name": "Culture Vannin: Island of Culture series: 266",
   "source": "https://www.youtube.com/watch?v=Z-ZJ1GiN8MA",
   "platform": "youtube",
   "domain": "education",

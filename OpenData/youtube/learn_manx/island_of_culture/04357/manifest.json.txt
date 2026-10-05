@@ -1,6 +1,6 @@
 {
   "ident": "speech-04357",
-  "name": "S'mie lhiam Berreen y Nollick",
+  "name": "Culture Vannin: Island of Culture series: 357",
   "source": "https://www.youtube.com/watch?v=jQpIyCxFTnU",
   "platform": "youtube",
   "domain": "education",

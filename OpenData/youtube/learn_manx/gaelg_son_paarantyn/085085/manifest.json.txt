@@ -1,6 +1,6 @@
 {
   "ident": "speech-085085",
-  "name": "Gaelg son paarantyn? Greetings",
+  "name": "Gaelg son paarantyn: Greetings",
   "source": "https://www.youtube.com/watch?v=W2EqyKXAGu4",
   "platform": "youtube",
   "domain": "education",

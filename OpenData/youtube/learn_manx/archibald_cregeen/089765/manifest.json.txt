@@ -1,6 +1,6 @@
 {
   "ident": "speech-089765",
-  "name": "Cregeen 06 Mean souree?",
+  "name": "Cregeen 06 Mean souree:",
   "source": "https://www.youtube.com/watch?v=veZap6-4GFo",
   "platform": "youtube",
   "domain": "education",

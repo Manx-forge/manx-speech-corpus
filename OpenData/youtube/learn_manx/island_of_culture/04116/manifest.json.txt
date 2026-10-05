@@ -1,6 +1,6 @@
 {
   "ident": "speech-04116",
-  "name": "Noddym geddyn spollag? Cha nod, gow my leshtal",
+  "name": "Culture Vannin: Island of Culture series: 116",
   "source": "https://www.youtube.com/watch?v=q9ikTUiBamY",
   "platform": "youtube",
   "domain": "education",

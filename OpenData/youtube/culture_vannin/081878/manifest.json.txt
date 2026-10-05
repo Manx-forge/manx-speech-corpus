@@ -1,6 +1,6 @@
 {
   "ident": "speech-081878",
-  "name": "Nollick： Some Manx words for Christmas, #2",
+  "name": "Nollick: Some Manx words for Christmas, #2",
   "source": "https://www.youtube.com/watch?v=130IAZ1fJKA",
   "platform": "youtube",
   "domain": "education",

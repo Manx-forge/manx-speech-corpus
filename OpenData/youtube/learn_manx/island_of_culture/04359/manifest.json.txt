@@ -1,6 +1,6 @@
 {
   "ident": "speech-04359",
-  "name": "Nollick Ghennal as blein vie noa",
+  "name": "Culture Vannin: Island of Culture series: 359",
   "source": "https://www.youtube.com/watch?v=96IJk8GJCFI",
   "platform": "youtube",
   "domain": "education",

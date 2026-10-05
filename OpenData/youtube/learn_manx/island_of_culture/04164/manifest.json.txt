@@ -1,6 +1,6 @@
 {
   "ident": "speech-04164",
-  "name": "Er-lhiam dy jean yn traen goll dys Doolish nish",
+  "name": "Culture Vannin: Island of Culture series 164",
   "source": "https://www.youtube.com/watch?v=2ETbSQXevbA",
   "platform": "youtube",
   "domain": "education",

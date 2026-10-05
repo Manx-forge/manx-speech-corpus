@@ -1,6 +1,6 @@
 {
   "ident": "speech-084140",
-  "name": "Some Manx for Valentine's Day? Y Phaag",
+  "name": "Some Manx for Valentine's Day: Y Phaag",
   "source": "https://www.youtube.com/watch?v=6uG4hTwhYm8",
   "platform": "youtube",
   "domain": "education",

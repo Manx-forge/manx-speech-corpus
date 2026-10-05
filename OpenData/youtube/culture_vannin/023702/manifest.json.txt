@@ -1,6 +1,6 @@
 {
   "ident": "speech-023702",
-  "name": "?Loshtit dy bollagh!?",
+  "name": "\"Loshtit dy bollagh!\"",
   "source": "https://www.youtube.com/watch?v=pxw4mfP6nJE",
   "platform": "youtube",
   "domain": "interview",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0138",
-  "name": "Text Reading",
+  "name": "Saggyrt Aitken",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9798{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

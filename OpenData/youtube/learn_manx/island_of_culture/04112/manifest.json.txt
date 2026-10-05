@@ -1,6 +1,6 @@
 {
   "ident": "speech-04112",
-  "name": "Foddym snaue feer vie agh cha nel mee geearree snaue nish",
+  "name": "Culture Vannin: Island of Culture series: 112",
   "source": "https://www.youtube.com/watch?v=rmHBi4u6fs8",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0422",
-  "name": "Ta shin ayns Purt Chiarn",
+  "name": "Culture Vannin: Island of Culture series 22",
   "source": "https://www.youtube.com/watch?v=_J3pmZ2q5W0",
   "platform": "youtube",
   "domain": "education",

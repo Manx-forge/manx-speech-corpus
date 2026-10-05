@@ -1,6 +1,6 @@
 {
   "ident": "speech-04297",
-  "name": "Ta mee ayns Balley Chashtal agh er-lhiam dy nhegin dou goll dys Colby nish",
+  "name": "Culture Vannin: Island of Culture series: 297",
   "source": "https://www.youtube.com/watch?v=7AsxNKe5lVQ",
   "platform": "youtube",
   "domain": "education",

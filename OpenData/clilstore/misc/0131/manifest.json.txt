@@ -1,6 +1,6 @@
 {
   "ident": "speech-0131",
-  "name": "Text Reading",
+  "name": "Pargeiys Caillit",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9790{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

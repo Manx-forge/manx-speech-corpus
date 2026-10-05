@@ -1,6 +1,6 @@
 {
   "ident": "speech-026877",
-  "name": "Cooinaghtyn Manninagh? Co-loayrtys marish Juan y Crellin",
+  "name": "Cooinaghtyn Manninagh: Co-loayrtys marish Juan y Crellin",
   "source": "https://www.youtube.com/watch?v=JYZmJp8Rz40",
   "platform": "youtube",
   "domain": "interview",

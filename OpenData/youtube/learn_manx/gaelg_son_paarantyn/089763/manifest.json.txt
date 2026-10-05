@@ -1,6 +1,6 @@
 {
   "ident": "speech-089763",
-  "name": "Gaelg son paarantyn? y jerrey shiaghtin",
+  "name": "Gaelg son paarantyn: y jerrey shiaghtin",
   "source": "https://www.youtube.com/watch?v=-FIlILqzc2A",
   "platform": "youtube",
   "domain": "education",

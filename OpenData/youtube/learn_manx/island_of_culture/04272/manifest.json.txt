@@ -1,6 +1,6 @@
 {
   "ident": "speech-04272",
-  "name": "T'ou uss bolvaneagh, she'n laa ta cheet stiagh",
+  "name": "Culture Vannin: Island of Culture series: 272",
   "source": "https://www.youtube.com/watch?v=KmPC4iwSTjc",
   "platform": "youtube",
   "domain": "education",

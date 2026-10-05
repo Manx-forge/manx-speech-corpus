@@ -1,6 +1,6 @@
 {
   "ident": "speech-04280",
-  "name": "As ny faghidyn dy ve ny s'lhiurey as ny s'lhiurey",
+  "name": "Culture Vannin: Island of Culture series: 280",
   "source": "https://www.youtube.com/watch?v=WP38sSdErcc",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-087039",
-  "name": "Gaelg son paarantyn? Goll dys scoill",
+  "name": "Gaelg son paarantyn: Goll dys scoill",
   "source": "https://www.youtube.com/watch?v=t0Kgnl-wWb4",
   "platform": "youtube",
   "domain": "education",

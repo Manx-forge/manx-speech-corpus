@@ -1,6 +1,6 @@
 {
   "ident": "speech-083624",
-  "name": "Laa mie er y Cholloo? Ta Babban cheet!",
+  "name": "Laa Mie er y Cholloo",
   "source": "https://www.youtube.com/watch?v=nu1dkfINP5o",
   "platform": "youtube",
   "domain": "education",

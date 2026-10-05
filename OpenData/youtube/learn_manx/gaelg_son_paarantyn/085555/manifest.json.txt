@@ -1,6 +1,6 @@
 {
   "ident": "speech-085555",
-  "name": "Gaelg son paarantyn? Jalloo",
+  "name": "Gaelg son paarantyn: Jalloo",
   "source": "https://www.youtube.com/watch?v=XJRgQoa0Yhg",
   "platform": "youtube",
   "domain": "education",

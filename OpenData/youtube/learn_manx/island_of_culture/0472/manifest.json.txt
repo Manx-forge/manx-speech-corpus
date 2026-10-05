@@ -1,6 +1,6 @@
 {
   "ident": "speech-0472",
-  "name": "S'mie lhiam thie Harry Kelly agh ta mee maynrey nagh vel mee cummal ayns shen",
+  "name": "Culture Vannin: Island of Culture series 72",
   "source": "https://www.youtube.com/watch?v=WPPgrXRJXi4",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04155",
-  "name": "Mannin aboo! Falkirk aboo!",
+  "name": "Culture Vannin: Island of Culture series at the races 10",
   "source": "https://www.youtube.com/watch?v=cMqJ_zYv-0U",
   "platform": "youtube",
   "domain": "education",

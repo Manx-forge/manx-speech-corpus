@@ -1,6 +1,6 @@
 {
   "ident": "speech-04144",
-  "name": "Cha nel oo lowit ayns shoh",
+  "name": "Culture Vannin: Island of Culture series 144",
   "source": "https://www.youtube.com/watch?v=2ysgkNeh6y8",
   "platform": "youtube",
   "domain": "education",

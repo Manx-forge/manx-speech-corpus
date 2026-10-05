@@ -1,6 +1,6 @@
 {
   "ident": "speech-0411",
-  "name": "Craad t'ou cummal?",
+  "name": "Culture Vannin: Island of Culture series 11",
   "source": "https://www.youtube.com/watch?v=JF13GlI7k9Q",
   "platform": "youtube",
   "domain": "education",

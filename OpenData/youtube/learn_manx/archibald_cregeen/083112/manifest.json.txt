@@ -1,6 +1,6 @@
 {
   "ident": "speech-083112",
-  "name": "Cregeen 04? Averil",
+  "name": "Cregeen 04: Averil",
   "source": "https://www.youtube.com/watch?v=DQDuJtdJr1E",
   "platform": "youtube",
   "domain": "education",

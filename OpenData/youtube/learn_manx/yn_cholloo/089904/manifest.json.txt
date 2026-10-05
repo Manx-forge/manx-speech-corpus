@@ -1,6 +1,6 @@
 {
   "ident": "speech-089904",
-  "name": "Yn Cholloo? Ellan jeh ymmodee daaghyn",
+  "name": "Yn Cholloo: Ellan jeh ymmodee daaghyn",
   "source": "https://www.youtube.com/watch?v=16MqukyzO_8",
   "platform": "youtube",
   "domain": "education",

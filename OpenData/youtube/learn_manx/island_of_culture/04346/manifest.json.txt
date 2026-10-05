@@ -1,6 +1,6 @@
 {
   "ident": "speech-04346",
-  "name": "Ta shoh Billey y Nollick yindyssagh",
+  "name": "Culture Vannin: Island of Culture series: 346",
   "source": "https://www.youtube.com/watch?v=EQgvRc73ElE",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04348",
-  "name": "S'mie lhiam carvallyn",
+  "name": "Culture Vannin: Island of Culture series: 348",
   "source": "https://www.youtube.com/watch?v=2L9pqjQ3Wjc",
   "platform": "youtube",
   "domain": "education",

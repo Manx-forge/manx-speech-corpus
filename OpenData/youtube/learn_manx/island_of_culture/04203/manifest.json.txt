@@ -1,6 +1,6 @@
 {
   "ident": "speech-04203",
-  "name": "Shegin dou cloie kiaull nish",
+  "name": "Culture Vannin: Island of Culture series: 203",
   "source": "https://www.youtube.com/watch?v=0hzCCqDNjD0",
   "platform": "youtube",
   "domain": "education",

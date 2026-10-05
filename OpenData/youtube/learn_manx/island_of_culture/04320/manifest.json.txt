@@ -1,6 +1,6 @@
 {
   "ident": "speech-04320",
-  "name": "Va mee ayns Purt ny h-Inshey jea as ta mee ayns Purt ny h-Inshey jiu gee berreen",
+  "name": "Culture Vannin: Island of Culture series: 320",
   "source": "https://www.youtube.com/watch?v=FGLdq3MASfI",
   "platform": "youtube",
   "domain": "education",

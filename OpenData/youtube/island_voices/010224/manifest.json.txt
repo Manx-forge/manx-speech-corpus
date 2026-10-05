@@ -1,6 +1,6 @@
 {
   "ident": "speech-010224",
-  "name": "A Gaelic Journey (Manx version)_ Benbecula to Ranafast",
+  "name": "A Gaelic Journey (Manx version): Benbecula to Ranafast",
   "source": "https://www.youtube.com/watch?v=q70Hf8EsINg",
   "platform": "youtube",
   "domain": "interview",

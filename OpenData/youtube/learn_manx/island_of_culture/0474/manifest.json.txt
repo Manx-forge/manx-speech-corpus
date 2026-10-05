@@ -1,6 +1,6 @@
 {
   "ident": "speech-0474",
-  "name": "Cre smie lhiat jannoo ec yn jerrey-shiaghtin?",
+  "name": "Culture Vannin: Island of Culture series 74",
   "source": "https://www.youtube.com/watch?v=PeHZhZyFYko",
   "platform": "youtube",
   "domain": "education",

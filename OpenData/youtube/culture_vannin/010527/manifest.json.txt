@@ -1,6 +1,6 @@
 {
   "ident": "speech-010527",
-  "name": "Teeval? Ben-Phrinse ny Marrey",
+  "name": "Teeval: Ben-Phrinse ny Marrey",
   "source": "https://www.youtube.com/watch?v=5wM-KF3EqD0&t=1s",
   "platform": "youtube",
   "domain": "folklore",

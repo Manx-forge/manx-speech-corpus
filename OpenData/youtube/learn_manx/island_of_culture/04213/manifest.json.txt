@@ -1,6 +1,6 @@
 {
   "ident": "speech-04213",
-  "name": "Bee oo ayns Purt le Moirrey mairagh? S'treisht lhiam dy beeym",
+  "name": "Culture Vannin: Island of Culture series: 213",
   "source": "https://www.youtube.com/watch?v=uK2TLzTmINI",
   "platform": "youtube",
   "domain": "education",

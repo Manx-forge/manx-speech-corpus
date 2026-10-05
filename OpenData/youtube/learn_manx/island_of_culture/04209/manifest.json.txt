@@ -1,6 +1,6 @@
 {
   "ident": "speech-04209",
-  "name": "Un verreen, daa verreen, tree berreenyn",
+  "name": "Culture Vannin: Island of Culture series: 209",
   "source": "https://www.youtube.com/watch?v=V-Bs3vFJpLU",
   "platform": "youtube",
   "domain": "education",

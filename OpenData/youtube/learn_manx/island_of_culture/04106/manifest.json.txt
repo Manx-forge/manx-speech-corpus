@@ -1,6 +1,6 @@
 {
   "ident": "speech-04106",
-  "name": "Cre'n laa ren oo gynsaghey Gaelg?",
+  "name": "Culture Vannin: Island of Culture series: 106",
   "source": "https://www.youtube.com/watch?v=ltmxYLMAv_8",
   "platform": "youtube",
   "domain": "education",

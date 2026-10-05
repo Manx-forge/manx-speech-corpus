@@ -1,6 +1,6 @@
 {
   "ident": "speech-0489",
-  "name": "S'mie lhiam yn baatey shoh",
+  "name": "Culture Vannin: Island of Culture series 89",
   "source": "https://www.youtube.com/watch?v=P0lpj5yw454",
   "platform": "youtube",
   "domain": "education",

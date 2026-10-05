@@ -1,6 +1,6 @@
 {
   "ident": "speech-04108",
-  "name": "Cre oddys oo kionnaghey ayns Rhumsaa?",
+  "name": "Culture Vannin: Island of Culture series: 108",
   "source": "https://www.youtube.com/watch?v=YyRazN5cefU",
   "platform": "youtube",
   "domain": "education",

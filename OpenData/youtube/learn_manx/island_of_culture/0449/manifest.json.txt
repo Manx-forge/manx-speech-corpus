@@ -1,6 +1,6 @@
 {
   "ident": "speech-0449",
-  "name": "Nane, jees, tree, kiare, queig, shey, shiaght, hoght, nuy, jeih",
+  "name": "Culture Vannin: Island of Culture series 49",
   "source": "https://www.youtube.com/watch?v=ZbXWxYkYAqs",
   "platform": "youtube",
   "domain": "education",

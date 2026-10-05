@@ -1,6 +1,6 @@
 {
   "ident": "speech-04184",
-  "name": "Ta Hall Caine oanluckit ayns shoh",
+  "name": "Culture Vannin: Island of Culture series 184",
   "source": "https://www.youtube.com/watch?v=Mkxh9Sbs1eU",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-084917",
-  "name": "Hop-tu-naa? Purt le Moirrey 2017",
+  "name": "Hop-tu-naa: Purt le Moirrey 2017",
   "source": "https://www.youtube.com/watch?v=rSNUc030eEM",
   "platform": "youtube",
   "domain": "education",

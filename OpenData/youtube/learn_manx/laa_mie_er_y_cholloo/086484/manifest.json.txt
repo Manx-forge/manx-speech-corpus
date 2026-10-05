@@ -1,6 +1,6 @@
 {
   "ident": "speech-086484",
-  "name": "Laa mie er y Cholloo? Yn Glion",
+  "name": "Laa mie er y Cholloo: Yn Glion",
   "source": "https://www.youtube.com/watch?v=VFCNGDLgrrk",
   "platform": "youtube",
   "domain": "education",

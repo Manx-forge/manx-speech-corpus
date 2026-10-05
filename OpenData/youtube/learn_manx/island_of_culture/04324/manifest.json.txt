@@ -1,6 +1,6 @@
 {
   "ident": "speech-04324",
-  "name": "S'liklee nagh jeanym shooyl er Raad ny Foillan nish",
+  "name": "Culture Vannin: Island of Culture series: 324",
   "source": "https://www.youtube.com/watch?v=dEYmpnXhnHg",
   "platform": "youtube",
   "domain": "education",

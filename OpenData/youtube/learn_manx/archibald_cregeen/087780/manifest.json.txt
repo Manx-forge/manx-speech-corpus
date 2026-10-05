@@ -1,6 +1,6 @@
 {
   "ident": "speech-087780",
-  "name": "Cregeen 03? Mayrnt",
+  "name": "Cregeen 03: Mayrnt",
   "source": "https://www.youtube.com/watch?v=ZEiEXYAI4UM",
   "platform": "youtube",
   "domain": "education",

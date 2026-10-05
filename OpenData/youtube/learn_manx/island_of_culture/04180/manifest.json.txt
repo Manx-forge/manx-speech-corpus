@@ -1,6 +1,6 @@
 {
   "ident": "speech-04180",
-  "name": "Cre nee oo mairagh my vees eh grianagh?",
+  "name": "Culture Vannin: Island of Culture series 180",
   "source": "https://www.youtube.com/watch?v=SzKiiwxjwPU",
   "platform": "youtube",
   "domain": "education",

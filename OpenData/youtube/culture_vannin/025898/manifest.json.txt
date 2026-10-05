@@ -1,6 +1,6 @@
 {
   "ident": "speech-025898",
-  "name": "Dooinney �meydlagh� voish y clieau - Juan y Crellin",
+  "name": "Dooinney “meydlagh” voish y clieau - Juan y Crellin",
   "source": "https://www.youtube.com/watch?v=Zg6EId6WQ4U",
   "platform": "youtube",
   "domain": "interview",

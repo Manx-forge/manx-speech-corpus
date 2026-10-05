@@ -1,6 +1,6 @@
 {
   "ident": "speech-04185",
-  "name": "Vel oo rieau er lhiah lioar Hall Caine?",
+  "name": "Culture Vannin: Island of Culture series 185",
   "source": "https://www.youtube.com/watch?v=q8Imw4WFf-k",
   "platform": "youtube",
   "domain": "education",

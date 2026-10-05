@@ -1,6 +1,6 @@
 {
   "ident": "speech-04208",
-  "name": "Nagh vel ny berreenyn jeeaghyn yindyssagh?",
+  "name": "Culture Vannin: Island of Culture series: 208",
   "source": "https://www.youtube.com/watch?v=H_6sXUc1Un8",
   "platform": "youtube",
   "domain": "education",

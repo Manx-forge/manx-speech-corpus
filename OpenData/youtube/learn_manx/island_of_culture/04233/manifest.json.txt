@@ -1,6 +1,6 @@
 {
   "ident": "speech-04233",
-  "name": "Ta shin goll dy valley nish",
+  "name": "Culture Vannin: Island of Culture series: 233",
   "source": "https://www.youtube.com/watch?v=o-HOqFFtYZc",
   "platform": "youtube",
   "domain": "education",

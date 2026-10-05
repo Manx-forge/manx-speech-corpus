@@ -1,6 +1,6 @@
 {
   "ident": "speech-0491",
-  "name": "Mie lhiat yn baatey shoh?",
+  "name": "Culture Vannin: Island of Culture series 91",
   "source": "https://www.youtube.com/watch?v=VoKNlDmsmO8",
   "platform": "youtube",
   "domain": "education",

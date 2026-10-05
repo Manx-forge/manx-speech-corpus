@@ -1,6 +1,6 @@
 {
   "ident": "speech-04136",
-  "name": "Vel braar ayd? Ta, ta daa vraar aym",
+  "name": "Culture Vannin: Island of Culture series 136",
   "source": "https://www.youtube.com/watch?v=IUl-yU2PfJc",
   "platform": "youtube",
   "domain": "education",

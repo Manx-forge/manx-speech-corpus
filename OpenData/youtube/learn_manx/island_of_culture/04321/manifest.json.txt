@@ -1,6 +1,6 @@
 {
   "ident": "speech-04321",
-  "name": "S'mie lhiam gee berreen ayns Purt ny h-Inshey",
+  "name": "Culture Vannin: Island of Culture series: 321",
   "source": "https://www.youtube.com/watch?v=xgLcsvxFcLE",
   "platform": "youtube",
   "domain": "education",

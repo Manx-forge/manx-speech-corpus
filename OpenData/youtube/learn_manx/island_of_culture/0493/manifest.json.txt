@@ -1,6 +1,6 @@
 {
   "ident": "speech-0493",
-  "name": "S'mie lhiam yn traie ayns Purt ny h-Inshey. Nagh vel eh yindyssagh?",
+  "name": "Culture Vannin: Island of Culture series 93",
   "source": "https://www.youtube.com/watch?v=CpwxAyP4BTk",
   "platform": "youtube",
   "domain": "education",

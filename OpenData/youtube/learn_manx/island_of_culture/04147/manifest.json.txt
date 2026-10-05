@@ -1,6 +1,6 @@
 {
   "ident": "speech-04147",
-  "name": "S'mie lhiam ratchal",
+  "name": "Culture Vannin: Island of Culture series at the races 02",
   "source": "https://www.youtube.com/watch?v=kKYIb8O_dr8",
   "platform": "youtube",
   "domain": "education",

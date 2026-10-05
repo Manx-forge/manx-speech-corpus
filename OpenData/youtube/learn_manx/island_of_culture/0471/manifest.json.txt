@@ -1,6 +1,6 @@
 {
   "ident": "speech-0471",
-  "name": "Shoh shenn thie Harry Kelly",
+  "name": "Culture Vannin: Island of Culture series 71",
   "source": "https://www.youtube.com/watch?v=sqt9KHrrR2M",
   "platform": "youtube",
   "domain": "education",

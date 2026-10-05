@@ -1,6 +1,6 @@
 {
   "ident": "speech-04319",
-  "name": "Row oo ayns Doolish jea?",
+  "name": "Culture Vannin: Island of Culture series: 319",
   "source": "https://www.youtube.com/watch?v=q0cLrDsC18o",
   "platform": "youtube",
   "domain": "education",

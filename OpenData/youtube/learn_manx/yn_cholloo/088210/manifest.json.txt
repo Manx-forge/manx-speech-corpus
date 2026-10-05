@@ -1,6 +1,6 @@
 {
   "ident": "speech-088210",
-  "name": "Yn Cholloo? Gymmydey reesht greieyn whaaley veih lhong-vrisht",
+  "name": "Yn Cholloo: Gymmydey reesht greieyn whaaley veih lhong-vrisht",
   "source": "https://www.youtube.com/watch?v=9x6OH7cUnuY",
   "platform": "youtube",
   "domain": "education",

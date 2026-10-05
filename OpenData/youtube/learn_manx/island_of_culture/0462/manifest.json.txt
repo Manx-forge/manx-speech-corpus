@@ -1,6 +1,6 @@
 {
   "ident": "speech-0462",
-  "name": "S'mie lhiam giu bainney, gee curree as loayrt Gaelg. Cre s'mie lhiat?",
+  "name": "Culture Vannin: Island of Culture series 62",
   "source": "https://www.youtube.com/watch?v=NbUAzQG6m50",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0423",
-  "name": "Ta mee geearree kay riojey nish",
+  "name": "Culture Vannin: Island of Culture series 23",
   "source": "https://www.youtube.com/watch?v=fya7vmRJIYY",
   "platform": "youtube",
   "domain": "education",

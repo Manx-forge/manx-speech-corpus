@@ -1,6 +1,6 @@
 {
   "ident": "speech-04104",
-  "name": "Ren mee goll shappal ayns Doolish Jeheiney",
+  "name": "Culture Vannin: Island of Culture series: 104",
   "source": "https://www.youtube.com/watch?v=1E9urB5dPcY",
   "platform": "youtube",
   "domain": "education",

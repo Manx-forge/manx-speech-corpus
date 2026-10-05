@@ -1,6 +1,6 @@
 {
   "ident": "speech-04250",
-  "name": "Mie lhiat breck ny marrey?",
+  "name": "Culture Vannin: Island of Culture series: 250",
   "source": "https://www.youtube.com/watch?v=XW0yxU3Fx8Y",
   "platform": "youtube",
   "domain": "education",

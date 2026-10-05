@@ -1,6 +1,6 @@
 {
   "ident": "speech-04245",
-  "name": "S'mie lhiam gobbraghey er y cheayn",
+  "name": "Culture Vannin: Island of Culture series: 245",
   "source": "https://www.youtube.com/watch?v=4wiKikgi2Xk",
   "platform": "youtube",
   "domain": "education",

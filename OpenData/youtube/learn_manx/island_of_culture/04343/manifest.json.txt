@@ -1,6 +1,6 @@
 {
   "ident": "speech-04343",
-  "name": "Cha nel mee rieau er nakin yn Moddey Doo as cha nel mee geearree",
+  "name": "Culture Vannin: Island of Culture series: 343",
   "source": "https://www.youtube.com/watch?v=1lf8Z69o-GA",
   "platform": "youtube",
   "domain": "education",

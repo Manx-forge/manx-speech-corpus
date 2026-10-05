@@ -1,6 +1,6 @@
 {
   "ident": "speech-04201",
-  "name": "Ta Kiaull Manninagh yindyssagh",
+  "name": "Culture Vannin: Island of Culture series: 201",
   "source": "https://www.youtube.com/watch?v=pHMqzajbRks",
   "platform": "youtube",
   "domain": "education",

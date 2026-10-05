@@ -1,6 +1,6 @@
 {
   "ident": "speech-0475",
-  "name": "Cre smie lhiat jannoo er y jerrey-shiaghtin? S'mie lhiam cadley",
+  "name": "Culture Vannin: Island of Culture series 75",
   "source": "https://www.youtube.com/watch?v=K5gVt3KzkqY",
   "platform": "youtube",
   "domain": "education",

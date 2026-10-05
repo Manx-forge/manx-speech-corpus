@@ -1,6 +1,6 @@
 {
   "ident": "speech-04191",
-  "name": "Ta mee cummal ayns Croit e Caley",
+  "name": "Culture Vannin: Island of Culture series 191",
   "source": "https://www.youtube.com/watch?v=eqbN-mDd9Yg",
   "platform": "youtube",
   "domain": "education",

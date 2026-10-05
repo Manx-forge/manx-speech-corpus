@@ -1,6 +1,6 @@
 {
   "ident": "speech-04344",
-  "name": "Ta shin ayns keeill ayns Balley Keeill Eoin",
+  "name": "Culture Vannin: Island of Culture series: 344",
   "source": "https://www.youtube.com/watch?v=P09ubU5s0ik",
   "platform": "youtube",
   "domain": "education",

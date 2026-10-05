@@ -1,6 +1,6 @@
 {
   "ident": "speech-089646",
-  "name": "Gaelg son paarantyn? Anjeeal",
+  "name": "Gaelg son paarantyn: Anjeeal",
   "source": "https://www.youtube.com/watch?v=TYA1KmWL3FM",
   "platform": "youtube",
   "domain": "education",

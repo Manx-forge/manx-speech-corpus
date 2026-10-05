@@ -1,6 +1,6 @@
 {
   "ident": "speech-04338",
-  "name": "She Gaelgeyr mish",
+  "name": "Culture Vannin: Island of Culture series: 338",
   "source": "https://www.youtube.com/watch?v=STyKXx622Nw",
   "platform": "youtube",
   "domain": "education",

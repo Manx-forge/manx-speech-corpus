@@ -1,6 +1,6 @@
 {
   "ident": "speech-0494",
-  "name": "S'mie lhiam gee kay-riojey shocklaid er y traie ayns Purt ny h-Inshey",
+  "name": "Culture Vannin: Island of Culture series 94",
   "source": "https://www.youtube.com/watch?v=cJLlVvOqGPw",
   "platform": "youtube",
   "domain": "education",

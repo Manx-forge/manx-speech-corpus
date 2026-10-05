@@ -1,6 +1,6 @@
 {
   "ident": "speech-04202",
-  "name": "T'eh grianagh as cheh jiu",
+  "name": "Culture Vannin: Island of Culture series: 202",
   "source": "https://www.youtube.com/watch?v=9JoFoPdRNy4",
   "platform": "youtube",
   "domain": "education",

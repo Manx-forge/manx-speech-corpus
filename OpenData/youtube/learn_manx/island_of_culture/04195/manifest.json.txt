@@ -1,6 +1,6 @@
 {
   "ident": "speech-04195",
-  "name": "S'mie lhiam goaill arrane ayns Gaelg",
+  "name": "Culture Vannin: Island of Culture series 195",
   "source": "https://www.youtube.com/watch?v=nW2i6jQNkUI",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04328",
-  "name": "Ta mee goll dys Rhumsaa nish agh s'liklee dy jeanym gimman",
+  "name": "Culture Vannin: Island of Culture series: 328",
   "source": "https://www.youtube.com/watch?v=oQylSj3koTk",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0461",
-  "name": "S'mie lhiam giÃ¹ bainney as gee curree",
+  "name": "Culture Vannin: Island of Culture series 61",
   "source": "https://www.youtube.com/watch?v=gbSlaIRP1KM",
   "platform": "youtube",
   "domain": "education",

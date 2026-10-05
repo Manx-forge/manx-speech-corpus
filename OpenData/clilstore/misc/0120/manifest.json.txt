@@ -1,6 +1,6 @@
 {
   "ident": "speech-0120",
-  "name": "Text Reading",
+  "name": "Illiam as Ysbal",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9396{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

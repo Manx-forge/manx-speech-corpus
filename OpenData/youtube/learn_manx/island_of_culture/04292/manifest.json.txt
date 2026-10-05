@@ -1,6 +1,6 @@
 {
   "ident": "speech-04292",
-  "name": "Va shen aitt dy liooar ren y chied vuggane giggleragh",
+  "name": "Culture Vannin: Island of Culture series: 292",
   "source": "https://www.youtube.com/watch?v=CFsYhFbbOaM",
   "platform": "youtube",
   "domain": "education",

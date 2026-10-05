@@ -1,6 +1,6 @@
 {
   "ident": "speech-021710",
-  "name": "In conversation with Davy Quillin? Education",
+  "name": "In conversation with Davy Quillin: Education",
   "source": "https://www.youtube.com/watch?v=PLVDdVpmZ44",
   "platform": "youtube",
   "domain": "interview",

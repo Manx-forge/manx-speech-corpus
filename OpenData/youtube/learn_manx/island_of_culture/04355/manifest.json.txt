@@ -1,6 +1,6 @@
 {
   "ident": "speech-04355",
-  "name": "Jishag y Nollick aboo!",
+  "name": "Culture Vannin: Island of Culture series: 355",
   "source": "https://www.youtube.com/watch?v=Swc9dDbOLns",
   "platform": "youtube",
   "domain": "education",

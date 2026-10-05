@@ -1,6 +1,6 @@
 {
   "ident": "speech-04214",
-  "name": "Bee oo ayns Rhumsaa mairagh? S'treisht lhiam nagh beeym",
+  "name": "Culture Vannin: Island of Culture series 214",
   "source": "https://www.youtube.com/watch?v=Q7P8SohTzGU",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-022192",
-  "name": "Shenn Stashoon ny Meoiryn Shee",
+  "name": "Shenn Stashoon ny Meoiryn Shee, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=JJW_RpBtkQM",
   "platform": "youtube",
   "domain": "interview",

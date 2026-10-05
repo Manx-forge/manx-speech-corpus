@@ -1,6 +1,6 @@
 {
   "ident": "speech-04322",
-  "name": "S'mie lhiam loayrt Gaelg as gee berreen ayns Purt ny h-Inshey",
+  "name": "Culture Vannin: Island of Culture series: 322",
   "source": "https://www.youtube.com/watch?v=8D8BO5UcAy8",
   "platform": "youtube",
   "domain": "education",

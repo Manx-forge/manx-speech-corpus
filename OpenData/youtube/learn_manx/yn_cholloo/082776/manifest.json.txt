@@ -1,6 +1,6 @@
 {
   "ident": "speech-082776",
-  "name": "Yn Cholloo? ?Loshtit dy bollagh!?",
+  "name": "Yn Cholloo: \"Loshtit dy bollagh!\"",
   "source": "https://www.youtube.com/watch?v=nJ81up7MsLw",
   "platform": "youtube",
   "domain": "education",

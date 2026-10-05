@@ -1,6 +1,6 @@
 {
   "ident": "speech-04259",
-  "name": "T'eh jeeaghyn yindyssagh ayns Purt ny h-Inshey jiu",
+  "name": "Culture Vannin: Island of Culture series: 259",
   "source": "https://www.youtube.com/watch?v=_RPPEq8BKTs",
   "platform": "youtube",
   "domain": "education",

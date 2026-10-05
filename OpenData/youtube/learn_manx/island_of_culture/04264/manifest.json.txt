@@ -1,6 +1,6 @@
 {
   "ident": "speech-04264",
-  "name": "Shoh skeeal mychione daa vuggane",
+  "name": "Culture Vannin: Island of Culture series: 264",
   "source": "https://www.youtube.com/watch?v=xCeVZexksUE",
   "platform": "youtube",
   "domain": "education",

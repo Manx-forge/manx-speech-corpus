@@ -1,6 +1,6 @@
 {
   "ident": "speech-04286",
-  "name": "As son y chied cheayrt",
+  "name": "Culture Vannin: Island of Culture series: 286",
   "source": "https://www.youtube.com/watch?v=5ETJ43mFF7U",
   "platform": "youtube",
   "domain": "education",

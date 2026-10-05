@@ -1,6 +1,6 @@
 {
   "ident": "speech-0432",
-  "name": "Ta mee shappal ayns Purt Chiarn jiu as t'eh beggan tarroogh",
+  "name": "Culture Vannin: Island of Culture series 32",
   "source": "https://www.youtube.com/watch?v=BQ4aCKKjs9I",
   "platform": "youtube",
   "domain": "education",

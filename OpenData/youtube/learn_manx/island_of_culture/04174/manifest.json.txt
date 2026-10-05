@@ -1,6 +1,6 @@
 {
   "ident": "speech-04174",
-  "name": "Vaik oo Cesar jea? Honnick",
+  "name": "Culture Vannin: Island of Culture series 174",
   "source": "https://www.youtube.com/watch?v=O9Pz-44SLUk",
   "platform": "youtube",
   "domain": "education",

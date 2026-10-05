@@ -1,6 +1,6 @@
 {
   "ident": "speech-081618",
-  "name": "Cooishyn Gailckagh 9 - Pronunciation of Manx words - Part 3?3",
+  "name": "Cooishyn Gailckagh 9 - Pronunciation of Manx words - Part 3/3",
   "source": "https://www.youtube.com/watch?v=KfoDc3WKHMU",
   "platform": "youtube",
   "domain": "education",

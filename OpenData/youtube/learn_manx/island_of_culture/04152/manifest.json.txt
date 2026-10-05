@@ -1,6 +1,6 @@
 {
   "ident": "speech-04152",
-  "name": "Shoh my roar-bree",
+  "name": "Culture Vannin: Island of Culture series at the races 07",
   "source": "https://www.youtube.com/watch?v=UvgrOWq7rgg",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04242",
-  "name": "Ta mee ayns Doolish jiu agh va mee ayns Purt le Moirrey jea as beeym ayns Colby mairagh",
+  "name": "Culture Vannin: Island of Culture series: 242",
   "source": "https://www.youtube.com/watch?v=9fwcRAcPhMo",
   "platform": "youtube",
   "domain": "education",

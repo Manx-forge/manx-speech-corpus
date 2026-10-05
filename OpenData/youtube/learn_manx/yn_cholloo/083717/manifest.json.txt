@@ -1,6 +1,6 @@
 {
   "ident": "speech-083717",
-  "name": "Yn Cholloo? Pump-ushtey Carey",
+  "name": "Yn Cholloo: Pump-ushtey Carey",
   "source": "https://www.youtube.com/watch?v=fdC65_bIZb4",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04190",
-  "name": "Mish Juan, shoh my inneen, Charlotte...ta mee braew",
+  "name": "Culture Vannin: Island of Culture series: 190",
   "source": "https://www.youtube.com/watch?v=MjIYlFwPbBw",
   "platform": "youtube",
   "domain": "education",

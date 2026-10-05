@@ -1,6 +1,6 @@
 {
   "ident": "speech-0412",
-  "name": "Ta mee shappal ayns Doolish. Craad t'ou shappal?",
+  "name": "Culture Vannin: Island of Culture series 12",
   "source": "https://www.youtube.com/watch?v=zVHiba99PbE",
   "platform": "youtube",
   "domain": "education",

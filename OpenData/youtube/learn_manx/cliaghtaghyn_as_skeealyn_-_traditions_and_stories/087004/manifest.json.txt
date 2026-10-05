@@ -1,6 +1,6 @@
 {
   "ident": "speech-087004",
-  "name": "Yn thammag son shelg yn drean",
+  "name": "Yn Thammag son Shelg yn Drean",
   "source": "https://www.youtube.com/watch?v=KQ6Us0pfWpM",
   "platform": "youtube",
   "domain": "education",

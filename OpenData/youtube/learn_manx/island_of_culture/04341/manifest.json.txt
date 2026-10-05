@@ -1,6 +1,6 @@
 {
   "ident": "speech-04341",
-  "name": "Vel oo rieau er nakin Buggane?",
+  "name": "Culture Vannin: Island of Culture series: 341",
   "source": "https://www.youtube.com/watch?v=sYgBVMU8k6I",
   "platform": "youtube",
   "domain": "education",

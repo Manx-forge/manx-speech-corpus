@@ -1,6 +1,6 @@
 {
   "ident": "speech-085771",
-  "name": "Yn Cholloo? Aiee eayil ec Purt Jiass",
+  "name": "Yn Cholloo: Aiee eayil ec Purt Jiass",
   "source": "https://www.youtube.com/watch?v=vi8Ip2Rj3wc",
   "platform": "youtube",
   "domain": "education",

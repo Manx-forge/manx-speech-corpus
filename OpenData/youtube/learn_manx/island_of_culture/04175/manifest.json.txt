@@ -1,6 +1,6 @@
 {
   "ident": "speech-04175",
-  "name": "Vaik oo Cesar Jesarn? Cha vaik",
+  "name": "Culture Vannin: Island of Culture series 175",
   "source": "https://www.youtube.com/watch?v=uGzKnr5S8a8",
   "platform": "youtube",
   "domain": "education",

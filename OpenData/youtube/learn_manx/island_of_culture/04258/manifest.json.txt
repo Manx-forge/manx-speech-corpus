@@ -1,6 +1,6 @@
 {
   "ident": "speech-04258",
-  "name": "Ta mee feayr jiu agh ta mee maynrey",
+  "name": "Culture Vannin: Island of Culture series: 258",
   "source": "https://www.youtube.com/watch?v=Vd_3nteCE6I",
   "platform": "youtube",
   "domain": "education",

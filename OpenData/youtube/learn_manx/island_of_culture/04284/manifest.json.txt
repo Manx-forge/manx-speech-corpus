@@ -1,6 +1,6 @@
 {
   "ident": "speech-04284",
-  "name": "As t'ou dty phie custart boght as breinn as moal as fud-y-cheilley jeh sluight ny baa bwee",
+  "name": "Culture Vannin: Island of Culture series: 284",
   "source": "https://www.youtube.com/watch?v=85Iptp_L2O0",
   "platform": "youtube",
   "domain": "education",

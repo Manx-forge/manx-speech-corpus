@@ -1,6 +1,6 @@
 {
   "ident": "speech-04166",
-  "name": "Ta'n traen goll dys Doolish agh ta mish goll dys yn thie-lhionney",
+  "name": "Culture Vannin: Island of Culture series 166",
   "source": "https://www.youtube.com/watch?v=rA-5dq09qes",
   "platform": "youtube",
   "domain": "education",

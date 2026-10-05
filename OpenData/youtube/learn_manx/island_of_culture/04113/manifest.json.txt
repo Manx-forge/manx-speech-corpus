@@ -1,6 +1,6 @@
 {
   "ident": "speech-04113",
-  "name": "Foddym snaue agh cha noddym snaue gollrish eeast",
+  "name": "Culture Vannin: Island of Culture series: 113",
   "source": "https://www.youtube.com/watch?v=6S2fzIlAAMo",
   "platform": "youtube",
   "domain": "education",

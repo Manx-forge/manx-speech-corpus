@@ -1,6 +1,6 @@
 {
   "ident": "speech-04249",
-  "name": "V'eh beggan rastagh er y cheayn jiu",
+  "name": "Culture Vannin: Island of Culture series: 249",
   "source": "https://www.youtube.com/watch?v=HMGtys2r_kE",
   "platform": "youtube",
   "domain": "education",

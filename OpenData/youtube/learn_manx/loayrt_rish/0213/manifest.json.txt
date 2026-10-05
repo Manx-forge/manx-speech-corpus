@@ -1,6 +1,6 @@
 {
   "ident": "speech-0213",
-  "name": "Conversational Interview",
+  "name": "Juan Crellin: Leslie Quirk",
   "source": "https://youtube.com/watch?v=-lSl7VZ7mT4",
   "platform": "youtube",
   "domain": "interview",

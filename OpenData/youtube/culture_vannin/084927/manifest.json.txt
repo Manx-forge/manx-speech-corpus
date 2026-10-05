@@ -1,6 +1,6 @@
 {
   "ident": "speech-084927",
-  "name": "Learning Manx? part two. The present tense",
+  "name": "Learning Manx: part two. The present tense",
   "source": "https://www.youtube.com/watch?v=AkMLW4RzoCg",
   "platform": "youtube",
   "domain": "education",

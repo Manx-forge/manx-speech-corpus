@@ -1,6 +1,6 @@
 {
   "ident": "speech-0117",
-  "name": "Text Reading",
+  "name": "LLG-2-30 Fin McCool as yn Foawr",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9386{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

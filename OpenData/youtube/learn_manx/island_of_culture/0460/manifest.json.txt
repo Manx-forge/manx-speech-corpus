@@ -1,6 +1,6 @@
 {
   "ident": "speech-0460",
-  "name": "Vel uss geearree cummal er y Cholloo?",
+  "name": "Culture Vannin: Island of Culture series 60",
   "source": "https://www.youtube.com/watch?v=oUIVFV32gWs",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0419",
-  "name": "Ta mee maynrey cummal ayns Purt ny h-Inshey as ta mee feer vaynrey cummal ayns Mannin",
+  "name": "Culture Vannin: Island of Culture series 19",
   "source": "https://www.youtube.com/watch?v=ZB-isyFFaK0",
   "platform": "youtube",
   "domain": "education",

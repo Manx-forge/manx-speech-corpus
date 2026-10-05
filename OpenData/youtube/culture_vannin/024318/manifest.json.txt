@@ -1,6 +1,6 @@
 {
   "ident": "speech-024318",
-  "name": "Carvalyn Gaelgagh? Coloayrtys marish Dr Marie Clague",
+  "name": "Carvalyn Gaelgagh: Coloayrtys marish Dr Marie Clague",
   "source": "https://www.youtube.com/watch?v=H-XxCeBYvIc",
   "platform": "youtube",
   "domain": "interview",

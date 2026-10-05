@@ -1,6 +1,6 @@
 {
   "ident": "speech-04337",
-  "name": "Cha nee skeet mish",
+  "name": "Culture Vannin: Island of Culture series: 337",
   "source": "https://www.youtube.com/watch?v=6Y0fLtyrjrY",
   "platform": "youtube",
   "domain": "education",

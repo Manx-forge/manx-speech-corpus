@@ -1,6 +1,6 @@
 {
   "ident": "speech-0457",
-  "name": "Cha nel Manannan cummal er Barrool Twoaie, t'eh cummal er Barrool Jiass",
+  "name": "Culture Vannin: Island of Culture series 57",
   "source": "https://www.youtube.com/watch?v=tp93ohURVVE",
   "platform": "youtube",
   "domain": "education",

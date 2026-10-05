@@ -1,6 +1,6 @@
 {
   "ident": "speech-0476",
-  "name": "Vel Purt le Moirrey ny share na Purt ny h-Inshey? Cha nel",
+  "name": "Culture Vannin: Island of Culture series 76",
   "source": "https://www.youtube.com/watch?v=3qNgdRbLS4A",
   "platform": "youtube",
   "domain": "education",

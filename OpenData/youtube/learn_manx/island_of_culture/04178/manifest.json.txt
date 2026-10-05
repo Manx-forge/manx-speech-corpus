@@ -1,6 +1,6 @@
 {
   "ident": "speech-04178",
-  "name": "Vaik oo yn Moddey Doo ayns Purt le Moirrey jea?",
+  "name": "Culture Vannin: Island of Culture series 178",
   "source": "https://www.youtube.com/watch?v=XvUAC_F6wF0",
   "platform": "youtube",
   "domain": "education",

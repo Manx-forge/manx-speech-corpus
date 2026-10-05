@@ -1,6 +1,6 @@
 {
   "ident": "speech-086289",
-  "name": "Laa Mie er y Cholloo? Ushagyn",
+  "name": "Laa Mie er y Cholloo: Ushagyn",
   "source": "https://www.youtube.com/watch?v=hE_8L7AqOG0",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0426",
-  "name": "Ta mee goll dys Rhumsaa nish agh cha nel mee goll er y traen",
+  "name": "Culture Vannin: Island of Culture series 26",
   "source": "https://www.youtube.com/watch?v=0JrLPp8c9Xw",
   "platform": "youtube",
   "domain": "education",

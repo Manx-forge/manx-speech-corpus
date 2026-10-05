@@ -1,6 +1,6 @@
 {
   "ident": "speech-0434",
-  "name": "Shoh baatyn eeastee",
+  "name": "Culture Vannin: Island of Culture series 34",
   "source": "https://www.youtube.com/watch?v=FM5bX6klsT4",
   "platform": "youtube",
   "domain": "education",

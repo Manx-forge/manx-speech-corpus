@@ -1,6 +1,6 @@
 {
   "ident": "speech-04349",
-  "name": "Vel oo goll dys yn cheeill mleeaney?",
+  "name": "Culture Vannin: Island of Culture series: 349",
   "source": "https://www.youtube.com/watch?v=VEmQBVH3ag8",
   "platform": "youtube",
   "domain": "education",

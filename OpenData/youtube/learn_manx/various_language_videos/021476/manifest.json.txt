@@ -1,6 +1,6 @@
 {
   "ident": "speech-021476",
-  "name": "What did you do at Christmas_",
+  "name": "What did you do at Christmas?",
   "source": "https://www.youtube.com/watch?v=vbuU9lF0Wn4",
   "platform": "youtube",
   "domain": "interview",

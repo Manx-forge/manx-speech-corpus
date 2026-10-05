@@ -1,6 +1,6 @@
 {
   "ident": "speech-027374",
-  "name": "Manx Gaelic Today",
+  "name": "Manx Gaelic today",
   "source": "https://www.youtube.com/watch?v=Ho_h5Odi0Rs",
   "platform": "youtube",
   "domain": "interview",

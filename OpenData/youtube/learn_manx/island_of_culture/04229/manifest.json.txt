@@ -1,6 +1,6 @@
 {
   "ident": "speech-04229",
-  "name": "Jeeagh er ny blaaghyn shoh",
+  "name": "Culture Vannin: Island of Culture series: 229",
   "source": "https://www.youtube.com/watch?v=c_WTFwTsZJg",
   "platform": "youtube",
   "domain": "education",

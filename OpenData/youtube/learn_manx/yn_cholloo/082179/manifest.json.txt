@@ -1,6 +1,6 @@
 {
   "ident": "speech-082179",
-  "name": "Yn Cholloo? Lhong-vrisht er y Thousla",
+  "name": "Yn Cholloo: Lhong-vrisht er y Thousla",
   "source": "https://www.youtube.com/watch?v=CCL7NsZwLbU",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04276",
-  "name": "Cha nel uss agh shenn ooyl ommidagh ta lane dy gheay",
+  "name": "Culture Vannin: Island of Culture series: 276",
   "source": "https://www.youtube.com/watch?v=gy6LORxZl4Y",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04253",
-  "name": "Cha nel mee ayns Colby nish ta mee ayns Purt ny h-Inshey",
+  "name": "Culture Vannin: Island of Culture series: 253",
   "source": "https://www.youtube.com/watch?v=DToW2AU9niw",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04181",
-  "name": "Cre nee oo ec yn jerrey shiaghtin my vees eh grianagh?",
+  "name": "Culture Vannin: Island of Culture series 181",
   "source": "https://www.youtube.com/watch?v=q7FkCxUFd38",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0498",
-  "name": "Ren mee goll dys Doolish Jesarn",
+  "name": "Culture Vannin: Island of Culture series 98",
   "source": "https://www.youtube.com/watch?v=qv02du8WOAk",
   "platform": "youtube",
   "domain": "education",

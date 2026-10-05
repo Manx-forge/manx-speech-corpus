@@ -1,6 +1,6 @@
 {
   "ident": "speech-04314",
-  "name": "Vel oo geearree jough?",
+  "name": "Culture Vannin: Island of Culture series: 314",
   "source": "https://www.youtube.com/watch?v=VbEwWalfoNw",
   "platform": "youtube",
   "domain": "education",

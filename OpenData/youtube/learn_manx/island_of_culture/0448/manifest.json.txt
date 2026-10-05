@@ -1,6 +1,6 @@
 {
   "ident": "speech-0448",
-  "name": "Vel oo geearree Marmite? Cha nel nish, gura mie ayd 150",
+  "name": "Culture Vannin: Island of Culture series 48",
   "source": "https://www.youtube.com/watch?v=Ydtu1HO_zwY",
   "platform": "youtube",
   "domain": "education",

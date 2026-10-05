@@ -1,6 +1,6 @@
 {
   "ident": "speech-04273",
-  "name": "Lhiggey boght vock bouyran roauyr myr t'ou, deam y chied vuggane",
+  "name": "Culture Vannin: Island of Culture series: 273",
   "source": "https://www.youtube.com/watch?v=bBHXvZLQt-A",
   "platform": "youtube",
   "domain": "education",

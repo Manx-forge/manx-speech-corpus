@@ -1,6 +1,6 @@
 {
   "ident": "speech-04254",
-  "name": "Ta mee ayns Purt ny h-inshey jiu as t'eh beggan feayr",
+  "name": "Culture Vannin: Island of Culture series : 254",
   "source": "https://www.youtube.com/watch?v=p1DgLWgfQqU",
   "platform": "youtube",
   "domain": "education",

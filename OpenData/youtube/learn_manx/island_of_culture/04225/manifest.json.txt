@@ -1,6 +1,6 @@
 {
   "ident": "speech-04225",
-  "name": "Cur yn bluckan er yn chione",
+  "name": "Culture Vannin: Island of Culture series: 225",
   "source": "https://www.youtube.com/watch?v=d5ipymtNnwI",
   "platform": "youtube",
   "domain": "education",

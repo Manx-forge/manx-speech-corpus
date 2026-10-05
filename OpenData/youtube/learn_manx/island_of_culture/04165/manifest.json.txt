@@ -1,6 +1,6 @@
 {
   "ident": "speech-04165",
-  "name": "Ta'n traen  gimmeeaght dys Doolish nish",
+  "name": "Culture Vannin: Island of Culture series 165",
   "source": "https://www.youtube.com/watch?v=1JR6DkKQgN4",
   "platform": "youtube",
   "domain": "education",

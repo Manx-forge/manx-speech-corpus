@@ -1,6 +1,6 @@
 {
   "ident": "speech-0104829",
-  "name": "Shirveish y Nollick? The full Manx language church service, 2022",
+  "name": "Shirveish y Nollick: The full Manx language church service, 2022",
   "source": "https://www.youtube.com/watch?v=zNdWzz025Rk",
   "platform": "youtube",
   "domain": "religion",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-021553",
-  "name": "Yn Arrymagh Philip Moore as �hyndaays y Vible Ghaelgagh",
+  "name": "Yn Arrymagh Philip Moore as Çhyndaays y Vible Ghaelgagh",
   "source": "https://www.youtube.com/watch?v=q7OVnySxJIw",
   "platform": "youtube",
   "domain": "interview",

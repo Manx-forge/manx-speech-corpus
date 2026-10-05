@@ -1,6 +1,6 @@
 {
   "ident": "speech-04187",
-  "name": "Quoi ren ny croshyn shoh?",
+  "name": "Culture Vannin: Island of Culture series 187",
   "source": "https://www.youtube.com/watch?v=TZb7zi0nVKE",
   "platform": "youtube",
   "domain": "education",

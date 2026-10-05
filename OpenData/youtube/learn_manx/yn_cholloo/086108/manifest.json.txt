@@ -1,6 +1,6 @@
 {
   "ident": "speech-086108",
-  "name": "Yn Cholloo? Yn 'Clan MacMaster'",
+  "name": "Yn Cholloo: Yn 'Clan MacMaster'",
   "source": "https://www.youtube.com/watch?v=ETLS8cx5k34",
   "platform": "youtube",
   "domain": "education",

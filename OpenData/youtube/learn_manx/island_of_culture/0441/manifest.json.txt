@@ -1,6 +1,6 @@
 {
   "ident": "speech-0441",
-  "name": "Ta mee ec shapp y vaatey-saualtys ayns Rhumsaa",
+  "name": "Culture Vannin: Island of Culture series 41",
   "source": "https://www.youtube.com/watch?v=V2O47_YaJ-I",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04299",
-  "name": "Cre shegin dhyt jannoo jiu? Shegin dou goll shappal",
+  "name": "Culture Vannin: Island of Culture series: 299",
   "source": "https://www.youtube.com/watch?v=M9XJUmE6EcI",
   "platform": "youtube",
   "domain": "education",

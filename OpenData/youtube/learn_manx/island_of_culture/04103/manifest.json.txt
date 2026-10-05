@@ -1,6 +1,6 @@
 {
   "ident": "speech-04103",
-  "name": "Ren mee goll thie-caffee ayns Doolish Jerdein",
+  "name": "Culture Vannin: Island of Culture series: 103",
   "source": "https://www.youtube.com/watch?v=K5vyOAXOWtE",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0159",
-  "name": "Text Reading",
+  "name": "LLG-2-09 Toshiagh-jioarey as y Caashey",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=8661{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

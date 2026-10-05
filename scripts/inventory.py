@@ -2,13 +2,22 @@
 
 Writes registers/recordings.tsv (the master inventory) and registers/link_register.tsv
 (recordings whose link is missing or not a deep-linkable page). Read-only on all sources.
+
+  python scripts/inventory.py          the registers
+  python scripts/inventory.py titles   fetch the media's own titles into registers/titles.tsv (network; only new ones),
+                                       where the master's are generic ("Conversational Interview"): YouTube videos by
+                                       oEmbed, Clilstore units by their page. The registers prefer them.
 """
 import csv
 import json
 import os
 import re
+import sys
+import urllib.parse
+import urllib.request
 import wave
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 MR = Path("/store/store3/data/Manx_Resources")
@@ -90,6 +99,37 @@ def corpus_works():
     return out
 
 
+def fetch_titles():
+    path = OUT / "titles.tsv"
+    have = {r["id"]: r for r in csv.DictReader(open(path, encoding="utf-8"), delimiter="\t")} if path.exists() else {}
+    wrong = {r["id"] for r in csv.DictReader(open(OUT / "link_register.tsv", encoding="utf-8"), delimiter="\t")
+             if r["status"] == "open"}  # a wrong or dead link would name the wrong thing
+    rows = [r for r in csv.DictReader(open(OUT / "recordings.tsv", encoding="utf-8"), delimiter="\t")
+            if r["id"] not in have and r["id"] not in wrong and (r["video_id"] or r["source"] == "clilstore")]
+
+    def title(r):
+        try:
+            if r["video_id"]:
+                url = "https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(
+                    f"https://www.youtube.com/watch?v={r['video_id']}")
+                with urllib.request.urlopen(url, timeout=30) as f:
+                    return json.load(f)["title"]
+            unit = re.search(r"page\.php\?id=(\d+)", r["url"])
+            with urllib.request.urlopen(f"https://clilstore.eu/clilstore/page.php?id={unit.group(1)}", timeout=30) as f:
+                return re.search(r"<title>CLILstore unit \d+: ([^<]+)", f.read().decode("utf-8", "replace")).group(1).strip()
+        except Exception:
+            return None
+
+    with ThreadPoolExecutor(8) as ex:
+        found = dict(zip((r["id"] for r in rows), ex.map(title, rows)))
+    have.update({rid: dict(id=rid, title=t) for rid, t in found.items() if t})
+    with open(path, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, ["id", "title"], delimiter="\t", lineterminator="\n", extrasaction="ignore")
+        w.writeheader()
+        w.writerows(sorted(have.values(), key=lambda r: r["id"]))
+    print(f"titles: {sum(1 for t in found.values() if t)} of {len(rows)} fetched, {len(have)} in {path}")
+
+
 def main():
     files, disk_dups = speech_files()
     works = corpus_works()
@@ -169,6 +209,10 @@ def main():
         if r["id"] in disk_dups and not r.get("dup_of"):
             r["dup_of"] = "disk:" + ";".join(disk_dups[r["id"]])
 
+    titles = OUT / "titles.tsv"  # the media's own titles (fetch_titles) over the master's descriptions
+    own = {t["id"]: t["title"] for t in csv.DictReader(open(titles, encoding="utf-8"), delimiter="\t")} if titles.exists() else {}
+    for r in rows:
+        r["title"] = own.get(r["id"]) or r.get("title", "")
     OUT.mkdir(exist_ok=True)
     with open(OUT / "recordings.tsv", "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, COLS, delimiter="\t", restval="", lineterminator="\n")
@@ -191,4 +235,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    fetch_titles() if sys.argv[1:] == ["titles"] else main()

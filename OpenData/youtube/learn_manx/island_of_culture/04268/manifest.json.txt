@@ -1,6 +1,6 @@
 {
   "ident": "speech-04268",
-  "name": "She ommidan uss! Deam yn nah vuggane erash",
+  "name": "Culture Vannin: Island of Culture series: 268",
   "source": "https://www.youtube.com/watch?v=etxtUvy6sqM",
   "platform": "youtube",
   "domain": "education",

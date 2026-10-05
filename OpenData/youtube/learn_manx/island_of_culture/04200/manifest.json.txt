@@ -1,6 +1,6 @@
 {
   "ident": "speech-04200",
-  "name": "Ta mish ayns Balley Keeill Eoin cloie kiaull",
+  "name": "Culture Vannin: Island of Culture series: 200",
   "source": "https://www.youtube.com/watch?v=-KydpiBBaEI",
   "platform": "youtube",
   "domain": "education",

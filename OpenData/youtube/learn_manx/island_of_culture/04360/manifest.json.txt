@@ -1,6 +1,6 @@
 {
   "ident": "speech-04360",
-  "name": "S'mie lhiam goll Shelg y Drean",
+  "name": "Culture Vannin: Island of Culture series: 360",
   "source": "https://www.youtube.com/watch?v=xvdGRLeiZcs",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04109",
-  "name": "Nod oo fakin yn droghad?",
+  "name": "Culture Vannin: Island of Culture series: 109",
   "source": "https://www.youtube.com/watch?v=AhoMidxeNhA",
   "platform": "youtube",
   "domain": "education",

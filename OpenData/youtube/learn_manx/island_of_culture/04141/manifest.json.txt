@@ -1,6 +1,6 @@
 {
   "ident": "speech-04141",
-  "name": "Shoh muc ayns muclagh",
+  "name": "Culture Vannin: Island of Culture series 141",
   "source": "https://www.youtube.com/watch?v=g0_loVtdU5Y",
   "platform": "youtube",
   "domain": "education",

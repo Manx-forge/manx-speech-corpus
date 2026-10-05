@@ -1,6 +1,6 @@
 {
   "ident": "speech-04207",
-  "name": "Vel oo geearree berreen?",
+  "name": "Culture Vannin: Island of Culture series 207",
   "source": "https://www.youtube.com/watch?v=y_CLP-3J0Yo",
   "platform": "youtube",
   "domain": "education",

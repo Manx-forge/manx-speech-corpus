@@ -1,6 +1,6 @@
 {
   "ident": "speech-04256",
-  "name": "T'eh feayr agh cha nel eh rastagh",
+  "name": "Culture Vannin: Island of Culture series: 256",
   "source": "https://www.youtube.com/watch?v=cgBMn7tV3Hw",
   "platform": "youtube",
   "domain": "education",

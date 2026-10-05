@@ -1,6 +1,6 @@
 {
   "ident": "speech-096271",
-  "name": "Spot�h liorish Finn? Hannah",
+  "name": "Spotçh liorish Finn: Hannah",
   "source": "https://www.youtube.com/watch?v=wqmLaFKsOGQ",
   "platform": "youtube",
   "domain": "podcast",

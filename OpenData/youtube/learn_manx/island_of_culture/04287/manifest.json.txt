@@ -1,6 +1,6 @@
 {
   "ident": "speech-04287",
-  "name": "Haghyr shoh kiart myr va'n ghrian goll dy lhie reesht",
+  "name": "Culture Vannin: Island of Culture series: 287",
   "source": "https://www.youtube.com/watch?v=oDt26QY-TME",
   "platform": "youtube",
   "domain": "education",

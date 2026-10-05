@@ -1,6 +1,6 @@
 {
   "ident": "speech-04188",
-  "name": "Vel oo rieau er ve ayns Skylley Maghal?",
+  "name": "Culture Vannin: Island of Culture series 188",
   "source": "https://www.youtube.com/watch?v=GkFUI9YHvA8",
   "platform": "youtube",
   "domain": "education",

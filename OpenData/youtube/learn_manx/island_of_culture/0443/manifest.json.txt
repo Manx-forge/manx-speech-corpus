@@ -1,6 +1,6 @@
 {
   "ident": "speech-0443",
-  "name": "Mie lhiat Marmite? Cha mie",
+  "name": "Culture Vannin: Island of Culture series 43",
   "source": "https://www.youtube.com/watch?v=Ctu4OSIrJGI",
   "platform": "youtube",
   "domain": "education",

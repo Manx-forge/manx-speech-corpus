@@ -1,6 +1,6 @@
 {
   "ident": "speech-092177",
-  "name": "Geay Jeh'n Aer? A traditional Manx song performed on Manx Radio",
+  "name": "Geay Jeh'n Aer: A traditional Manx song performed on Manx Radio",
   "source": "https://www.youtube.com/watch?v=bjT_J37nkoo",
   "platform": "youtube",
   "domain": "podcast",

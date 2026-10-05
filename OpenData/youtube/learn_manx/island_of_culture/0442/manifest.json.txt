@@ -1,6 +1,6 @@
 {
   "ident": "speech-0442",
-  "name": "Ta awin goll fo yn droghad",
+  "name": "Culture Vannin: Island of Culture series 42",
   "source": "https://www.youtube.com/watch?v=eLVNsKODeho",
   "platform": "youtube",
   "domain": "education",

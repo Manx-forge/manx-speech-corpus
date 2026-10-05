@@ -1,6 +1,6 @@
 {
   "ident": "speech-04182",
-  "name": "Jean oo cheet dys Rhumsaa my vees eh grianagh?",
+  "name": "Culture Vannin: Island of Culture series 182",
   "source": "https://www.youtube.com/watch?v=EjdR1kJ_qpE",
   "platform": "youtube",
   "domain": "education",

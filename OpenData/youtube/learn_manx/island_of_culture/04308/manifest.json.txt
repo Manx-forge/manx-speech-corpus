@@ -1,6 +1,6 @@
 {
   "ident": "speech-04308",
-  "name": "Craad yinnagh cummal dy beagh oo berchagh?",
+  "name": "Culture Vannin: Island of Culture series: 308",
   "source": "https://www.youtube.com/watch?v=aC1YcpDelQk",
   "platform": "youtube",
   "domain": "education",

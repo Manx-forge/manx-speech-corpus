@@ -1,6 +1,6 @@
 {
   "ident": "speech-04347",
-  "name": "C'raad ta Jishag y Nollick?",
+  "name": "Culture Vannin: Island of Culture series: 347",
   "source": "https://www.youtube.com/watch?v=3T5p-V9DjDk",
   "platform": "youtube",
   "domain": "education",

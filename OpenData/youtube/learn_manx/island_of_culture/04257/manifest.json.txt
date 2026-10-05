@@ -1,6 +1,6 @@
 {
   "ident": "speech-04257",
-  "name": "Cha nel eh ro-olk ayns Purt ny h-Inshey jiu",
+  "name": "Culture Vannin: Island of Culture series: 257",
   "source": "https://www.youtube.com/watch?v=WJCZTu8PbsU",
   "platform": "youtube",
   "domain": "education",

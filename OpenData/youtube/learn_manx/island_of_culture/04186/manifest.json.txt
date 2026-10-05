@@ -1,6 +1,6 @@
 {
   "ident": "speech-04186",
-  "name": "Vel oo rieau er nakin ny croshyn shoh?",
+  "name": "Culture Vannin: Island of Culture series 186",
   "source": "https://www.youtube.com/watch?v=s-thsfOqX4E",
   "platform": "youtube",
   "domain": "education",

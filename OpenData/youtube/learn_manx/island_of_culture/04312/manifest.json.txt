@@ -1,6 +1,6 @@
 {
   "ident": "speech-04312",
-  "name": "C'red t'ou geearree?",
+  "name": "Culture Vannin: Island of Culture series: 312",
   "source": "https://www.youtube.com/watch?v=_8bf_wg_ThM",
   "platform": "youtube",
   "domain": "education",

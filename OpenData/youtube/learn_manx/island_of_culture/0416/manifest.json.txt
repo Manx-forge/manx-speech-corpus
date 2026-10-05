@@ -1,6 +1,6 @@
 {
   "ident": "speech-0416",
-  "name": "Ta mee geearree goll shappal ayns Rhumsaa jiu",
+  "name": "Culture Vannin: Island of Culture series 16",
   "source": "https://www.youtube.com/watch?v=s7kZYijrv40",
   "platform": "youtube",
   "domain": "education",

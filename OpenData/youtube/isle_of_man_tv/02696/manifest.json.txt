@@ -1,6 +1,6 @@
 {
   "ident": "speech-02696",
-  "name": "Manx language report_ Bunscoill Ghaelgagh",
+  "name": "Manx language report: Bunscoill Ghaelgagh",
   "source": "https://www.youtube.com/watch?v=OW56qFRly58",
   "platform": "youtube",
   "domain": "interview",

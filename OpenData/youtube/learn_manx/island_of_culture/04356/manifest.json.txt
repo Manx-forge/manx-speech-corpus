@@ -1,6 +1,6 @@
 {
   "ident": "speech-04356",
-  "name": "Ta mee jeeaghyn roym lesh y Nollick mleeaney",
+  "name": "Culture Vannin: Island of Culture series: 356",
   "source": "https://www.youtube.com/watch?v=P4n03a9HC0A",
   "platform": "youtube",
   "domain": "education",

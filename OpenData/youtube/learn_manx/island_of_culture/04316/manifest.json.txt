@@ -1,6 +1,6 @@
 {
   "ident": "speech-04316",
-  "name": "Shoh my verreen as s'mie lhiam berreen",
+  "name": "Culture Vannin: Island of Culture series: 316",
   "source": "https://www.youtube.com/watch?v=31UIybRefBM",
   "platform": "youtube",
   "domain": "education",

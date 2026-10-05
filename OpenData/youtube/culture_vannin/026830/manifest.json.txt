@@ -1,6 +1,6 @@
 {
   "ident": "speech-026830",
-  "name": "Cowag marish ny pait�hyn ayns y Chorn",
+  "name": "Cowag marish ny paitchyn ayns y Chorn",
   "source": "https://www.youtube.com/watch?v=Nd5B_KLk-rU",
   "platform": "youtube",
   "domain": "interview",

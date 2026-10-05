@@ -1,6 +1,6 @@
 {
   "ident": "speech-04206",
-  "name": "Ta mee geearree ram berreenyn",
+  "name": "Culture Vannin: Island of Culture series 206",
   "source": "https://www.youtube.com/watch?v=kxgYHFvAEew",
   "platform": "youtube",
   "domain": "education",

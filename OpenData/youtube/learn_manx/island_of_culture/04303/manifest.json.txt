@@ -1,6 +1,6 @@
 {
   "ident": "speech-04303",
-  "name": "Veagh eh yindyssagh cummal ayns Balley Chashtal agh veagh eh ny share cummal ayns Colby",
+  "name": "Culture Vannin: Island of Culture series: 303",
   "source": "https://www.youtube.com/watch?v=3nnvbc6WfuU",
   "platform": "youtube",
   "domain": "education",

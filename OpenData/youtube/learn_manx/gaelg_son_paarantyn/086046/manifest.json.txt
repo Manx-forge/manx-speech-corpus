@@ -1,6 +1,6 @@
 {
   "ident": "speech-086046",
-  "name": "Gaelg son paarantyn? Goll dy lhie",
+  "name": "Gaelg son paarantyn: Goll dy lhie",
   "source": "https://www.youtube.com/watch?v=k33sHiXRT70",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0424",
-  "name": "Ta mee geearree caffee doo nish",
+  "name": "Culture Vannin: Island of Culture series 24",
   "source": "https://www.youtube.com/watch?v=jC7eaHU5ZnA",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-083596",
-  "name": "Cregeen? 10 Jerrey Fouyir",
+  "name": "Cregeen: 10 Jerrey Fouyir",
   "source": "https://www.youtube.com/watch?v=aCVr_aESw1I",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-085823",
-  "name": "Cregeen? 09 Mean Fouyir",
+  "name": "Cregeen: 09 Mean Fouyir",
   "source": "https://www.youtube.com/watch?v=GtZf5tqqCEA",
   "platform": "youtube",
   "domain": "education",

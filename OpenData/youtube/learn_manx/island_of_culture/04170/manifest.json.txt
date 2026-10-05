@@ -1,6 +1,6 @@
 {
   "ident": "speech-04170",
-  "name": "Cre share lhiat: traen ny baatey?",
+  "name": "Culture Vannin: Island of Culture series 170",
   "source": "https://www.youtube.com/watch?v=VEbLFXIXiCs",
   "platform": "youtube",
   "domain": "education",

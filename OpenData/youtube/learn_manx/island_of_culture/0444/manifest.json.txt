@@ -1,6 +1,6 @@
 {
   "ident": "speech-0444",
-  "name": "Vel oo geearree Marmite nish? Cha nel, cha mie lhiam Marmite",
+  "name": "Culture Vannin: Island of Culture series 44",
   "source": "https://www.youtube.com/watch?v=SYJcZcwAuls",
   "platform": "youtube",
   "domain": "education",

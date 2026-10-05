@@ -1,6 +1,6 @@
 {
   "ident": "speech-04101",
-  "name": "Ren mee goll dys yn thie-fillym ayns Doolish Jemayrt",
+  "name": "Culture Vannin: Island of Culture series 101",
   "source": "https://www.youtube.com/watch?v=unAh5sMha40",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-023840",
-  "name": "In conversation with Davy Quillin? Learning Manx",
+  "name": "In conversation with Davy Quillin: Learning Manx",
   "source": "https://www.youtube.com/watch?v=ixQzMJVoP9A",
   "platform": "youtube",
   "domain": "interview",

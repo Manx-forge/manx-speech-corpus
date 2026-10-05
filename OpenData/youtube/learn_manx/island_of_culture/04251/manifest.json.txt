@@ -1,6 +1,6 @@
 {
   "ident": "speech-04251",
-  "name": "Cre'n sorch eeast s'mie lhiat?",
+  "name": "Culture Vannin: Island of Culture series: 251",
   "source": "https://www.youtube.com/watch?v=ocB3iSxiaR8",
   "platform": "youtube",
   "domain": "education",

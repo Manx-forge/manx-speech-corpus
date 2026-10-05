@@ -1,6 +1,6 @@
 {
   "ident": "speech-086401",
-  "name": "Cregeen 05? Boaldyn",
+  "name": "Cregeen 05: Boaldyn",
   "source": "https://www.youtube.com/watch?v=lhJiu924h8w",
   "platform": "youtube",
   "domain": "education",

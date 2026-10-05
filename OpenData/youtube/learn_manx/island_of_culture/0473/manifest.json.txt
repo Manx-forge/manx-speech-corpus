@@ -1,6 +1,6 @@
 {
   "ident": "speech-0473",
-  "name": "S'mie lhiam yn traen agh share lhiam yn baatey",
+  "name": "Culture Vannin: Island of Culture series 73",
   "source": "https://www.youtube.com/watch?v=9xOqw-0cIwc",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04138",
-  "name": "Vel biggin ayd? Ta, ta daa chabbyl aym as daa chayt aym",
+  "name": "Culture Vannin: Island of Culture series 138",
   "source": "https://www.youtube.com/watch?v=jveiE2uFWB0",
   "platform": "youtube",
   "domain": "education",

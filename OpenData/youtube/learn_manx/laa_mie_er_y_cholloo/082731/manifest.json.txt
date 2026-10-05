@@ -1,6 +1,6 @@
 {
   "ident": "speech-082731",
-  "name": "Laa mie er y Cholloo? Cre'n fa ren oo gobbragh ayns shen?",
+  "name": "Laa mie er y Cholloo: Cre'n fa ren oo gobbragh ayns shen?",
   "source": "https://www.youtube.com/watch?v=wa2GijmlOUw",
   "platform": "youtube",
   "domain": "education",

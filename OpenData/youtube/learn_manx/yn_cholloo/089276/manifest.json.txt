@@ -1,6 +1,6 @@
 {
   "ident": "speech-089276",
-  "name": "Yn Cholloo? Ushagyn 'sy toor arroo",
+  "name": "Yn Cholloo: Ushagyn 'sy toor arroo",
   "source": "https://www.youtube.com/watch?v=hewzVjouMsM",
   "platform": "youtube",
   "domain": "education",

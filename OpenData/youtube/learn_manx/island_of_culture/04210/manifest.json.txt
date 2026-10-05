@@ -1,6 +1,6 @@
 {
   "ident": "speech-04210",
-  "name": "Craad bare lhiat cummal: Yn Cholloo ny Doolish?",
+  "name": "Culture Vannin: Island of Culture series: 210",
   "source": "https://www.youtube.com/watch?v=Q86UqhdpIqo",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04211",
-  "name": "Craad bare lhiat cummal: Yn Cholloo ny LA?",
+  "name": "Culture Vannin: Island of Culture series: 211",
   "source": "https://www.youtube.com/watch?v=0vPMylXucMM",
   "platform": "youtube",
   "domain": "education",

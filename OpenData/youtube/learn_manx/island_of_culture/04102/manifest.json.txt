@@ -1,6 +1,6 @@
 {
   "ident": "speech-04102",
-  "name": "Ren mee goll dys yn thie-ellyn ayns Doolish Jecrean",
+  "name": "Culture Vannin: Island of Culture series: 102",
   "source": "https://www.youtube.com/watch?v=O-nipEYu0OE",
   "platform": "youtube",
   "domain": "education",

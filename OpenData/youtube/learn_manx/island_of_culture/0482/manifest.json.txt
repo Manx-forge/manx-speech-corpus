@@ -1,6 +1,6 @@
 {
   "ident": "speech-0482",
-  "name": "Vel yn jiass ny share na'n twoaie?",
+  "name": "Culture Vannin: Island of Culture series 82",
   "source": "https://www.youtube.com/watch?v=79Dok_6X3HA",
   "platform": "youtube",
   "domain": "education",

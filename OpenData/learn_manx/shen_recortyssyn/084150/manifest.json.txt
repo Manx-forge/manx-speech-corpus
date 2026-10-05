@@ -1,6 +1,6 @@
 {
   "ident": "speech-084150",
-  "name": "19b",
+  "name": "Manx Gaelic today",
   "source": "https://www.youtube.com/watch?v=Ho_h5Odi0Rs&feature=plcp&context=C4f4e19bVDvjVQa1PpcFOg_t_tS15-n0F9fRnKW8P0-HDhT6w3EKU=",
   "platform": "learn_manx",
   "domain": "education",

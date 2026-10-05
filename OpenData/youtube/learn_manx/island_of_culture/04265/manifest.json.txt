@@ -1,6 +1,6 @@
 {
   "ident": "speech-04265",
-  "name": "Keayrt dy row, va buggane cummal dy kiune er y cheu heear jeh slieau",
+  "name": "Culture Vannin: Island of Culture series: 265",
   "source": "https://www.youtube.com/watch?v=eq7a4GLgzYQ",
   "platform": "youtube",
   "domain": "education",

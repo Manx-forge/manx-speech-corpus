@@ -1,6 +1,6 @@
 {
   "ident": "speech-04110",
-  "name": "Nod oo fakin Kione Vraddda?",
+  "name": "Culture Vannin: Island of Culture series: 110",
   "source": "https://www.youtube.com/watch?v=cUzajOPVjzs",
   "platform": "youtube",
   "domain": "education",

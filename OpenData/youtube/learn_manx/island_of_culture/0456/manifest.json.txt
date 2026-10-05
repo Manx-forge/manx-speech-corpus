@@ -1,6 +1,6 @@
 {
   "ident": "speech-0456",
-  "name": "Vel Manannan cummal er Barrool Twoaie?",
+  "name": "Culture Vannin: Island of Culture series 56",
   "source": "https://www.youtube.com/watch?v=zommypJ4gQI",
   "platform": "youtube",
   "domain": "education",

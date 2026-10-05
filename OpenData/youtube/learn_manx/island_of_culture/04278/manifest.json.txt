@@ -1,6 +1,6 @@
 {
   "ident": "speech-04278",
-  "name": "Y keayrt shoh ren en brebbal clagh vooar ass towse jus dy yannoo caghlaa",
+  "name": "Culture Vannin: Island of Culture series: 278",
   "source": "https://www.youtube.com/watch?v=MVn4sgvFovE",
   "platform": "youtube",
   "domain": "education",

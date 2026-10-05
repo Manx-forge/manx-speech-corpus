@@ -1,6 +1,6 @@
 {
   "ident": "speech-088450",
-  "name": "Yn Cholloo: Kitterland, y Thousla as coayl y 'Vrig Lily'",
+  "name": "Kitterland, y Thousla as coayl y Vrig Lily",
   "source": "https://www.youtube.com/watch?v=s0hh507JN4I",
   "platform": "youtube",
   "domain": "education",

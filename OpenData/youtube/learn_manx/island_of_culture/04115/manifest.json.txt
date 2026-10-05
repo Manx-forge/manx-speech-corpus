@@ -1,6 +1,6 @@
 {
   "ident": "speech-04115",
-  "name": "Foddym snaue gollrish perkin as foddym loayrt boghtynid",
+  "name": "Culture Vannin: Island of Culture series: 115",
   "source": "https://www.youtube.com/watch?v=wvBovq6HIfc",
   "platform": "youtube",
   "domain": "education",

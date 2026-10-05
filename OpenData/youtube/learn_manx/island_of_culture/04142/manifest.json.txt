@@ -1,6 +1,6 @@
 {
   "ident": "speech-04142",
-  "name": "Mie lhiat ny ratchyn TT?",
+  "name": "Culture Vannin: Island of Culture series 142",
   "source": "https://www.youtube.com/watch?v=otcq8XrfoNk",
   "platform": "youtube",
   "domain": "education",

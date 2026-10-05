@@ -1,6 +1,6 @@
 {
   "ident": "speech-0479",
-  "name": "Vel Colby ny smoo danjeyragh na Purt ny h-Inshey?",
+  "name": "Culture Vannin: Island of Culture series 79",
   "source": "https://www.youtube.com/watch?v=VmGGtKMbHVI",
   "platform": "youtube",
   "domain": "education",

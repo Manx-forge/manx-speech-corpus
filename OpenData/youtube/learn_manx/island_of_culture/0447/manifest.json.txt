@@ -1,6 +1,6 @@
 {
   "ident": "speech-0447",
-  "name": "Vel accrys ort? Cha nel nish",
+  "name": "Culture Vannin: Island of Culture series 47",
   "source": "https://www.youtube.com/watch?v=pfs2Qio7m8U",
   "platform": "youtube",
   "domain": "education",

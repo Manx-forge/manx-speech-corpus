@@ -1,6 +1,6 @@
 {
   "ident": "speech-04212",
-  "name": "Craad bare lhiat shappal: Yn Cholloo ny Paris?",
+  "name": "Culture Vannin: Island of Culture series: 212",
   "source": "https://www.youtube.com/watch?v=xRq5YsVf79Q",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0431",
-  "name": "Ta mee shappal ayns Purt Chiarn jiu",
+  "name": "Culture Vannin: Island of Culture series 31",
   "source": "https://www.youtube.com/watch?v=09BkF3EA1iE",
   "platform": "youtube",
   "domain": "education",

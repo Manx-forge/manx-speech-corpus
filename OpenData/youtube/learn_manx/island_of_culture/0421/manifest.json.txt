@@ -1,6 +1,6 @@
 {
   "ident": "speech-0421",
-  "name": "Mish Jenny as shoh my charrey Ali",
+  "name": "Culture Vannin: Island of Culture series 21",
   "source": "https://www.youtube.com/watch?v=qCH_Ghl6HJU",
   "platform": "youtube",
   "domain": "education",

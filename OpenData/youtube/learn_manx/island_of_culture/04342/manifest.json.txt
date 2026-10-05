@@ -1,6 +1,6 @@
 {
   "ident": "speech-04342",
-  "name": "Cha nel mee rieau er nakin Buggane",
+  "name": "Culture Vannin: Island of Culture series: 342",
   "source": "https://www.youtube.com/watch?v=5efoN_Ibfxo",
   "platform": "youtube",
   "domain": "education",

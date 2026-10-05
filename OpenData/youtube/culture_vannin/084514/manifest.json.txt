@@ -1,6 +1,6 @@
 {
   "ident": "speech-084514",
-  "name": "Oie'll Vreeshey ec Earyween? Skeeal voish Ned Beg Hom Ruy",
+  "name": "Oie'll Vreeshey ec Earyween: Skeeal voish Ned Beg Hom Ruy",
   "source": "https://www.youtube.com/watch?v=vnN044a_Erg",
   "platform": "youtube",
   "domain": "education",

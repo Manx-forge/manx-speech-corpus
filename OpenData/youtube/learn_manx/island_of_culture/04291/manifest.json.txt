@@ -1,6 +1,6 @@
 {
   "ident": "speech-04291",
-  "name": "Hooyl ad stiagh dys mean y vrock va jeant oc",
+  "name": "Culture Vannin: Island of Culture series: 291",
   "source": "https://www.youtube.com/watch?v=Zfpz1PxZggM",
   "platform": "youtube",
   "domain": "education",

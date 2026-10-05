@@ -1,6 +1,6 @@
 {
   "ident": "speech-085093",
-  "name": "series? 365 (The final one!)",
+  "name": "Culture Vannin: Island of Culture series: 365 (The final one!)",
   "source": "https://www.youtube.com/watch?v=BHvg73MZjX4",
   "platform": "youtube",
   "domain": "education",

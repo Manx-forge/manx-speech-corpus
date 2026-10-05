@@ -1,6 +1,6 @@
 {
   "ident": "speech-088044",
-  "name": "Yn Cholloo? Puirt er y Cholloo",
+  "name": "Yn Cholloo: Puirt er y Cholloo",
   "source": "https://www.youtube.com/watch?v=Kln0Jodo_k8",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-0119",
-  "name": "Text Reading",
+  "name": "Hymnyn er baase",
   "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=9795{and}hl=en",
   "platform": "clilstore",
   "domain": "religion",

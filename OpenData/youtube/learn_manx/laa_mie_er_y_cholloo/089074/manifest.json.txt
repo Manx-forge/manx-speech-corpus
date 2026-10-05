@@ -1,6 +1,6 @@
 {
   "ident": "speech-089074",
-  "name": "Laa Mie er y Cholloo? Y Voalley",
+  "name": "Laa Mie er y Cholloo: Y Voalley",
   "source": "https://www.youtube.com/watch?v=nlINTnTFNhg",
   "platform": "youtube",
   "domain": "education",

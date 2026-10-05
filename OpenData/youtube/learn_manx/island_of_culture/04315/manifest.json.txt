@@ -1,6 +1,6 @@
 {
   "ident": "speech-04315",
-  "name": "Ta'n ennym orrym Ali as s'mie lhiam berreen",
+  "name": "Culture Vannin: Island of Culture series: 315",
   "source": "https://www.youtube.com/watch?v=IDxDo3Yv-Kc",
   "platform": "youtube",
   "domain": "education",

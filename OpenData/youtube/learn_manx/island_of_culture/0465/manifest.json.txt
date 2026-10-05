@@ -1,6 +1,6 @@
 {
   "ident": "speech-0465",
-  "name": "S'mie lhiam curree, bonnag as spollagyn agh share lhiam Gaelg",
+  "name": "Culture Vannin: Island of Culture series 65",
   "source": "https://www.youtube.com/watch?v=ZAKinAeI_Qs",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04306",
-  "name": "Dy beign berchagh yinnin cummal ayns Rhumsaa",
+  "name": "Culture Vannin: Island of Culture series: 306",
   "source": "https://www.youtube.com/watch?v=SkYGH_5rZGQ",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04146",
-  "name": "TT aboo!",
+  "name": "Culture Vannin: Island of Culture series at the races",
   "source": "https://www.youtube.com/watch?v=shhREDULcSQ",
   "platform": "youtube",
   "domain": "education",

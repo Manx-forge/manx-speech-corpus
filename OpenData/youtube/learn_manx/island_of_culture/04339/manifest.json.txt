@@ -1,6 +1,6 @@
 {
   "ident": "speech-04339",
-  "name": "Nee bleb uss ghooinney?",
+  "name": "Culture Vannin: Island of Culture series: 339",
   "source": "https://www.youtube.com/watch?v=qpJT-rCS9hk",
   "platform": "youtube",
   "domain": "education",

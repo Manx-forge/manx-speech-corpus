@@ -1,6 +1,6 @@
 {
   "ident": "speech-04362",
-  "name": "Hooar mee ram reddyn mie son y Nollick",
+  "name": "Culture Vannin: Island of Culture series: 362",
   "source": "https://www.youtube.com/watch?v=UXvZzbbBgt0",
   "platform": "youtube",
   "domain": "education",

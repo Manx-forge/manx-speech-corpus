@@ -1,6 +1,6 @@
 {
   "ident": "speech-04149",
-  "name": "Fastyr mie, mish....",
+  "name": "Culture Vannin: Island of Culture series at the races 04",
   "source": "https://www.youtube.com/watch?v=XFolVO5V_F8",
   "platform": "youtube",
   "domain": "education",

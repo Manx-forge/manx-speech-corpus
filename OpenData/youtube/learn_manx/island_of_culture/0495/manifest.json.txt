@@ -1,6 +1,6 @@
 {
   "ident": "speech-0495",
-  "name": "S'mie lhiam curree agh share lhiam kay riojey shocklaid",
+  "name": "Culture Vannin: Island of Culture series 95",
   "source": "https://www.youtube.com/watch?v=ZihC_RvHPHw",
   "platform": "youtube",
   "domain": "education",

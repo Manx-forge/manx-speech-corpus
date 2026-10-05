@@ -1,6 +1,6 @@
 {
   "ident": "speech-0452",
-  "name": "Ta mee ec yn Cheyllys nish",
+  "name": "Culture Vannin: Island of Culture series 52",
   "source": "https://www.youtube.com/watch?v=jFl1h-bAZro",
   "platform": "youtube",
   "domain": "education",

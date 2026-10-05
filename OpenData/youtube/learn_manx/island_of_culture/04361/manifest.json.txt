@@ -1,6 +1,6 @@
 {
   "ident": "speech-04361",
-  "name": "Cre hooar oo voish Jishag y Nollick?",
+  "name": "Culture Vannin: Island of Culture series: 361",
   "source": "https://www.youtube.com/watch?v=8C4wfwIr9yM",
   "platform": "youtube",
   "domain": "education",

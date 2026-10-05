@@ -1,6 +1,6 @@
 {
   "ident": "speech-0445",
-  "name": "Mie lhiat spollagyn? Aye, s'mie lhiam spollagyn ram",
+  "name": "Culture Vannin: Island of Culture series 45",
   "source": "https://www.youtube.com/watch?v=6EfjN__MLlM",
   "platform": "youtube",
   "domain": "education",

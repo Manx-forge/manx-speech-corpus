@@ -1,6 +1,6 @@
 {
   "ident": "speech-04241",
-  "name": "Ta mee ayns Doolish jiu agh va mee ayns Purt le Moirrey jea",
+  "name": "Culture Vannin: Island of Culture series: 241",
   "source": "https://www.youtube.com/watch?v=3t0f3fD9sWs",
   "platform": "youtube",
   "domain": "education",

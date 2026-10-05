@@ -1,6 +1,6 @@
 {
   "ident": "speech-04275",
-  "name": "Boght dy bollagh, she meeyl mooar almoraght uss!",
+  "name": "Culture Vannin: Island of Culture series: 275",
   "source": "https://www.youtube.com/watch?v=r-0TKTCmGls",
   "platform": "youtube",
   "domain": "education",

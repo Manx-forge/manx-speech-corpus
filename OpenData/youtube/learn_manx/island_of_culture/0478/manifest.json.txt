@@ -1,6 +1,6 @@
 {
   "ident": "speech-0478",
-  "name": "Vel Doolish ny smoo aalin na Purt ny h-Inshey? Cha nel eh",
+  "name": "Culture Vannin: Island of Culture series 78",
   "source": "https://www.youtube.com/watch?v=m1oyOFA-EYU",
   "platform": "youtube",
   "domain": "education",

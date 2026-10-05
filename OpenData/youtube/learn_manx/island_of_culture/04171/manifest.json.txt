@@ -1,6 +1,6 @@
 {
   "ident": "speech-04171",
-  "name": "Jagh oo dys Crosby jea? Cha jagh",
+  "name": "Culture Vannin: Island of Culture series 171",
   "source": "https://www.youtube.com/watch?v=O0DMU50nFmA",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04352",
-  "name": "S'mie lhiam shoh",
+  "name": "Culture Vannin: Island of Culture series: 352",
   "source": "https://www.youtube.com/watch?v=IWg-ohQorBE",
   "platform": "youtube",
   "domain": "education",

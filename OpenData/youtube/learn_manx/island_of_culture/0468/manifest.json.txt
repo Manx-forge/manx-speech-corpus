@@ -1,6 +1,6 @@
 {
   "ident": "speech-0468",
-  "name": "S'mie lhiam Rhumsaa agh share lhiam Purt le Moirrey",
+  "name": "Culture Vannin: Island of Culture series 68",
   "source": "https://www.youtube.com/watch?v=9Jd-l62-Fp8",
   "platform": "youtube",
   "domain": "education",

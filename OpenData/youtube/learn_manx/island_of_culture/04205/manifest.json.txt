@@ -1,6 +1,6 @@
 {
   "ident": "speech-04205",
-  "name": "C'raad ta ny berreenyn?",
+  "name": "Culture Vannin: Island of Culture series: 205",
   "source": "https://www.youtube.com/watch?v=LipKLLy-2eg",
   "platform": "youtube",
   "domain": "education",

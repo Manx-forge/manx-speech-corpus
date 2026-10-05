@@ -1,6 +1,6 @@
 {
   "ident": "speech-026750",
-  "name": "Shooyl mygeayrt Meayll marish Davy Fisher? 03",
+  "name": "Shooyl mygeayrt Meayll marish Davy Fisher: 03",
   "source": "https://www.youtube.com/watch?v=DyIzDpXwiZw",
   "platform": "youtube",
   "domain": "interview",

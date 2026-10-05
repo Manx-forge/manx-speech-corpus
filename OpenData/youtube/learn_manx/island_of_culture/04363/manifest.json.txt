@@ -1,6 +1,6 @@
 {
   "ident": "speech-04363",
-  "name": "S'mie lhiam cloie dub",
+  "name": "Culture Vannin: Island of Culture series: 363",
   "source": "https://www.youtube.com/watch?v=6sinlGiHFbc",
   "platform": "youtube",
   "domain": "education",

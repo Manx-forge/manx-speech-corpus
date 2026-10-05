@@ -1,6 +1,6 @@
 {
   "ident": "speech-04298",
-  "name": "Cre shegin dhyt jannoo jiu? Shegin dou drappal seose Barrool",
+  "name": "Culture Vannin: Island of Culture series: 298",
   "source": "https://www.youtube.com/watch?v=nQl95QMY5zQ",
   "platform": "youtube",
   "domain": "education",

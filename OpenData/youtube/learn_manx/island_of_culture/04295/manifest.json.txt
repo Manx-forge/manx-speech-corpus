@@ -1,6 +1,6 @@
 {
   "ident": "speech-04295",
-  "name": "295 T'eh grianagh ec y traa ayns Balley Chashtal",
+  "name": "Culture Vannin: Island of Culture series : 295",
   "source": "https://www.youtube.com/watch?v=ebdguEqqvyE",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04318",
-  "name": "C'red t'ou geearree jannoo jiu?",
+  "name": "Culture Vannin: Island of Culture series:  318",
   "source": "https://www.youtube.com/watch?v=X50JpjMqwlY",
   "platform": "youtube",
   "domain": "education",

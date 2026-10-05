@@ -1,6 +1,6 @@
 {
   "ident": "speech-04354",
-  "name": "S'mie lhiam cloie Gitar",
+  "name": "Culture Vannin: Island of Culture series: 354",
   "source": "https://www.youtube.com/watch?v=3uXpTRbS1io",
   "platform": "youtube",
   "domain": "education",

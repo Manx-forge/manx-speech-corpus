@@ -1,6 +1,6 @@
 {
   "ident": "speech-04221",
-  "name": "Shass seose, my sailt",
+  "name": "Culture Vannin: Island of Culture series: 221",
   "source": "https://www.youtube.com/watch?v=nkTyuIyoYNk",
   "platform": "youtube",
   "domain": "education",

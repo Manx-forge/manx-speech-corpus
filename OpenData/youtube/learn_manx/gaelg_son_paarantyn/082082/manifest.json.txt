@@ -1,6 +1,6 @@
 {
   "ident": "speech-082082",
-  "name": "Gaelg son paarantyn? Traa son skeeal",
+  "name": "Gaelg son paarantyn: Traa son skeeal",
   "source": "https://www.youtube.com/watch?v=PZi5Ak0srdY",
   "platform": "youtube",
   "domain": "education",

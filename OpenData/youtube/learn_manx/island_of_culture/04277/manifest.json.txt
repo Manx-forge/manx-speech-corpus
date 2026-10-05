@@ -1,6 +1,6 @@
 {
   "ident": "speech-04277",
-  "name": "As t'ou uss cho fliugh as bog as lhiannag arroo ta baiht ayns bainney gyere!",
+  "name": "Culture Vannin: Island of Culture series: 277",
   "source": "https://www.youtube.com/watch?v=zITYisjDF-8",
   "platform": "youtube",
   "domain": "education",

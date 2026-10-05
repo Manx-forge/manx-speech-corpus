@@ -1,6 +1,6 @@
 {
   "ident": "speech-0231",
-  "name": "Conversational Interview",
+  "name": "Taggloo: Conversational Manx part seven 'favourite places'",
   "source": "https://youtube.com/watch?v=yQmQb1QWlj4",
   "platform": "youtube",
   "domain": "interview",

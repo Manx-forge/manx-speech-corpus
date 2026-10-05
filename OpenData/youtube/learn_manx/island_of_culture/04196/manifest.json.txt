@@ -1,6 +1,6 @@
 {
   "ident": "speech-04196",
-  "name": "T'eh yindyssagh goaill arrane ayns Gaelg",
+  "name": "Culture Vannin: Island of Culture series 196",
   "source": "https://www.youtube.com/watch?v=S1L_4cBQJW4",
   "platform": "youtube",
   "domain": "education",

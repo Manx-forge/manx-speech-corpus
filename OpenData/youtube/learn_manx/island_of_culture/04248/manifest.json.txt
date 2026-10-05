@@ -1,6 +1,6 @@
 {
   "ident": "speech-04248",
-  "name": "Ta mee my haaue nish as s'mie lhiam goll magh eeastagh",
+  "name": "Culture Vannin: Island of Culture series: 248",
   "source": "https://www.youtube.com/watch?v=0kKzgHsY_O4",
   "platform": "youtube",
   "domain": "education",

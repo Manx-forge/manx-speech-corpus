@@ -1,6 +1,6 @@
 {
   "ident": "speech-04232",
-  "name": "Shegin dooin goll nish",
+  "name": "Culture Vannin: Island of Culture series: 232",
   "source": "https://www.youtube.com/watch?v=BKjdyNdDmXE",
   "platform": "youtube",
   "domain": "education",

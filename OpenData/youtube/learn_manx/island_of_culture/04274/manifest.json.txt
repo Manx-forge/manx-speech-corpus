@@ -1,6 +1,6 @@
 {
   "ident": "speech-04274",
-  "name": "Ren eh troggal clagh smoo as ren eh ceau shen erash",
+  "name": "Culture Vannin: Island of Culture series: 274",
   "source": "https://www.youtube.com/watch?v=d57BNR9_qaE",
   "platform": "youtube",
   "domain": "education",

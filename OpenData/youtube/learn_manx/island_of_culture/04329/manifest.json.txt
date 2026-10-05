@@ -1,6 +1,6 @@
 {
   "ident": "speech-04329",
-  "name": "Ta mee goll dys Rhumsaa nish agh ta mee shickyr nagh jeanym shooyl",
+  "name": "Culture Vannin: Island of Culture series: 329",
   "source": "https://www.youtube.com/watch?v=PzcoWk3fpek",
   "platform": "youtube",
   "domain": "education",

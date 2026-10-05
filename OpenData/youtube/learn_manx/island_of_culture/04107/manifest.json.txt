@@ -1,6 +1,6 @@
 {
   "ident": "speech-04107",
-  "name": "Cre oddys oo jannoo ayns Rhumsaa?",
+  "name": "Culture Vannin: Island of Culture series: 107",
   "source": "https://www.youtube.com/watch?v=TEW-HBQr1nc",
   "platform": "youtube",
   "domain": "education",

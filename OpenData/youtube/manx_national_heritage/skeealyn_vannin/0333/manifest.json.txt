@@ -1,6 +1,6 @@
 {
   "ident": "speech-0333",
-  "name": "Manx language and dialect archive recordings",
+  "name": "Manx language and dialect archive recordings: Skeealyn Vannin, Disk 2 Track 13ii",
   "source": "https://youtube.com/watch?v=teZUv30_QAQ",
   "platform": "youtube",
   "domain": "interview",

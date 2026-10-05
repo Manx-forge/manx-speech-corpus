@@ -1,6 +1,6 @@
 {
   "ident": "speech-04238",
-  "name": "Ta mee ayns Purt ny h-Inshey jiu agh va mee ayns Purt le Moirrey jea",
+  "name": "Culture Vannin: Island of Culture series: 238",
   "source": "https://www.youtube.com/watch?v=XkBEvH-3hTc",
   "platform": "youtube",
   "domain": "education",

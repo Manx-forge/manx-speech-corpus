@@ -1,6 +1,6 @@
 {
   "ident": "speech-023790",
-  "name": "In conversation with Davy Quillin? work",
+  "name": "In conversation with Davy Quillin: work",
   "source": "https://www.youtube.com/watch?v=FQ2wDh1q89U",
   "platform": "youtube",
   "domain": "interview",

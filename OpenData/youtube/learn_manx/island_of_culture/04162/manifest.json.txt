@@ -1,6 +1,6 @@
 {
   "ident": "speech-04162",
-  "name": "Ta mee goll shappal nish er y fa dy vel mee geearree kionnaghey bainney, eeym, arran as eeast",
+  "name": "Culture Vannin: Island of Culture series 162",
   "source": "https://www.youtube.com/watch?v=2W3oJO47WH0",
   "platform": "youtube",
   "domain": "education",

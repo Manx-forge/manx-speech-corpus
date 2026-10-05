@@ -1,6 +1,6 @@
 {
   "ident": "speech-04156",
-  "name": "Hee'm shiu",
+  "name": "Culture Vannin: Island of Culture series at the races 11",
   "source": "https://www.youtube.com/watch?v=6sfoBvvzhPA",
   "platform": "youtube",
   "domain": "education",

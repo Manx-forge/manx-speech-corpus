@@ -1,6 +1,6 @@
 {
   "ident": "speech-04332",
-  "name": "She Manninagh mish",
+  "name": "Culture Vannin: Island of Culture series: 332",
   "source": "https://www.youtube.com/watch?v=LNcsh1ifAvY",
   "platform": "youtube",
   "domain": "education",

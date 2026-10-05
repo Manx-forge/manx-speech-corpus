@@ -1,6 +1,6 @@
 {
   "ident": "speech-026068",
-  "name": "The Manx language, casually spoken _ Owen speaking Manx _ Wikitongues",
+  "name": "The Manx language, casually spoken | Owen speaking Manx | Wikitongues",
   "source": "https://www.youtube.com/watch?v=rUE1bzIx3u8",
   "platform": "youtube",
   "domain": "interview",

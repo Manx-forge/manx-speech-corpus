@@ -1,6 +1,6 @@
 {
   "ident": "speech-04137",
-  "name": "Vel shuyr ayd? Ta, ta daa huyr aym",
+  "name": "Culture Vannin: Island of Culture series 137",
   "source": "https://www.youtube.com/watch?v=yzU3KhmQpsI",
   "platform": "youtube",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-04305",
-  "name": "Beagh oo maynrey cummal ayns Purt Le Moirrey? Cha beign",
+  "name": "Culture Vannin: Island of Culture series: 305",
   "source": "https://www.youtube.com/watch?v=4W1nwoeL-A0",
   "platform": "youtube",
   "domain": "education",

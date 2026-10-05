@@ -1,6 +1,6 @@
 {
   "ident": "speech-0446",
-  "name": "Ta ny spollagyn yindyssagh.",
+  "name": "Culture Vannin: Island of Culture series 46",
   "source": "https://www.youtube.com/watch?v=9-dC8shkDA4",
   "platform": "youtube",
   "domain": "education",

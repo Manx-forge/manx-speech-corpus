@@ -1,6 +1,6 @@
 {
   "ident": "speech-0414",
-  "name": "Ta mee loayrt Gaelg ayns Doolish nish. C'raad t'ou loayrt Gaelg?",
+  "name": "Culture Vannin: Island of Culture series 14",
   "source": "https://www.youtube.com/watch?v=w_CjtnyZXvI",
   "platform": "youtube",
   "domain": "education",

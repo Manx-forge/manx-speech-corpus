@@ -1,6 +1,6 @@
 {
   "ident": "speech-089384",
-  "name": "Laa'l Catreeney? Keayrt dy row ayns Colby",
+  "name": "Laa'l Catreeney: Keayrt dy row ayns Colby",
   "source": "https://www.youtube.com/watch?v=lJMHFzWFlJ0",
   "platform": "youtube",
   "domain": "education",

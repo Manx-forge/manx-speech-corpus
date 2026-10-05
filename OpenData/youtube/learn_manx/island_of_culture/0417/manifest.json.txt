@@ -1,6 +1,6 @@
 {
   "ident": "speech-0417",
-  "name": "Ta mee geearree miljanyn nish",
+  "name": "Culture Vannin: Island of Culture series 17",
   "source": "https://www.youtube.com/watch?v=GiOEs-RqbYI",
   "platform": "youtube",
   "domain": "education",

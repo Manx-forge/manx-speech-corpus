@@ -1,6 +1,6 @@
 {
   "ident": "speech-04237",
-  "name": "S'mie lhiam Doolish agh cha nel mee geearree cummal ayns Doolish, share lhiam Purt ny h-inshey",
+  "name": "Culture Vannin: Island of Culture series: 237",
   "source": "https://www.youtube.com/watch?v=D4U3hKe8I_w",
   "platform": "youtube",
   "domain": "education",

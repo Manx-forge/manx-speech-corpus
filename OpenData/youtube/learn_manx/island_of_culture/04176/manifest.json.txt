@@ -1,6 +1,6 @@
 {
   "ident": "speech-04176",
-  "name": "Vaik oo yn Moddey Doo jea ayns Purt ny h-Inshey? Honnick",
+  "name": "Culture Vannin: Island of Culture series 176",
   "source": "https://www.youtube.com/watch?v=htdEhF6YG90",
   "platform": "youtube",
   "domain": "education",

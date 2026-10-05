@@ -1,6 +1,6 @@
 {
   "ident": "speech-04283",
-  "name": "Deam yn chied vuggane myr v'eh ceau clagh elley",
+  "name": "Culture Vannin: Island of Culture series: 283",
   "source": "https://www.youtube.com/watch?v=EUL7wZB2tTU",
   "platform": "youtube",
   "domain": "education",

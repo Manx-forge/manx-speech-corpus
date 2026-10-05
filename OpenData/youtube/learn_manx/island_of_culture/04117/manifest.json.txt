@@ -1,6 +1,6 @@
 {
   "ident": "speech-04117",
-  "name": "By vie lhiat spollag? By vie",
+  "name": "Culture Vannin: Island of Culture series: 117",
   "source": "https://www.youtube.com/watch?v=qnBhXSJvSaM",
   "platform": "youtube",
   "domain": "education",

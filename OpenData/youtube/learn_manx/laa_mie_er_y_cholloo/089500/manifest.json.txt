@@ -1,6 +1,6 @@
 {
   "ident": "speech-089500",
-  "name": "Laa mie er y Cholloo? Yn Mwyllin",
+  "name": "Laa mie er y Cholloo: Yn Mwyllin",
   "source": "https://www.youtube.com/watch?v=V4GlG7yCbrw",
   "platform": "youtube",
   "domain": "education",

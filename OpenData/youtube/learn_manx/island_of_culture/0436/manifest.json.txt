@@ -1,6 +1,6 @@
 {
   "ident": "speech-0436",
-  "name": "Vel eh feeu goll shappal ayns Rhumsaa?",
+  "name": "Culture Vannin: Island of Culture series 36",
   "source": "https://www.youtube.com/watch?v=ZlsawDb3hmU",
   "platform": "youtube",
   "domain": "education",

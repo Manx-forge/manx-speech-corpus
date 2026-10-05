@@ -1,6 +1,6 @@
 {
   "ident": "speech-089619",
-  "name": "Laa mie er y Cholloo? Er y raad erash",
+  "name": "Laa mie er y Cholloo: er y raad erash",
   "source": "https://www.youtube.com/watch?v=-kxnX06X8oQ",
   "platform": "youtube",
   "domain": "education",

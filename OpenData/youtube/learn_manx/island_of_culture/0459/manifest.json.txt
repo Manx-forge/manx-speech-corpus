@@ -1,6 +1,6 @@
 {
   "ident": "speech-0459",
-  "name": "S'mie lhiam yn Cholloo agh cha nel mee geearree cummal ayns shen",
+  "name": "Culture Vannin: Island of Culture series 59",
   "source": "https://www.youtube.com/watch?v=O9I7S3F7EWw",
   "platform": "youtube",
   "domain": "education",

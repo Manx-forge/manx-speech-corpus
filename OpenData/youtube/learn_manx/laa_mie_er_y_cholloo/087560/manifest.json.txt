@@ -1,6 +1,6 @@
 {
   "ident": "speech-087560",
-  "name": "Laa mie er y Cholloo? Thie-sollysh",
+  "name": "Laa mie er y Cholloo: Thie-sollysh",
   "source": "https://www.youtube.com/watch?v=CqJ8BPf7_HU",
   "platform": "youtube",
   "domain": "education",

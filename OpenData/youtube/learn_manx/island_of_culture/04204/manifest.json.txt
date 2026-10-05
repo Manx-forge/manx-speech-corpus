@@ -1,6 +1,6 @@
 {
   "ident": "speech-04204",
-  "name": "She Wiggynnagh mish",
+  "name": "Culture Vannin: Island of Culture series; 204",
   "source": "https://www.youtube.com/watch?v=lVO1WktwIWY",
   "platform": "youtube",
   "domain": "education",

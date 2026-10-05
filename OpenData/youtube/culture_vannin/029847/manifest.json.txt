@@ -1,6 +1,6 @@
 {
   "ident": "speech-029847",
-  "name": "Tip the Scales,' y Groseyr, Purt ny Hinshey",
+  "name": "'Tip the Scales,' y Groseyr, Purt ny Hinshey",
   "source": "https://www.youtube.com/watch?v=M5HcURFy0PE",
   "platform": "youtube",
   "domain": "interview",

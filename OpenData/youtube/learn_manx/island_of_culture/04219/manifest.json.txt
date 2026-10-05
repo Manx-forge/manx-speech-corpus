@@ -1,6 +1,6 @@
 {
   "ident": "speech-04219",
-  "name": "Cre gollrish vees yn emshyr mairagh? Er-lhiams dy bee eh fliugh",
+  "name": "Culture Vannin: Island of Culture series: 219",
   "source": "https://www.youtube.com/watch?v=J46ZqgOWAvw",
   "platform": "youtube",
   "domain": "education",

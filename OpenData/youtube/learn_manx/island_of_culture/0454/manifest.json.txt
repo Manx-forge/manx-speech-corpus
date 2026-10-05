@@ -1,6 +1,6 @@
 {
   "ident": "speech-0454",
-  "name": "Jiu ta mee ayns Purt Chiarn agh share lhiam Purt ny h-Inshey",
+  "name": "Culture Vannin: Island of Culture series 54",
   "source": "https://www.youtube.com/watch?v=4XOlmnHuUZQ",
   "platform": "youtube",
   "domain": "education",

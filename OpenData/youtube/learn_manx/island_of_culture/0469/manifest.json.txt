@@ -1,6 +1,6 @@
 {
   "ident": "speech-0469",
-  "name": "S'mie lhiam loayrt er y Ã§hellvane as s'mie lhiam tweetal",
+  "name": "Culture Vannin: Island of Culture series 69",
   "source": "https://www.youtube.com/watch?v=yyEBubwttHw",
   "platform": "youtube",
   "domain": "education",

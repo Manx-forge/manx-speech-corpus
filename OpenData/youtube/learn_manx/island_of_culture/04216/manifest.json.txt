@@ -1,6 +1,6 @@
 {
   "ident": "speech-04216",
-  "name": "S'liklee dy bee eh feayr er y twoaie mairagh",
+  "name": "Culture Vannin: Island of Culture series: 216",
   "source": "https://www.youtube.com/watch?v=oefTo1VwabU",
   "platform": "youtube",
   "domain": "education",

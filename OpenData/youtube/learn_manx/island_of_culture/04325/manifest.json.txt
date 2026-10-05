@@ -1,6 +1,6 @@
 {
   "ident": "speech-04325",
-  "name": "Cha jeanym shooyl er Raad ny Foillan nish er y fa dy vel mee litcheragh",
+  "name": "Culture Vannin: Island of Culture series: 325",
   "source": "https://www.youtube.com/watch?v=Sm8wDXjqLfA",
   "platform": "youtube",
   "domain": "education",

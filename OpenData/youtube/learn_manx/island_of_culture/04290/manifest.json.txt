@@ -1,6 +1,6 @@
 {
   "ident": "speech-04290",
-  "name": "T'ou uss kiart, she'n laa ta goll ersooyl",
+  "name": "Culture Vannin: Island of Culture series: 290",
   "source": "https://www.youtube.com/watch?v=-YQ_wnu5Mu0",
   "platform": "youtube",
   "domain": "education",

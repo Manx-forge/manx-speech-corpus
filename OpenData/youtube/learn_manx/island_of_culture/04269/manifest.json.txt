@@ -1,6 +1,6 @@
 {
   "ident": "speech-04269",
-  "name": "Ny cur ommidan orryms, toot mooar as uss, er nonney bee corree ayms ort!",
+  "name": "Culture Vannin: Island of Culture series: 269",
   "source": "https://www.youtube.com/watch?v=bwo15rX3Rqw",
   "platform": "youtube",
   "domain": "education",
