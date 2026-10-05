@@ -1,6 +1,6 @@
 {
   "ident": "speech-056649",
-  "name": "freilleyder-beishtyn zoo keeper",
+  "name": "Freilleyder-beishtyn zoo keeper",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/freilleyder-beishtyn%20-%20zoo%20keeper.mp3",
   "platform": "learn_manx",
   "domain": "education",

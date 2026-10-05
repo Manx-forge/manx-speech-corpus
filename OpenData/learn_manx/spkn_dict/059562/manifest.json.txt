@@ -1,6 +1,6 @@
 {
   "ident": "speech-059562",
-  "name": "shassoo standing",
+  "name": "Shassoo standing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/shassoo%20-%20standing.mp3",
   "platform": "learn_manx",
   "domain": "education",

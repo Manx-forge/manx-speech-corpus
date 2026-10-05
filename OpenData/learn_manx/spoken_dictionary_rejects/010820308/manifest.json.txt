@@ -1,6 +1,6 @@
 {
   "ident": "speech-010820308",
-  "name": "learn_manx 010820308",
+  "name": "“ayns ny laghyn shen…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

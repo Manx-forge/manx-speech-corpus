@@ -1,6 +1,6 @@
 {
   "ident": "speech-057919",
-  "name": "pishyr peas",
+  "name": "Pishyr peas",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/pishyr%20-%20peas.mp3",
   "platform": "learn_manx",
   "domain": "education",

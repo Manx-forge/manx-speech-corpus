@@ -1,6 +1,6 @@
 {
   "ident": "speech-084322",
-  "name": "cooinaghtyn elley 10 pages 25-jerrey",
+  "name": "Cooinaghtyn elley 10 pages 25-jerrey",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2010%20pages%2025-jerrey.mp3",
   "platform": "learn_manx",
   "domain": "education",

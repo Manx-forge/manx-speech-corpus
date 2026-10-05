@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866161",
-  "name": "sooill eye",
+  "name": "Sooill eye",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/Body_Eye.mp3",
   "platform": "learn_manx",
   "domain": "education",

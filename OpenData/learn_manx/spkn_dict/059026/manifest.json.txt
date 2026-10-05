@@ -1,6 +1,6 @@
 {
   "ident": "speech-059026",
-  "name": "sheealeyder-ushtey water skier",
+  "name": "Sheealeyder-ushtey water skier",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/sheealeyder-ushtey%20-%20water%20skier.mp3",
   "platform": "learn_manx",
   "domain": "education",

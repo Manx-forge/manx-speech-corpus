@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867484",
-  "name": "lajer strong",
+  "name": "Lajer strong",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Strong.mp3",
   "platform": "learn_manx",
   "domain": "education",

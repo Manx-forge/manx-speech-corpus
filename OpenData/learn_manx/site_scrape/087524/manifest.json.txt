@@ -1,6 +1,6 @@
 {
   "ident": "speech-087524",
-  "name": "ayrn_14",
+  "name": "Vampire Murders, part 14",
   "source": "https://www.learnmanx.com/media/Vampire%20murders/ayrn%2014.mp3",
   "platform": "learn_manx",
   "domain": "education",

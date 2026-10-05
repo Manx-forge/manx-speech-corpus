@@ -1,6 +1,6 @@
 {
   "ident": "speech-058086",
-  "name": "mynjeig parcel",
+  "name": "Mynjeig parcel",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/mynjeig%20-%20parcel.mp3",
   "platform": "learn_manx",
   "domain": "education",

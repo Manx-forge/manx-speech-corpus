@@ -1,6 +1,6 @@
 {
   "ident": "speech-063136",
-  "name": "1000words_entry_337170",
+  "name": "1000 Words, day 172: Lughee (mice)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_337170.html",
   "platform": "learn_manx",
   "domain": "education",

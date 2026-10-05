@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866393",
-  "name": "sooillaghyn-lhiantagh contact lenses",
+  "name": "Sooillaghyn-lhiantagh contact lenses",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Contact%20Lenses.mp3",
   "platform": "learn_manx",
   "domain": "education",

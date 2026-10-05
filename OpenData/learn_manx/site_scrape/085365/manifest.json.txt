@@ -1,6 +1,6 @@
 {
   "ident": "speech-085365",
-  "name": "brian_and_doug_fargher",
+  "name": "Brian and doug fargher",
   "source": "https://www.learnmanx.com/media/Files/brian%20and%20doug%20fargher.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058982",
-  "name": "lheimyraght-cabbyl show jumping",
+  "name": "Lheimyraght-cabbyl show jumping",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/lheimyraght-cabbyl%20-%20show%20jumping.mp3",
   "platform": "learn_manx",
   "domain": "education",

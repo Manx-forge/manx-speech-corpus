@@ -1,6 +1,6 @@
 {
   "ident": "speech-05558113",
-  "name": "er y fa dy vel eh yindyssagh",
+  "name": "Er y fa dy vel eh yindyssagh",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

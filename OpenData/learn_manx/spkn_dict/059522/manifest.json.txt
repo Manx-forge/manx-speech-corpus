@@ -1,6 +1,6 @@
 {
   "ident": "speech-059522",
-  "name": "mongey smiling",
+  "name": "Mongey smiling",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/mongey%20-%20smiling.mp3",
   "platform": "learn_manx",
   "domain": "education",

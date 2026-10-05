@@ -1,6 +1,6 @@
 {
   "ident": "speech-054195",
-  "name": "ard-nieu snake",
+  "name": "Ard-nieu snake",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/ard-nieu%20-%20snake%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

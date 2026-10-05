@@ -1,6 +1,6 @@
 {
   "ident": "speech-057907",
-  "name": "pershagh peach",
+  "name": "Pershagh peach",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/pershagh%20-%20peach.mp3",
   "platform": "learn_manx",
   "domain": "education",

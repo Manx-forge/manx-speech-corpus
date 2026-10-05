@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726326",
-  "name": "daa-wheeyl bike",
+  "name": "Daa-wheeyl bike",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/Daa-wheeyl.mp3",
   "platform": "learn_manx",
   "domain": "education",

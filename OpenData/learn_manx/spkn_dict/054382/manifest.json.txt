@@ -1,6 +1,6 @@
 {
   "ident": "speech-054382",
-  "name": "braar brother",
+  "name": "Braar brother",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/braar%20-%20brother.mp3",
   "platform": "learn_manx",
   "domain": "education",

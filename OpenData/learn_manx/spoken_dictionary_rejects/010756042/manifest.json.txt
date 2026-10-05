@@ -1,6 +1,6 @@
 {
   "ident": "speech-010756042",
-  "name": "learn_manx 010756042",
+  "name": "“ec sy dys tree…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

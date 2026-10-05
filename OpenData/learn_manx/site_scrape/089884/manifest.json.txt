@@ -1,6 +1,6 @@
 {
   "ident": "speech-089884",
-  "name": "intermediate_lesson_06",
+  "name": "Intermediate Lesson 06",
   "source": "https://www.learnmanx.com/media/Files/intermediate%20lesson%2006.mp3",
   "platform": "learn_manx",
   "domain": "education",

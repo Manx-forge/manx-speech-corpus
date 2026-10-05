@@ -1,6 +1,6 @@
 {
   "ident": "speech-061879",
-  "name": "1000words_entry_307419",
+  "name": "1000 Words, day 58: Ta folt aym (I have hair)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_307419.html",
   "platform": "learn_manx",
   "domain": "education",

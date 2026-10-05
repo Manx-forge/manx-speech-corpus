@@ -1,6 +1,6 @@
 {
   "ident": "speech-056851",
-  "name": "boalley wall",
+  "name": "Boalley wall",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/boalley%20-%20wall.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-052044113",
-  "name": "ayns taksee",
+  "name": "Ayns taksee",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

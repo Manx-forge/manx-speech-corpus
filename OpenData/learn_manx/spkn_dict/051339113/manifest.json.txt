@@ -1,6 +1,6 @@
 {
   "ident": "speech-051339113",
-  "name": "ec y",
+  "name": "Ec y",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

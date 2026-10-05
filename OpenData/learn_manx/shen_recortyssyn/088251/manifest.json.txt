@@ -1,6 +1,6 @@
 {
   "ident": "speech-088251",
-  "name": "cooinaghtyn elley 07 pages 17-20",
+  "name": "Cooinaghtyn elley 07 pages 17-20",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2007%20pages%2017-20.mp3",
   "platform": "learn_manx",
   "domain": "education",

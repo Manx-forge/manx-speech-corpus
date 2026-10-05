@@ -1,6 +1,6 @@
 {
   "ident": "speech-057169",
-  "name": "pabyrvoallley wallpaper",
+  "name": "Pabyrvoallley wallpaper",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/pabyrvoallley%20-%20wallpaper.mp3",
   "platform": "learn_manx",
   "domain": "education",

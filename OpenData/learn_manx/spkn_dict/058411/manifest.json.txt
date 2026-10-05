@@ -1,6 +1,6 @@
 {
   "ident": "speech-058411",
-  "name": "laa day",
+  "name": "Laa day",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/laa%20-%20day%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

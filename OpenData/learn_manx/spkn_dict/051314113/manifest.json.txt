@@ -1,6 +1,6 @@
 {
   "ident": "speech-051314113",
-  "name": "er y voddey",
+  "name": "Er y voddey",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

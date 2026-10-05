@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866377",
-  "name": "braa bra",
+  "name": "Braa bra",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Bra.mp3",
   "platform": "learn_manx",
   "domain": "education",

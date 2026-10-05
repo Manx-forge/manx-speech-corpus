@@ -1,6 +1,6 @@
 {
   "ident": "speech-010820304",
-  "name": "learn_manx 010820304",
+  "name": "“nish mychione giootyn spyrrydoil…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

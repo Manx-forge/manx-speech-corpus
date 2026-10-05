@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866197",
-  "name": "dreeym back",
+  "name": "Dreeym back",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Back.mp3",
   "platform": "learn_manx",
   "domain": "education",

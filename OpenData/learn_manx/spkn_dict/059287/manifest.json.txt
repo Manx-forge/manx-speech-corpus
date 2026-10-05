@@ -1,6 +1,6 @@
 {
   "ident": "speech-059287",
-  "name": "carbyd tayrn tow truck",
+  "name": "Carbyd tayrn tow truck",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/carbyd%20tayrn%20-%20tow%20truck.mp3",
   "platform": "learn_manx",
   "domain": "education",

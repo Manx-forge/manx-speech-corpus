@@ -1,6 +1,6 @@
 {
   "ident": "speech-059685",
-  "name": "rio ice",
+  "name": "Rio ice",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/rio%20-%20ice.mp3",
   "platform": "learn_manx",
   "domain": "education",

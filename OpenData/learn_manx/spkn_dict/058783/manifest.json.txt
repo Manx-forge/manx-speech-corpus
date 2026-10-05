@@ -1,6 +1,6 @@
 {
   "ident": "speech-058783",
-  "name": "glassage locker",
+  "name": "Glassage locker",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/glassage%20-%20locker.mp3",
   "platform": "learn_manx",
   "domain": "education",

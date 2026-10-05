@@ -1,6 +1,6 @@
 {
   "ident": "speech-057382",
-  "name": "bayrn cap",
+  "name": "Bayrn cap",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/bayrn%20-%20cap.mp3",
   "platform": "learn_manx",
   "domain": "education",

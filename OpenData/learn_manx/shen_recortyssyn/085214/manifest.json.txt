@@ -1,6 +1,6 @@
 {
   "ident": "speech-085214",
-  "name": "cooinaghtyn elley 08 pages 20-22",
+  "name": "Cooinaghtyn elley 08 pages 20-22",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2008%20pages%2020-22.mp3",
   "platform": "learn_manx",
   "domain": "education",

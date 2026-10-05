@@ -1,6 +1,6 @@
 {
   "ident": "speech-083017",
-  "name": "chronicle 66-74a",
+  "name": "Chronicle 66-74a",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2066-74a.mp3",
   "platform": "learn_manx",
   "domain": "education",

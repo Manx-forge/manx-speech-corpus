@@ -1,6 +1,6 @@
 {
   "ident": "speech-057947",
-  "name": "rolley-arran bread roll",
+  "name": "Rolley-arran bread roll",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/rolley-arran%20-%20bread%20roll.mp3",
   "platform": "learn_manx",
   "domain": "education",

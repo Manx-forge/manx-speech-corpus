@@ -1,6 +1,6 @@
 {
   "ident": "speech-058743",
-  "name": "cronnag desk",
+  "name": "Cronnag desk",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/cronnag%20-%20desk.mp3",
   "platform": "learn_manx",
   "domain": "education",

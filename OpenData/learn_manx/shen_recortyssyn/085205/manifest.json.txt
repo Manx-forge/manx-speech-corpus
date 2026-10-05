@@ -1,6 +1,6 @@
 {
   "ident": "speech-085205",
-  "name": "lesson 5",
+  "name": "Lesson 5",
   "source": "https://www.learnmanx.com/media/john%20gell/lesson%205.mp3",
   "platform": "learn_manx",
   "domain": "education",

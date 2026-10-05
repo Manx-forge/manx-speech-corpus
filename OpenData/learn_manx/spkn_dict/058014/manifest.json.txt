@@ -1,6 +1,6 @@
 {
   "ident": "speech-058014",
-  "name": "aile fire",
+  "name": "Aile fire",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/aile%20-%20fire%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

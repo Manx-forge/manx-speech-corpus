@@ -1,6 +1,6 @@
 {
   "ident": "speech-04406",
-  "name": "Conversation 13",
+  "name": "Cowag 2: Conversation 13",
   "source": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20track13.mp3",
   "platform": "learn_manx",
   "domain": "education",

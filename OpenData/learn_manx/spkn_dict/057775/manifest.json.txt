@@ -1,6 +1,6 @@
 {
   "ident": "speech-057775",
-  "name": "caashey cheese",
+  "name": "Caashey cheese",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/caashey%20-%20cheese.mp3",
   "platform": "learn_manx",
   "domain": "education",

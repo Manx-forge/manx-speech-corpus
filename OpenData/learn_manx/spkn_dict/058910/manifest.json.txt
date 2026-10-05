@@ -1,6 +1,6 @@
 {
   "ident": "speech-058910",
-  "name": "bluckan ball",
+  "name": "Bluckan ball",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/bluckan%20-%20ball.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-071468",
-  "name": "skeeal_zen_4_doillee",
+  "name": "Skeealyn Zen 4 (doillee)",
   "source": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%204%20(doillee).mp3",
   "platform": "learn_manx",
   "domain": "literary",

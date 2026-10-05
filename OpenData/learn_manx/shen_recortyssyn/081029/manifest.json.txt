@@ -1,6 +1,6 @@
 {
   "ident": "speech-081029",
-  "name": "lessoon 23 Jeelane 1 2",
+  "name": "Lessoon 23 Jeelane 1 2",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/lessoon%2023%20Jeelane%201%202.mp3",
   "platform": "learn_manx",
   "domain": "education",

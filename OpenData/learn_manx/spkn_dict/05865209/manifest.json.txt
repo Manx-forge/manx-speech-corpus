@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865209",
-  "name": "kiaddeyder-troggal architect",
+  "name": "Kiaddeyder-troggal architect",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Architect.mp3",
   "platform": "learn_manx",
   "domain": "education",

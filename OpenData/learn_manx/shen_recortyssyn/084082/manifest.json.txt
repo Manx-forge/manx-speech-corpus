@@ -1,6 +1,6 @@
 {
   "ident": "speech-084082",
-  "name": "lesson 4",
+  "name": "Lesson 4",
   "source": "https://www.learnmanx.com/media/john%20gell/lesson%204.mp3",
   "platform": "learn_manx",
   "domain": "education",

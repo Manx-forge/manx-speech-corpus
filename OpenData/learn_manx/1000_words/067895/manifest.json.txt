@@ -1,6 +1,6 @@
 {
   "ident": "speech-067895",
-  "name": "1000words_entry_314325",
+  "name": "1000 Words, day 73: Jedoonee (Sunday)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_314325.html",
   "platform": "learn_manx",
   "domain": "education",

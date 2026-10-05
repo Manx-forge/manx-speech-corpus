@@ -1,6 +1,6 @@
 {
   "ident": "speech-058531",
-  "name": "y sourey the summer",
+  "name": "Y sourey the summer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/y%20sourey%20-%20the%20summer.mp3",
   "platform": "learn_manx",
   "domain": "education",

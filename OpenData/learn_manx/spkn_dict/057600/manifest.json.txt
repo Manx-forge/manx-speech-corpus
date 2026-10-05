@@ -1,6 +1,6 @@
 {
   "ident": "speech-057600",
-  "name": "balley place",
+  "name": "Balley place",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/balley%20-%20place.mp3",
   "platform": "learn_manx",
   "domain": "education",

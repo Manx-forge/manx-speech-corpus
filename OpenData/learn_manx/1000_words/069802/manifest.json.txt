@@ -1,6 +1,6 @@
 {
   "ident": "speech-069802",
-  "name": "1000words_entry_325086",
+  "name": "1000 Words, day 126",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_325086.html",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-087711",
-  "name": "conditional lesh yinnin",
+  "name": "Conditional lesh yinnin",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20checklist/conditional%20lesh%20yinnin.mp3",
   "platform": "learn_manx",
   "domain": "education",

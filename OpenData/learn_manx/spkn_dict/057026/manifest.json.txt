@@ -1,6 +1,6 @@
 {
   "ident": "speech-057026",
-  "name": "ommidjagh foolish",
+  "name": "Ommidjagh foolish",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/ommidjagh%20-%20foolish.mp3",
   "platform": "learn_manx",
   "domain": "education",

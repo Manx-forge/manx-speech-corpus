@@ -1,6 +1,6 @@
 {
   "ident": "speech-058487",
-  "name": "ny keayrtyn sometimes",
+  "name": "Ny keayrtyn sometimes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/ny%20keayrtyn%20-%20sometimes.mp3",
   "platform": "learn_manx",
   "domain": "education",

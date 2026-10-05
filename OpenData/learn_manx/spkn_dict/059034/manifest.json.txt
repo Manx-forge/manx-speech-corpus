@@ -1,6 +1,6 @@
 {
   "ident": "speech-059034",
-  "name": "skirraghtyn skating",
+  "name": "Skirraghtyn skating",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skirraghtyn%20-%20skating.mp3",
   "platform": "learn_manx",
   "domain": "education",

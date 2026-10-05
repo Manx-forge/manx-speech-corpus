@@ -1,6 +1,6 @@
 {
   "ident": "speech-081931",
-  "name": "bunneydys_10",
+  "name": "Bunneydys 10",
   "source": "https://www.learnmanx.com/media/bunneydys/bunneydys%2010.mp3",
   "platform": "learn_manx",
   "domain": "education",

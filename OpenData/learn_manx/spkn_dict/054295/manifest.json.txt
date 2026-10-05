@@ -1,6 +1,6 @@
 {
   "ident": "speech-054295",
-  "name": "maaig paw or flipper",
+  "name": "Maaig paw or flipper",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/maaig%20-%20paw%20or%20flipper.mp3",
   "platform": "learn_manx",
   "domain": "education",

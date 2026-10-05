@@ -1,6 +1,6 @@
 {
   "ident": "speech-057248",
-  "name": "laue hand",
+  "name": "Laue hand",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/laue%20-%20hand.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-054323",
-  "name": "praddag caterpillar",
+  "name": "Praddag caterpillar",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/praddag%20-%20caterpillar.mp3",
   "platform": "learn_manx",
   "domain": "education",

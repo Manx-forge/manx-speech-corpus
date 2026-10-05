@@ -1,6 +1,6 @@
 {
   "ident": "speech-01029470",
-  "name": "learn_manx 01029470",
+  "name": "“shee yee ta erskyn dy chooilley…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

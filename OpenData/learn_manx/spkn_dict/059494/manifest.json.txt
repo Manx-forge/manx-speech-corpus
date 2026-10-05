@@ -1,6 +1,6 @@
 {
   "ident": "speech-059494",
-  "name": "jannoo making or doing",
+  "name": "Jannoo making or doing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/jannoo%20-%20making%20or%20doing.mp3",
   "platform": "learn_manx",
   "domain": "education",

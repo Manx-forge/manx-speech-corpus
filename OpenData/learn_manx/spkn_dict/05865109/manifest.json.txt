@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865109",
-  "name": "ynseyder teacher",
+  "name": "Ynseyder teacher",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Teacher.mp3",
   "platform": "learn_manx",
   "domain": "education",

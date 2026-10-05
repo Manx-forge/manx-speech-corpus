@@ -1,6 +1,6 @@
 {
   "ident": "speech-085797",
-  "name": "brian_as_language_officer",
+  "name": "Brian as language officer",
   "source": "https://www.learnmanx.com/media/Files/brian%20as%20language%20officer.mp3",
   "platform": "learn_manx",
   "domain": "education",

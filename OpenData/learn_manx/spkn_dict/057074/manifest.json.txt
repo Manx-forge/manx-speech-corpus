@@ -1,6 +1,6 @@
 {
   "ident": "speech-057074",
-  "name": "çheu-sthie inside",
+  "name": "Çheu-sthie inside",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/cheu-sthie%20-%20inside.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-088428",
-  "name": "conitional lesh veagh",
+  "name": "Conitional lesh veagh",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20checklist/conitional%20lesh%20veagh.mp3",
   "platform": "learn_manx",
   "domain": "education",

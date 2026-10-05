@@ -1,6 +1,6 @@
 {
   "ident": "speech-069539",
-  "name": "1000words_entry_348674",
+  "name": "1000 Words, day 202: Nollick (Christmas)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_348674.html",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865401",
-  "name": "grine brishey-trostey breakfast cereal",
+  "name": "Grine brishey-trostey breakfast cereal",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Breakfast%20Cereal_Grine%20brishey-trostey.mp3",
   "platform": "learn_manx",
   "domain": "education",

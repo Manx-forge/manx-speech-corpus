@@ -1,6 +1,6 @@
 {
   "ident": "speech-056633",
-  "name": "fer y phost postman",
+  "name": "Fer y phost postman",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/fer%20y%20phost%20-%20postman.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058970",
-  "name": "jeeshyn dice",
+  "name": "Jeeshyn dice",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/jeeshyn%20-%20dice.mp3",
   "platform": "learn_manx",
   "domain": "education",

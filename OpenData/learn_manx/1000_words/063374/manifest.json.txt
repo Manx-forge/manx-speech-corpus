@@ -1,6 +1,6 @@
 {
   "ident": "speech-063374",
-  "name": "1000words_entry_318152",
+  "name": "1000 Words, day 94: S'mie lhiam Gaelg (I like Manx)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_318152.html",
   "platform": "learn_manx",
   "domain": "education",

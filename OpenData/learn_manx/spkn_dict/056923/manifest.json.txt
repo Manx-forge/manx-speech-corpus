@@ -1,6 +1,6 @@
 {
   "ident": "speech-056923",
-  "name": "rass seed",
+  "name": "Rass seed",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/rass%20-%20seed.mp3",
   "platform": "learn_manx",
   "domain": "education",

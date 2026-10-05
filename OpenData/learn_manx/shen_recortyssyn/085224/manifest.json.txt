@@ -1,6 +1,6 @@
 {
   "ident": "speech-085224",
-  "name": "doug faragher prouncing the weather",
+  "name": "Doug faragher prouncing the weather",
   "source": "https://www.learnmanx.com/media/Pronouning%20Dictionary/doug%20faragher%20prouncing%20the%20weather.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-083631",
-  "name": "cooinaghtyn elley 02 pages 3-6",
+  "name": "Cooinaghtyn elley 02 pages 3-6",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2002%20pages%203-6.mp3",
   "platform": "learn_manx",
   "domain": "education",

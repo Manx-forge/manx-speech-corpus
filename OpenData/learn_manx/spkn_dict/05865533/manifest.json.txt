@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865533",
-  "name": "shocklaid chocolate",
+  "name": "Shocklaid chocolate",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Chocolate_Shocklaid%20(A).mp3",
   "platform": "learn_manx",
   "domain": "education",

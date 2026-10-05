@@ -1,6 +1,6 @@
 {
   "ident": "speech-059109",
-  "name": "slat-obbee magic wand",
+  "name": "Slat-obbee magic wand",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20stories%20and%20myths/slat-obbee%20-%20magic%20wand.mp3",
   "platform": "learn_manx",
   "domain": "education",

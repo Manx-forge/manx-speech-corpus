@@ -1,6 +1,6 @@
 {
   "ident": "speech-081836",
-  "name": "conversations 06 nee",
+  "name": "Conversations 06 nee",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2006%20nee.mp3",
   "platform": "learn_manx",
   "domain": "education",

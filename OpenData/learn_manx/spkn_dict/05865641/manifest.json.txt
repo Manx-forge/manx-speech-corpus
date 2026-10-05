@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865641",
-  "name": "shiaght-jeig seventeen (17)",
+  "name": "Shiaght-jeig seventeen (17)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20numbers/numbers_shiaght%20jeg-%20seventeen.mp3",
   "platform": "learn_manx",
   "domain": "education",

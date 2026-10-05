@@ -1,6 +1,6 @@
 {
   "ident": "speech-077978",
-  "name": "cochianglys_john_pilling_translated_by_bob_carswell",
+  "name": "Cochianglys (John Pilling, translated by Bob Carswell)",
   "source": "https://www.learnmanx.com/media//Stories/Cochianglys_Folley_John_Pilling.mp3",
   "platform": "learn_manx",
   "domain": "literary",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-065876",
-  "name": "1000words_entry_348684",
+  "name": "1000 Words, day 204: Jishag y Nollick (Father Christmas)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_348684.html",
   "platform": "learn_manx",
   "domain": "education",

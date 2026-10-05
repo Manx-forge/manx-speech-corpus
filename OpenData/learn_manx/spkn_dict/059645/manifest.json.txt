@@ -1,6 +1,6 @@
 {
   "ident": "speech-059645",
-  "name": "dorrin storm",
+  "name": "Dorrin storm",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/dorrin%20-%20storm.mp3",
   "platform": "learn_manx",
   "domain": "education",

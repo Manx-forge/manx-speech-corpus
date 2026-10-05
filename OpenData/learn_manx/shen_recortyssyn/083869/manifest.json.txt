@@ -1,6 +1,6 @@
 {
   "ident": "speech-083869",
-  "name": "chronicle 80-91",
+  "name": "Chronicle 80-91",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2080-91.mp3",
   "platform": "learn_manx",
   "domain": "education",

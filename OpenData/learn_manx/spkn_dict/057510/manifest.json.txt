@@ -1,6 +1,6 @@
 {
   "ident": "speech-057510",
-  "name": "towl-cramman button-hole",
+  "name": "Towl-cramman button-hole",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/towl-cramman%20-%20button%20howl.mp3",
   "platform": "learn_manx",
   "domain": "education",

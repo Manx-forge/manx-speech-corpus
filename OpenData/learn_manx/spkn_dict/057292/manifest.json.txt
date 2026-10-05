@@ -1,6 +1,6 @@
 {
   "ident": "speech-057292",
-  "name": "sooill eye",
+  "name": "Sooill eye",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/sooill%20-%20eye.mp3",
   "platform": "learn_manx",
   "domain": "education",

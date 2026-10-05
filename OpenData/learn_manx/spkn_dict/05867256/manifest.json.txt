@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867256",
-  "name": "sostyn england",
+  "name": "Sostyn england",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_England.mp3",
   "platform": "learn_manx",
   "domain": "education",

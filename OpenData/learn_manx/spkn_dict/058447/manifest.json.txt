@@ -1,6 +1,6 @@
 {
   "ident": "speech-058447",
-  "name": "mean-souree June",
+  "name": "Mean-souree June",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mean-souree%20-%20June.mp3",
   "platform": "learn_manx",
   "domain": "education",

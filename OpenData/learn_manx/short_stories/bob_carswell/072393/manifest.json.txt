@@ -1,6 +1,6 @@
 {
   "ident": "speech-072393",
-  "name": "yn_jerrey_john_pilling_translated_by_bob_carswell",
+  "name": "Yn jerrey (John Pilling, translated by Bob Carswell)",
   "source": "https://www.learnmanx.com/media//Stories/Yn_Jerrey_John_Pilling.mp3",
   "platform": "learn_manx",
   "domain": "literary",

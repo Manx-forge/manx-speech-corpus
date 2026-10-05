@@ -1,6 +1,6 @@
 {
   "ident": "speech-057121",
-  "name": "cressad lamp",
+  "name": "Cressad lamp",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/cressad%20-%20lamp.mp3",
   "platform": "learn_manx",
   "domain": "education",

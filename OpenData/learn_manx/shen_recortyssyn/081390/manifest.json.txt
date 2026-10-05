@@ -1,6 +1,6 @@
 {
   "ident": "speech-081390",
-  "name": "chronicle 51-65a",
+  "name": "Chronicle 51-65a",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2051-65a.mp3",
   "platform": "learn_manx",
   "domain": "education",

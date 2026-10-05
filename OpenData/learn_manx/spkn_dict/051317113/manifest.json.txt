@@ -1,6 +1,6 @@
 {
   "ident": "speech-051317113",
-  "name": "er y pherkin",
+  "name": "Er y pherkin",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

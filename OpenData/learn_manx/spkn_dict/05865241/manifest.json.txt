@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865241",
-  "name": "coagyrey cook",
+  "name": "Coagyrey cook",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Cook.mp3",
   "platform": "learn_manx",
   "domain": "education",

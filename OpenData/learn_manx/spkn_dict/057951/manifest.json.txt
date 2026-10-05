@@ -1,6 +1,6 @@
 {
   "ident": "speech-057951",
-  "name": "shaddag grapefruit",
+  "name": "Shaddag grapefruit",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/shaddag%20-%20grapefruit.mp3",
   "platform": "learn_manx",
   "domain": "education",

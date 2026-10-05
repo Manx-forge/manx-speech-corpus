@@ -1,6 +1,6 @@
 {
   "ident": "speech-010820296",
-  "name": "learn_manx 010820296",
+  "name": "“as hie eh reesht stiagh ayns…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

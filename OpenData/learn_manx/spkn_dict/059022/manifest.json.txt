@@ -1,6 +1,6 @@
 {
   "ident": "speech-059022",
-  "name": "sheeal sking",
+  "name": "Sheeal sking",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/sheeal%20-%20sking.mp3",
   "platform": "learn_manx",
   "domain": "education",

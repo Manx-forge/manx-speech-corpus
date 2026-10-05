@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865377",
-  "name": "crispyn crisps",
+  "name": "Crispyn crisps",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Crisps_Crispyn.mp3",
   "platform": "learn_manx",
   "domain": "education",

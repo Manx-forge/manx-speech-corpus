@@ -1,6 +1,6 @@
 {
   "ident": "speech-083922",
-  "name": "noo ean 03",
+  "name": "Noo ean 03",
   "source": "https://www.learnmanx.com/media/noo%20ean/noo%20ean%2003.mp3",
   "platform": "learn_manx",
   "domain": "education",

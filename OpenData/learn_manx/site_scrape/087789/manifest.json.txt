@@ -1,6 +1,6 @@
 {
   "ident": "speech-087789",
-  "name": "obbyr_stewart",
+  "name": "Obbyr stewart",
   "source": "https://www.learnmanx.com/media/Files/obbyr%20stewart.mp3",
   "platform": "learn_manx",
   "domain": "education",

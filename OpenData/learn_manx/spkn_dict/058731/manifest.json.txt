@@ -1,6 +1,6 @@
 {
   "ident": "speech-058731",
-  "name": "corran crescent",
+  "name": "Corran crescent",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/corran%20-%20crescent.mp3",
   "platform": "learn_manx",
   "domain": "education",

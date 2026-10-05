@@ -1,6 +1,6 @@
 {
   "ident": "speech-054271",
-  "name": "kyaghan mole",
+  "name": "Kyaghan mole",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/kyaghan%20-%20mole.mp3",
   "platform": "learn_manx",
   "domain": "education",

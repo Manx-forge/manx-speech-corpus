@@ -1,6 +1,6 @@
 {
   "ident": "speech-056939",
-  "name": "tead rope",
+  "name": "Tead rope",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/tead%20-%20rope.mp3",
   "platform": "learn_manx",
   "domain": "education",

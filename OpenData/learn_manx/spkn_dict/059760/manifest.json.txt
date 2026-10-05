@@ -1,6 +1,6 @@
 {
   "ident": "speech-059760",
-  "name": "kishtey pooar battery",
+  "name": "Kishtey pooar battery",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/kishtey%20pooar%20-%20battery.mp3",
   "platform": "learn_manx",
   "domain": "education",

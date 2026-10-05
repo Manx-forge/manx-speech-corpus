@@ -1,6 +1,6 @@
 {
   "ident": "speech-054287",
-  "name": "lion spottagh leopard",
+  "name": "Lion spottagh leopard",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/lion%20spottagh%20-%20leopard.mp3",
   "platform": "learn_manx",
   "domain": "education",

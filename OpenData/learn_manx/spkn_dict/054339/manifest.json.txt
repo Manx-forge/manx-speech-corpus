@@ -1,6 +1,6 @@
 {
   "ident": "speech-054339",
-  "name": "roddan puissagh hampster",
+  "name": "Roddan puissagh hampster",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/roddan%20puissagh%20-%20hampster.mp3",
   "platform": "learn_manx",
   "domain": "education",

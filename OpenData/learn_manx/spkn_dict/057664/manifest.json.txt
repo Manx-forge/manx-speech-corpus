@@ -1,6 +1,6 @@
 {
   "ident": "speech-057664",
-  "name": "jeelt saddle",
+  "name": "Jeelt saddle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/jeelt%20-%20saddle.mp3",
   "platform": "learn_manx",
   "domain": "education",

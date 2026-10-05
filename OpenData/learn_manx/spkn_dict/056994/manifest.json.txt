@@ -1,6 +1,6 @@
 {
   "ident": "speech-056994",
-  "name": "jesh nice",
+  "name": "Jesh nice",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/jesh%20-%20nice.mp3",
   "platform": "learn_manx",
   "domain": "education",

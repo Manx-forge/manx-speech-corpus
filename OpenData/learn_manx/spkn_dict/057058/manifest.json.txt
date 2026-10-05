@@ -1,6 +1,6 @@
 {
   "ident": "speech-057058",
-  "name": "trome heavy",
+  "name": "Trome heavy",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/trome%20-%20heavy.mp3",
   "platform": "learn_manx",
   "domain": "education",

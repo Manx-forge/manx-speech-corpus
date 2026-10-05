@@ -1,6 +1,6 @@
 {
   "ident": "speech-060405",
-  "name": "1000words_entry_345327",
+  "name": "1000 Words, day 198: Mummig: Cre ren oo jiu? (What did you do today?)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_345327.html",
   "platform": "learn_manx",
   "domain": "education",

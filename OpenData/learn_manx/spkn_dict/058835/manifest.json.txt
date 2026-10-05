@@ -1,6 +1,6 @@
 {
   "ident": "speech-058835",
-  "name": "maddaght maths",
+  "name": "Maddaght maths",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/maddaght%20-%20maths.mp3",
   "platform": "learn_manx",
   "domain": "education",

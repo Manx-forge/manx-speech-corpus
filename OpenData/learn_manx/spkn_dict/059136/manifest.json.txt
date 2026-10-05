@@ -1,6 +1,6 @@
 {
   "ident": "speech-059136",
-  "name": "cashtal castle",
+  "name": "Cashtal castle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/cashtal%20-%20castle.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058062",
-  "name": "jioleyder vacuum cleaner",
+  "name": "Jioleyder vacuum cleaner",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/jioleyder%20-%20vacuum%20cleaner.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866089",
-  "name": "geayney green",
+  "name": "Geayney green",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/Colours_Green.mp3",
   "platform": "learn_manx",
   "domain": "education",

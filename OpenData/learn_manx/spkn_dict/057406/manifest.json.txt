@@ -1,6 +1,6 @@
 {
   "ident": "speech-057406",
-  "name": "braagynquellagh roller skates",
+  "name": "Braagynquellagh roller skates",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/braagynquellagh%20-%20roller%20skates.mp3",
   "platform": "learn_manx",
   "domain": "education",

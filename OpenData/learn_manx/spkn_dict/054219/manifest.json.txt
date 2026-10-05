@@ -1,6 +1,6 @@
 {
   "ident": "speech-054219",
-  "name": "croggeeyl crocodile",
+  "name": "Croggeeyl crocodile",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/croggeeyl%20-%20crocodile.mp3",
   "platform": "learn_manx",
   "domain": "education",

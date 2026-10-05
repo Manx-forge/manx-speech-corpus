@@ -1,6 +1,6 @@
 {
   "ident": "speech-059124",
-  "name": "banc bank",
+  "name": "Banc bank",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/banc%20-%20bank.mp3",
   "platform": "learn_manx",
   "domain": "education",

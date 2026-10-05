@@ -1,6 +1,6 @@
 {
   "ident": "speech-086979",
-  "name": "chronicle 28-40a",
+  "name": "Chronicle 28-40a",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2028-40a.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057529",
-  "name": "daaghyn colours",
+  "name": "Daaghyn colours",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/daaghyn%20-%20colours.mp3",
   "platform": "learn_manx",
   "domain": "education",

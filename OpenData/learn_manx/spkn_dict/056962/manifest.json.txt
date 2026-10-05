@@ -1,6 +1,6 @@
 {
   "ident": "speech-056962",
-  "name": "aalin beautiful",
+  "name": "Aalin beautiful",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/aalin%20-%20beautiful.mp3",
   "platform": "learn_manx",
   "domain": "education",

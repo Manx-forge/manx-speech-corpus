@@ -1,6 +1,6 @@
 {
   "ident": "speech-059442",
-  "name": "cur putting",
+  "name": "Cur putting",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/cur%20-%20putting.mp3",
   "platform": "learn_manx",
   "domain": "education",

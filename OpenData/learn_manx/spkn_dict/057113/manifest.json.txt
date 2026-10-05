@@ -1,6 +1,6 @@
 {
   "ident": "speech-057113",
-  "name": "clooisag pillow",
+  "name": "Clooisag pillow",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/clooisag%20-%20pillow.mp3",
   "platform": "learn_manx",
   "domain": "education",

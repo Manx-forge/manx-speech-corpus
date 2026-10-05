@@ -1,6 +1,6 @@
 {
   "ident": "speech-082594",
-  "name": "chronicle 26a-27",
+  "name": "Chronicle 26a-27",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2026a-27.mp3",
   "platform": "learn_manx",
   "domain": "education",

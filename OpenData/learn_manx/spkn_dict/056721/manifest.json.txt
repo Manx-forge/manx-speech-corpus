@@ -1,6 +1,6 @@
 {
   "ident": "speech-056721",
-  "name": "thummeyder diver",
+  "name": "Thummeyder diver",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/thummeyder%20-%20diver.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-072747",
-  "name": "skeeal_zen_3_aashagh",
+  "name": "Skeealyn Zen 3 (aashagh)",
   "source": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%203%20(aashagh).mp3",
   "platform": "learn_manx",
   "domain": "literary",

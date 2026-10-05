@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865213",
-  "name": "kiaddeyder-jallooyn graphic designer",
+  "name": "Kiaddeyder-jallooyn graphic designer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Graphic%20Designer.mp3",
   "platform": "learn_manx",
   "domain": "education",

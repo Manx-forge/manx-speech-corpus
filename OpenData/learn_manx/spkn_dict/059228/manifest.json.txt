@@ -1,6 +1,6 @@
 {
   "ident": "speech-059228",
-  "name": "railley rail",
+  "name": "Railley rail",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/railley%20-%20rail.mp3",
   "platform": "learn_manx",
   "domain": "education",

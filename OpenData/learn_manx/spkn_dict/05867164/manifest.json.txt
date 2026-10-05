@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867164",
-  "name": "tar dys shoh come here",
+  "name": "Tar dys shoh come here",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Come%20Here.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058499",
-  "name": "oie vie good night",
+  "name": "Oie vie good night",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/oie%20vie%20-%20good%20night.mp3",
   "platform": "learn_manx",
   "domain": "education",

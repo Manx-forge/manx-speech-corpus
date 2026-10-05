@@ -1,6 +1,6 @@
 {
   "ident": "speech-059192",
-  "name": "naighyn carr car wash",
+  "name": "Naighyn carr car wash",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/naighyn%20carr%20-%20car%20wash.mp3",
   "platform": "learn_manx",
   "domain": "education",

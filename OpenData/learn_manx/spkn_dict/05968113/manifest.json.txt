@@ -1,6 +1,6 @@
 {
   "ident": "speech-05968113",
-  "name": "ort",
+  "name": "Ort",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

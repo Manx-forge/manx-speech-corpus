@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865093",
-  "name": "screeudeyr secretary",
+  "name": "Screeudeyr secretary",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Secretary.mp3",
   "platform": "learn_manx",
   "domain": "education",

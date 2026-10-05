@@ -1,6 +1,6 @@
 {
   "ident": "speech-082282",
-  "name": "conversations 01 cummal as gobbraghey",
+  "name": "Conversations 01 cummal as gobbraghey",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2001%20cummal%20as%20gobbraghey.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057204",
-  "name": "beeal mouth",
+  "name": "Beeal mouth",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/beeal%20-%20mouth.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-086940",
-  "name": "chris lewin 01",
+  "name": "Chris lewin 01",
   "source": "https://www.learnmanx.com/media/chris%20lewin/chris%20lewin%2001.mp3",
   "platform": "learn_manx",
   "domain": "education",

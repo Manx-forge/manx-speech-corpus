@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726188",
-  "name": "nastee free (of charge)",
+  "name": "Nastee free (of charge)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Nastee.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866583",
-  "name": "jishig dad",
+  "name": "Jishig dad",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Dad.mp3",
   "platform": "learn_manx",
   "domain": "education",

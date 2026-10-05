@@ -1,6 +1,6 @@
 {
   "ident": "speech-068909",
-  "name": "1000words_entry_337035",
+  "name": "1000 Words, day 166: My vraar (my brother)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_337035.html",
   "platform": "learn_manx",
   "domain": "education",

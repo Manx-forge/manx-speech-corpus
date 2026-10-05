@@ -1,6 +1,6 @@
 {
   "ident": "speech-059677",
-  "name": "geayagh windy",
+  "name": "Geayagh windy",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/geayagh%20-%20windy.mp3",
   "platform": "learn_manx",
   "domain": "education",

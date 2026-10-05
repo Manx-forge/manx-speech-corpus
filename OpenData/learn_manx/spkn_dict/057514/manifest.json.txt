@@ -1,6 +1,6 @@
 {
   "ident": "speech-057514",
-  "name": "troosyn trousers",
+  "name": "Troosyn trousers",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/troosyn%20-%20trousers.mp3",
   "platform": "learn_manx",
   "domain": "education",

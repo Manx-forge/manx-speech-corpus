@@ -1,6 +1,6 @@
 {
   "ident": "speech-058546",
-  "name": "ben-chiaullee female singer",
+  "name": "Ben-chiaullee female singer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20music/ben-chiaullee%20-%20female%20singer.mp3",
   "platform": "learn_manx",
   "domain": "education",

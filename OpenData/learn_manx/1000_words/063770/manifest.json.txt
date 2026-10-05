@@ -1,6 +1,6 @@
 {
   "ident": "speech-063770",
-  "name": "1000words_entry_348714",
+  "name": "1000 Words, day 210: Cre'n traa t'ou goll shappal? (What time are you going shopping?)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_348714.html",
   "platform": "learn_manx",
   "domain": "education",

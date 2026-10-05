@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866345",
-  "name": "carraneyn-thie slippers",
+  "name": "Carraneyn-thie slippers",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Slippers.mp3",
   "platform": "learn_manx",
   "domain": "education",

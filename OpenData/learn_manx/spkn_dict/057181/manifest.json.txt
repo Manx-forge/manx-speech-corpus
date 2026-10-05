@@ -1,6 +1,6 @@
 {
   "ident": "speech-057181",
-  "name": "shamraig camera",
+  "name": "Shamraig camera",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/shamraig%20-%20camera.mp3",
   "platform": "learn_manx",
   "domain": "education",

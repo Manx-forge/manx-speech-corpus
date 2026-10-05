@@ -1,6 +1,6 @@
 {
   "ident": "speech-057010",
-  "name": "mooar big",
+  "name": "Mooar big",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/mooar%20-%20big.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057588",
-  "name": "arroo corn",
+  "name": "Arroo corn",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/arroo%20-%20corn.mp3",
   "platform": "learn_manx",
   "domain": "education",

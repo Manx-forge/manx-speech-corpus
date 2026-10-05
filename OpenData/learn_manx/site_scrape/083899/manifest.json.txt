@@ -1,6 +1,6 @@
 {
   "ident": "speech-083899",
-  "name": "troddan_traaue",
+  "name": "Troddan traaue",
   "source": "https://www.learnmanx.com/media/Files/troddan%20traaue.mp3",
   "platform": "learn_manx",
   "domain": "education",

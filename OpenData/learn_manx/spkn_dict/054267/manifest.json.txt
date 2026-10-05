@@ -1,6 +1,6 @@
 {
   "ident": "speech-054267",
-  "name": "kionesnaue tadpole",
+  "name": "Kionesnaue tadpole",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/kionesnaue%20-%20tadpole.mp3",
   "platform": "learn_manx",
   "domain": "education",

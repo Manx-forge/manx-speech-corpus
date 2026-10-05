@@ -1,6 +1,6 @@
 {
   "ident": "speech-081037",
-  "name": "maralyn_-_holidays",
+  "name": "Maralyn - holidays",
   "source": "https://www.learnmanx.com/media/Files/maralyn%20-%20holidays.mp3",
   "platform": "learn_manx",
   "domain": "education",

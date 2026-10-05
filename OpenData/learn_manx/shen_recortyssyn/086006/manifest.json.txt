@@ -1,6 +1,6 @@
 {
   "ident": "speech-086006",
-  "name": "cooinaghtyn my aegid 03 pages 6-7",
+  "name": "Cooinaghtyn my aegid 03 pages 6-7",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20my%20aegid/cooinaghtyn%20my%20aegid%2003%20pages%206-7.mp3",
   "platform": "learn_manx",
   "domain": "education",

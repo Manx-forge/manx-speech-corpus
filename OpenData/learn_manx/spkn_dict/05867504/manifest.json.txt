@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867504",
-  "name": "chirrym dry",
+  "name": "Chirrym dry",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Dry.mp3",
   "platform": "learn_manx",
   "domain": "education",

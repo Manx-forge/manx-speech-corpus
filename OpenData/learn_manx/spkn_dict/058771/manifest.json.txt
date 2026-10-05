@@ -1,6 +1,6 @@
 {
   "ident": "speech-058771",
-  "name": "frangish French",
+  "name": "Frangish French",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/frangish%20-%20French.mp3",
   "platform": "learn_manx",
   "domain": "education",

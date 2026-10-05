@@ -1,6 +1,6 @@
 {
   "ident": "speech-058102",
-  "name": "poagey bag",
+  "name": "Poagey bag",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/poagey%20-%20bag.mp3",
   "platform": "learn_manx",
   "domain": "education",

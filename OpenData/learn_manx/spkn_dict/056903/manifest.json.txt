@@ -1,6 +1,6 @@
 {
   "ident": "speech-056903",
-  "name": "lossreeyn plants",
+  "name": "Lossreeyn plants",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/lossreeyn%20-%20plants.mp3",
   "platform": "learn_manx",
   "domain": "education",

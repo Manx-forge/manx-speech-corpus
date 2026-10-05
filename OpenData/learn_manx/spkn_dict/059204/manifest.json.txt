@@ -1,6 +1,6 @@
 {
   "ident": "speech-059204",
-  "name": "pemmad pavement",
+  "name": "Pemmad pavement",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/pemmad%20-%20pavement.mp3",
   "platform": "learn_manx",
   "domain": "education",

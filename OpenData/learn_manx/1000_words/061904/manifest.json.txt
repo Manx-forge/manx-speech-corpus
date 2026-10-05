@@ -1,6 +1,6 @@
 {
   "ident": "speech-061904",
-  "name": "1000words_entry_290636",
+  "name": "1000 Words, day 39: Ta Mannann geearree cummal ayns thie mooar ayns Lunnin (Manannan wants to live in a big house in London)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_290636.html",
   "platform": "learn_manx",
   "domain": "education",

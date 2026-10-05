@@ -1,6 +1,6 @@
 {
   "ident": "speech-08735",
-  "name": "conditional lesh dy beagh tony ayns shoh",
+  "name": "Conditional lesh dy beagh tony ayns shoh",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20checklist/conditional%20lesh%20dy%20beagh%20tony%20ayns%20shoh.mp3",
   "platform": "learn_manx",
   "domain": "education",

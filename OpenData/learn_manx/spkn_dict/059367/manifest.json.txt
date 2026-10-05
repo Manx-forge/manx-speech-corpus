@@ -1,6 +1,6 @@
 {
   "ident": "speech-059367",
-  "name": "thiollane tunnel",
+  "name": "Thiollane tunnel",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/thiollane%20-%20tunnel.mp3",
   "platform": "learn_manx",
   "domain": "education",

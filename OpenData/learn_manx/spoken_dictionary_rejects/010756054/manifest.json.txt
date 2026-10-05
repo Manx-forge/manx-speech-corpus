@@ -1,6 +1,6 @@
 {
   "ident": "speech-010756054",
-  "name": "learn_manx 010756054",
+  "name": "“magh tree…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

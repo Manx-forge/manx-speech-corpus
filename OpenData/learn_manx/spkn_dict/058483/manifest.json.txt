@@ -1,6 +1,6 @@
 {
   "ident": "speech-058483",
-  "name": "nollick Christmas",
+  "name": "Nollick Christmas",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/nollick%20-%20Christmas.mp3",
   "platform": "learn_manx",
   "domain": "education",

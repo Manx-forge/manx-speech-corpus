@@ -1,6 +1,6 @@
 {
   "ident": "speech-057612",
-  "name": "cabbane tent",
+  "name": "Cabbane tent",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/cabbane%20-%20tent.mp3",
   "platform": "learn_manx",
   "domain": "education",

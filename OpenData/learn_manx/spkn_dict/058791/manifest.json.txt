@@ -1,6 +1,6 @@
 {
   "ident": "speech-058791",
-  "name": "kelk chalk",
+  "name": "Kelk chalk",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/kelk%20-%20church.mp3",
   "platform": "learn_manx",
   "domain": "education",

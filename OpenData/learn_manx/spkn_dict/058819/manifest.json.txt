@@ -1,6 +1,6 @@
 {
   "ident": "speech-058819",
-  "name": "lioar book",
+  "name": "Lioar book",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/lioar%20-%20book.mp3",
   "platform": "learn_manx",
   "domain": "education",

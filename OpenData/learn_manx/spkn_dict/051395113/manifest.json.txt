@@ -1,6 +1,6 @@
 {
   "ident": "speech-051395113",
-  "name": "er y fa dy vel eh beg",
+  "name": "Er y fa dy vel eh beg",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865621",
-  "name": "daa-yeig twelve (12)",
+  "name": "Daa-yeig twelve (12)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20numbers/numbers_Daa%20yeig-%20twelve.mp3",
   "platform": "learn_manx",
   "domain": "education",

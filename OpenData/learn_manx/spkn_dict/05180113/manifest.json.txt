@@ -1,6 +1,6 @@
 {
   "ident": "speech-05180113",
-  "name": "er y vaatey",
+  "name": "Er y vaatey",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-054207",
-  "name": "cabbyl horse",
+  "name": "Cabbyl horse",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/cabbyl%20-%20horse.mp3",
   "platform": "learn_manx",
   "domain": "education",

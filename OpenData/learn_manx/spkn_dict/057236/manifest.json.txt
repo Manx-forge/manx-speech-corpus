@@ -1,6 +1,6 @@
 {
   "ident": "speech-057236",
-  "name": "folt hair",
+  "name": "Folt hair",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/folt%20-%20hair.mp3",
   "platform": "learn_manx",
   "domain": "education",

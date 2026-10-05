@@ -1,6 +1,6 @@
 {
   "ident": "speech-058166",
-  "name": "uinnag window",
+  "name": "Uinnag window",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/uinnag%20-%20window.mp3",
   "platform": "learn_manx",
   "domain": "education",

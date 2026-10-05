@@ -1,6 +1,6 @@
 {
   "ident": "speech-058859",
-  "name": "runtag marble",
+  "name": "Runtag marble",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/runtag%20-%20marble.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-084565",
-  "name": "cooinaghtyn my aegid 07pages 17-jerrey",
+  "name": "Cooinaghtyn my aegid 07pages 17-jerrey",
   "source": "https://www.learnmanx.com/media/cooinaghtyn%20my%20aegid/cooinaghtyn%20my%20aegid%2007pages%2017-jerrey.mp3",
   "platform": "learn_manx",
   "domain": "education",

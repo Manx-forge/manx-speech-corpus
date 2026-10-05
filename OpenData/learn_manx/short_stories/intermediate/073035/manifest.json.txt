@@ -1,6 +1,6 @@
 {
   "ident": "speech-073035",
-  "name": "tey_aashagh",
+  "name": "Tey aashagh",
   "source": "https://www.learnmanx.com/media//Comprehensible%20input/Peeshyn%20elley/Tey%201.mp3",
   "platform": "learn_manx",
   "domain": "literary",

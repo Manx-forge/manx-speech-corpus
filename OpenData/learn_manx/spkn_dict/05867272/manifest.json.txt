@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867272",
-  "name": "y ghermaan germany",
+  "name": "Y ghermaan germany",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Germany.mp3",
   "platform": "learn_manx",
   "domain": "education",

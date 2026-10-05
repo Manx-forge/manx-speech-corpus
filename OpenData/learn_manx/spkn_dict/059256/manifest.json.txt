@@ -1,6 +1,6 @@
 {
   "ident": "speech-059256",
-  "name": "thie-lheihys hospital",
+  "name": "Thie-lheihys hospital",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/thie-lheihys%20-%20hospital.mp3",
   "platform": "learn_manx",
   "domain": "education",

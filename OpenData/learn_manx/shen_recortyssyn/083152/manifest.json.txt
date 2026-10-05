@@ -1,6 +1,6 @@
 {
   "ident": "speech-083152",
-  "name": "conversations 10 cren traa",
+  "name": "Conversations 10 cren traa",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2010%20cren%20traa.mp3",
   "platform": "learn_manx",
   "domain": "education",

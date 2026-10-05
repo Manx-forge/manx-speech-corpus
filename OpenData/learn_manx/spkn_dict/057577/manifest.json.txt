@@ -1,6 +1,6 @@
 {
   "ident": "speech-057577",
-  "name": "lheeah grey",
+  "name": "Lheeah grey",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/lheeah%20-%20grey.mp3",
   "platform": "learn_manx",
   "domain": "education",

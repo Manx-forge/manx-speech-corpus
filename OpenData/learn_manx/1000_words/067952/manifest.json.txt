@@ -1,6 +1,6 @@
 {
   "ident": "speech-067952",
-  "name": "1000words_entry_345337",
+  "name": "1000 Words, day 200: Mummig: Cre’n sorçh brishtagyn ren oo kionnaghey? (What type of biscuits did you buy?)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_345337.html",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058978",
-  "name": "kaayrt playing card",
+  "name": "Kaayrt playing card",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/kaayrt%20-%20playing%20card.mp3",
   "platform": "learn_manx",
   "domain": "education",

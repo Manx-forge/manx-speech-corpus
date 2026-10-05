@@ -1,6 +1,6 @@
 {
   "ident": "speech-066959",
-  "name": "1000words_entry_342063",
+  "name": "1000 Words, day 187: dou (to me)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_342063.html",
   "platform": "learn_manx",
   "domain": "education",

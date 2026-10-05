@@ -1,6 +1,6 @@
 {
   "ident": "speech-058723",
-  "name": "cheer oayleeaght geography",
+  "name": "Cheer oayleeaght geography",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/cheer%20oayleeaght%20-%20geography.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-01029490",
-  "name": "learn_manx 01029490",
+  "name": "“o yee son wheesh as dt'egooish…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

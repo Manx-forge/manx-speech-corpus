@@ -1,6 +1,6 @@
 {
   "ident": "speech-072828",
-  "name": "ren_mee_eh_john_pilling_translated_by_bob_carswell",
+  "name": "Ren mee eh (John Pilling, translated by Bob Carswell)",
   "source": "https://www.learnmanx.com/media//Stories/Ren_Mee_Eh_John_Pilling.mp3",
   "platform": "learn_manx",
   "domain": "literary",

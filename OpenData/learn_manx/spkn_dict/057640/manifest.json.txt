@@ -1,6 +1,6 @@
 {
   "ident": "speech-057640",
-  "name": "druight dew",
+  "name": "Druight dew",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/druight%20-%20dew.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057422",
-  "name": "cooat coat",
+  "name": "Cooat coat",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/cooat%20-%20coat.mp3",
   "platform": "learn_manx",
   "domain": "education",

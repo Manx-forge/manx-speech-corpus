@@ -1,6 +1,6 @@
 {
   "ident": "speech-057426",
-  "name": "cooat shamyr dressing gown",
+  "name": "Cooat shamyr dressing gown",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/cooat%20shamyr%20-%20dressing%20gown.mp3",
   "platform": "learn_manx",
   "domain": "education",

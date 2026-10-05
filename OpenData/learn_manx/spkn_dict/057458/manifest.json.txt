@@ -1,6 +1,6 @@
 {
   "ident": "speech-057458",
-  "name": "gansee-foshlee cardigan",
+  "name": "Gansee-foshlee cardigan",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/gansee-foshlee%20-%20cardigan.mp3",
   "platform": "learn_manx",
   "domain": "education",

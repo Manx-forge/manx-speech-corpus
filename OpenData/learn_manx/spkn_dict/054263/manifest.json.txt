@@ -1,6 +1,6 @@
 {
   "ident": "speech-054263",
-  "name": "jolgane-leaghyr lizard",
+  "name": "Jolgane-leaghyr lizard",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/jolgane-leaghyr%20-%20lizard.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058795",
-  "name": "kelk-daah colured chalk",
+  "name": "Kelk-daah colured chalk",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/kelk-daah%20-%20colured%20chalk.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058375",
-  "name": "jerdein thursday",
+  "name": "Jerdein thursday",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jerdein%20-%20thursday.mp3",
   "platform": "learn_manx",
   "domain": "education",

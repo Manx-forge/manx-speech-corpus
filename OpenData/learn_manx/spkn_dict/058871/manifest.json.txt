@@ -1,6 +1,6 @@
 {
   "ident": "speech-058871",
-  "name": "scryssane eraser",
+  "name": "Scryssane eraser",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/scryssane%20-%20eraser.mp3",
   "platform": "learn_manx",
   "domain": "education",

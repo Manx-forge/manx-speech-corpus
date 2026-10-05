@@ -1,6 +1,6 @@
 {
   "ident": "speech-056863",
-  "name": "breeck brick",
+  "name": "Breeck brick",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/breeck%20-%20brick.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-086182",
-  "name": "conversations 08 va as ren",
+  "name": "Conversations 08 va as ren",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2008%20va%20as%20ren.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865649",
-  "name": "nuy-jeig nineteen (19)",
+  "name": "Nuy-jeig nineteen (19)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20numbers/numbers_nuy%20jeig-%20nineteen.mp3",
   "platform": "learn_manx",
   "domain": "education",

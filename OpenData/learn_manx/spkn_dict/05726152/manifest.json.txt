@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726152",
-  "name": "corree Angry",
+  "name": "Corree Angry",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Corree.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867412",
-  "name": "y vietnam vietnam",
+  "name": "Y vietnam vietnam",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Vietnam.mp3",
   "platform": "learn_manx",
   "domain": "education",

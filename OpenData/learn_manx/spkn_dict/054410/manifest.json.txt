@@ -1,6 +1,6 @@
 {
   "ident": "speech-054410",
-  "name": "dooinney-poosee bridgroom",
+  "name": "Dooinney-poosee bridgroom",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/dooinney-poosee%20-%20bridgroom.mp3",
   "platform": "learn_manx",
   "domain": "education",

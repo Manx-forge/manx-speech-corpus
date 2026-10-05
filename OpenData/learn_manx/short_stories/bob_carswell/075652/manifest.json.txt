@@ -1,6 +1,6 @@
 {
   "ident": "speech-075652",
-  "name": "y_post_l_john_pilling_translated_by_bob_carswell",
+  "name": "Y post l (John Pilling, translated by Bob Carswell)",
   "source": "https://www.learnmanx.com/media//Stories/Y_Post-L_John_Pilling.mp3",
   "platform": "learn_manx",
   "domain": "literary",

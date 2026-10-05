@@ -1,6 +1,6 @@
 {
   "ident": "speech-085088",
-  "name": "lessoon 6 2",
+  "name": "Lessoon 6 2",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/lessoon%206%202.mp3",
   "platform": "learn_manx",
   "domain": "education",

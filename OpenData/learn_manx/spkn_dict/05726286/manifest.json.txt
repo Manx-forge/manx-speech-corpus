@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726286",
-  "name": "praaseyn potatoes",
+  "name": "Praaseyn potatoes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Praaseyn.mp3",
   "platform": "learn_manx",
   "domain": "education",

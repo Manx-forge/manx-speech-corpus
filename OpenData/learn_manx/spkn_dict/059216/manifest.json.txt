@@ -1,6 +1,6 @@
 {
   "ident": "speech-059216",
-  "name": "pryssoon prison",
+  "name": "Pryssoon prison",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/pryssoon%20-%20prison.mp3",
   "platform": "learn_manx",
   "domain": "education",

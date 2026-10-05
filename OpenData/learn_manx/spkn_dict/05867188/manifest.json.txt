@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867188",
-  "name": "cur dou eh give it to me",
+  "name": "Cur dou eh give it to me",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Give%20It%20To%20Me.mp3",
   "platform": "learn_manx",
   "domain": "education",

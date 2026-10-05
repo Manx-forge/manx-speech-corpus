@@ -1,6 +1,6 @@
 {
   "ident": "speech-057763",
-  "name": "blennican spinnach",
+  "name": "Blennican spinnach",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/blennican%20-%20spinnach.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-054343",
-  "name": "shellan bee",
+  "name": "Shellan bee",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/shellan%20-%20bee.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058815",
-  "name": "kishan-pabyr waste paper basket",
+  "name": "Kishan-pabyr waste paper basket",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/kishan-pabyr%20-%20waste%20paper%20basket.mp3",
   "platform": "learn_manx",
   "domain": "education",

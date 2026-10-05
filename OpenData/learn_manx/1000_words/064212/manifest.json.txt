@@ -1,6 +1,6 @@
 {
   "ident": "speech-064212",
-  "name": "1000words_entry_336980",
+  "name": "1000 Words, day 155: Lurg shen (after that)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_336980.html",
   "platform": "learn_manx",
   "domain": "education",

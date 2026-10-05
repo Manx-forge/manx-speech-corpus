@@ -1,6 +1,6 @@
 {
   "ident": "speech-058751",
-  "name": "driaght-pabyr paper chains",
+  "name": "Driaght-pabyr paper chains",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/driaght-pabyr%20-%20paper%20chains.mp3",
   "platform": "learn_manx",
   "domain": "education",

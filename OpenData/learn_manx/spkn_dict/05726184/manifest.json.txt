@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726184",
-  "name": "moal slow, sluggish, listless",
+  "name": "Moal slow, sluggish, listless",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Moal.mp3",
   "platform": "learn_manx",
   "domain": "education",

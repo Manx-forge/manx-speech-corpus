@@ -1,6 +1,6 @@
 {
   "ident": "speech-057145",
-  "name": "kere comb",
+  "name": "Kere comb",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/kere%20-%20comb.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-059657",
-  "name": "emshyr weather",
+  "name": "Emshyr weather",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/emshyr%20-%20weather.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-059339",
-  "name": "soilshaghyn mooarey headlights",
+  "name": "Soilshaghyn mooarey headlights",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/soilshaghyn%20mooarey%20-%20headlights.mp3",
   "platform": "learn_manx",
   "domain": "education",

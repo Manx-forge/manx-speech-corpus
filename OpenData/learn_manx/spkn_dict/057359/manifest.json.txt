@@ -1,6 +1,6 @@
 {
   "ident": "speech-057359",
-  "name": "parrad parrot",
+  "name": "Parrad parrot",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/parrad%20-%20parrot.mp3",
   "platform": "learn_manx",
   "domain": "education",

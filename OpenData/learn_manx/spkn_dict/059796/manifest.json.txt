@@ -1,6 +1,6 @@
 {
   "ident": "speech-059796",
-  "name": "skeaban brush",
+  "name": "Skeaban brush",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/skeaban%20-%20brush.mp3",
   "platform": "learn_manx",
   "domain": "education",

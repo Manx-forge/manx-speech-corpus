@@ -1,6 +1,6 @@
 {
   "ident": "speech-058759",
-  "name": "ellan art",
+  "name": "Ellan art",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/ellan%20-%20art.mp3",
   "platform": "learn_manx",
   "domain": "education",

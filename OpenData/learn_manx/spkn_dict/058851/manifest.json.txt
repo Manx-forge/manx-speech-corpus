@@ -1,6 +1,6 @@
 {
   "ident": "speech-058851",
-  "name": "pot slaa paint pot",
+  "name": "Pot slaa paint pot",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/pot%20slaa%20-%20paint%20pot.mp3",
   "platform": "learn_manx",
   "domain": "education",

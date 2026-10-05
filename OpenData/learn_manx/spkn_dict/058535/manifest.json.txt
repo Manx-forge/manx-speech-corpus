@@ -1,6 +1,6 @@
 {
   "ident": "speech-058535",
-  "name": "yn gheurey the winter",
+  "name": "Yn gheurey the winter",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/yn%20gheurey%20-%20the%20winter.mp3",
   "platform": "learn_manx",
   "domain": "education",

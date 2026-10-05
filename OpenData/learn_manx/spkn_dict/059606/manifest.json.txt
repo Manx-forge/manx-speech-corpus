@@ -1,6 +1,6 @@
 {
   "ident": "speech-059606",
-  "name": "tuittym falling",
+  "name": "Tuittym falling",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/tuittym%20-%20falling.mp3",
   "platform": "learn_manx",
   "domain": "education",

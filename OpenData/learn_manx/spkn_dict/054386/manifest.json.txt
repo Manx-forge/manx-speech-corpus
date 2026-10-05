@@ -1,6 +1,6 @@
 {
   "ident": "speech-054386",
-  "name": "caayrphuttee push chair",
+  "name": "Caayrphuttee push chair",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/caayrphuttee%20-%20push%20chair.mp3",
   "platform": "learn_manx",
   "domain": "education",

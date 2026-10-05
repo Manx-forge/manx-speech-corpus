@@ -1,6 +1,6 @@
 {
   "ident": "speech-057398",
-  "name": "braagyn-roie running shoes",
+  "name": "Braagyn-roie running shoes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/braagyn-roie%20-%20running%20shoes.mp3",
   "platform": "learn_manx",
   "domain": "education",

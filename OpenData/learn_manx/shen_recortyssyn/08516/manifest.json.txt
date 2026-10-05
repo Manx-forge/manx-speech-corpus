@@ -1,6 +1,6 @@
 {
   "ident": "speech-08516",
-  "name": "chronicle 75-79",
+  "name": "Chronicle 75-79",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2075-79.mp3",
   "platform": "learn_manx",
   "domain": "education",

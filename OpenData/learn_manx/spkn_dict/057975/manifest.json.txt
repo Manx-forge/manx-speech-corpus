@@ -1,6 +1,6 @@
 {
   "ident": "speech-057975",
-  "name": "sollan salt",
+  "name": "Sollan salt",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/sollan%20-%20salt.mp3",
   "platform": "learn_manx",
   "domain": "education",

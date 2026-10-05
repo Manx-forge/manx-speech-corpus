@@ -1,6 +1,6 @@
 {
   "ident": "speech-058170",
-  "name": "yiarn smoodal iron",
+  "name": "Yiarn smoodal iron",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/yiarn%20smoodal%20-%20iron.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057272",
-  "name": "mollee eyebrow",
+  "name": "Mollee eyebrow",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/mollee%20-%20eyebrow.mp3",
   "platform": "learn_manx",
   "domain": "education",

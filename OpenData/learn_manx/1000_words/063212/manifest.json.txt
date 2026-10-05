@@ -1,6 +1,6 @@
 {
   "ident": "speech-063212",
-  "name": "1000words_entry_348699",
+  "name": "1000 Words, day 207: C'red t'ou jannoo? (What are you doing?)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_348699.html",
   "platform": "learn_manx",
   "domain": "education",

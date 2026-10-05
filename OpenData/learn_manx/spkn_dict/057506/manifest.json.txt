@@ -1,6 +1,6 @@
 {
   "ident": "speech-057506",
-  "name": "tayrnag zip",
+  "name": "Tayrnag zip",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/tayrnag%20-%20zip.mp3",
   "platform": "learn_manx",
   "domain": "education",

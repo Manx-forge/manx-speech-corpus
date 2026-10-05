@@ -1,6 +1,6 @@
 {
   "ident": "speech-051995113",
-  "name": "er y chlag",
+  "name": "Er y chlag",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

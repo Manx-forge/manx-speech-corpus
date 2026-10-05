@@ -1,6 +1,6 @@
 {
   "ident": "speech-051320113",
-  "name": "er y clieau",
+  "name": "Er y clieau",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

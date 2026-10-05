@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867432",
-  "name": "roauyr fat",
+  "name": "Roauyr fat",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Fat.mp3",
   "platform": "learn_manx",
   "domain": "education",

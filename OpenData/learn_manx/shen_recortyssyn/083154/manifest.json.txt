@@ -1,6 +1,6 @@
 {
   "ident": "speech-083154",
-  "name": "conversations 02 ta",
+  "name": "Conversations 02 ta",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2002%20ta.mp3",
   "platform": "learn_manx",
   "domain": "education",

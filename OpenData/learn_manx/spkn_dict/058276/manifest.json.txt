@@ -1,6 +1,6 @@
 {
   "ident": "speech-058276",
-  "name": "frynnepan frying pan",
+  "name": "Frynnepan frying pan",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/frynnepan%20-%20frying%20pan.mp3",
   "platform": "learn_manx",
   "domain": "education",

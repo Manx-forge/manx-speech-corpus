@@ -1,6 +1,6 @@
 {
   "ident": "speech-058292",
-  "name": "milleen pill",
+  "name": "Milleen pill",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/milleen%20-%20pill.mp3",
   "platform": "learn_manx",
   "domain": "education",

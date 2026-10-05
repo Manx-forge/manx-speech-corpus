@@ -1,6 +1,6 @@
 {
   "ident": "speech-058324",
-  "name": "spein spoon",
+  "name": "Spein spoon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/spein%20-%20spoon.mp3",
   "platform": "learn_manx",
   "domain": "education",

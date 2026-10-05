@@ -1,6 +1,6 @@
 {
   "ident": "speech-057339",
-  "name": "hullad owl",
+  "name": "Hullad owl",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/hullad%20-%20owl.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058034",
-  "name": "clooid duster",
+  "name": "Clooid duster",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/clooid%20-%20duster.mp3",
   "platform": "learn_manx",
   "domain": "education",

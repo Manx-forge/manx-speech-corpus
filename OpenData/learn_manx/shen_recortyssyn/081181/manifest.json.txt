@@ -1,6 +1,6 @@
 {
   "ident": "speech-081181",
-  "name": "conversations 09 hie as honnick",
+  "name": "Conversations 09 hie as honnick",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2009%20hie%20as%20honnick.mp3",
   "platform": "learn_manx",
   "domain": "education",

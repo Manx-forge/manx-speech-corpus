@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866329",
-  "name": "troosyn-snaue swimming shorts",
+  "name": "Troosyn-snaue swimming shorts",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Swimshorts.mp3",
   "platform": "learn_manx",
   "domain": "education",

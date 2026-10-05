@@ -1,6 +1,6 @@
 {
   "ident": "speech-057177",
-  "name": "scudlagh luggage",
+  "name": "Scudlagh luggage",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/scudlagh%20-%20luggage.mp3",
   "platform": "learn_manx",
   "domain": "education",

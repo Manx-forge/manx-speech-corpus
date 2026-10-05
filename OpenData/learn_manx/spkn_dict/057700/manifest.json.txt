@@ -1,6 +1,6 @@
 {
   "ident": "speech-057700",
-  "name": "slieau mountain",
+  "name": "Slieau mountain",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/slieau%20-%20mountain.mp3",
   "platform": "learn_manx",
   "domain": "education",

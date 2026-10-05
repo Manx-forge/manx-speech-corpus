@@ -1,6 +1,6 @@
 {
   "ident": "speech-057208",
-  "name": "boyn heel",
+  "name": "Boyn heel",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/boyn%20-%20heel.mp3",
   "platform": "learn_manx",
   "domain": "education",

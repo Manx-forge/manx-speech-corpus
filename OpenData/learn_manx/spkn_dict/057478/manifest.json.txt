@@ -1,6 +1,6 @@
 {
   "ident": "speech-057478",
-  "name": "oashyryn socks",
+  "name": "Oashyryn socks",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/oashyryn%20-%20socks.mp3",
   "platform": "learn_manx",
   "domain": "education",

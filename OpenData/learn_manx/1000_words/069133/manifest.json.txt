@@ -1,6 +1,6 @@
 {
   "ident": "speech-069133",
-  "name": "1000words_entry_318127",
+  "name": "1000 Words, day 88: Feer tappee (very quick)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_318127.html",
   "platform": "learn_manx",
   "domain": "education",

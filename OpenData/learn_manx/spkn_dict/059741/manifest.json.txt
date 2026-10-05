@@ -1,6 +1,6 @@
 {
   "ident": "speech-059741",
-  "name": "çhirrym dry",
+  "name": "Çhirrym dry",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/chirrym%20-%20dry.mp3",
   "platform": "learn_manx",
   "domain": "education",

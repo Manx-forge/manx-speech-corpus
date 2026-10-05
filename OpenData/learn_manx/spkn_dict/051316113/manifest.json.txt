@@ -1,6 +1,6 @@
 {
   "ident": "speech-051316113",
-  "name": "er y traid",
+  "name": "Er y traid",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

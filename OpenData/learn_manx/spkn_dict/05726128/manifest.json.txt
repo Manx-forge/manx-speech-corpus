@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726128",
-  "name": "aeg young",
+  "name": "Aeg young",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Aeg.mp3",
   "platform": "learn_manx",
   "domain": "education",

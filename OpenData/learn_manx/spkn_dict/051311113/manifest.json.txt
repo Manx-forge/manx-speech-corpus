@@ -1,6 +1,6 @@
 {
   "ident": "speech-051311113",
-  "name": "er y dorrys",
+  "name": "Er y dorrys",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058566",
-  "name": "kiaull music",
+  "name": "Kiaull music",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20music/kiaull%20-%20music.mp3",
   "platform": "learn_manx",
   "domain": "education",

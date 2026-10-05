@@ -1,6 +1,6 @@
 {
   "ident": "speech-058439",
-  "name": "mean-fouyir September",
+  "name": "Mean-fouyir September",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mean-fouyir%20-%20September.mp3",
   "platform": "learn_manx",
   "domain": "education",

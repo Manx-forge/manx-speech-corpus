@@ -1,6 +1,6 @@
 {
   "ident": "speech-05680113",
-  "name": "ayns Colby",
+  "name": "Ayns Colby",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

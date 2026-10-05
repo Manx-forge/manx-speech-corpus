@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867240",
-  "name": "y chorn cornwall",
+  "name": "Y chorn cornwall",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Cornwall.mp3",
   "platform": "learn_manx",
   "domain": "education",

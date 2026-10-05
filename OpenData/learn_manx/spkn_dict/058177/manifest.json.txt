@@ -1,6 +1,6 @@
 {
   "ident": "speech-058177",
-  "name": "castreycair middlin",
+  "name": "Castreycair middlin",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/castreycair%20-%20middlin.mp3",
   "platform": "learn_manx",
   "domain": "education",

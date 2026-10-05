@@ -1,6 +1,6 @@
 {
   "ident": "speech-051779113",
-  "name": "dy Kiarailagh",
+  "name": "Dy Kiarailagh",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

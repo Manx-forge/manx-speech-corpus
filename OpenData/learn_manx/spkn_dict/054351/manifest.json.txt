@@ -1,6 +1,6 @@
 {
   "ident": "speech-054351",
-  "name": "shynnagh fox",
+  "name": "Shynnagh fox",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/shynnagh%20-%20fox.mp3",
   "platform": "learn_manx",
   "domain": "education",

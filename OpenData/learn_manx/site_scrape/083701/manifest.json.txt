@@ -1,6 +1,6 @@
 {
   "ident": "speech-083701",
-  "name": "ayrn_21",
+  "name": "Vampire Murders, part 21",
   "source": "https://www.learnmanx.com/media/Vampire%20murders/ayrn%2021.mp3",
   "platform": "learn_manx",
   "domain": "education",

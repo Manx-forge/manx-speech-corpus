@@ -1,6 +1,6 @@
 {
   "ident": "speech-073793",
-  "name": "requiescat_in_pace_john_pilling_translated_by_bob_carswell",
+  "name": "Requiescat in pace (John Pilling, translated by Bob Carswell)",
   "source": "https://www.learnmanx.com/media//Stories/Requiescat_in_Pace_John_Pilling.mp3",
   "platform": "learn_manx",
   "domain": "literary",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865445",
-  "name": "ooyllyn apples",
+  "name": "Ooyllyn apples",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Apples_Ooyllyn(A).mp3",
   "platform": "learn_manx",
   "domain": "education",

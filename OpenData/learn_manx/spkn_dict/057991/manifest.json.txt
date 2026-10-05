@@ -1,6 +1,6 @@
 {
   "ident": "speech-057991",
-  "name": "spollagyn chips",
+  "name": "Spollagyn chips",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/spollagyn%20-%20chips.mp3",
   "platform": "learn_manx",
   "domain": "education",

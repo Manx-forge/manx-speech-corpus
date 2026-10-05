@@ -1,6 +1,6 @@
 {
   "ident": "speech-05660113",
-  "name": "ayns Purt Çhiarn",
+  "name": "Ayns Purt Çhiarn",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

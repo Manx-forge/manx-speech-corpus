@@ -1,6 +1,6 @@
 {
   "ident": "speech-057109",
-  "name": "claare record",
+  "name": "Claare record",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/claare%20-%20record.mp3",
   "platform": "learn_manx",
   "domain": "education",

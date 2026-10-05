@@ -1,6 +1,6 @@
 {
   "ident": "speech-085028",
-  "name": "conversations 15 smie share",
+  "name": "Conversations 15 smie share",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2015%20smie%20share.mp3",
   "platform": "learn_manx",
   "domain": "education",

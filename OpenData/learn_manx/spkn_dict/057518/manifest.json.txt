@@ -1,6 +1,6 @@
 {
   "ident": "speech-057518",
-  "name": "troosyn-cuttagh shorts",
+  "name": "Troosyn-cuttagh shorts",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/troosyn-cuttagh%20-%20shorts.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057335",
-  "name": "fedjag feather",
+  "name": "Fedjag feather",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/fedjag%20-%20feather.mp3",
   "platform": "learn_manx",
   "domain": "education",

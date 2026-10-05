@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865161",
-  "name": "lhee-baagh vet",
+  "name": "Lhee-baagh vet",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Vet.mp3",
   "platform": "learn_manx",
   "domain": "education",

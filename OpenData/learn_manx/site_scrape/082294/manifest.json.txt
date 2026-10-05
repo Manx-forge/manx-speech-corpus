@@ -1,6 +1,6 @@
 {
   "ident": "speech-082294",
-  "name": "ab_20_a",
+  "name": "Annie and Breesha 20a",
   "source": "https://www.learnmanx.com/media/annie%20and%20breesha/ab%2020%20a.mp3",
   "platform": "learn_manx",
   "domain": "education",

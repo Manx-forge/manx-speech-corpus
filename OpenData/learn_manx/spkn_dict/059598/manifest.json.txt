@@ -1,6 +1,6 @@
 {
   "ident": "speech-059598",
-  "name": "tilgey throw",
+  "name": "Tilgey throw",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/tilgey%20-%20throw.mp3",
   "platform": "learn_manx",
   "domain": "education",

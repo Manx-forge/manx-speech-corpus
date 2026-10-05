@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866225",
-  "name": "yngin fingernail",
+  "name": "Yngin fingernail",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Fingernail.mp3",
   "platform": "learn_manx",
   "domain": "education",

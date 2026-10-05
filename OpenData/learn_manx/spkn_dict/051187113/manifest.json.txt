@@ -1,6 +1,6 @@
 {
   "ident": "speech-051187113",
-  "name": "yn twoaie",
+  "name": "Yn twoaie",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

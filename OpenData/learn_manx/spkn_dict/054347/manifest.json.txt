@@ -1,6 +1,6 @@
 {
   "ident": "speech-054347",
-  "name": "shellan cabbyl wasp",
+  "name": "Shellan cabbyl wasp",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/shellan%20cabbyl%20-%20wasp.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058863",
-  "name": "rhome rhombus",
+  "name": "Rhome rhombus",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/rhome%20-%20rhombus.mp3",
   "platform": "learn_manx",
   "domain": "education",

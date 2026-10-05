@@ -1,6 +1,6 @@
 {
   "ident": "speech-064133",
-  "name": "1000words_entry_331911",
+  "name": "1000 Words, day 141: Harrish (over)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_331911.html",
   "platform": "learn_manx",
   "domain": "education",

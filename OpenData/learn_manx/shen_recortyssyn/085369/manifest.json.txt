@@ -1,6 +1,6 @@
 {
   "ident": "speech-085369",
-  "name": "doug faragher prouncing thy body",
+  "name": "Doug faragher prouncing thy body",
   "source": "https://www.learnmanx.com/media/Pronouning%20Dictionary/doug%20faragher%20prouncing%20thy%20body.mp3",
   "platform": "learn_manx",
   "domain": "education",

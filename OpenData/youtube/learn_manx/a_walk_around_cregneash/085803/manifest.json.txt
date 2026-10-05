@@ -1,6 +1,6 @@
 {
   "ident": "speech-085803",
-  "name": "part three",
+  "name": "A Walk Around Cregneash, part three",
   "source": "https://www.youtube.com/watch?v=Pw3yK3RWOdQ",
   "platform": "youtube",
   "domain": "education",

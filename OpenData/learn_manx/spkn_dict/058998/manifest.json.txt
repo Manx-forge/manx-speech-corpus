@@ -1,6 +1,6 @@
 {
   "ident": "speech-058998",
-  "name": "ratchal-cabbyl horseracing",
+  "name": "Ratchal-cabbyl horseracing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/ratchal-cabbyl%20-%20horseracing.mp3",
   "platform": "learn_manx",
   "domain": "education",

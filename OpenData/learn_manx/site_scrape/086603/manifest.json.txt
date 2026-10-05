@@ -1,6 +1,6 @@
 {
   "ident": "speech-086603",
-  "name": "maralyn_-_why_manx",
+  "name": "Maralyn - why manx",
   "source": "https://www.learnmanx.com/media/Files/maralyn%20-%20why%20manx.mp3",
   "platform": "learn_manx",
   "domain": "education",

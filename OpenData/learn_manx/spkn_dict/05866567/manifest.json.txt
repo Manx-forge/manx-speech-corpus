@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866567",
-  "name": "oe-mac grandson",
+  "name": "Oe-mac grandson",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Grandson.mp3",
   "platform": "learn_manx",
   "domain": "education",

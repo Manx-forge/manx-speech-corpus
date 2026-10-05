@@ -1,6 +1,6 @@
 {
   "ident": "speech-085483",
-  "name": "oaesir_gaelgagh",
+  "name": "Oaesir gaelgagh",
   "source": "https://www.learnmanx.com/media/Files/oaesir%20gaelgagh.mp3",
   "platform": "learn_manx",
   "domain": "education",

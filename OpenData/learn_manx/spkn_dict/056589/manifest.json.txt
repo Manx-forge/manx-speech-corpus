@@ -1,6 +1,6 @@
 {
   "ident": "speech-056589",
-  "name": "ben-daunsin female dancer",
+  "name": "Ben-daunsin female dancer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/ben-daunsin%20-%20female%20dancer.mp3",
   "platform": "learn_manx",
   "domain": "education",

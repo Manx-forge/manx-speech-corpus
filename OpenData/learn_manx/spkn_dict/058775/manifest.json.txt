@@ -1,6 +1,6 @@
 {
   "ident": "speech-058775",
-  "name": "gaelg Manx",
+  "name": "Gaelg Manx",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/gaelg%20-%20Manx.mp3",
   "platform": "learn_manx",
   "domain": "education",

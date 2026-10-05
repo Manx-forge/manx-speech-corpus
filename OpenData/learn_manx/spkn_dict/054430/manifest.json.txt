@@ -1,6 +1,6 @@
 {
   "ident": "speech-054430",
-  "name": "moir mother",
+  "name": "Moir mother",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/moir%20-%20mother.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865137",
-  "name": "tendeilagh waiter",
+  "name": "Tendeilagh waiter",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Waiter.mp3",
   "platform": "learn_manx",
   "domain": "education",

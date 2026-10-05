@@ -1,6 +1,6 @@
 {
   "ident": "speech-057791",
-  "name": "collag cauliflower",
+  "name": "Collag cauliflower",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/collag%20-%20cauliflower.mp3",
   "platform": "learn_manx",
   "domain": "education",

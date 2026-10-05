@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865201",
-  "name": "cloieder actor",
+  "name": "Cloieder actor",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Actor.mp3",
   "platform": "learn_manx",
   "domain": "education",

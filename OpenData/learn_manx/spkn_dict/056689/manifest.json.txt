@@ -1,6 +1,6 @@
 {
   "ident": "speech-056689",
-  "name": "seyr joiner",
+  "name": "Seyr joiner",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/seyr%20-%20joiner.mp3",
   "platform": "learn_manx",
   "domain": "education",

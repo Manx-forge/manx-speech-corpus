@@ -1,6 +1,6 @@
 {
   "ident": "speech-083781",
-  "name": "breesha_learnin_manx",
+  "name": "Breesha learnin manx",
   "source": "https://www.learnmanx.com/media/Files/breesha%20learnin%20manx.mp3",
   "platform": "learn_manx",
   "domain": "education",

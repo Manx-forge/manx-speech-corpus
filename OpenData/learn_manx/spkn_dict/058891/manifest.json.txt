@@ -1,6 +1,6 @@
 {
   "ident": "speech-058891",
-  "name": "skeaban-slaa paint brush",
+  "name": "Skeaban-slaa paint brush",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/skeaban-slaa%20-%20paint%20brush.mp3",
   "platform": "learn_manx",
   "domain": "education",

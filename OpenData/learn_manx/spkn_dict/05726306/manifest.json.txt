@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726306",
-  "name": "moddey dog",
+  "name": "Moddey dog",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/Moddey.mp3",
   "platform": "learn_manx",
   "domain": "education",

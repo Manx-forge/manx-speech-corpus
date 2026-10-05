@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865205",
-  "name": "folteyr hairdresser",
+  "name": "Folteyr hairdresser",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Hairdresser.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-079861",
-  "name": "tey_doillee",
+  "name": "Tey doillee",
   "source": "https://www.learnmanx.com/media//Comprehensible%20input/Peeshyn%20elley/Tey%20(doillee).mp3",
   "platform": "learn_manx",
   "domain": "literary",

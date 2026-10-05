@@ -1,6 +1,6 @@
 {
   "ident": "speech-057125",
-  "name": "cubbyrt cupboard",
+  "name": "Cubbyrt cupboard",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/cubbyrt%20-%20cupboard.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-089658",
-  "name": "doug faragher prouncing the country",
+  "name": "Doug faragher prouncing the country",
   "source": "https://www.learnmanx.com/media/Pronouning%20Dictionary/doug%20faragher%20prouncing%20the%20country%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

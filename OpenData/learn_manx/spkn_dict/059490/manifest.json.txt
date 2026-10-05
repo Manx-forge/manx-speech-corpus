@@ -1,6 +1,6 @@
 {
   "ident": "speech-059490",
-  "name": "giu drinking",
+  "name": "Giu drinking",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/giu%20-%20drinking.mp3",
   "platform": "learn_manx",
   "domain": "education",

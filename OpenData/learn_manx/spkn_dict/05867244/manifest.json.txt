@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867244",
-  "name": "y choobey cuba",
+  "name": "Y choobey cuba",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Cuba.mp3",
   "platform": "learn_manx",
   "domain": "education",

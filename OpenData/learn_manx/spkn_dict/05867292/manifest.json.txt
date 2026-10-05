@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867292",
-  "name": "yn injey india",
+  "name": "Yn injey india",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_India.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057212",
-  "name": "cass foot",
+  "name": "Cass foot",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/cass%20-%20foot.mp3",
   "platform": "learn_manx",
   "domain": "education",

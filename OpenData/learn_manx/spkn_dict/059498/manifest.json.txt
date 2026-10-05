@@ -1,6 +1,6 @@
 {
   "ident": "speech-059498",
-  "name": "jeeaghyn er looking at",
+  "name": "Jeeaghyn er looking at",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/jeeaghyn%20er%20-%20looking%20at.mp3",
   "platform": "learn_manx",
   "domain": "education",

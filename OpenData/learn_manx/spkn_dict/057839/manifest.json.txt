@@ -1,6 +1,6 @@
 {
   "ident": "speech-057839",
-  "name": "jough a drink",
+  "name": "Jough a drink",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/jough%20-%20a%20drink.mp3",
   "platform": "learn_manx",
   "domain": "education",

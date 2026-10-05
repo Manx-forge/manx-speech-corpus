@@ -1,6 +1,6 @@
 {
   "ident": "speech-05836113",
-  "name": "er y fa nagh vel eh cummal ayns Purt Çhiarn",
+  "name": "Er y fa nagh vel eh cummal ayns Purt Çhiarn",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

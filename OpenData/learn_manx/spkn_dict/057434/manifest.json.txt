@@ -1,6 +1,6 @@
 {
   "ident": "speech-057434",
-  "name": "cryss belt",
+  "name": "Cryss belt",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/cryss%20-%20belt.mp3",
   "platform": "learn_manx",
   "domain": "education",

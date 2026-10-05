@@ -1,6 +1,6 @@
 {
   "ident": "speech-059248",
-  "name": "thie bee restaurant",
+  "name": "Thie bee restaurant",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/thie%20bee%20-%20restaurant.mp3",
   "platform": "learn_manx",
   "domain": "education",

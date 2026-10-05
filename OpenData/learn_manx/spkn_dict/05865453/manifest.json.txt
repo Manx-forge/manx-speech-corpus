@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865453",
-  "name": "ooyllyn-graih tomatoes",
+  "name": "Ooyllyn-graih tomatoes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Tomatoes_Ooyllyn-graih%20(A).mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-076948",
-  "name": "skeeal_zen_1_doillee_hard_version",
+  "name": "Skeealyn Zen 1 (doillee hard version)",
   "source": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%201%20(doillee).mp3",
   "platform": "learn_manx",
   "domain": "literary",

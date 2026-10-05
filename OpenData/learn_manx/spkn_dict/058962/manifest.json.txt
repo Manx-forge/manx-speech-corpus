@@ -1,6 +1,6 @@
 {
   "ident": "speech-058962",
-  "name": "finneig canoe",
+  "name": "Finneig canoe",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/finneig%20-%20canoe.mp3",
   "platform": "learn_manx",
   "domain": "education",

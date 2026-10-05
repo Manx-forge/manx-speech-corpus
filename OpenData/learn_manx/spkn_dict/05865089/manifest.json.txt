@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865089",
-  "name": "ughtar author",
+  "name": "Ughtar author",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Author.mp3",
   "platform": "learn_manx",
   "domain": "education",

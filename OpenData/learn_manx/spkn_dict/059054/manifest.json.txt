@@ -1,6 +1,6 @@
 {
   "ident": "speech-059054",
-  "name": "tead-ï¿½hionn tight rope",
+  "name": "Tead-ï¿½hionn tight rope",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/tead-%E7hionn%20-%20tight%20rope.mp3",
   "platform": "learn_manx",
   "domain": "education",

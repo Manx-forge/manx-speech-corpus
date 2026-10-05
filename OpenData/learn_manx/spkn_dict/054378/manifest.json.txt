@@ -1,6 +1,6 @@
 {
   "ident": "speech-054378",
-  "name": "ben woman",
+  "name": "Ben woman",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/ben%20-%20woman.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-059737",
-  "name": "tendreil lightning",
+  "name": "Tendreil lightning",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/tendreil%20-%20lightning.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058122",
-  "name": "shamyr soie lounge",
+  "name": "Shamyr soie lounge",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/shamyr%20soie%20-%20lounge.mp3",
   "platform": "learn_manx",
   "domain": "education",

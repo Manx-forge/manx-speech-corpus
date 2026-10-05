@@ -1,6 +1,6 @@
 {
   "ident": "speech-058106",
-  "name": "poodyr niee washing powder",
+  "name": "Poodyr niee washing powder",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/poodyr%20niee%20-%20washing%20powder.mp3",
   "platform": "learn_manx",
   "domain": "education",

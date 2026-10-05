@@ -1,6 +1,6 @@
 {
   "ident": "speech-058727",
-  "name": "coearrooder computer",
+  "name": "Coearrooder computer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/coearrooder%20-%20computer.mp3",
   "platform": "learn_manx",
   "domain": "education",

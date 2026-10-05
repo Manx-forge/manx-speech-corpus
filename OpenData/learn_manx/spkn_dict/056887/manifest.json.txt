@@ -1,6 +1,6 @@
 {
   "ident": "speech-056887",
-  "name": "kibbin peg",
+  "name": "Kibbin peg",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/kibbin%20-%20peg.mp3",
   "platform": "learn_manx",
   "domain": "education",

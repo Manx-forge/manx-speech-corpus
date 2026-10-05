@@ -1,6 +1,6 @@
 {
   "ident": "speech-059152",
-  "name": "crou tire",
+  "name": "Crou tire",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/crou%20-%20tire.mp3",
   "platform": "learn_manx",
   "domain": "education",

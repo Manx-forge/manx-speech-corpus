@@ -1,6 +1,6 @@
 {
   "ident": "speech-063475",
-  "name": "1000words_entry_290542",
+  "name": "1000 Words, day 27: Fastyr jiu (this afternoon)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_290542.html",
   "platform": "learn_manx",
   "domain": "education",

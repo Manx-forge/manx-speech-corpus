@@ -1,6 +1,6 @@
 {
   "ident": "speech-056855",
-  "name": "brasnag firewood",
+  "name": "Brasnag firewood",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/brasnag%20-%20firewood.mp3",
   "platform": "learn_manx",
   "domain": "education",

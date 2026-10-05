@@ -1,6 +1,6 @@
 {
   "ident": "speech-059458",
-  "name": "eaishtagh listening",
+  "name": "Eaishtagh listening",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/eaishtagh%20-%20listening.mp3",
   "platform": "learn_manx",
   "domain": "education",

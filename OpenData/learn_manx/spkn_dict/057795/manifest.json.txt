@@ -1,6 +1,6 @@
 {
   "ident": "speech-057795",
-  "name": "corran-bwee banana",
+  "name": "Corran-bwee banana",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/corran-bwee%20-%20banana.mp3",
   "platform": "learn_manx",
   "domain": "education",

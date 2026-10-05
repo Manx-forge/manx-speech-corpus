@@ -1,6 +1,6 @@
 {
   "ident": "speech-058707",
-  "name": "abyrlit alphabet",
+  "name": "Abyrlit alphabet",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/abyrlit%20-%20alphabet%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

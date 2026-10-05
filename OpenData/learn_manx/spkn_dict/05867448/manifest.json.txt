@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867448",
-  "name": "ard loud",
+  "name": "Ard loud",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Loud.mp3",
   "platform": "learn_manx",
   "domain": "education",

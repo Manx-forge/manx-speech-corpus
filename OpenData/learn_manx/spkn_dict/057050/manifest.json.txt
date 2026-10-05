@@ -1,6 +1,6 @@
 {
   "ident": "speech-057050",
-  "name": "thanney thin",
+  "name": "Thanney thin",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/thanney%20-%20thin.mp3",
   "platform": "learn_manx",
   "domain": "education",

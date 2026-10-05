@@ -1,6 +1,6 @@
 {
   "ident": "speech-087602",
-  "name": "Sage_Kinvig",
+  "name": "Sage Kinvig",
   "source": "https://www.learnmanx.com/media//Jeebin%20resources/Manx%20Heroes%20-%20Sage%20Kinvig.pdf",
   "platform": "learn_manx",
   "domain": "education",

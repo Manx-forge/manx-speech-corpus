@@ -1,6 +1,6 @@
 {
   "ident": "speech-065940",
-  "name": "1000words_entry_331901",
+  "name": "1000 Words, day 139: Honnick (saw)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_331901.html",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-059410",
-  "name": "coagyrey cooking",
+  "name": "Coagyrey cooking",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/coagyrey%20-%20cooking.mp3",
   "platform": "learn_manx",
   "domain": "education",

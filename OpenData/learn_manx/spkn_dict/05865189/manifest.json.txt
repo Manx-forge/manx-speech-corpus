@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865189",
-  "name": "meoir-shee policeman or policewoman",
+  "name": "Meoir-shee policeman or policewoman",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Policeperson.mp3",
   "platform": "learn_manx",
   "domain": "education",

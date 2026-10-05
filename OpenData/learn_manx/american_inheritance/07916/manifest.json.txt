@@ -1,6 +1,6 @@
 {
   "ident": "speech-07916",
-  "name": "american_inheritance_final_copy_01",
+  "name": "American Inheritance 01",
   "source": "https://www.learnmanx.com/media/American%20Inheritance/american%20inheritance%20final%20copy%2001.mp3",
   "platform": "learn_manx",
   "domain": "literary",

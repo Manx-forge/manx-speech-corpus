@@ -1,6 +1,6 @@
 {
   "ident": "speech-086356",
-  "name": "perfect tense",
+  "name": "Perfect tense",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20checklist/perfect%20tense%20part%202.mp3",
   "platform": "learn_manx",
   "domain": "education",

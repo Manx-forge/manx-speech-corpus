@@ -1,6 +1,6 @@
 {
   "ident": "speech-058193",
-  "name": "kys tou how are you",
+  "name": "Kys tou how are you",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/kys%20tou%20-%20how%20are%20you.mp3",
   "platform": "learn_manx",
   "domain": "education",

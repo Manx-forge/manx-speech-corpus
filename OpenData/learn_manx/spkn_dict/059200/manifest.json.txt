@@ -1,6 +1,6 @@
 {
   "ident": "speech-059200",
-  "name": "pairk park",
+  "name": "Pairk park",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/pairk%20-%20park.mp3",
   "platform": "learn_manx",
   "domain": "education",

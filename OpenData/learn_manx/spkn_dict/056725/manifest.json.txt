@@ -1,6 +1,6 @@
 {
   "ident": "speech-056725",
-  "name": "ymmyrkagh porter",
+  "name": "Ymmyrkagh porter",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/ymmyrkagh%20-%20porter.mp3",
   "platform": "learn_manx",
   "domain": "education",

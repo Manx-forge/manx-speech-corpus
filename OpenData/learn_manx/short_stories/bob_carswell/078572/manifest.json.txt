@@ -1,6 +1,6 @@
 {
   "ident": "speech-078572",
-  "name": "lessoon_john_pilling_translated_by_bob_carswell",
+  "name": "Lessoon (John Pilling, translated by Bob Carswell)",
   "source": "https://www.learnmanx.com/media//Stories/Lessoon_John_Pilling.mp3",
   "platform": "learn_manx",
   "domain": "literary",

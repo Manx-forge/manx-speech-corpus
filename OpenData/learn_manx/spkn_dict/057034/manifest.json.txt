@@ -1,6 +1,6 @@
 {
   "ident": "speech-057034",
-  "name": "shenn old",
+  "name": "Shenn old",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/shenn%20-%20old.mp3",
   "platform": "learn_manx",
   "domain": "education",

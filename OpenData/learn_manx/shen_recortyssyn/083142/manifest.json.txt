@@ -1,6 +1,6 @@
 {
   "ident": "speech-083142",
-  "name": "conversations 16 by cha by vie",
+  "name": "Conversations 16 by cha by vie",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2016%20by%20cha%20by%20vie.mp3",
   "platform": "learn_manx",
   "domain": "education",

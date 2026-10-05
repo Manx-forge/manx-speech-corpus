@@ -1,6 +1,6 @@
 {
   "ident": "speech-058700",
-  "name": "yeeall dogs lead",
+  "name": "Yeeall dogs lead",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Pets/yeeall%20-%20dogs%20lead.mp3",
   "platform": "learn_manx",
   "domain": "education",

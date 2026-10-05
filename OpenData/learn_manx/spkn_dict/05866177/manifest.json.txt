@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866177",
-  "name": "mwannal neck",
+  "name": "Mwannal neck",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/Body_Neck.mp3",
   "platform": "learn_manx",
   "domain": "education",

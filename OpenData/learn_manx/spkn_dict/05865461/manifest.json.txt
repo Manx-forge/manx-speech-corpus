@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865461",
-  "name": "peesh dy verreen piece of cake",
+  "name": "Peesh dy verreen piece of cake",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Piece%20of%20Cake_Peesh%20dy%20verreen.mp3",
   "platform": "learn_manx",
   "domain": "education",

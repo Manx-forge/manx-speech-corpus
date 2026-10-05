@@ -1,6 +1,6 @@
 {
   "ident": "speech-058519",
-  "name": "toshiaght-souree May",
+  "name": "Toshiaght-souree May",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/toshiaght-souree%20-%20May.mp3",
   "platform": "learn_manx",
   "domain": "education",

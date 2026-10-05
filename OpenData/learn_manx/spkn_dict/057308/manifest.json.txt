@@ -1,6 +1,6 @@
 {
   "ident": "speech-057308",
-  "name": "çhengey tongue",
+  "name": "Çhengey tongue",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/chengey%20-%20tongue.mp3",
   "platform": "learn_manx",
   "domain": "education",

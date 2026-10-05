@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865521",
-  "name": "rio ice",
+  "name": "Rio ice",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Ice_Rio.mp3",
   "platform": "learn_manx",
   "domain": "education",

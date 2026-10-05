@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865217",
-  "name": "immanagh-livreyee delivery driver",
+  "name": "Immanagh-livreyee delivery driver",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Delivery%20Driver.mp3",
   "platform": "learn_manx",
   "domain": "education",

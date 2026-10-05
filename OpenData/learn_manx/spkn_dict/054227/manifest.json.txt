@@ -1,6 +1,6 @@
 {
   "ident": "speech-054227",
-  "name": "crooag-heeidey silkworm",
+  "name": "Crooag-heeidey silkworm",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/crooag-heeidey%20-%20silkworm.mp3",
   "platform": "learn_manx",
   "domain": "education",

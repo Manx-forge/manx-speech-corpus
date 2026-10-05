@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865237",
-  "name": "fer y phost postal worker",
+  "name": "Fer y phost postal worker",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Postal%20Worker.mp3",
   "platform": "learn_manx",
   "domain": "education",

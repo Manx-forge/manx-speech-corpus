@@ -1,6 +1,6 @@
 {
   "ident": "speech-054231",
-  "name": "dhiane worm",
+  "name": "Dhiane worm",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/dhiane%20-%20worm.mp3",
   "platform": "learn_manx",
   "domain": "education",

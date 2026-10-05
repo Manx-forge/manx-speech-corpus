@@ -1,6 +1,6 @@
 {
   "ident": "speech-057494",
-  "name": "rhymbyl skirt",
+  "name": "Rhymbyl skirt",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/rhymbyl%20-%20skirt.mp3",
   "platform": "learn_manx",
   "domain": "education",

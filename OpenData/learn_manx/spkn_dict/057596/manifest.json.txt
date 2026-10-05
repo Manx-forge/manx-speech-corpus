@@ -1,6 +1,6 @@
 {
   "ident": "speech-057596",
-  "name": "baaieagh cow house",
+  "name": "Baaieagh cow house",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/baaieagh%20-%20cow%20house.mp3",
   "platform": "learn_manx",
   "domain": "education",

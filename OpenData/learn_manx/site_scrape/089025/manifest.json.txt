@@ -1,6 +1,6 @@
 {
   "ident": "speech-089025",
-  "name": "Rosemary_learning_Manx",
+  "name": "Rosemary learning Manx",
   "source": "https://www.learnmanx.com/media/Files/Rosemary%20learning%20Manx.mp3",
   "platform": "learn_manx",
   "domain": "education",

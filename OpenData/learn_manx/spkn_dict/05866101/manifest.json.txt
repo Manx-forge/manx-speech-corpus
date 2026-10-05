@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866101",
-  "name": "jiarg red",
+  "name": "Jiarg red",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/Colours_Red.mp3",
   "platform": "learn_manx",
   "domain": "education",

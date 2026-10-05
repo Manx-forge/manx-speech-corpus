@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867416",
-  "name": "y thalloo vretnagh wales",
+  "name": "Y thalloo vretnagh wales",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Wales.mp3",
   "platform": "learn_manx",
   "domain": "education",

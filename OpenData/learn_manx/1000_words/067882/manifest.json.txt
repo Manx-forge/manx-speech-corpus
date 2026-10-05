@@ -1,6 +1,6 @@
 {
   "ident": "speech-067882",
-  "name": "1000words_entry_323410",
+  "name": "1000 Words, day 104: Cre s'mie lhiat giu son anjeeal? (What do you like drinking for breakfast?)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_323410.html",
   "platform": "learn_manx",
   "domain": "education",

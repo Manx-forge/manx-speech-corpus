@@ -1,6 +1,6 @@
 {
   "ident": "speech-059816",
-  "name": "treiney nail",
+  "name": "Treiney nail",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/treiney%20-%20nail.mp3",
   "platform": "learn_manx",
   "domain": "education",

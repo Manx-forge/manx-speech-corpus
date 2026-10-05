@@ -1,6 +1,6 @@
 {
   "ident": "speech-086218",
-  "name": "Dick_y_Radlagh_yn_Foawr_",
+  "name": "Dick y Radlagh yn Foawr",
   "source": "https://www.learnmanx.com/media/Files/Dick%20y%20Radlagh%20yn%20Foawr%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

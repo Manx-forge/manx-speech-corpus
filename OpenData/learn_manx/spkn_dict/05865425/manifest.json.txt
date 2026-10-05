@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865425",
-  "name": "melloon melon",
+  "name": "Melloon melon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Melon_Melloon.mp3",
   "platform": "learn_manx",
   "domain": "education",

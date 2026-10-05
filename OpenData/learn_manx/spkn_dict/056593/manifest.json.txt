@@ -1,6 +1,6 @@
 {
   "ident": "speech-056593",
-  "name": "ben-rein queen",
+  "name": "Ben-rein queen",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/ben-rein%20-%20queen.mp3",
   "platform": "learn_manx",
   "domain": "education",

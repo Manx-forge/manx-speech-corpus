@@ -1,6 +1,6 @@
 {
   "ident": "speech-054458",
-  "name": "paitchyn children",
+  "name": "Paitchyn children",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/paitchyn%20-%20children.mp3",
   "platform": "learn_manx",
   "domain": "education",

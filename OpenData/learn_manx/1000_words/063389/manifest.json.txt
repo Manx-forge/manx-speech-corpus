@@ -1,6 +1,6 @@
 {
   "ident": "speech-063389",
-  "name": "1000words_entry_325008",
+  "name": "1000 Words, day 112: Billey (tree)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_325008.html",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05721113",
-  "name": "ayns Sulby",
+  "name": "Ayns Sulby",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

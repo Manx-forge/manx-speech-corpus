@@ -1,6 +1,6 @@
 {
   "ident": "speech-059626",
-  "name": "ynsaghey teaching and learning",
+  "name": "Ynsaghey teaching and learning",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/ynsaghey%20-%20teaching%20and%20learning.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-051913113",
-  "name": "learn_manx 051913113",
+  "name": "“shiaght as neu-nhee jannoo…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

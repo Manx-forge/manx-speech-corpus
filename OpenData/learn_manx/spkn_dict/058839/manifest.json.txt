@@ -1,6 +1,6 @@
 {
   "ident": "speech-058839",
-  "name": "maidjey corragh see saw",
+  "name": "Maidjey corragh see saw",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/maidjey%20corragh%20-%20see%20saw.mp3",
   "platform": "learn_manx",
   "domain": "education",

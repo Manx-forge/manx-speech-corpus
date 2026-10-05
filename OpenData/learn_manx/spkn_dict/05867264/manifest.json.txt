@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867264",
-  "name": "finnlynn finland",
+  "name": "Finnlynn finland",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Finland.mp3",
   "platform": "learn_manx",
   "domain": "education",

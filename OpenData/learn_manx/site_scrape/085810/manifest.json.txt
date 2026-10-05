@@ -1,6 +1,6 @@
 {
   "ident": "speech-085810",
-  "name": "WALTER_CLARKE_AND_THE_KARRANS",
+  "name": "WALTER CLARKE AND THE KARRANS",
   "source": "https://www.learnmanx.com/media/Files/WALTER%20CLARKE%20AND%20THE%20KARRANS.mp3",
   "platform": "learn_manx",
   "domain": "education",

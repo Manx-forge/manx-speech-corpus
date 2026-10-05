@@ -1,6 +1,6 @@
 {
   "ident": "speech-069244",
-  "name": "1000words_entry_287712",
+  "name": "1000 Words, day 08: Moghrey jiu (this morning (morning today))",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_287712.html",
   "platform": "learn_manx",
   "domain": "education",

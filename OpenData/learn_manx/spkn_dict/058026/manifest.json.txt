@@ -1,6 +1,6 @@
 {
   "ident": "speech-058026",
-  "name": "cainle candle",
+  "name": "Cainle candle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/cainle%20-%20candle.mp3",
   "platform": "learn_manx",
   "domain": "education",

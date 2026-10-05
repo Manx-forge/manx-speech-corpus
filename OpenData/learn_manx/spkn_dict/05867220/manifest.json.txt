@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867220",
-  "name": "y vritaan  brittany",
+  "name": "Y vritaan  brittany",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Brittany.mp3",
   "platform": "learn_manx",
   "domain": "education",

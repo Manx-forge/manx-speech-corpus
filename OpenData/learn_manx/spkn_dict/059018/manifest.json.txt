@@ -1,6 +1,6 @@
 {
   "ident": "speech-059018",
-  "name": "scaa tuittym parachute",
+  "name": "Scaa tuittym parachute",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/scaa%20tuittym%20-%20parachute.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-082963",
-  "name": "chronicle 43b-50",
+  "name": "Chronicle 43b-50",
   "source": "https://www.learnmanx.com/media/chronicles/chronicle%2043b-50.mp3",
   "platform": "learn_manx",
   "domain": "education",

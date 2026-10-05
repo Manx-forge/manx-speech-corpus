@@ -1,6 +1,6 @@
 {
   "ident": "speech-082456",
-  "name": "Eleanor_Karran",
+  "name": "Eleanor Karran",
   "source": "https://www.learnmanx.com/media/Files/Eleanor%20Karran.mp3",
   "platform": "learn_manx",
   "domain": "education",

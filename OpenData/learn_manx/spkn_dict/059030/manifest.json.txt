@@ -1,6 +1,6 @@
 {
   "ident": "speech-059030",
-  "name": "skibbyltys gymnastics",
+  "name": "Skibbyltys gymnastics",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skibbyltys%20-%20gymnastics.mp3",
   "platform": "learn_manx",
   "domain": "education",

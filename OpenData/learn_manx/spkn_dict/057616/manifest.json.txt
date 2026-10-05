@@ -1,6 +1,6 @@
 {
   "ident": "speech-057616",
-  "name": "cairt cart",
+  "name": "Cairt cart",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/cairt%20-%20cart.mp3",
   "platform": "learn_manx",
   "domain": "education",

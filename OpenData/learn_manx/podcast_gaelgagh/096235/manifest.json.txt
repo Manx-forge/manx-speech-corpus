@@ -1,6 +1,6 @@
 {
   "ident": "speech-096235",
-  "name": "learning manx part 45",
+  "name": "Learning manx part 45",
   "source": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2045.mp3",
   "platform": "learn_manx",
   "domain": "podcast",

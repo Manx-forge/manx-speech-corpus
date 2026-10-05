@@ -1,6 +1,6 @@
 {
   "ident": "speech-057137",
-  "name": "faastguin sponge",
+  "name": "Faastguin sponge",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/faastguin%20-%20sponge.mp3",
   "platform": "learn_manx",
   "domain": "education",

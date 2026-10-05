@@ -1,6 +1,6 @@
 {
   "ident": "speech-056883",
-  "name": "giareyder faiyr lawnmower",
+  "name": "Giareyder faiyr lawnmower",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/giareyder%20faiyr%20-%20lawnmower.mp3",
   "platform": "learn_manx",
   "domain": "education",

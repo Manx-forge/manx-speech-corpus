@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866413",
-  "name": "wollad wallet",
+  "name": "Wollad wallet",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Wallet.mp3",
   "platform": "learn_manx",
   "domain": "education",

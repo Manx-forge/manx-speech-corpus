@@ -1,6 +1,6 @@
 {
   "ident": "speech-054235",
-  "name": "doo oallee spider",
+  "name": "Doo oallee spider",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/doo%20oallee%20-%20spider.mp3",
   "platform": "learn_manx",
   "domain": "education",

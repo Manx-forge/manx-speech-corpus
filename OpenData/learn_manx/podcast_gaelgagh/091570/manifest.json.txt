@@ -1,6 +1,6 @@
 {
   "ident": "speech-091570",
-  "name": "learning manx part 76",
+  "name": "Learning manx part 76",
   "source": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2076.mp3",
   "platform": "learn_manx",
   "domain": "podcast",

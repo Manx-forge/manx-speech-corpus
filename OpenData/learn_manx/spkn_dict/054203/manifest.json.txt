@@ -1,6 +1,6 @@
 {
   "ident": "speech-054203",
-  "name": "booa cow",
+  "name": "Booa cow",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/booa%20-%20cow.mp3",
   "platform": "learn_manx",
   "domain": "education",

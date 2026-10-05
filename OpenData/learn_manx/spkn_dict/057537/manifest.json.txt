@@ -1,6 +1,6 @@
 {
   "ident": "speech-057537",
-  "name": "dhone brown",
+  "name": "Dhone brown",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/dhone%20-%20brown.mp3",
   "platform": "learn_manx",
   "domain": "education",

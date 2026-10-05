@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866153",
-  "name": "cleaysh ear",
+  "name": "Cleaysh ear",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/Body_Ear.mp3",
   "platform": "learn_manx",
   "domain": "education",

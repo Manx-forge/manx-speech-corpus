@@ -1,6 +1,6 @@
 {
   "ident": "speech-057835",
-  "name": "jinnair dinner",
+  "name": "Jinnair dinner",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/jinnair%20-%20dinner.mp3",
   "platform": "learn_manx",
   "domain": "education",

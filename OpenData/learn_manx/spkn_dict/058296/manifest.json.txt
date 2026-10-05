@@ -1,6 +1,6 @@
 {
   "ident": "speech-058296",
-  "name": "panney pan",
+  "name": "Panney pan",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/panney%20-%20pan.mp3",
   "platform": "learn_manx",
   "domain": "education",

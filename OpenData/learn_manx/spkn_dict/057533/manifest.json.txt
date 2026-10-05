@@ -1,6 +1,6 @@
 {
   "ident": "speech-057533",
-  "name": "daah colour",
+  "name": "Daah colour",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/daah%20-%20colour.mp3",
   "platform": "learn_manx",
   "domain": "education",

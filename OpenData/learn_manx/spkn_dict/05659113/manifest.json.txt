@@ -1,6 +1,6 @@
 {
   "ident": "speech-05659113",
-  "name": "ayns Balley Chashtal",
+  "name": "Ayns Balley Chashtal",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

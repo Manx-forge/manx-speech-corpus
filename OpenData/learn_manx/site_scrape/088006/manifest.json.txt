@@ -1,6 +1,6 @@
 {
   "ident": "speech-088006",
-  "name": "dougie__pronouncing_animals",
+  "name": "Dougie  pronouncing animals",
   "source": "https://www.learnmanx.com/media/Files/dougie%20%20pronouncing%20animals.mp3",
   "platform": "learn_manx",
   "domain": "education",

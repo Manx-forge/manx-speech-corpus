@@ -1,6 +1,6 @@
 {
   "ident": "speech-05557113",
-  "name": "er y fa dy vel eh feayr",
+  "name": "Er y fa dy vel eh feayr",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

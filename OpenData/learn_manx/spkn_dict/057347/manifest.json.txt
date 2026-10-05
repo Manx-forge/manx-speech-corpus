@@ -1,6 +1,6 @@
 {
   "ident": "speech-057347",
-  "name": "kellagh frangagh turkey",
+  "name": "Kellagh frangagh turkey",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/kellagh%20frangagh%20-%20turkey.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-083414",
-  "name": "conversations 07 bee as nee",
+  "name": "Conversations 07 bee as nee",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2007%20bee%20as%20nee.mp3",
   "platform": "learn_manx",
   "domain": "education",

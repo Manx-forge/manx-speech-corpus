@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866333",
-  "name": "cullee-snaue swimming costume",
+  "name": "Cullee-snaue swimming costume",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Swimming%20Costume.mp3",
   "platform": "learn_manx",
   "domain": "education",

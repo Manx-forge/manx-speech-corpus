@@ -1,6 +1,6 @@
 {
   "ident": "speech-056697",
-  "name": "shappeyder shopkeeper",
+  "name": "Shappeyder shopkeeper",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/shappeyder%20-%20shopkeeper.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-067758",
-  "name": "1000words_entry_345332",
+  "name": "1000 Words, day 199: Nagh vel? (Isn't?)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_345332.html",
   "platform": "learn_manx",
   "domain": "education",

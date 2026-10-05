@@ -6,9 +6,11 @@ Writes registers/recordings.tsv (the master inventory) and registers/link_regist
   python scripts/inventory.py          the registers
   python scripts/inventory.py titles   fetch the media's own titles into registers/titles.tsv (network; only new ones),
                                        where the master's are generic ("Conversational Interview"): YouTube videos by
-                                       oEmbed, Clilstore units by their page. The registers prefer them.
+                                       oEmbed, Clilstore units and Learn Manx's 1000 Words entries by their page. The
+                                       registers prefer them; file-name titles are tidied by tidy_title().
 """
 import csv
+import html
 import json
 import os
 import re
@@ -105,18 +107,29 @@ def fetch_titles():
     wrong = {r["id"] for r in csv.DictReader(open(OUT / "link_register.tsv", encoding="utf-8"), delimiter="\t")
              if r["status"] == "open"}  # a wrong or dead link would name the wrong thing
     rows = [r for r in csv.DictReader(open(OUT / "recordings.tsv", encoding="utf-8"), delimiter="\t")
-            if r["id"] not in have and r["id"] not in wrong and (r["video_id"] or r["source"] == "clilstore")]
+            if r["id"] not in have and r["id"] not in wrong
+            and (r["video_id"] or r["source"] == "clilstore" or "1000words_entry" in r["url"])]
+
+    def get(url):
+        req = urllib.request.Request(url, headers={"User-Agent": "manx-speech-corpus (github.com/Manx-forge)"})
+        with urllib.request.urlopen(req, timeout=30) as f:
+            return f.read().decode("utf-8", "replace")
 
     def title(r):
         try:
+            if "1000words_entry" in r["url"]:  # "Day 122 ... Maddaght = maths ..."
+                blocks = [" ".join(html.unescape(re.sub(r"<[^>]+>", "", b)).split())  # a paragraph or line each
+                          for b in re.split(r"</p>|<br\s*/?>|</h\d>", get(r["url"]))]
+                day = next(re.search(r"Day (\d+)", b).group(1) for b in blocks if re.search(r"Day \d+", b))
+                word = next((b.split("=", 1) for b in blocks if b.count("=") == 1), None)
+                return f"1000 Words, day {day}" + (f": {word[0].strip()} ({word[1].strip()})" if word else "")
             if r["video_id"]:
                 url = "https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(
                     f"https://www.youtube.com/watch?v={r['video_id']}")
-                with urllib.request.urlopen(url, timeout=30) as f:
-                    return json.load(f)["title"]
+                return json.loads(get(url))["title"]
             unit = re.search(r"page\.php\?id=(\d+)", r["url"])
-            with urllib.request.urlopen(f"https://clilstore.eu/clilstore/page.php?id={unit.group(1)}", timeout=30) as f:
-                return re.search(r"<title>CLILstore unit \d+: ([^<]+)", f.read().decode("utf-8", "replace")).group(1).strip()
+            page = get(f"https://clilstore.eu/clilstore/page.php?id={unit.group(1)}")
+            return re.search(r"<title>CLILstore unit \d+: ([^<]+)", page).group(1).strip()
         except Exception:
             return None
 
@@ -128,6 +141,38 @@ def fetch_titles():
         w.writeheader()
         w.writerows(sorted(have.values(), key=lambda r: r["id"]))
     print(f"titles: {sum(1 for t in found.values() if t)} of {len(rows)} fetched, {len(have)} in {path}")
+
+
+SERIES = [  # Learn Manx titles that are file names: (pattern, title)
+    (r"(.+)_john_pilling_translated_by_bob_carswell", r"\1 (John Pilling, translated by Bob Carswell)"),
+    (r"bunneydys_(\d+)", r"Bunneydys \1"),
+    (r"ayrn_(\d+)", r"Vampire Murders, part \1"),
+    (r"intermediate_lesson_(\d+)", r"Intermediate Lesson \1"),
+    (r"ab_(\d+)_([a-z])", r"Annie and Breesha \1\2"),
+    (r"american_inheritance_final_copy_(\d+)", r"American Inheritance \1"),
+    (r"skeeal_zen_(\d+)_(\w+)", r"Skeealyn Zen \1 (\2)"),
+]
+
+
+def tidy_title(r):
+    """A readable title: the Skeealyn Vannin tracks as the text corpus names them, Learn Manx's file names as words."""
+    t = r.get("title", "")
+    sv = re.search(r"Skeealyn Vannin,? Disk (\d+) Track (\w+)", t)
+    if sv:  # as the text corpus names and dates them (the Irish Folklore Commission recorded them in 1948)
+        r["date"] = r.get("date") or "1948"
+        return f"🎥 Skeealyn Vannin, Disk {sv.group(1)} Track {sv.group(2)}"
+    if re.fullmatch(r"part \w+", t) and r.get("collection", "").endswith("a_walk_around_cregneash"):
+        return f"A Walk Around Cregneash, {t}"
+    if r["source"] == "learn_manx" and re.fullmatch(r"Conversation \d+", t) and "/cowag/" in r["url"]:
+        return f"Cowag{' 2' if 'cowag_2' in r['url'] else ''}: {t}"  # the two Cowag courses number alike
+    if r["source"] == "learn_manx":
+        for pattern, title in SERIES:
+            if re.fullmatch(pattern, t):
+                t = re.sub(pattern, title, t)
+                break
+        t = t.replace("_", " ")
+        t = t[:1].upper() + t[1:]
+    return t
 
 
 def main():
@@ -213,9 +258,14 @@ def main():
     own = {t["id"]: t["title"] for t in csv.DictReader(open(titles, encoding="utf-8"), delimiter="\t")} if titles.exists() else {}
     for r in rows:
         r["title"] = own.get(r["id"]) or r.get("title", "")
-        sv = re.search(r"Skeealyn Vannin,? Disk (\d+) Track (\w+)", r["title"])
-        if sv:  # as the text corpus names and dates them (the Irish Folklore Commission recorded them in 1948)
-            r["title"], r["date"] = f"🎥 Skeealyn Vannin, Disk {sv.group(1)} Track {sv.group(2)}", r.get("date") or "1948"
+        r["title"] = tidy_title(r)
+    units = defaultdict(list)  # several Clilstore recordings of one unit: its parts, in id order
+    for r in rows:
+        if r["source"] == "clilstore":
+            units[r["title"]].append(r)
+    for parts in units.values():
+        for k, r in enumerate(sorted(parts, key=lambda r: r["id"]) if len(parts) > 1 else [], 1):
+            r["title"] += f" ({k} of {len(parts)})"
     OUT.mkdir(exist_ok=True)
     with open(OUT / "recordings.tsv", "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, COLS, delimiter="\t", restval="", lineterminator="\n")

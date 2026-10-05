@@ -1,6 +1,6 @@
 {
   "ident": "speech-058562",
-  "name": "fer-reill y chiaull conductor",
+  "name": "Fer-reill y chiaull conductor",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20music/fer-reill%20y%20chiaull%20-%20conductor.mp3",
   "platform": "learn_manx",
   "domain": "education",

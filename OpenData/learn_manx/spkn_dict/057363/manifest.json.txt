@@ -1,6 +1,6 @@
 {
   "ident": "speech-057363",
-  "name": "skian wing",
+  "name": "Skian wing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/skian%20-%20wing.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057541",
-  "name": "doo black",
+  "name": "Doo black",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/doo%20-%20black.mp3",
   "platform": "learn_manx",
   "domain": "education",

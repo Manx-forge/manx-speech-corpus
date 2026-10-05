@@ -1,6 +1,6 @@
 {
   "ident": "speech-057089",
-  "name": "brelleein sheet",
+  "name": "Brelleein sheet",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/brelleein%20-%20sheet.mp3",
   "platform": "learn_manx",
   "domain": "education",

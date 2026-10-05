@@ -1,6 +1,6 @@
 {
   "ident": "speech-059534",
-  "name": "paagh thirsty",
+  "name": "Paagh thirsty",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/paagh%20-%20thirsty%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

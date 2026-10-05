@@ -1,6 +1,6 @@
 {
   "ident": "speech-010756058",
-  "name": "learn_manx 010756058",
+  "name": "“mion captal kiare…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

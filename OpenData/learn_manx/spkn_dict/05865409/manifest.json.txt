@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865409",
-  "name": "leeim lime",
+  "name": "Leeim lime",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Lime_Leeim.mp3",
   "platform": "learn_manx",
   "domain": "education",

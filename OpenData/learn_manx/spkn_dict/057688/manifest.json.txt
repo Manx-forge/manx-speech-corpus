@@ -1,6 +1,6 @@
 {
   "ident": "speech-057688",
-  "name": "magher field",
+  "name": "Magher field",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/magher%20-%20field.mp3",
   "platform": "learn_manx",
   "domain": "education",

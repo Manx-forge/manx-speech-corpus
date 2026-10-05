@@ -1,6 +1,6 @@
 {
   "ident": "speech-072656",
-  "name": "faill_mnr_worth_john_pilling_translated_by_bob_carswell",
+  "name": "Faill mnr worth (John Pilling, translated by Bob Carswell)",
   "source": "https://www.learnmanx.com/media//Stories/Faill_Mnr_Worth_John_Pilling.mp3",
   "platform": "learn_manx",
   "domain": "literary",

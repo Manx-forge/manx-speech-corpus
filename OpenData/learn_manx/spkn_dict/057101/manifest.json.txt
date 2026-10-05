@@ -1,6 +1,6 @@
 {
   "ident": "speech-057101",
-  "name": "chiasseyder heater",
+  "name": "Chiasseyder heater",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/chiasseyder%20-%20heater.mp3",
   "platform": "learn_manx",
   "domain": "education",

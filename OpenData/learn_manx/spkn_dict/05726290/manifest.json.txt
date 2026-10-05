@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726290",
-  "name": "scobbey (a) snack",
+  "name": "Scobbey (a) snack",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Scobbey.mp3",
   "platform": "learn_manx",
   "domain": "education",

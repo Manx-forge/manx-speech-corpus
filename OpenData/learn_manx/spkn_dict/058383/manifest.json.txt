@@ -1,6 +1,6 @@
 {
   "ident": "speech-058383",
-  "name": "jerrey-arree April",
+  "name": "Jerrey-arree April",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jerrey-arree%20-%20April.mp3",
   "platform": "learn_manx",
   "domain": "education",

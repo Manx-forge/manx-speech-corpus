@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726160",
-  "name": "deyr expensive",
+  "name": "Deyr expensive",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Deyr.mp3",
   "platform": "learn_manx",
   "domain": "education",

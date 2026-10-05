@@ -1,6 +1,6 @@
 {
   "ident": "speech-058735",
-  "name": "cowrey badge",
+  "name": "Cowrey badge",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/cowrey%20-%20badge.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867152",
-  "name": "stap stop",
+  "name": "Stap stop",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Stop.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866249",
-  "name": "meir-coshey toes",
+  "name": "Meir-coshey toes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Toes.mp3",
   "platform": "learn_manx",
   "domain": "education",

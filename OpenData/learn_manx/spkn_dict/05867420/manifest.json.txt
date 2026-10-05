@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867420",
-  "name": "graney ugly",
+  "name": "Graney ugly",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Ugly.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-059462",
-  "name": "faarkey bathe",
+  "name": "Faarkey bathe",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/faarkey%20-%20bathe.mp3",
   "platform": "learn_manx",
   "domain": "education",

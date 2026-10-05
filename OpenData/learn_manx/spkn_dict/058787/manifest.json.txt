@@ -1,6 +1,6 @@
 {
   "ident": "speech-058787",
-  "name": "kaart-çhiassid temperature chart",
+  "name": "Kaart-çhiassid temperature chart",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/kaart-chiassid%20-%20temperature%20chart.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-083336",
-  "name": "appendix 01",
+  "name": "Appendix 01",
   "source": "https://www.learnmanx.com/media/john%20gell/appendix%2001.mp3",
   "platform": "learn_manx",
   "domain": "education",

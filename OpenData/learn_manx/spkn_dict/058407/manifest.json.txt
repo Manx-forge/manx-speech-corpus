@@ -1,6 +1,6 @@
 {
   "ident": "speech-058407",
-  "name": "kegeesh fortnight",
+  "name": "Kegeesh fortnight",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/kegeesh%20-%20fortnight.mp3",
   "platform": "learn_manx",
   "domain": "education",

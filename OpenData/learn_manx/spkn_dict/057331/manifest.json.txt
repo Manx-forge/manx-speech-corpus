@@ -1,6 +1,6 @@
 {
   "ident": "speech-057331",
-  "name": "eean-kiark chicken",
+  "name": "Eean-kiark chicken",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/eean-kiark%20-%20chicken.mp3",
   "platform": "learn_manx",
   "domain": "education",

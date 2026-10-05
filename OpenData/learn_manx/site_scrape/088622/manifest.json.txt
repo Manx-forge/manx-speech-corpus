@@ -1,6 +1,6 @@
 {
   "ident": "speech-088622",
-  "name": "ab_01_c",
+  "name": "Annie and Breesha 01c",
   "source": "https://www.learnmanx.com/media/annie%20and%20breesha/ab%2001%20c.mp3",
   "platform": "learn_manx",
   "domain": "education",

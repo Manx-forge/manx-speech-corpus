@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865441",
-  "name": "ooyl apple",
+  "name": "Ooyl apple",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Apple_Ooyl.mp3",
   "platform": "learn_manx",
   "domain": "education",

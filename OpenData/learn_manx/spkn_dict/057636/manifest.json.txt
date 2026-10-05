@@ -1,6 +1,6 @@
 {
   "ident": "speech-057636",
-  "name": "creg rock",
+  "name": "Creg rock",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/creg%20-%20rock.mp3",
   "platform": "learn_manx",
   "domain": "education",

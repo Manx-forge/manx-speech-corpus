@@ -1,6 +1,6 @@
 {
   "ident": "speech-058831",
-  "name": "lorg pole",
+  "name": "Lorg pole",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/lorg%20-%20pole.mp3",
   "platform": "learn_manx",
   "domain": "education",

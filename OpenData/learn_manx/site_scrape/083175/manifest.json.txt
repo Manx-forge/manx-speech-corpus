@@ -1,6 +1,6 @@
 {
   "ident": "speech-083175",
-  "name": "tommy_leece",
+  "name": "Tommy leece",
   "source": "https://www.learnmanx.com/media/Files/tommy%20leece.mp3",
   "platform": "learn_manx",
   "domain": "education",

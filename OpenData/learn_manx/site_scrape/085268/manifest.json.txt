@@ -1,6 +1,6 @@
 {
   "ident": "speech-085268",
-  "name": "ned_maddrell_marish_stewy",
+  "name": "Ned maddrell marish stewy",
   "source": "https://www.learnmanx.com/media/Files/ned%20maddrell%20marish%20stewy.mp3",
   "platform": "learn_manx",
   "domain": "education",

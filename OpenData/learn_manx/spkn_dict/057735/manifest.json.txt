@@ -1,6 +1,6 @@
 {
   "ident": "speech-057735",
-  "name": "arran bread",
+  "name": "Arran bread",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/arran%20-%20bread.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-086310",
-  "name": "gynsaghey_gaelg",
+  "name": "Gynsaghey gaelg",
   "source": "https://www.learnmanx.com/media/Files/gynsaghey%20gaelg.mp3",
   "platform": "learn_manx",
   "domain": "education",

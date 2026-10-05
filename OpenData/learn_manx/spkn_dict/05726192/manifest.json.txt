@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726192",
-  "name": "quaagh strange",
+  "name": "Quaagh strange",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Quaagh.mp3",
   "platform": "learn_manx",
   "domain": "education",

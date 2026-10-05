@@ -1,6 +1,6 @@
 {
   "ident": "speech-058134",
-  "name": "sooslagh feeackle toothpaste",
+  "name": "Sooslagh feeackle toothpaste",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/sooslagh%20feeackle%20-toothpaste.mp3",
   "platform": "learn_manx",
   "domain": "education",

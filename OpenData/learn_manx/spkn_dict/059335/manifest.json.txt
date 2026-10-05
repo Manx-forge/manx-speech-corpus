@@ -1,6 +1,6 @@
 {
   "ident": "speech-059335",
-  "name": "roar bike",
+  "name": "Roar bike",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/roar%20-%20bike.mp3",
   "platform": "learn_manx",
   "domain": "education",

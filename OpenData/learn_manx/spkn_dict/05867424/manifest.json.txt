@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867424",
-  "name": "follym empty",
+  "name": "Follym empty",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Empty.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-054363",
-  "name": "tarroo bull",
+  "name": "Tarroo bull",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/tarroo%20-%20bull.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-059050",
-  "name": "tead skibbylt skipping rope",
+  "name": "Tead skibbylt skipping rope",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/tead%20skibbylt%20-%20skipping%20rope.mp3",
   "platform": "learn_manx",
   "domain": "education",

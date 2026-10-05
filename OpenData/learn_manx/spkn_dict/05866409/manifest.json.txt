@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866409",
-  "name": "ooreyder watch",
+  "name": "Ooreyder watch",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Watch.mp3",
   "platform": "learn_manx",
   "domain": "education",

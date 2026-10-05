@@ -1,6 +1,6 @@
 {
   "ident": "speech-057923",
-  "name": "poanrey bean",
+  "name": "Poanrey bean",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/poanrey%20-%20bean.mp3",
   "platform": "learn_manx",
   "domain": "education",

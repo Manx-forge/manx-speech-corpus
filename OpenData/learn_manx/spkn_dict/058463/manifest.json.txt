@@ -1,6 +1,6 @@
 {
   "ident": "speech-058463",
-  "name": "mee ny nollick December",
+  "name": "Mee ny nollick December",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mee%20ny%20nollick%20-%20December.mp3",
   "platform": "learn_manx",
   "domain": "education",

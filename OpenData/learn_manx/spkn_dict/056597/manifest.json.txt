@@ -1,6 +1,6 @@
 {
   "ident": "speech-056597",
-  "name": "ben-ynsee female teacher",
+  "name": "Ben-ynsee female teacher",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/ben-ynsee%20-%20female%20teacher.mp3",
   "platform": "learn_manx",
   "domain": "education",

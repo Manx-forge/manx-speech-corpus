@@ -1,6 +1,6 @@
 {
   "ident": "speech-069226",
-  "name": "1000words_entry_337000",
+  "name": "1000 Words, day 159: Stroin (nose)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_337000.html",
   "platform": "learn_manx",
   "domain": "education",

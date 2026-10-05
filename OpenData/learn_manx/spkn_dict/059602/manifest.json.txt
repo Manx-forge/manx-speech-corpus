@@ -1,6 +1,6 @@
 {
   "ident": "speech-059602",
-  "name": "troggal building",
+  "name": "Troggal building",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/troggal%20-%20building.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -197,7 +197,9 @@ def export():
                     w.writerow([li, k, x["word"].lower() if lower else x["word"], f"{x['start']:.2f}" if al else "",
                                 f"{x['end']:.2f}" if al else "", "aligned" if al else "unaligned"])
         cw = corpus_manifests().get(r["corpus_work"], {})
-        m = {"ident": f"speech-{rid}", "name": cw.get("name") or unquote(r["title"]).strip() or f"{r['source']} {rid}",
+        opening = " ".join(" ".join(words[i]["word"] for i in lines[0][2]).split()[:6])  # untitled: its first words
+        m = {"ident": f"speech-{rid}", "name": cw.get("name") or unquote(r["title"]).strip()
+             or f"“{opening}…” ({'Learn Manx app' if r['source'] == 'learn_manx' else r['source']})",
              **{k: cw[k] for k in ("createdCircaStart", "createdCircaEnd", "author", "notes", "translated") if k in cw},
              **({"createdCircaStart": r["date"], "createdCircaEnd": r["date"]} if len(r["date"]) > 4  # a day
                 else {"createdCircaStart": f"{r['date']}-01-01", "createdCircaEnd": f"{r['date']}-12-31"} if r["date"] else {}),

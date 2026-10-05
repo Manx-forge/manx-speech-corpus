@@ -1,6 +1,6 @@
 {
   "ident": "speech-059506",
-  "name": "kionnaghey buying",
+  "name": "Kionnaghey buying",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/kionnaghey%20-%20buying.mp3",
   "platform": "learn_manx",
   "domain": "education",

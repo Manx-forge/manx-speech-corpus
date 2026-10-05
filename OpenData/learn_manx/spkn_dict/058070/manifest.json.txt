@@ -1,6 +1,6 @@
 {
   "ident": "speech-058070",
-  "name": "laare floor",
+  "name": "Laare floor",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20house/laare%20-%20floor.mp3",
   "platform": "learn_manx",
   "domain": "education",

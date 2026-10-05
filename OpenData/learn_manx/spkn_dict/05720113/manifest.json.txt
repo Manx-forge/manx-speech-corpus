@@ -1,6 +1,6 @@
 {
   "ident": "speech-05720113",
-  "name": "ayns Rhumsaa",
+  "name": "Ayns Rhumsaa",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

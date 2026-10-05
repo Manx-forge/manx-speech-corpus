@@ -1,6 +1,6 @@
 {
   "ident": "speech-059466",
-  "name": "fakin seeing",
+  "name": "Fakin seeing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/fakin%20-%20seeing.mp3",
   "platform": "learn_manx",
   "domain": "education",

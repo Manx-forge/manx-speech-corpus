@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866213",
-  "name": "mwannal-laue wrist",
+  "name": "Mwannal-laue wrist",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Wrist.mp3",
   "platform": "learn_manx",
   "domain": "education",

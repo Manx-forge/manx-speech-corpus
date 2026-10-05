@@ -1,6 +1,6 @@
 {
   "ident": "speech-086519",
-  "name": "lessoon 17",
+  "name": "Lessoon 17",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/lessoon%2017.mp3",
   "platform": "learn_manx",
   "domain": "education",

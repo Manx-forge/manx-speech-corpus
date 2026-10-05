@@ -1,6 +1,6 @@
 {
   "ident": "speech-057899",
-  "name": "ooyl-ghraih tomato",
+  "name": "Ooyl-ghraih tomato",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/ooyl-ghraih%20-%20tomato.mp3",
   "platform": "learn_manx",
   "domain": "education",

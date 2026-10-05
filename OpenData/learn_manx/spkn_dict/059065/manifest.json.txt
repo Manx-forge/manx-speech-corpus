@@ -1,6 +1,6 @@
 {
   "ident": "speech-059065",
-  "name": "ainle angel",
+  "name": "Ainle angel",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20stories%20and%20myths/ainle%20-%20angel%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

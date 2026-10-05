@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865153",
-  "name": "banceyr banker",
+  "name": "Banceyr banker",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Banker.mp3",
   "platform": "learn_manx",
   "domain": "education",

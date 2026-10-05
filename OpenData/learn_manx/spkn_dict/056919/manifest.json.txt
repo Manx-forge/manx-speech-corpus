@@ -1,6 +1,6 @@
 {
   "ident": "speech-056919",
-  "name": "pioban hose pipe",
+  "name": "Pioban hose pipe",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/pioban%20-%20hose%20pipe.mp3",
   "platform": "learn_manx",
   "domain": "education",

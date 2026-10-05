@@ -1,6 +1,6 @@
 {
   "ident": "speech-058507",
-  "name": "toshiaght-arree February",
+  "name": "Toshiaght-arree February",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/toshiaght-arree%20-%20February.mp3",
   "platform": "learn_manx",
   "domain": "education",

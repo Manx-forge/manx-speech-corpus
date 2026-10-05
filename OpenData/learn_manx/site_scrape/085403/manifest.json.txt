@@ -1,6 +1,6 @@
 {
   "ident": "speech-085403",
-  "name": "caarjyn_cooidjagh_annie",
+  "name": "Caarjyn cooidjagh annie",
   "source": "https://www.learnmanx.com/media/Files/caarjyn%20cooidjagh%20annie.mp3",
   "platform": "learn_manx",
   "domain": "education",

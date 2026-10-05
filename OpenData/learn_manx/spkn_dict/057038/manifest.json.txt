@@ -1,6 +1,6 @@
 {
   "ident": "speech-057038",
-  "name": "skee tired",
+  "name": "Skee tired",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/skee%20-%20tired.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-054311",
-  "name": "mucawin bear",
+  "name": "Mucawin bear",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/mucawin%20-%20bear.mp3",
   "platform": "learn_manx",
   "domain": "education",

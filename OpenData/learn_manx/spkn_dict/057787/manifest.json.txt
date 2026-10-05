@@ -1,6 +1,6 @@
 {
   "ident": "speech-057787",
-  "name": "caffee coffee",
+  "name": "Caffee coffee",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/caffee%20-%20coffee.mp3",
   "platform": "learn_manx",
   "domain": "education",

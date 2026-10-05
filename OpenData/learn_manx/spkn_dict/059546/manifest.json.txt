@@ -1,6 +1,6 @@
 {
   "ident": "speech-059546",
-  "name": "reurey digging",
+  "name": "Reurey digging",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/reurey%20-%20digging.mp3",
   "platform": "learn_manx",
   "domain": "education",

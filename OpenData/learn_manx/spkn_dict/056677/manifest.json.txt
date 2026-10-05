@@ -1,6 +1,6 @@
 {
   "ident": "speech-056677",
-  "name": "ratch-immanagh racing driver",
+  "name": "Ratch-immanagh racing driver",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/ratch-immanagh%20-%20racing%20driver.mp3",
   "platform": "learn_manx",
   "domain": "education",

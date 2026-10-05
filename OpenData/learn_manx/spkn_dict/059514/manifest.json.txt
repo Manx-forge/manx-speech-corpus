@@ -1,6 +1,6 @@
 {
   "ident": "speech-059514",
-  "name": "lostey burning",
+  "name": "Lostey burning",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/lostey%20-%20burning.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-057573",
-  "name": "jiarg-gorrym purple",
+  "name": "Jiarg-gorrym purple",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/jiarg-gorrym%20-%20purple.mp3",
   "platform": "learn_manx",
   "domain": "education",

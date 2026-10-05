@@ -1,6 +1,6 @@
 {
   "ident": "speech-061484",
-  "name": "1000words_entry_307454",
+  "name": "1000 Words, day 65: Vel Gaelg ayd? (Is there Manx at you? (Do you speak Manx?))",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_307454.html",
   "platform": "learn_manx",
   "domain": "education",

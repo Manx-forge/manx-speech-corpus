@@ -1,6 +1,6 @@
 {
   "ident": "speech-062741",
-  "name": "1000words_entry_331871",
+  "name": "1000 Words, day 133: Laghyn seyrey (holidays (free days))",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_331871.html",
   "platform": "learn_manx",
   "domain": "education",

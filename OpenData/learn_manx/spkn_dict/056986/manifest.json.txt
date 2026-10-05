@@ -1,6 +1,6 @@
 {
   "ident": "speech-056986",
-  "name": "doillee difficult",
+  "name": "Doillee difficult",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/doillee%20-%20difficult.mp3",
   "platform": "learn_manx",
   "domain": "education",

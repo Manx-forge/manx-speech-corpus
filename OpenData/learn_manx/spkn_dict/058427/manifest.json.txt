@@ -1,6 +1,6 @@
 {
   "ident": "speech-058427",
-  "name": "mairagh tomorrow",
+  "name": "Mairagh tomorrow",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mairagh%20-%20tomorrow.mp3",
   "platform": "learn_manx",
   "domain": "education",

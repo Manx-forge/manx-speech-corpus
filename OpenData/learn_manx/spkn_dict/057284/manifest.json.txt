@@ -1,6 +1,6 @@
 {
   "ident": "speech-057284",
-  "name": "roih arm",
+  "name": "Roih arm",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/roih%20-%20arm.mp3",
   "platform": "learn_manx",
   "domain": "education",

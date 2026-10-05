@@ -1,6 +1,6 @@
 {
   "ident": "speech-059038",
-  "name": "skynn knife",
+  "name": "Skynn knife",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skynn%20-%20knife.mp3",
   "platform": "learn_manx",
   "domain": "education",

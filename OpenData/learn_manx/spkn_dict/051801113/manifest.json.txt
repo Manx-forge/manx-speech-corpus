@@ -1,6 +1,6 @@
 {
   "ident": "speech-051801113",
-  "name": "dys y cheeill",
+  "name": "Dys y cheeill",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

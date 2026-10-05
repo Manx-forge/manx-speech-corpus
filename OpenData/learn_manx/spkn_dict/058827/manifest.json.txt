@@ -1,6 +1,6 @@
 {
   "ident": "speech-058827",
-  "name": "lioaryn books",
+  "name": "Lioaryn books",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/lioaryn%20-%20books.mp3",
   "platform": "learn_manx",
   "domain": "education",

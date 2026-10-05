@@ -1,6 +1,6 @@
 {
   "ident": "speech-057676",
-  "name": "kionnan bale",
+  "name": "Kionnan bale",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/kionnan%20-%20bale.mp3",
   "platform": "learn_manx",
   "domain": "education",

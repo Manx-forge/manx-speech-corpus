@@ -1,6 +1,6 @@
 {
   "ident": "speech-057684",
-  "name": "lhongey mooie picnic",
+  "name": "Lhongey mooie picnic",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/lhongey%20mooie%20-%20picnic.mp3",
   "platform": "learn_manx",
   "domain": "education",

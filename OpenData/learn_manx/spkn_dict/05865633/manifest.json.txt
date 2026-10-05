@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865633",
-  "name": "queig-jeig fifteen (15)",
+  "name": "Queig-jeig fifteen (15)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20numbers/numbers_queig%20jeig-%20fifteen.mp3",
   "platform": "learn_manx",
   "domain": "education",

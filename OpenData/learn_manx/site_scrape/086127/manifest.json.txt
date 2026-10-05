@@ -1,6 +1,6 @@
 {
   "ident": "speech-086127",
-  "name": "ayrn_17",
+  "name": "Vampire Murders, part 17",
   "source": "https://www.learnmanx.com/media/Vampire%20murders/ayrn%2017.mp3",
   "platform": "learn_manx",
   "domain": "education",

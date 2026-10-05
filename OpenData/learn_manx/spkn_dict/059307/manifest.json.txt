@@ -1,6 +1,6 @@
 {
   "ident": "speech-059307",
-  "name": "farkyltoshee car bonnet",
+  "name": "Farkyltoshee car bonnet",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/farkyltoshee%20-%20car%20bonnet.mp3",
   "platform": "learn_manx",
   "domain": "education",

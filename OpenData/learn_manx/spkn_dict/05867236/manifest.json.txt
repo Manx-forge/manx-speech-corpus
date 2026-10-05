@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867236",
-  "name": "y cholombey colomba",
+  "name": "Y cholombey colomba",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Columbia.mp3",
   "platform": "learn_manx",
   "domain": "education",

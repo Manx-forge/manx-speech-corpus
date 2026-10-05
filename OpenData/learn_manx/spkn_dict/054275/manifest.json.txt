@@ -1,6 +1,6 @@
 {
   "ident": "speech-054275",
-  "name": "lheiy calf",
+  "name": "Lheiy calf",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/lheiy%20-%20calf.mp3",
   "platform": "learn_manx",
   "domain": "education",

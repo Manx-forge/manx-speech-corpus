@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866357",
-  "name": "braagyn-spoyrt trainers",
+  "name": "Braagyn-spoyrt trainers",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Trainers.mp3",
   "platform": "learn_manx",
   "domain": "education",

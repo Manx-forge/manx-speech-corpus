@@ -1,6 +1,6 @@
 {
   "ident": "speech-085914",
-  "name": "conversations 13 cheayll haink",
+  "name": "Conversations 13 cheayll haink",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2013%20cheayll%20haink.mp3",
   "platform": "learn_manx",
   "domain": "education",

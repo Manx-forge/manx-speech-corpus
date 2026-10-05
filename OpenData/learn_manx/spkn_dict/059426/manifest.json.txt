@@ -1,6 +1,6 @@
 {
   "ident": "speech-059426",
-  "name": "crankal knocking",
+  "name": "Crankal knocking",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/crankal%20-%20knocking.mp3",
   "platform": "learn_manx",
   "domain": "education",

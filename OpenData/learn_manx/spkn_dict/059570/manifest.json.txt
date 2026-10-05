@@ -1,6 +1,6 @@
 {
   "ident": "speech-059570",
-  "name": "shooyl walking",
+  "name": "Shooyl walking",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/shooyl%20-%20walking.mp3",
   "platform": "learn_manx",
   "domain": "education",

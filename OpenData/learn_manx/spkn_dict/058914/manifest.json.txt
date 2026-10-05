@@ -1,6 +1,6 @@
 {
   "ident": "speech-058914",
-  "name": "bluckan-baskad basketball",
+  "name": "Bluckan-baskad basketball",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/bluckan-baskad%20-%20basketball.mp3",
   "platform": "learn_manx",
   "domain": "education",

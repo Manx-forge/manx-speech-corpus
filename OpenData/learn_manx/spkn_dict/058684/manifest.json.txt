@@ -1,6 +1,6 @@
 {
   "ident": "speech-058684",
-  "name": "pishin kitten",
+  "name": "Pishin kitten",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Pets/pishin%20-%20kitten.mp3",
   "platform": "learn_manx",
   "domain": "education",

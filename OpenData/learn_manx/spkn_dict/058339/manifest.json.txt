@@ -1,6 +1,6 @@
 {
   "ident": "speech-058339",
-  "name": "fastyr afternoon",
+  "name": "Fastyr afternoon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/fastyr%20-%20afternoon.mp3",
   "platform": "learn_manx",
   "domain": "education",

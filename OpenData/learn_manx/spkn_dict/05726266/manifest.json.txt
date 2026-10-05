@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726266",
-  "name": "eeast as spollagyn fish and chips",
+  "name": "Eeast as spollagyn fish and chips",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Eeast%20as%20spollagyn.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-085572",
-  "name": "change_in_Gaelg",
+  "name": "Change in Gaelg",
   "source": "https://www.learnmanx.com/media/Files/change%20in%20Gaelg.mp3",
   "platform": "learn_manx",
   "domain": "education",

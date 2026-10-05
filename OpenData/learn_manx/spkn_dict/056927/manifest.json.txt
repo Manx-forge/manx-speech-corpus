@@ -1,6 +1,6 @@
 {
   "ident": "speech-056927",
-  "name": "raistyl rake",
+  "name": "Raistyl rake",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/raistyl%20-%20rake.mp3",
   "platform": "learn_manx",
   "domain": "education",

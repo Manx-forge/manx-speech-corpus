@@ -1,6 +1,6 @@
 {
   "ident": "speech-059422",
-  "name": "cosney winning",
+  "name": "Cosney winning",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/cosney%20-%20winning.mp3",
   "platform": "learn_manx",
   "domain": "education",

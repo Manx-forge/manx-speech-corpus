@@ -1,6 +1,6 @@
 {
   "ident": "speech-058558",
-  "name": "feddan whistle",
+  "name": "Feddan whistle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20music/feddan%20-%20whistle.mp3",
   "platform": "learn_manx",
   "domain": "education",

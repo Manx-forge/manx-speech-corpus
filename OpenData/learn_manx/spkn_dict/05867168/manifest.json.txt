@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867168",
-  "name": "bee dty host be quiet",
+  "name": "Bee dty host be quiet",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Be%20Quiet.mp3",
   "platform": "learn_manx",
   "domain": "education",

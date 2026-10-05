@@ -1,6 +1,6 @@
 {
   "ident": "speech-087321",
-  "name": "conversations 11 emshyr",
+  "name": "Conversations 11 emshyr",
   "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2011%20emshyr.mp3",
   "platform": "learn_manx",
   "domain": "education",

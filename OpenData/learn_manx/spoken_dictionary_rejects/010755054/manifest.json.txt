@@ -1,6 +1,6 @@
 {
   "ident": "speech-010755054",
-  "name": "learn_manx 010755054",
+  "name": "“ee…” (Learn Manx app)",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

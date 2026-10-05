@@ -1,6 +1,6 @@
 {
   "ident": "speech-057066",
-  "name": "çheh hot",
+  "name": "Çheh hot",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/cheh%20-%20hot.mp3",
   "platform": "learn_manx",
   "domain": "education",

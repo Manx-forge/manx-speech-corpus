@@ -1,6 +1,6 @@
 {
   "ident": "speech-059006",
-  "name": "ratchal-roar cycle racing",
+  "name": "Ratchal-roar cycle racing",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/ratchal-roar%20-%20cycle%20racing.mp3",
   "platform": "learn_manx",
   "domain": "education",

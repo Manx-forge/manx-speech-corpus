@@ -1,6 +1,6 @@
 {
   "ident": "speech-059661",
-  "name": "eayst moon",
+  "name": "Eayst moon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/eayst%20-%20moon.mp3",
   "platform": "learn_manx",
   "domain": "education",

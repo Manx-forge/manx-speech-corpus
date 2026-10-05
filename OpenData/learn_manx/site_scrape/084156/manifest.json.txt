@@ -1,6 +1,6 @@
 {
   "ident": "speech-084156",
-  "name": "pargys_Caillit_-_dys_yn_reader_1_",
+  "name": "Pargys Caillit - dys yn reader 1",
   "source": "https://www.learnmanx.com/media/Files/pargys%20Caillit%20-%20dys%20yn%20reader%201%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

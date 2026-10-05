@@ -1,6 +1,6 @@
 {
   "ident": "speech-057755",
-  "name": "berrishyn-feeyney grapes",
+  "name": "Berrishyn-feeyney grapes",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/berrishyn-feeyney%20-%20grapes.mp3",
   "platform": "learn_manx",
   "domain": "education",

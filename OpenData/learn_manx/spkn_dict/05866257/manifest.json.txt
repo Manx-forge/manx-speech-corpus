@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866257",
-  "name": "bolg stomach",
+  "name": "Bolg stomach",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Stomach.mp3",
   "platform": "learn_manx",
   "domain": "education",

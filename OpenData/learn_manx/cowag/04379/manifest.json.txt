@@ -1,6 +1,6 @@
 {
   "ident": "speech-04379",
-  "name": "Conversation 15",
+  "name": "Cowag: Conversation 15",
   "source": "https://www.learnmanx.com/media//cowag/15%20Track%2015%208.m4a",
   "platform": "learn_manx",
   "domain": "education",

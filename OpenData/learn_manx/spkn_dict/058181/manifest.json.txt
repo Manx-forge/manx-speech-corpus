@@ -1,6 +1,6 @@
 {
   "ident": "speech-058181",
-  "name": "cha mie lhiam I don't like",
+  "name": "Cha mie lhiam I don't like",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/cha%20mie%20-%20I%20dont%20like.mp3",
   "platform": "learn_manx",
   "domain": "education",

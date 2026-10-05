@@ -1,6 +1,6 @@
 {
   "ident": "speech-081406",
-  "name": "noo_mian_2_",
+  "name": "Noo mian 2",
   "source": "https://www.learnmanx.com/media/Files/noo%20mian%202%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

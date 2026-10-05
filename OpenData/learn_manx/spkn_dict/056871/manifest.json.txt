@@ -1,6 +1,6 @@
 {
   "ident": "speech-056871",
-  "name": "faiyr grass",
+  "name": "Faiyr grass",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/faiyr%20-%20grass.mp3",
   "platform": "learn_manx",
   "domain": "education",

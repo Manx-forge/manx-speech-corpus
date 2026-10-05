@@ -1,6 +1,6 @@
 {
   "ident": "speech-058946",
-  "name": "dean target",
+  "name": "Dean target",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/dean%20-%20target.mp3",
   "platform": "learn_manx",
   "domain": "education",

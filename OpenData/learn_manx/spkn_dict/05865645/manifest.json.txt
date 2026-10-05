@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865645",
-  "name": "hoght-jeig eighteen (18)",
+  "name": "Hoght-jeig eighteen (18)",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20numbers/numbers_hoght%20jeig-%20eighteen.mp3",
   "platform": "learn_manx",
   "domain": "education",

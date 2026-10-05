@@ -1,6 +1,6 @@
 {
   "ident": "speech-058328",
-  "name": "spein tey tea spoon",
+  "name": "Spein tey tea spoon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/spein%20tey%20-tea%20spoon.mp3",
   "platform": "learn_manx",
   "domain": "education",

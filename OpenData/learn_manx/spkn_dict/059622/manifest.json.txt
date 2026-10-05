@@ -1,6 +1,6 @@
 {
   "ident": "speech-059622",
-  "name": "ymmyrt row",
+  "name": "Ymmyrt row",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/ymmyrt%20-%20row.mp3",
   "platform": "learn_manx",
   "domain": "education",

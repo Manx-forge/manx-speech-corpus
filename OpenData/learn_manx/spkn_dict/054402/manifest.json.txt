@@ -1,6 +1,6 @@
 {
   "ident": "speech-054402",
-  "name": "babban baby",
+  "name": "Babban baby",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/babban%20-%20baby.mp3",
   "platform": "learn_manx",
   "domain": "education",

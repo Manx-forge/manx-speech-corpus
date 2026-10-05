@@ -1,6 +1,6 @@
 {
   "ident": "speech-059042",
-  "name": "spaaig paddle",
+  "name": "Spaaig paddle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/spaaig%20-%20paddle.mp3",
   "platform": "learn_manx",
   "domain": "education",

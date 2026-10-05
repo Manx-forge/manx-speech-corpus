@@ -1,6 +1,6 @@
 {
   "ident": "speech-058847",
-  "name": "penn-leoaie pencil",
+  "name": "Penn-leoaie pencil",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/penn-leoaie%20-%20pencil.mp3",
   "platform": "learn_manx",
   "domain": "education",

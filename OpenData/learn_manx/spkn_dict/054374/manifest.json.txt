@@ -1,6 +1,6 @@
 {
   "ident": "speech-054374",
-  "name": "ayr father",
+  "name": "Ayr father",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/ayr%20-%20father.mp3",
   "platform": "learn_manx",
   "domain": "education",

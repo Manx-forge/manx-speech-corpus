@@ -1,6 +1,6 @@
 {
   "ident": "speech-054239",
-  "name": "doourchoo beaver",
+  "name": "Doourchoo beaver",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/doourchoo%20-%20beaver.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-059618",
-  "name": "ymmyrkey carry",
+  "name": "Ymmyrkey carry",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/ymmyrkey%20-%20carry.mp3",
   "platform": "learn_manx",
   "domain": "education",

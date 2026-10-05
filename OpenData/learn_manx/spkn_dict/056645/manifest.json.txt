@@ -1,6 +1,6 @@
 {
   "ident": "speech-056645",
-  "name": "fer-obbee magician",
+  "name": "Fer-obbee magician",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/fer-obbee%20-%20magician.mp3",
   "platform": "learn_manx",
   "domain": "education",

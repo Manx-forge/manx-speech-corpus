@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867216",
-  "name": "y vrasseel brazil",
+  "name": "Y vrasseel brazil",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Brazil.mp3",
   "platform": "learn_manx",
   "domain": "education",

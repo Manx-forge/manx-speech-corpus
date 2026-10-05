@@ -1,6 +1,6 @@
 {
   "ident": "speech-081769",
-  "name": "ab_15_c",
+  "name": "Annie and Breesha 15c",
   "source": "https://www.learnmanx.com/media/annie%20and%20breesha/ab%2015%20c.mp3",
   "platform": "learn_manx",
   "domain": "education",

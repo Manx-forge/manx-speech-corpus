@@ -1,6 +1,6 @@
 {
   "ident": "speech-054426",
-  "name": "moidyn y phoosee bridegroom",
+  "name": "Moidyn y phoosee bridegroom",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/moidyn%20y%20phoosee%20-%20bridegroom.mp3",
   "platform": "learn_manx",
   "domain": "education",

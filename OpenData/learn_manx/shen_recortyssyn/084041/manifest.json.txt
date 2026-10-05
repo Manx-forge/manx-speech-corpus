@@ -1,6 +1,6 @@
 {
   "ident": "speech-084041",
-  "name": "noo ean 01",
+  "name": "Noo ean 01",
   "source": "https://www.learnmanx.com/media/noo%20ean/noo%20ean%2001.mp3",
   "platform": "learn_manx",
   "domain": "education",

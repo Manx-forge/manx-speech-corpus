@@ -1,6 +1,6 @@
 {
   "ident": "speech-068255",
-  "name": "1000words_entry_341984",
+  "name": "1000 Words, day 177",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_341984.html",
   "platform": "learn_manx",
   "domain": "education",

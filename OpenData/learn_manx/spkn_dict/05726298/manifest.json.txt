@@ -1,6 +1,6 @@
 {
   "ident": "speech-05726298",
-  "name": "kayt cat",
+  "name": "Kayt cat",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/Kayt.mp3",
   "platform": "learn_manx",
   "domain": "education",

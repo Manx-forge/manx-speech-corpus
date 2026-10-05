@@ -1,6 +1,6 @@
 {
   "ident": "speech-057704",
-  "name": "soalt barn",
+  "name": "Soalt barn",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/soalt%20-%20barn.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-054390",
-  "name": "carbyd clienney pram",
+  "name": "Carbyd clienney pram",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/carbyd%20clienney%20-%20pram.mp3",
   "platform": "learn_manx",
   "domain": "education",

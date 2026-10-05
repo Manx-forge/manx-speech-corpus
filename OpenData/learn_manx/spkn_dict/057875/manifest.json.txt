@@ -1,6 +1,6 @@
 {
   "ident": "speech-057875",
-  "name": "nannys pineapple",
+  "name": "Nannys pineapple",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/nannys%20-%20pineapple.mp3",
   "platform": "learn_manx",
   "domain": "education",

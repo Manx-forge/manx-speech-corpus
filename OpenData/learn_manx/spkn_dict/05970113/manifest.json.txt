@@ -1,6 +1,6 @@
 {
   "ident": "speech-05970113",
-  "name": "er Jonee",
+  "name": "Er Jonee",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

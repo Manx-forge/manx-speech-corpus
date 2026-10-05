@@ -1,6 +1,6 @@
 {
   "ident": "speech-056693",
-  "name": "shapp eeastee fishmongers",
+  "name": "Shapp eeastee fishmongers",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/shapp%20eeastee%20-%20fishmongers.mp3",
   "platform": "learn_manx",
   "domain": "education",

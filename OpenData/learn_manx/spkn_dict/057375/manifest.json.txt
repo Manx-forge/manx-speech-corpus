@@ -1,6 +1,6 @@
 {
   "ident": "speech-057375",
-  "name": "urley eagle",
+  "name": "Urley eagle",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/urley%20-eagle.mp3",
   "platform": "learn_manx",
   "domain": "education",

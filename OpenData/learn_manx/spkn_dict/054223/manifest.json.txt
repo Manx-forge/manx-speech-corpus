@@ -1,6 +1,6 @@
 {
   "ident": "speech-054223",
-  "name": "crammag snail",
+  "name": "Crammag snail",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/crammag%20-%20snail.mp3",
   "platform": "learn_manx",
   "domain": "education",

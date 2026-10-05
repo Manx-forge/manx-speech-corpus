@@ -1,6 +1,6 @@
 {
   "ident": "speech-056621",
-  "name": "dooinney-aitt clown",
+  "name": "Dooinney-aitt clown",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/dooinney-aitt%20-%20clown.mp3",
   "platform": "learn_manx",
   "domain": "education",

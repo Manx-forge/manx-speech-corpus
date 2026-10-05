@@ -1,6 +1,6 @@
 {
   "ident": "speech-056613",
-  "name": "bochilley shepherd",
+  "name": "Bochilley shepherd",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/bochilley%20-%20shepherd.mp3",
   "platform": "learn_manx",
   "domain": "education",

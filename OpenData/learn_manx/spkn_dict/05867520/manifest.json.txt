@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867520",
-  "name": "beg small",
+  "name": "Beg small",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Small.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-051342113",
-  "name": "ny smoo tappee",
+  "name": "Ny smoo tappee",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-063247",
-  "name": "1000words_entry_307381",
+  "name": "1000 Words, day 52: Çheh (hot)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_307381.html",
   "platform": "learn_manx",
   "domain": "education",

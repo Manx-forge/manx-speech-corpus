@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865305",
-  "name": "arran greddan toast",
+  "name": "Arran greddan toast",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Toast_Arran%20greddan.mp3",
   "platform": "learn_manx",
   "domain": "education",

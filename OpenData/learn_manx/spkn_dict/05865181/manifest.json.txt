@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865181",
-  "name": "leighder lawyer",
+  "name": "Leighder lawyer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Lawyer.mp3",
   "platform": "learn_manx",
   "domain": "education",

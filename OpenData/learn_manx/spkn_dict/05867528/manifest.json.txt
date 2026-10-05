@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867528",
-  "name": "coon narrow",
+  "name": "Coon narrow",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Narrow.mp3",
   "platform": "learn_manx",
   "domain": "education",

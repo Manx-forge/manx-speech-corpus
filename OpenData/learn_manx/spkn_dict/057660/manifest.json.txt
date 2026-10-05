@@ -1,6 +1,6 @@
 {
   "ident": "speech-057660",
-  "name": "giat gate",
+  "name": "Giat gate",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/giat%20-%20gate.mp3",
   "platform": "learn_manx",
   "domain": "education",

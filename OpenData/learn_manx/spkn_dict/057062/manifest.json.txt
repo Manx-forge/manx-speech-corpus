@@ -1,6 +1,6 @@
 {
   "ident": "speech-057062",
-  "name": "ymmydoil useful",
+  "name": "Ymmydoil useful",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/ymmydoil%20-%20useful.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058887",
-  "name": "skelloo lioar bookshelf",
+  "name": "Skelloo lioar bookshelf",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20school/skelloo%20lioar%20-%20bookshelf.mp3",
   "platform": "learn_manx",
   "domain": "education",

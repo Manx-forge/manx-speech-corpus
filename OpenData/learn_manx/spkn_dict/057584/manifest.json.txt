@@ -1,6 +1,6 @@
 {
   "ident": "speech-057584",
-  "name": "ammyr canal",
+  "name": "Ammyr canal",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20country/ammyr%20-%20canal.mp3",
   "platform": "learn_manx",
   "domain": "education",

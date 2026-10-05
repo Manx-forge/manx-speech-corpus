@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865169",
-  "name": "troggeyder builder",
+  "name": "Troggeyder builder",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Builder.mp3",
   "platform": "learn_manx",
   "domain": "education",

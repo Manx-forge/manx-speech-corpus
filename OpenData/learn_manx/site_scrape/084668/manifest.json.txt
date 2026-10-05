@@ -1,6 +1,6 @@
 {
   "ident": "speech-084668",
-  "name": "pargys_caillit_mychione_reeriaght_niau_",
+  "name": "Pargys caillit mychione reeriaght niau",
   "source": "https://www.learnmanx.com/media/Files/pargys%20caillit%20mychione%20reeriaght%20niau%20.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058308",
-  "name": "skaal saucer",
+  "name": "Skaal saucer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/skaal%20-%20saucer.mp3",
   "platform": "learn_manx",
   "domain": "education",

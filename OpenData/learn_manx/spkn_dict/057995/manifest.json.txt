@@ -1,6 +1,6 @@
 {
   "ident": "speech-057995",
-  "name": "tey tea",
+  "name": "Tey tea",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20food/tey%20-%20tea.mp3",
   "platform": "learn_manx",
   "domain": "education",

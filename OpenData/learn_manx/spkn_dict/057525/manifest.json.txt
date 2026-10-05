@@ -1,6 +1,6 @@
 {
   "ident": "speech-057525",
-  "name": "bane white",
+  "name": "Bane white",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/bane%20-%20white.mp3",
   "platform": "learn_manx",
   "domain": "education",

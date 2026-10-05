@@ -1,6 +1,6 @@
 {
   "ident": "speech-059132",
-  "name": "brattagh flag",
+  "name": "Brattagh flag",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20town/brattagh%20-%20flag.mp3",
   "platform": "learn_manx",
   "domain": "education",

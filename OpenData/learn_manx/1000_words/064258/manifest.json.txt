@@ -1,6 +1,6 @@
 {
   "ident": "speech-064258",
-  "name": "1000words_entry_307469",
+  "name": "1000 Words, day 68: Ren oo drappal Sniaul jea? (Did you climb Snaefell yesterday?)",
   "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_307469.html",
   "platform": "learn_manx",
   "domain": "education",

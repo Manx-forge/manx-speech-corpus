@@ -1,6 +1,6 @@
 {
   "ident": "speech-054454",
-  "name": "paitchey child",
+  "name": "Paitchey child",
   "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/paitchey%20-%20child.mp3",
   "platform": "learn_manx",
   "domain": "education",

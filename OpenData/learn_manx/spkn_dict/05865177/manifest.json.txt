@@ -1,6 +1,6 @@
 {
   "ident": "speech-05865177",
-  "name": "gaaue blacksmith",
+  "name": "Gaaue blacksmith",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Blacksmith.mp3",
   "platform": "learn_manx",
   "domain": "education",

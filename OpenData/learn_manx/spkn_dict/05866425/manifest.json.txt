@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866425",
-  "name": "cooat-fliaghee raincoat",
+  "name": "Cooat-fliaghee raincoat",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Raincoat.mp3",
   "platform": "learn_manx",
   "domain": "education",

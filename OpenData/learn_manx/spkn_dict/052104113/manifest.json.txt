@@ -1,6 +1,6 @@
 {
   "ident": "speech-052104113",
-  "name": "y Rank",
+  "name": "Y Rank",
   "source": null,
   "platform": "learn_manx",
   "domain": "education",

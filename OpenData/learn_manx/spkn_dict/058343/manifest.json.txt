@@ -1,6 +1,6 @@
 {
   "ident": "speech-058343",
-  "name": "fastyr mie  good afternoon",
+  "name": "Fastyr mie  good afternoon",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/fastyr%20mie%20%20-%20good%20afternoon.mp3",
   "platform": "learn_manx",
   "domain": "education",

@@ -1,6 +1,6 @@
 {
   "ident": "speech-058316",
-  "name": "skeabfluigh mop",
+  "name": "Skeabfluigh mop",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/skeabfluigh%20-%20mop.mp3",
   "platform": "learn_manx",
   "domain": "education",

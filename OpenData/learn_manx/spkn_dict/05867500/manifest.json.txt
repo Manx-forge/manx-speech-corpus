@@ -1,6 +1,6 @@
 {
   "ident": "speech-05867500",
-  "name": "fliugh wet",
+  "name": "Fliugh wet",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Wet.mp3",
   "platform": "learn_manx",
   "domain": "education",

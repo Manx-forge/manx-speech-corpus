@@ -1,6 +1,6 @@
 {
   "ident": "speech-05866369",
-  "name": "carraneyn-traie flip-flops",
+  "name": "Carraneyn-traie flip-flops",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Flip%20Flops.mp3",
   "platform": "learn_manx",
   "domain": "education",

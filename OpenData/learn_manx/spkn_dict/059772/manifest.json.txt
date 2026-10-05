@@ -1,6 +1,6 @@
 {
   "ident": "speech-059772",
-  "name": "oard hammer",
+  "name": "Oard hammer",
   "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/oard%20-%20hammer.mp3",
   "platform": "learn_manx",
   "domain": "education",
