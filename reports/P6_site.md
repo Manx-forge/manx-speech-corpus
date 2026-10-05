@@ -1,6 +1,6 @@
 # P6: site
 
-The `speech` branch of `manx-corpus-search` (commit `f244763`, on top of upstream `c984c32`). Not yet pushed; see "Push".
+The `speech` branch of `manx-corpus-search` (commit `f244763`, on top of upstream `c984c32`).
 
 ## What it adds
 - **Nav (D26):** Text (the current home page), Speech, Dictionary, Browse All, Contribute, Translations. On a phone the
@@ -62,8 +62,5 @@ pinned with `taskset` to stand in for the production droplet (2 GB RAM).
   Measure before choosing.
 
 ## Push
-GitHub refused the push to `Manx-forge/manx-corpus-search`. The branch sits on upstream's latest master, which
-changes `.github/workflows/deploy-image.yml`, and the active gh account (`chris-sj-bartley`) has no `workflow`
-scope. The other logged-in account (`c-bartley`) has it. Either:
-- `gh auth refresh -h github.com -s workflow` (adds the scope to the active account), or
-- push as `c-bartley`.
+Pushed to `Manx-forge/manx-corpus-search`, branch `speech`. The branch includes upstream's change to
+`.github/workflows/deploy-image.yml`, which needed the `workflow` scope on the gh account (added by Chris, 2026-10-05).

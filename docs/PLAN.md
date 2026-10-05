@@ -2,7 +2,7 @@
 
 ## Current state (handover, 2026-10-05)
 **Done:** P0–P5 (P5 signed off by Chris 2026-10-05; Common Voice kept as one work per clip; old `loayr` and
-`automatic_transcriptions` repos archived). **P6 built**, awaiting Chris's sign-off and a push. See `reports/P6_site.md`.
+`automatic_transcriptions` repos archived). **P6 built**, awaiting Chris's sign-off. See `reports/P6_site.md`.
 Nothing is running.
 
 **P6, site** (`manx-corpus-search/`, branch `speech`, commit `f244763` on upstream `c984c32`):
@@ -11,8 +11,8 @@ Nothing is running.
 - Tests: NUnit 886 pass (+16), vitest 433 pass (+11). tsc, eslint and prettier are clean.
 - Memory (2 cores): text only 437 MB, text + speech 775 MB (peak 910 MB). Fits the 2 GB droplet; a 512 MB free tier
   fits neither corpus (P7 decision).
-- **Not pushed:** the push needs the `workflow` scope (upstream changed a workflow file). The active gh account
-  `chris-sj-bartley` lacks it; `c-bartley` has it. Chris to choose.
+- Pushed to `Manx-forge/manx-corpus-search` branch `speech` (2026-10-05, after Chris added the `workflow` scope to
+  gh account `chris-sj-bartley`).
 - Local toolchain (not in any repo): .NET 10 SDK in `cache/tools/dotnet`, NuGet cache in `cache/tools/nuget`,
   Playwright Chromium in `cache/tools/playwright`. Run the site locally with
   `Loading__OpenDataPath=<manx-search-data>/OpenData Speech__OpenDataPath=<this repo>/OpenData`.
