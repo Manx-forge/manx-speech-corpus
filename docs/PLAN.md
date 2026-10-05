@@ -15,9 +15,10 @@
   log `work/logs/monthly_2026-10-05.log`).
   - To fix: `asr.py tdnn` re-decodes the 12 recordings that gave no segments, every run.
 - Demo (D31): Hugging Face now charges for Docker Spaces, and Chris pays for nothing. Codespaces worked but Chris found
-  it too complicated (a VS Code window and a wait). Done instead: a static GitHub Pages demo
-  (<https://manx-forge.github.io/manx-speech-corpus/>; `demo/`, `scripts/demo.py`, `.github/workflows/demo.yml`). Its
-  search runs in the browser. The Codespaces config stays on the `speech` branch for running the real site.
+  it too complicated (a VS Code window and a wait). Done instead: a GitHub Pages demo
+  (<https://manx-forge.github.io/manx-speech-corpus/>). It is the site's own client, unchanged (Chris: "merely an
+  extension of the original"), with `demo/speech-api.js` answering the speech API from a static index
+  (`scripts/demo.py`, `.github/workflows/demo.yml`). The Codespaces config stays on the `speech` branch for running the real site.
 - Then: the PR to David (after the demo URL goes into HANDOVER.md).
 
 **Fix later (Chris, 2026-10-05; not blocking):**

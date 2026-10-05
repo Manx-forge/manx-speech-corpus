@@ -1,4 +1,5 @@
-# The static demo on GitHub Pages: demo/ plus the search index scripts/demo.py builds from OpenData
+# The demo on GitHub Pages: the site's own client (Manx-forge/manx-corpus-search, branch speech) with
+# demo/speech-api.js answering its speech API from the index scripts/demo.py builds. Rerun by hand after a site change.
 name: demo
 on:
   push:
@@ -23,7 +24,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/demo.py _site
+      - uses: actions/checkout@v4
+        with:
+          repository: Manx-forge/manx-corpus-search
+          ref: speech
+          path: site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm ci && npx vite build --base=/manx-speech-corpus/
+        working-directory: site/CorpusSearch/ClientApp
+      - run: python scripts/demo.py _site site/CorpusSearch/ClientApp/build /manx-speech-corpus/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

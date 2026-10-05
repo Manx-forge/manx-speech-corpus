@@ -21,6 +21,6 @@ Try it: <https://manx-forge.github.io/manx-speech-corpus/>. Status: [docs/PLAN.m
 | `registers/` | master recording inventory, link register |
 | `scripts/` | build pipeline (inventory, ASR, alignment, export, link checks) |
 | `reports/` | per-phase build reports |
-| `demo/` | the static demo of the Speech pages, at <https://manx-forge.github.io/manx-speech-corpus/> |
+| `demo/` | the demo's stand-in for the site's speech API (GitHub Pages: <https://manx-forge.github.io/manx-speech-corpus/>) |
 | `loayr/` | the Loayr Manx speech evaluation dataset (imported from `Manx-forge/loayr`) |
 | `automatic_transcriptions/` | earlier TDNN transcriptions of Abbyr Shen Reesht (imported from `Manx-forge/automatic_transcriptions`) |

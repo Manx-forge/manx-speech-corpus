@@ -13,10 +13,10 @@ recording at its source, at the moment the phrase is spoken. No audio is hosted.
 - **Contribute** (`/contribute`): "do we have this recording?", then the timestamper and a GitHub issue form.
 - The nav becomes Text, Speech, Dictionary, Browse All, Contribute, Translations.
 
-**Demo: <https://manx-forge.github.io/manx-speech-corpus/>.** It opens instantly, with no server. It is a static copy of the
-Speech pages (`demo/`, plus an index built by `scripts/demo.py`), redeployed by `.github/workflows/demo.yml` whenever
-the data changes. Its search is simpler than the site's (words and phrases, no advanced syntax), and Text links to the
-live corpus. To run the real site with both corpora, open the `speech` branch
+**Demo: <https://manx-forge.github.io/manx-speech-corpus/>.** It opens instantly, with no server. It is the site's own client
+from the `speech` branch, unchanged. `demo/speech-api.js` answers its speech API from a static index built by
+`scripts/demo.py`, and `.github/workflows/demo.yml` redeploys it whenever the data changes. Its search is simpler than
+the server's (words and phrases, no advanced syntax), and Text, Dictionary and Browse open on the live corpus. To run the real site with both corpora, open the `speech` branch
 [in a Codespace](https://codespaces.new/Manx-forge/manx-corpus-search/tree/speech): it builds and starts itself in a
 few minutes; the Ports tab, port 5000, opens it.
 
