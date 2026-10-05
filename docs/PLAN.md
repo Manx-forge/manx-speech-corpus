@@ -9,13 +9,13 @@
   runs `export.py check`, which no longer needs titan), weekly link checker (`scripts/check_links.py` +
   `link-check.yml`; the register gained `archive_url`, and export puts it in the manifest, D12). First full run:
   3,998 links, 1 newly broken (`076948`, a Learn Manx mp3, 404). `HANDOVER.md` drafted.
-- `scripts/weekly.sh` (D36) is written but has not run yet. Its chain is fetch → inventory → `asr.py tdnn` →
-  `infer_cer.py` (GPU) → nbest → score (GPU) → collect → align → export → check → commit and push. GPU steps queue on
-  gpusched and the script waits for them. `asr.py score` now counts segments done by any shard and exits early when
-  there is nothing to do. Next: Chris launches the first run (2 new episodes, 27 Sep and 4 Oct, are waiting), then
-  installs the cron line given in the script.
-- Demo (D31): a 512 MB free tier cannot run the site (P6 memory). Proposal: Hugging Face Spaces (free Docker, 2 vCPU,
-  16 GB). Needs Chris's decision and account.
+- **Monthly, not weekly** (Chris, 2026-10-05: "so we aren't inundated with issues"). `scripts/monthly.sh` (D36) is
+  in Claude's crontab (`0 3 1 * *`) and is Claude's to run, not Chris's. It opens an issue when it pushes new
+  episodes or fails. The link check also runs on the 1st. First run launched 2026-10-05 (1 new episode, 09368;
+  log `work/logs/monthly_2026-10-05.log`).
+  - To fix: `asr.py tdnn` re-decodes the 12 recordings that gave no segments, every run.
+- Demo (D31): Hugging Face now charges for Docker Spaces, and Chris pays for nothing. Done instead: a Codespaces
+  devcontainer on the `speech` branch (`767ace4`), tested from a fresh clone on titan. Link in HANDOVER.md.
 - Then: the PR to David (after the demo URL goes into HANDOVER.md).
 
 **Fix later (Chris, 2026-10-05; not blocking):**
