@@ -52,6 +52,8 @@ def problem(url):
         if YT_ID.search(url):
             return {401: "video private or not embeddable", 403: "video private or not embeddable"}.get(
                 e.code, f"video unavailable (oEmbed HTTP {e.code})")
+        if e.code in (401, 403, 429):  # refuses robots (Twitter from GitHub's runners), not gone
+            return None
         return f"unreachable (HTTP {e.code})"
     except Exception as e:  # DNS, TLS, timeout
         return f"unreachable ({type(e).__name__})"
