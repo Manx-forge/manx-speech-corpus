@@ -1,14 +1,14 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-05)
-**Done:** P0–P4 (P3b + P4 signed off by Chris 2026-10-05; he judges quality in the final output). **P5 built**, awaiting
-Chris's sign-off. Read the `reports/` files for details. Nothing is running.
+**Done:** P0–P4 (P3b + P4 signed off by Chris 2026-10-05; he judges quality in the final output). **P5 signed off** (Chris 2026-10-05; Common Voice
+kept as one work per clip). Read the `reports/` files for details. Nothing is running.
 
 **P5, export** (`scripts/export.py`, `reports/P5_export.md`):
 - `OpenData/`: 11,902 works (10,374 human + 1,528 ASR), 195,187 lines, 2.02 M words. `export.py check` (data CI)
   passes on all of them.
-- D35 done: `loayr/` and `automatic_transcriptions/` imported as subtrees with history. The old repos are untouched;
-  a pointer README or archiving them is Chris's call.
+- D35 done: `loayr/` and `automatic_transcriptions/` imported as subtrees with history. The old repos are superseded
+  (Chris, 2026-10-05); deleting or archiving them on GitHub is pending his confirmation.
 - `inventory.py` reads Loayr metadata from `loayr/`, and the 8 Skeealyn Vannin recordings we hold that are also corpus
   works now use the corpus `document.csv` (cased, speakers, English; D17). They were realigned; the old alignments are
   kept as `align/human/<id>.normalised/`. `0308` keeps ours (the corpus copy covers 60 %).
@@ -225,7 +225,7 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   per segment within its known span, which is more robust than whole-recording biased-LM search.
 - QC: aligned/interpolated/unaligned rates per source. Hand-check about 10 random words per source against the audio.
 
-**P5. Export.** BUILT 2026-10-05, awaiting sign-off: see `reports/P5_export.md`.
+**P5. Export.** DONE 2026-10-05, signed off: see `reports/P5_export.md`.
 - Build `OpenData/` works and the registers. Merge human over ASR (D17). Absorb the two Manx-forge repos (D35).
 - Data CI passes.
 
