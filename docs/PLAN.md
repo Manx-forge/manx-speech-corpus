@@ -14,8 +14,10 @@
   episodes or fails. The link check also runs on the 1st. First run launched 2026-10-05 (1 new episode, 09368;
   log `work/logs/monthly_2026-10-05.log`).
   - To fix: `asr.py tdnn` re-decodes the 12 recordings that gave no segments, every run.
-- Demo (D31): Hugging Face now charges for Docker Spaces, and Chris pays for nothing. Done instead: a Codespaces
-  devcontainer on the `speech` branch (`767ace4`), tested from a fresh clone on titan. Link in HANDOVER.md.
+- Demo (D31): Hugging Face now charges for Docker Spaces, and Chris pays for nothing. Codespaces worked but Chris found
+  it too complicated (a VS Code window and a wait). Done instead: a static GitHub Pages demo
+  (<https://manx-forge.github.io/manx-speech-corpus/>; `demo/`, `scripts/demo.py`, `.github/workflows/demo.yml`). Its
+  search runs in the browser. The Codespaces config stays on the `speech` branch for running the real site.
 - Then: the PR to David (after the demo URL goes into HANDOVER.md).
 
 **Fix later (Chris, 2026-10-05; not blocking):**

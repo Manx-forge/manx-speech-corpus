@@ -13,11 +13,12 @@ recording at its source, at the moment the phrase is spoken. No audio is hosted.
 - **Contribute** (`/contribute`): "do we have this recording?", then the timestamper and a GitHub issue form.
 - The nav becomes Text, Speech, Dictionary, Browse All, Contribute, Translations.
 
-**Demo:** [open the `speech` branch in a Codespace](https://codespaces.new/Manx-forge/manx-corpus-search/tree/speech).
-It is free within a personal GitHub account's monthly quota, and needs no card. It clones both corpora, builds the
-site, and opens it in the browser once loaded: about 5 minutes the first time, 1–2 minutes after that. The config is in
-`.devcontainer/` (a separate commit, which can stay out of the upstream PR). The private ClosedData texts are not
-included.
+**Demo: <https://manx-forge.github.io/manx-speech-corpus/>.** It opens instantly, with no server. It is a static copy of the
+Speech pages (`demo/`, plus an index built by `scripts/demo.py`), redeployed by `.github/workflows/demo.yml` whenever
+the data changes. Its search is simpler than the site's (words and phrases, no advanced syntax), and Text links to the
+live corpus. To run the real site with both corpora, open the `speech` branch
+[in a Codespace](https://codespaces.new/Manx-forge/manx-corpus-search/tree/speech): it builds and starts itself in a
+few minutes; the Ports tab, port 5000, opens it.
 
 ## The site PR (`Manx-forge/manx-corpus-search:speech` → `david-allison/manx-corpus-search:master`)
 Two commits on top of upstream master: the speech corpus, and the Codespaces demo config (optional). The text corpus behaves exactly as before.

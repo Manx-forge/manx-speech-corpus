@@ -12,7 +12,7 @@ No audio is hosted here. The repository holds transcripts, word-level timings, m
 - Missing a recording? Check whether we have it, timestamp it with the [Manx timestamper](https://gaelgai.im/#timestamp),
   and open an issue.
 
-Status: under construction. See [docs/PLAN.md](docs/PLAN.md).
+Try it: <https://manx-forge.github.io/manx-speech-corpus/>. Status: [docs/PLAN.md](docs/PLAN.md).
 
 ## Layout
 | Path | Contents |
@@ -21,5 +21,6 @@ Status: under construction. See [docs/PLAN.md](docs/PLAN.md).
 | `registers/` | master recording inventory, link register |
 | `scripts/` | build pipeline (inventory, ASR, alignment, export, link checks) |
 | `reports/` | per-phase build reports |
+| `demo/` | the static demo of the Speech pages, at <https://manx-forge.github.io/manx-speech-corpus/> |
 | `loayr/` | the Loayr Manx speech evaluation dataset (imported from `Manx-forge/loayr`) |
 | `automatic_transcriptions/` | earlier TDNN transcriptions of Abbyr Shen Reesht (imported from `Manx-forge/automatic_transcriptions`) |
