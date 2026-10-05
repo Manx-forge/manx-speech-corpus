@@ -1,0 +1,14 @@
+{
+  "ident": "speech-079233",
+  "name": "Cuchulainn 1 - Gaase",
+  "source": "https://www.youtube.com/watch?v=bDvf6XqOI88",
+  "platform": "youtube",
+  "resource_id": "079233",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 305.16,
+  "deep_link": "https://www.youtube.com/watch?v=bDvf6XqOI88&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

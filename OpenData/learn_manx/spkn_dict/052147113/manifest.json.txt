@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052147113",
+  "name": "Va mee ruggit er yn jeihoo laa Jerrey Fouyir",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052147113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

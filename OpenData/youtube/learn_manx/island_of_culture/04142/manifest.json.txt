@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04142",
+  "name": "Mie lhiat ny ratchyn TT?",
+  "source": "https://www.youtube.com/watch?v=otcq8XrfoNk",
+  "platform": "youtube",
+  "resource_id": "04142",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.33,
+  "deep_link": "https://www.youtube.com/watch?v=otcq8XrfoNk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

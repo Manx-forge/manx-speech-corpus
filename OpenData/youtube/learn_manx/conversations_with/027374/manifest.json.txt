@@ -1,0 +1,16 @@
+{
+  "ident": "speech-027374",
+  "name": "Manx Gaelic Today",
+  "source": "https://www.youtube.com/watch?v=Ho_h5Odi0Rs",
+  "platform": "youtube",
+  "resource_id": "027374",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 289.27,
+  "deep_link": "https://www.youtube.com/watch?v=Ho_h5Odi0Rs&t={t}s",
+  "alt_urls": [
+    "https://www.youtube.com/watch?v=Ho_h5Odi0Rs&feature=plcp&context=C4f4e19bVDvjVQa1PpcFOg_t_tS15-n0F9fRnKW8P0-HDhT6w3EKU="
+  ],
+  "link_status": "ok"
+}

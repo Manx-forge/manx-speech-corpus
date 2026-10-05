@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0444",
+  "name": "Vel oo geearree Marmite nish? Cha nel, cha mie lhiam Marmite",
+  "source": "https://www.youtube.com/watch?v=SYJcZcwAuls",
+  "platform": "youtube",
+  "resource_id": "0444",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.91,
+  "deep_link": "https://www.youtube.com/watch?v=SYJcZcwAuls&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

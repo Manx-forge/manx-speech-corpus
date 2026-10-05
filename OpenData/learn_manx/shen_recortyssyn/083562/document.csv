@@ -1,0 +1,29 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid hoght hie mee dys doolish riyr,1.03,4.84,asr,100
+,hie oo dys purt chiarn hie eh dy valley,6.37,9.64,asr,100
+,hie ee dys sostyn hie shin dys yn thie-lhionney,11.02,14.95,asr,100
+,hie shiu dys shoprite hie ad dys y cholloo,16.09,19.75,asr,100
+,cha jagh mee dys doolish riyr cha jagh oo dys purt chiarn,21.10,24.88,asr,100
+,cha jagh eh dy valley cha jagh oo dys sostyn,25.90,29.23,asr,100
+,cha jagh shin dys yn thie-lhionney cha jagh shiu dys shoprite,30.19,33.76,asr,100
+,cha jagh ad dys y cholloo jagh mee dys doolish riyr,34.51,38.92,asr,100
+,jagh oo dys purt chiarn jagh eh dy valley,40.18,43.51,asr,98
+,dys sostyn shiaghtin dys yn thie-lhionney,45.37,48.73,asr,78
+,jagh shiu dys shoprite jagh ad dys y cholloo,49.69,53.08,asr,90
+,nagh jagh mee dys doolish riyr nagh jagh oo dys purt chiarn,55.39,59.59,asr,100
+,nagh jagh eh dy valley nagh jagh oo dys sostyn,60.58,63.97,asr,91
+,nagh jagh shin dys yn thie-lhionney nagh jagh shiu dys shoprite,64.78,68.53,asr,93
+,nagh jagh ad dys y cholloo honnick mee yn fillym riyr,69.40,72.82,asr,100
+,honnick oo yn gamman honnick eh ushag sy gharey,74.20,77.89,asr,100
+,honnick ee yn honnick shin juan ayns doolish,79.12,83.32,asr,91
+,honnick shiu ad ayns shoprite honnick ad ny paitchyn cloie,84.79,89.11,asr,100
+,cha vaik mee yn fillym riyr cha vaik oo yn gamman,89.62,93.34,asr,100
+,cha vaik eh ushag sy gharey cha va,94.99,98.02,asr,0
+,cha vaik shin juan ayns doolish cha vaik shiu ad ayns shoprite,99.94,103.87,asr,100
+,cha vaik ad ny paitchyn cloie vaik mee yn fillym riyr,104.92,109.30,asr,100
+,yn gamman ushag sy gharey,110.53,112.99,asr,72
+,veagh shin juan ayns doolish ayns shoprite,116.59,120.61,asr,72
+,ny paitchyn cloie nagh vaik mee yn fillym riyr,122.08,126.19,asr,89
+,nagh vaik oo yn gamman nagh vaik eh ushag sy gharey,127.66,131.68,asr,88
+,nagh vaik eh nagh vaik shin juan ayns doolish,133.15,137.74,asr,88
+,nagh vaik shiu ad ayns shoprite nagh vaik ad ny paitchyn cloie,138.79,143.08,asr,100

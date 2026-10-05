@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42556760",
+  "name": "Nee'm taggloo jeh dt'annaghyn: as ver-ym geill da dty raaidyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42556760",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.796,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

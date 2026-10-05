@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04220",
+  "name": "Soie sheese, my sailt",
+  "source": "https://www.youtube.com/watch?v=LzlmoT-xpig",
+  "platform": "youtube",
+  "resource_id": "04220",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.54,
+  "deep_link": "https://www.youtube.com/watch?v=LzlmoT-xpig&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

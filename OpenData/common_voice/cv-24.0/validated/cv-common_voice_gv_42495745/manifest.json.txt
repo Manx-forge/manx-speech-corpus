@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42495745",
+  "name": "Eisht v'ad ooilley ayns cree mie, as ghow adsyn myrgeddin beaghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42495745",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.94,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

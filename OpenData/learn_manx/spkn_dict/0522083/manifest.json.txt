@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0522083",
+  "name": "Sharkagh shark",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sea/sharkagh%20-%20shark.mp3",
+  "platform": "learn_manx",
+  "resource_id": "0522083",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.15,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sea/sharkagh%20-%20shark.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

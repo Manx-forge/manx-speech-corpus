@@ -1,0 +1,22 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,the milk in shoprite shoprite,0.55,6.91,asr,52
+,hooar mee yn bainney ayns shoprite hooar mee yn bainney ayns shoprite,7.99,11.77,asr,100
+,cha dooar mee veg cha dooar mee veg,20.47,22.72,asr,54
+,ny phing phing,24.64,31.27,asr,0
+,nagh dooar eh veg nagh dooar eh veg,31.84,34.36,asr,100
+,dooar oo yn chaghteraght dooar oo yn chaghteraght,43.45,46.33,asr,100
+,yesterday yesterday,49.51,56.29,asr,79
+,hug mee shilley urree jea hug mee shilley urree jea,56.86,60.58,asr,100
+,yesterday john yesterday,62.53,68.83,asr,50
+,nagh dug oo shilley er john jea nagh dug oo shilley er john jea,69.52,73.42,asr,100
+,given ny mlee ny,74.41,80.65,asr,0
+,dug oo yn argid da dug oo yn argid da,81.46,84.16,asr,100
+,cha dug mee eh dou cha dug mee eh dou,93.10,95.86,asr,81
+,mary mary,96.61,102.82,asr,53
+,cha dooyrt mary veg cha dooyrt mary veg,104.32,107.56,asr,84
+,phing phing nagh dooyrt eh veg nagh dooyrt eh veg,109.27,118.15,asr,65
+,c'raad hooar oo yn argid c'raad hooar oo yn argid,126.76,129.88,asr,100
+,quoi hug dhyt eh quoi dooyrt eh,138.82,142.18,asr,79
+,cre'n fa hug oo shilley er cre'n fa hug oo shilley er,151.54,155.35,asr,100
+,cre hooar oo cre hooar oo,163.63,166.21,asr,92
+,sea sea cre dooyrt eh cre dooyrt eh,167.50,175.84,asr,82

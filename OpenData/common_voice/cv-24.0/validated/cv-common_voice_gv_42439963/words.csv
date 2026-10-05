@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""My",0.36,0.54,aligned
+0,1,ta,0.54,0.75,aligned
+0,2,shin,0.75,1.14,aligned
+0,3,credjueagh,1.17,1.89,aligned
+0,4,firrinagh;,1.89,2.67,aligned
+0,5,ta,3.15,3.30,aligned
+0,6,shin,3.30,3.57,aligned
+0,7,shassoo,3.57,4.41,aligned
+0,8,er,5.13,5.28,aligned
+0,9,yn,5.28,5.40,aligned
+0,10,chreg,5.40,5.79,aligned
+0,11,dy,5.79,6.00,aligned
+0,12,"eashyn.""",6.00,6.51,aligned

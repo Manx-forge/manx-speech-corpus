@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086401",
+  "name": "Cregeen 05? Boaldyn",
+  "source": "https://www.youtube.com/watch?v=lhJiu924h8w",
+  "platform": "youtube",
+  "resource_id": "086401",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 124.97,
+  "deep_link": "https://www.youtube.com/watch?v=lhJiu924h8w&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

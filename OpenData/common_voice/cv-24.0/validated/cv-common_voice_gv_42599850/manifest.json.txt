@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599850",
+  "name": "Ny glessyn, as yn aanrit-keyl, as ny hoodyn, as coodaghey nyn eddinyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599850",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.02,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

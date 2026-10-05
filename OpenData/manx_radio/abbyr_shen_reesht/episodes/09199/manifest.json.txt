@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09199",
+  "name": "Abbyr Shen Reesht - Say That Again 30th April 2023",
+  "createdCircaStart": "2023-04-29",
+  "createdCircaEnd": "2023-04-29",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-30th-april-20231/",
+  "platform": "manx_radio",
+  "resource_id": "09199",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2256.09,
+  "deep_link": "https://podcasts.captivate.fm/media/ec8cc0bc-e28f-4a07-9db3-543ea69be59a/6843.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

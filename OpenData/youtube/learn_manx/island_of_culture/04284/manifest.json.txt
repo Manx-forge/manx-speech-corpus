@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04284",
+  "name": "As t'ou dty phie custart boght as breinn as moal as fud-y-cheilley jeh sluight ny baa bwee",
+  "source": "https://www.youtube.com/watch?v=85Iptp_L2O0",
+  "platform": "youtube",
+  "resource_id": "04284",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 55.4,
+  "deep_link": "https://www.youtube.com/watch?v=85Iptp_L2O0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

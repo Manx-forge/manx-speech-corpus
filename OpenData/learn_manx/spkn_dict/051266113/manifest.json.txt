@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051266113",
+  "name": "Traie Phurt Çhiarn",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051266113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.8,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

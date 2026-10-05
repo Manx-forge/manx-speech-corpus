@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,Ta'n,0.66,0.81,aligned
+0,1,obbyr,0.81,1.05,aligned
+0,2,er,1.05,1.20,aligned
+0,3,choyrt,1.20,1.53,aligned
+0,4,yn,1.53,1.65,aligned
+0,5,rheumatism,1.65,2.25,aligned
+0,6,er,2.25,2.34,aligned
+0,7,ash,2.34,2.61,aligned
+0,8,dou.,2.61,2.82,aligned

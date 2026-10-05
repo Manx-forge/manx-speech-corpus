@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058308",
+  "name": "skaal saucer",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/skaal%20-%20saucer.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058308",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/skaal%20-%20saucer.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

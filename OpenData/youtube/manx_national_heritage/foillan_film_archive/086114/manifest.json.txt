@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086114",
+  "name": "Illiam Dhone Ceremony 1986 - Foillan Films.",
+  "source": "https://www.youtube.com/watch?v=x5NJzihEbeA",
+  "platform": "youtube",
+  "resource_id": "086114",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 294.32,
+  "deep_link": "https://www.youtube.com/watch?v=x5NJzihEbeA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

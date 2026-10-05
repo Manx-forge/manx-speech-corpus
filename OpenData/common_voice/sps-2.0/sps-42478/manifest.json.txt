@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42478",
+  "name": "Cre yn obbyr sassey t'ou rieau er nyannoo?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42478",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 14.796,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

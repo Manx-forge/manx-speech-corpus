@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42558475",
+  "name": "\"Dooisht seose, my ghloyr; dooisht lute as chlaasagh: dooisht-yms mee hene feer voghey.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42558475",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

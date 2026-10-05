@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445906",
+  "name": "Ta m'annym lhiantyn hoods: ta dty laue yesh er my chummal seose.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445906",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.244,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

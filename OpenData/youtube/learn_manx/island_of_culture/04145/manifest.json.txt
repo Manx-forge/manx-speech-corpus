@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04145",
+  "name": "Nagh vel yn twoaie jeeaghyn yindyssagh nish?",
+  "source": "https://www.youtube.com/watch?v=-8y9J2zWo4s",
+  "platform": "youtube",
+  "resource_id": "04145",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.18,
+  "deep_link": "https://www.youtube.com/watch?v=-8y9J2zWo4s&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

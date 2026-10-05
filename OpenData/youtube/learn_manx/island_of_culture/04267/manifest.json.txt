@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04267",
+  "name": "Fastyr beg dy row, deam y chied vuggane trooid y towl",
+  "source": "https://www.youtube.com/watch?v=DsokF9CUlCo",
+  "platform": "youtube",
+  "resource_id": "04267",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 51.9,
+  "deep_link": "https://www.youtube.com/watch?v=DsokF9CUlCo&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

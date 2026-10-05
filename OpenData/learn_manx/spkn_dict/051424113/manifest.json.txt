@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051424113",
+  "name": "As mee hene. Vel oo dty vleb?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051424113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

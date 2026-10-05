@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463729",
+  "name": "Share craght ve 'sy cheer, na mee ny mannan cheet stiagh meein",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463729",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.172,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650850",
+  "name": "As she dty Vaase, Illiam Dhone, vrishys nyn gree!",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650850",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.688,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

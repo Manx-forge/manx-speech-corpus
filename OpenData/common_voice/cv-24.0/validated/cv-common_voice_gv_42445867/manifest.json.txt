@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445867",
+  "name": "Eisht va yngnyn ny cabbil brisht liorish stampey, liorish lheimeraght nyn gabbil trean.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445867",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.128,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

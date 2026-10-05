@@ -1,0 +1,28 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnidyn shiaght-jeig as hoght-jeig smoo,0.88,4.36,asr,100
+,yn dooinney smoo ayns mannin quoi yn fer smoo,5.23,9.28,asr,90
+,yn baagh sloo shen yn thie sloo sy valley,10.39,14.41,asr,100
+,yn ven smoo aalin ayns mannin yn cabbyl smoo tappee ayns y theihll,16.51,21.46,asr,100
+,yn baagh sloo aghtal ayns y valley,22.78,24.97,asr,100
+,yn boayl sloo aalin ayns mannin,26.17,28.18,asr,90
+,ny smoo ta'n balley ny smoo nish,29.65,33.43,asr,100
+,ta'n volg aym ny smoo lurg jinnair,35.08,37.30,asr,88
+,ta'n seihll gaase ny sloo va ny sloo ayns ny shenn laghyn,38.95,44.26,asr,90
+,ny smoo na t'eh ny smoo na,46.15,48.64,asr,69
+,ta juan ny smoo na eshyn ta mannin ny sloo ny nherin,50.29,54.43,asr,100
+,ta'n moddey ny sloo na yn kayt ta mee ny smoo tarroogh na eshyn,56.35,62.53,asr,97
+,ta shin ny smoo fliugh na jea t'eh ny sloo cheh na jemayrt,64.42,69.40,asr,98
+,ta mee ny sloo tarroogh my jeh t'ee ny smoo aalin na mish,70.87,78.01,asr,98
+,t'ee ny ellanyn mish ta'n gleashtan ny smoo moal nish,79.00,83.92,asr,88
+,ta'n gleashtan ny s'melley nish t'eh ny smoo cheh jiu,84.94,90.10,asr,100
+,t'eh ny strieu jiu t'eh ny smoo shenn na jonee,90.97,95.65,asr,100
+,t'eh ny shinney na jonee t'eh ny share na juan,96.43,102.43,asr,100
+,t'eh ny smessey na mish ta mee cho tappee as ushag,103.66,109.78,asr,92
+,t'eh cho creoi as yiarn cha nel eh cho quaagh as eshyn,111.10,116.35,asr,100
+,cha nel eh cheh as v'eh jea cho maynrey as muc ayns muclagh,118.48,125.17,asr,97
+,ta mee bunnys cho skee as va mee jea,127.12,129.37,asr,100
+,va'n yes cho gial as yn ghrian,131.83,133.78,asr,80
+,vannee doo as moyrn cha row eh cho mie as ve sy tourey,136.51,143.77,asr,90
+,cre cho mooar as ta doolish cre cho liauyr as ta'n famman echey,145.78,151.00,asr,100
+,cre cho ching as v'ou cre cho foddey as v'ee ayns shen,152.56,157.42,asr,98
+,cre cho kiune as vees yn keayn mairagh,158.62,160.84,asr,100

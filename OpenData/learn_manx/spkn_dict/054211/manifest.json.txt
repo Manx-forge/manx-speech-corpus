@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054211",
+  "name": "cabbylawin hippo",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/cabbylawin%20-%20hippo.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054211",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.49,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/cabbylawin%20-%20hippo.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

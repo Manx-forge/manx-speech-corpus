@@ -1,0 +1,14 @@
+{
+  "ident": "speech-023806",
+  "name": "Owen Williams ec Culture Vannin",
+  "source": "https://www.youtube.com/watch?v=x8EE3L5roNc",
+  "platform": "youtube",
+  "resource_id": "023806",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 209.37,
+  "deep_link": "https://www.youtube.com/watch?v=x8EE3L5roNc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

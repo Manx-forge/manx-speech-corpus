@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,follym,0.48,1.02,aligned
+0,1,empty,2.10,2.70,aligned
+0,2,follym,3.63,4.20,aligned

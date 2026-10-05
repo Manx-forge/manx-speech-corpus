@@ -1,0 +1,244 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,0.85,3.55,asr,82
+,lessoon tree hoght,5.41,11.41,asr,38
+,cheh hot,18.22,22.33,asr,26
+,aye play,34.24,35.50,asr,40
+,yinnin cloie yinnin cloie,41.14,43.96,asr,39
+,hie play yinnin cloie,47.26,59.35,asr,36
+,agh yinnin cloie,59.50,62.95,asr,56
+,choud's sea is,65.98,67.75,asr,35
+,anmagh anmagh,74.65,76.69,asr,31
+,choud's eh ro anmagh,78.22,87.37,asr,40
+,beeym ro anmagh eight,88.18,92.41,asr,58
+,yinnin cheet yinnin cheet,98.05,100.63,asr,61
+,coming cheet,103.96,114.82,asr,0
+,hoght veen ro anmagh yinnin cheet dagh vlein ro anmagh,115.27,119.92,asr,84
+,come brighton dy mie y drink,123.07,126.04,asr,29
+,cheet ro anmagh dy chionnagh jough,136.84,141.22,asr,77
+,yinnin cheet agh v'eh ro anmagh dy chionnagh jough,142.18,145.00,asr,78
+,cha bee nearey loo,155.98,157.45,asr,68
+,cha bee nearey oo just say hie bee raadee at that time,158.32,164.47,asr,41
+,cha bee nearey ec y traa shen,172.18,174.88,asr,79
+,cha bee nearey ec y traa shen probably,175.75,181.54,asr,58
+,bee lhig da jinnin goll,190.90,193.15,asr,0
+,t'eh licklee dy jinnin goll probably,194.08,199.09,asr,62
+,bee radio,200.74,201.34,asr,0
+,liklee dy jinnin goll agh cha bee nearey ec y traa shen,212.95,218.29,asr,76
+,t'eh licklee dy jinnin goll agh cha bee oo ec y traa shen,219.55,222.55,asr,85
+,haink mee hungry er,226.45,236.98,asr,0
+,er lhiam dy bee niau accryssagh,236.80,239.26,asr,77
+,accryssagh hungry,241.51,247.39,asr,71
+,er lhiam dy beeym ro accryssagh,255.79,258.55,asr,90
+,erlhiam dy beeym ro accryssagh hungry,259.30,266.29,asr,44
+,dy been red beg ro accryssagh,274.03,276.64,asr,100
+,er lhiam dy beeym red beg ro accryssagh,277.69,279.85,asr,97
+,yn goaill arrane yinnin goaill arrane,283.33,293.86,asr,90
+,bretin,298.06,298.51,asr,40
+,too hungry goaill,299.62,312.49,asr,0
+,balley raane agh erlhiam dy been red beg ro accryssagh,312.31,317.56,asr,84
+,yinnin goaill arrane agh erlhiam dy beign red beg ro accryssagh,318.73,322.09,asr,97
+,bee good veagh oo mie,326.59,333.82,asr,0
+,veagh oo mie ghoo,334.66,345.43,asr,59
+,oo mie dy liooar veagh oo mie dy liooar,345.22,348.34,asr,92
+,choud's eh veagh oo,350.23,361.60,asr,50
+,boo mie dy liooar ayns shen veagh oo mie dy liooar as,361.42,365.35,asr,80
+,bee oo,380.86,381.34,asr,0
+,goo mie dy liooar ayns shen cha nel eh feer feayr,381.04,384.82,asr,88
+,veagh oo mie dy liooar as cha nel eh feer vooar,386.02,388.54,asr,100
+,veagh,406.81,407.14,asr,0
+,goo mie dy liooar ayns shen cha nel eh feer feayr edyr,406.99,411.07,asr,89
+,veagh oo mie dy liooar as cha nel eh feer feayr edyr,412.21,414.76,asr,87
+,beagh oo aarloo,425.74,426.76,asr,73
+,cur aarloo radio,427.84,432.37,asr,21
+,ec y traa shen bee oo ec y traa shen,441.55,444.94,asr,53
+,syn yiass yiass,446.74,454.69,asr,36
+,veagh veagh,461.59,464.56,asr,0
+,eh neesht veagh,467.56,481.72,asr,0
+,berloo ec lieh oor lurg shey,483.10,485.68,asr,25
+,veagh oo ec lieh oor lurg shey,486.85,489.28,asr,52
+,nagh bee oo ayns laksaa,504.46,506.74,asr,88
+,nagh beagh oo ayns laksaa tayrn,508.54,515.05,asr,58
+,nagh bee oo ayns laksaa ec y traa shen,524.14,527.47,asr,92
+,nagh beagh oo ayns laxey ec y traa shen ren oo eh,528.64,536.11,asr,96
+,nagh beagh oo ayns laksaa ec y traa shen ansherbee,546.52,550.60,asr,96
+,nagh beagh oo ayns laxey ec y traa shen ansherbee,552.28,554.68,asr,96
+,cha beagh cha beagh,560.50,563.20,asr,100
+,cha beagh,573.07,573.82,asr,0
+,veen er y traie cha beagh er y traie,574.48,578.32,asr,60
+,bun dy bee with my dog cha,582.10,592.84,asr,0
+,cha beagh traie marish y voddey aym,592.63,596.92,asr,71
+,cha beagh er y traie marish y voddey aym,597.79,600.22,asr,100
+,veagh oo aarloo co-veagh oo aarloo,615.01,618.58,asr,83
+,foddee dy cloie coon veagh oo aarloo dy,622.72,632.95,asr,0
+,dy chloie coontey cho aarloo dy chloie,632.83,636.04,asr,56
+,cha nel fys aym er shen,644.08,646.87,asr,33
+,hie probably bee reddyn little bit after,651.13,653.98,asr,88
+,cha nel fys aym lhig,669.70,672.49,asr,100
+,dy bee nearey red beg queig,673.15,676.42,asr,62
+,t'eh licklee dy bee red beg queig,678.46,680.77,asr,79
+,sea is probably,682.93,685.24,asr,57
+,bee a little bit after the clock cha,685.66,698.41,asr,0
+,cha nel fys aym dy bee nearey red beg queig er y chlag,698.20,704.14,asr,68
+,t'eh licklee dy bee red beg lurg queig er y chlag,705.88,708.64,asr,79
+,howl just say as probably be ready a little bit after y,710.23,715.06,asr,64
+,the afternoon cha,715.45,727.96,asr,0
+,cha nel fys aym t'eh licklee dy bee nearey red beg,727.78,732.61,asr,94
+,queig er y chlag syn astyr,733.09,735.31,asr,100
+,t'eh licklee dy bee red beg lurg queig er y chlag syn astyr,737.62,740.89,asr,95
+,time cre'n traa,745.42,751.54,asr,73
+,cre'n traa time,752.41,757.03,asr,100
+,cre'n traa yinnagh oo loayrt,765.82,768.28,asr,100
+,cre'n traa yinnagh oo loayrt c'ren,769.06,783.13,asr,38
+,yn traa yinnagh oo loayrt ree ta'n traa yinnagh oo loayrt ree,783.04,787.27,asr,91
+,in the morning losseree ayns y voghrey,791.71,801.85,asr,62
+,bunnys ayns y voghrey hie,802.72,807.13,asr,41
+,cushag mee too thieyn dy nee afternoon,808.87,810.82,asr,60
+,nyn loayr ree ayns y voghrey,820.75,822.97,asr,52
+,son veen ro skee ayns syn astyr,823.63,826.36,asr,62
+,yinnin loayrt ree ayns y voghrey son ro skee as yn,827.41,830.17,asr,83
+,cha ren ad gra ren eh gra,839.80,842.98,asr,75
+,bee raadee gra dy beagh,848.38,859.09,asr,68
+,cha ren oo gra dy beagh ad er,859.09,862.66,asr,61
+,said dy bee radio as yn coadey ta satan,865.57,869.05,asr,33
+,gra dy beagh ad aarloo ec kerroo dys shiaght,877.81,881.86,asr,93
+,ren oo gra dy beagh ad aarloo ec kerroo dys shiaght,883.00,885.58,asr,90
+,v'eh said that bee radio as ren,888.25,903.49,asr,0
+,ren ad gra dy beagh ad aarloo ec mysh kerroo dys shiaght,903.37,908.17,asr,86
+,ren eh gra dy beagh ad aarloo ec mysh kerroo dys shiaght,909.28,912.13,asr,89
+,ren mee gra ren mee,922.45,924.58,asr,79
+,mee gra gow-jee sea,924.40,927.67,asr,60
+,well,936.25,936.40,asr,0
+,ren mee gra nagh beagh ad anmagh,939.55,942.13,asr,67
+,ren mee gra nagh beagh ad anmagh eh,942.79,946.81,asr,59
+,ren mee gra nagh,957.46,958.90,asr,5
+,agh beagh ad anmagh eddyr ny gra nagh beagh ad anmagh eddyr,958.72,963.04,asr,85
+,he said ren eh gra ren eh gra,966.04,975.67,asr,37
+,he said that shee bee fastyr,978.43,980.83,asr,35
+,ren eh gra dy bee ish ny stappee,991.66,995.38,asr,91
+,ren oo gra dy bee ish ny stappee gra,997.36,1015.27,asr,42
+,dy bee ish ny stappee na eshyn,1015.36,1017.55,asr,81
+,vel oo gra dy bee ish ny s'tappee ren,1019.05,1029.67,asr,35
+,ren shin gra ren shin gra,1029.49,1032.91,asr,81
+,yn bee as good ren,1037.05,1047.52,asr,36
+,ren shin gra nagh beagh ad cha mie,1047.28,1050.46,asr,100
+,ren shin gra nagh bee as good as you,1051.78,1058.95,asr,62
+,ren shin gra nagh beagh ad cha mie rhyts,1069.15,1073.35,asr,82
+,ren shin gra nagh beagh eh ta mie rhyts,1074.25,1076.47,asr,84
+,quoi veagh tappee,1088.62,1089.91,asr,0
+,tappee quoi veagh tappee,1090.96,1104.28,asr,18
+,appee dy liooar quoi veagh tappee dy liooar,1104.07,1106.92,asr,84
+,bee fastyr dooyt quoi veagh tappee,1110.61,1123.90,asr,0
+,dy liooar dy yannoo eh quoi veagh tappee dy liooar dy yannoo eh,1123.96,1128.40,asr,87
+,mee bree shen bee dy,1132.69,1146.94,asr,0
+,dy beagh bree tappee dy liooar,1146.82,1149.40,asr,100
+,foddee dy beagh bree tappee dy liooar,1150.36,1152.37,asr,90
+,choud's eh mee bee breesht,1153.78,1156.42,asr,67
+,bee fastyr noght shee as fastyr,1156.72,1159.36,asr,35
+,bee dy beagh bree tappee dy liooar,1172.77,1175.44,asr,87
+,ny stappee na mish ansherbee,1177.24,1179.37,asr,82
+,foddee dy beagh breejey tappee dy liooar rish ny stappee na mish ansherbee,1180.30,1184.44,asr,95
+,hie hass ta orrym farkiagh,1187.53,1195.60,asr,0
+,ta orrym farkiagh choud,1196.17,1199.62,asr,36
+,biteyn as howse orrym,1201.72,1212.40,asr,0
+,farkiagh ayns y thie echey,1212.61,1214.80,asr,96
+,gorrym farkiagh ayns y thie echey dy,1216.09,1221.79,asr,76
+,veagh orrym farkiagh,1231.45,1233.52,asr,95
+,beagh orrym farkiagh dy,1234.15,1240.45,asr,29
+,veagh orrym farkiagh echey schoill,1250.11,1252.93,asr,91
+,dty churrym farkiagh ec y schoill farkiagh,1254.01,1270.96,asr,86
+,parkiagh as,1272.25,1275.70,asr,0
+,feer farkiagh son echey,1286.35,1288.51,asr,73
+,barkagh son echey as,1290.37,1294.12,asr,0
+,cha row fys ayd,1300.87,1301.92,asr,0
+,row fys ayd dy,1302.64,1308.58,asr,29
+,row fys ayd dy beagh ort varkiagh,1318.72,1321.66,asr,57
+,row fys ayd dy beagh ort varkiagh,1322.56,1324.51,asr,100
+,now as row fys ayd dy,1329.37,1341.64,asr,0
+,dy beagh ort varkiagh daa oor,1341.55,1343.95,asr,0
+,row fys ayd dy beagh er varkiagh da oor,1345.03,1347.43,asr,88
+,bioys voirrey row,1352.38,1364.92,asr,0
+,fys ayd dy beagh ort varkiagh daa oor son eck,1364.95,1368.34,asr,64
+,dy beagh ort varkiagh da oor son eck,1369.90,1372.03,asr,92
+,cha row cha row,1377.46,1379.80,asr,100
+,fo,1385.68,1386.13,asr,0
+,cha row mee smooinaght dy bee ee ayns shen ec kiare,1398.25,1403.95,asr,81
+,cha row va mee smooinaght dy beagh eh ayns shen ec kiare,1405.09,1407.85,asr,91
+,she said ren ee gra,1411.36,1417.36,asr,8
+,ren ee gra gow-jee sea,1418.14,1421.89,asr,0
+,she said that she would have time,1422.49,1425.64,asr,24
+,ren ee gra nagh beagh traa eck,1435.84,1439.86,asr,100
+,ren ee gra nagh bee as tra ren,1441.00,1460.56,asr,74
+,yn gra nagh beagh traa eck dy yannoo eh,1460.44,1464.28,asr,78
+,ren ee gra nagh beagh traa dy yannoo eh,1465.51,1467.64,asr,97
+,she said that she would have time to do it,1470.79,1473.01,asr,0
+,the way ren,1475.35,1488.34,asr,0
+,gra nagh beagh traa eck dy yannoo eh,1488.79,1492.33,asr,81
+,agh hie ansherbee,1493.17,1495.30,asr,100
+,ren ee gra nagh beagh traa dy yannoo eh,1496.26,1498.57,asr,100
+,ansherbee he was very angry,1499.59,1504.60,asr,67
+,bee feer chorree feer chorree,1509.85,1513.54,asr,84
+,hew just say he was very angry but she said that,1516.42,1520.47,asr,64
+,ve feer chorree gra nagh beagh traa eck,1532.29,1537.24,asr,75
+,v'eh feer chorree agh ren ee gra nagh beagh,1538.26,1540.99,asr,87
+,bis eh he was very angry but she said shiu nagh dooyrt,1543.33,1547.32,asr,43
+,ve feer chorree gra nagh beagh traa dy yannoo eh,1560.28,1565.32,asr,70
+,v'eh feer chorree y gra nagh beagh traa,1566.64,1569.19,asr,77
+,jagh oo,1579.84,1580.32,asr,36
+,jagh oo dty,1581.19,1584.82,asr,43
+,yesterday jagh oo dys purt ny hinshey,1585.96,1596.10,asr,86
+,jagh oo dys purt ny hinshey jea,1597.18,1598.74,asr,80
+,voish y yiass hie,1599.85,1604.38,asr,0
+,hie eh,1605.28,1607.47,asr,100
+,quoi,1620.34,1620.91,asr,0
+,ren ee gra dy beagh ish as,1621.78,1624.63,asr,70
+,hie ee gra dy beagh ish ayns shen,1626.10,1628.65,asr,88
+,yiass shee ny moanee,1631.98,1634.68,asr,0
+,ren ee gra dy beagh ish ayns shen ayns y voghrey,1647.97,1651.87,asr,88
+,vel ee gra dy beagh ish aynshen as e arrys,1653.64,1659.37,asr,47
+,dy diu see her cooie,1660.09,1668.16,asr,0
+,cha vaik cha vaik sheese,1674.85,1680.73,asr,33
+,cha vaik ren ee gra dy beagh ee ayns shen,1691.17,1694.80,asr,80
+,cha vaik ren ee gra dy bee now,1695.67,1701.28,asr,81
+,cha ren ee gra dy bee ee ayns shen agh cha row,1713.07,1717.81,asr,94
+,cha vaik gra dy beagh eh ayns shen agh cha row,1718.83,1721.53,asr,83
+,jinnagh oo,1734.04,1734.61,asr,14
+,oo goll jinnagh oo goll house,1734.22,1740.37,asr,64
+,jinnagh oo goll dys y thie echey jinnagh oo goll dys y thie echey,1747.27,1751.17,asr,100
+,cha jinnagh cha jinnagh,1760.71,1763.26,asr,100
+,eh now t'eh toiggal,1765.00,1768.30,asr,0
+,cha jinnagh son veagh orrym loayrt rishyn,1780.51,1784.74,asr,100
+,cha jinnagh son veagh orrym loayrt rish yn vuc,1786.06,1788.61,asr,100
+,cha,1806.13,1806.37,asr,0
+,cha jinnagh son veagh orrym loayrt rish yn vuc veg echey,1806.16,1810.90,asr,90
+,cha jinnagh son veagh orrym loayrt rish yn vuc veg echey,1811.77,1814.32,asr,91
+,now t'ou toiggal too as ny,1818.19,1820.77,asr,0
+,cha jinnagh son orroo loayrt rish yn vuc veg echey,1833.88,1838.74,asr,82
+,as cha jinnagh son t'eh er churrym loayrt rish yn vuc veg echey as cha laik lhiam ee,1839.34,1846.21,asr,77
+,nagh,1859.23,1859.65,asr,0
+,ren mee gra nagh ren mee gra,1859.71,1862.35,asr,82
+,nagh ren mee gra dy beagh eh braew,1877.20,1880.23,asr,100
+,nagh ren mee gra dy beagh eh braew dyn,1881.25,1887.31,asr,100
+,beefie nagh ren,1888.72,1899.07,asr,0
+,ren mee gra dy beagh dy chooilley red braew,1898.95,1902.28,asr,90
+,nagh ren mee gra dy beagh dy chooilley red braew,1903.21,1905.43,asr,100
+,cha ren eh,1913.02,1915.24,asr,100
+,bee oo gra dy jinnagh eh ceau fliaghey,1931.17,1934.02,asr,77
+,cha ren oo gra dy jinnagh eh ceau fliaghey,1934.74,1937.29,asr,87
+,now you said that it would rain and that would be wet,1941.04,1945.36,asr,0
+,cha ren ren oo gra dy jinnagh eh ceau fliaghey,1955.86,1960.84,asr,100
+,as dy beagh shin fliugh cha ren oo gra dy jinnagh eh ceau fliaghey as dy beagh shin,1961.59,1967.74,asr,95
+,cha ren oo gra dy jinnagh eh ceau fliaghey,1987.18,1991.05,asr,91
+,as dy beagh shin fliugh as trimshagh,1991.62,1994.14,asr,100
+,cha ren oo gra dy jinnagh eh ceau fliaghey as dy beagh shin fliugh as trimshagh,1994.92,1999.75,asr,95
+,ren oo briaght ren ee briaght,2010.40,2013.01,asr,76
+,ren oo briaght jeh ren ee briaght jeh,2025.10,2028.88,asr,97
+,bee reddyn,2034.52,2035.09,asr,41
+,goo briaght jeh beaghey aarloo,2047.99,2051.08,asr,74
+,ren oo briaght jeh beaghey aarloo ren,2052.43,2070.97,asr,58
+,ren oo briaght jeh ren oo briaght jeh,2070.82,2075.62,asr,58
+,ren ren,2082.49,2084.38,asr,64
+,bee gra dy beagh eh aarloo lurg shen,2105.23,2108.50,asr,88
+,ren oo gra dy beagh aarloo lurg shen,2110.06,2112.04,asr,85
+,neesht bee ready little bit at,2114.86,2118.52,asr,50
+,rheynn ren eh gra dy beagh eh aarloo red beg lurg shen,2128.39,2134.18,asr,100
+,ren ren oo gra dy beagh red beg lurg shen,2135.38,2138.38,asr,78

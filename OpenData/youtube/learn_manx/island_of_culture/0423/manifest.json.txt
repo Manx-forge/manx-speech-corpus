@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0423",
+  "name": "Ta mee geearree kay riojey nish",
+  "source": "https://www.youtube.com/watch?v=fya7vmRJIYY",
+  "platform": "youtube",
+  "resource_id": "0423",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.27,
+  "deep_link": "https://www.youtube.com/watch?v=fya7vmRJIYY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

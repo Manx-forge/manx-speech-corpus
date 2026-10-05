@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052190113",
+  "name": "Bare lhiam Doolish na San Fransico",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052190113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.3,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

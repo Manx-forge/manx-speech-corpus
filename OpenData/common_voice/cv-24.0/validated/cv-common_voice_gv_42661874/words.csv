@@ -1,0 +1,12 @@
+line,idx,word,start,end,status
+0,0,My,1.11,1.23,aligned
+0,1,"vac,",1.23,1.62,aligned
+0,2,freill,2.04,2.43,aligned
+0,3,sarey,2.43,2.85,aligned
+0,4,"dt'ayrey,",2.85,3.36,aligned
+0,5,as,3.69,3.87,aligned
+0,6,ny,3.87,4.02,aligned
+0,7,treig,4.02,4.41,aligned
+0,8,leigh,4.41,4.77,aligned
+0,9,dty,4.80,4.92,aligned
+0,10,vayrey.,4.92,5.40,aligned

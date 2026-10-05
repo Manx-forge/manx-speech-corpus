@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,nee,0.06,0.24,aligned
+0,1,spaaniagh,0.24,0.93,aligned
+0,2,orry,0.93,1.23,aligned

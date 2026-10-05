@@ -1,0 +1,29 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,life milk life milk s'mie lhiam bainney,5.47,15.43,asr,91
+,s'mie lhiam bainney she dys yn lhaih ram zee,15.67,19.39,asr,90
+,dys yn ramsey cha mie lhee rhumsaa cha mie lhee rhumsaa,23.35,28.54,asr,84
+,mie lhee feeyn mie lhee feeyn,36.19,39.28,asr,100
+,dys yn driving driving,41.77,47.74,asr,23
+,nagh mie lesh gimman nagh mie lesh gimman,49.00,51.97,asr,100
+,don't like football football,53.83,58.90,asr,0
+,cha mie lhiam bluckan coshey cha mie lhiam bluckan coshey,59.59,64.12,asr,89
+,cha like bread but prefer wine like,65.05,72.13,asr,0
+,s'mie lhiam arran agh share lhiam feeyn,74.20,76.96,asr,100
+,s'mie lhiam arran agh share lhiam feeyn,77.47,80.14,asr,100
+,golf golf,81.82,87.94,asr,0
+,nagh nhare lhiat golf nagh nhare lhiat golf,88.69,92.26,asr,98
+,juan prefers whisky juan prefers whisky share lesh juan ushtey vea share lesh juan,96.97,107.38,asr,83
+,ushtey vea dy dob dys yn life milk,107.59,110.77,asr,66
+,hug dys yn life milk cha mie lesh yn moddey bainney cha mie lesh yn moddey bainney,113.65,119.50,asr,95
+,voirrey like boght but she prefers wine voirrey,121.21,127.72,asr,0
+,s'mie lesh boirey bodgey agh,130.09,132.13,asr,70
+,s'mie lesh voirrey vodka agh share lhee feeyn,134.32,137.50,asr,80
+,douglas douglas,139.18,145.18,asr,0
+,nhare lhieu doolish nhare lhieu doolish,145.81,149.98,asr,95
+,like like,151.99,157.45,asr,29
+,cre s'mie lhiat cre s'mie lhiat,157.96,160.51,asr,100
+,cre share lhiat cre share lhiat,167.77,170.41,asr,88
+,what is mary prefer what is mary,171.28,176.65,asr,19
+,cre share lesh mary cre share lesh mary,177.85,182.59,asr,100
+,what is the cat prefer what is the,184.60,188.53,asr,0
+,cre share lesh yn kayt cre share lesh yn kayt,190.45,194.14,asr,100

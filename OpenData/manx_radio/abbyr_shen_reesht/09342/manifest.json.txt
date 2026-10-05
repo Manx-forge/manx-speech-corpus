@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09342",
+  "name": "Abbyr Shen Reesht - Say That Again 29oo Mee Vayrt - 2026 - March 29th",
+  "createdCircaStart": "2026-03-29",
+  "createdCircaEnd": "2026-03-29",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-29oo-mee-vayrt-2026-march-29th/",
+  "platform": "manx_radio",
+  "resource_id": "09342",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1892.0,
+  "deep_link": "https://episodes.captivate.fm/episode/ca49e949-7981-4267-8d54-5f161ff6f61a.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

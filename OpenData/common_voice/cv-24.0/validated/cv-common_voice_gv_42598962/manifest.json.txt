@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42598962",
+  "name": "Ta jymmoose y ree myr chaghteryn baaish: agh nee dooinney creeney shen y veeinaghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42598962",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.668,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

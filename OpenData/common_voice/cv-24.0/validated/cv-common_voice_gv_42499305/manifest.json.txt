@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42499305",
+  "name": "\"Ta reill as aggle marishyn; t'eh jannoo shee ayns e ynnydyn ard.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42499305",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.288,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

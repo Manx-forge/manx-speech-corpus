@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04162",
+  "name": "Ta mee goll shappal nish er y fa dy vel mee geearree kionnaghey bainney, eeym, arran as eeast",
+  "source": "https://www.youtube.com/watch?v=2W3oJO47WH0",
+  "platform": "youtube",
+  "resource_id": "04162",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.33,
+  "deep_link": "https://www.youtube.com/watch?v=2W3oJO47WH0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

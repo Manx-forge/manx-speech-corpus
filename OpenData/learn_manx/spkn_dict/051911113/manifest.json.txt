@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051911113",
+  "name": "Va mee ruggit er yn çhiaghtoo laa Jerrey Souree",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051911113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.39,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

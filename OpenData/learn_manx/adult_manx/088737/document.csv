@@ -1,0 +1,288 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,eshyn va keim jees lessoon tree,3.67,6.61,asr,69
+,lesson forree choud's eh,7.30,10.27,asr,45
+,hie eh orroo ta mee,10.99,17.23,asr,0
+,pinnee my orroo choud's eh,18.88,22.21,asr,0
+,aigney goll-roo doo yoga,23.14,25.84,asr,83
+,ta mee ny ta mee jannoo yoga,34.12,37.54,asr,72
+,ta mee my ta mee jannoo yoga,38.77,40.81,asr,78
+,hie doo yoga every day ta,44.65,53.80,asr,62
+,ta mee jannoo yoga dagh laa,55.18,57.37,asr,88
+,ta mee my ta mee jannoo yoga dagh laa,58.06,60.49,asr,80
+,cha nel mee,69.76,70.45,asr,79
+,cha nel mee my chooyroo choud's,72.13,74.95,asr,52
+,haink t every day cha nel mee my goll,78.70,89.08,asr,0
+,as cha nel mee giu tey dagh laa,89.59,92.05,asr,100
+,cha nel mee my as cha nel mee giu tey dagh laa,93.22,96.10,asr,100
+,ain not working cha nel mee gobbragh,99.16,109.15,asr,94
+,cha nel mee gobbragh cha nel mee,109.90,119.98,asr,80
+,mee gobbragh nish cha nel mee gobbragh nish,119.80,123.16,asr,90
+,not working now red,126.04,128.11,asr,12
+,cha nel mee gobbragh nish son ta mee my haaue,136.39,140.11,asr,100
+,cha nel mee gobbragh nish son ta mee my haaue,140.92,143.08,asr,100
+,dy vel oo dy liooar yoga every day,153.76,161.77,asr,50
+,vel oo jannoo yoga dagh laa,169.66,173.29,asr,100
+,vel oo jannoo yoga dagh laa,175.15,176.41,asr,77
+,sy yiass ta,178.09,181.96,asr,0
+,ta ta,182.98,192.28,asr,17
+,ta mee my ta mee my,192.94,195.55,asr,54
+,yiass doo yoga every day yn keeill,198.07,201.85,asr,81
+,ta mee my ta mee jannoo yoga dagh laa ayns purt ny hinshey,213.13,219.52,asr,88
+,ta mee my ta mee jannoo yoga dagh laa as purt ny hinshey,220.48,224.44,asr,88
+,ooilley student vel oo ynseydagh,227.14,236.08,asr,12
+,red ynseydagh ooilley,236.53,240.64,asr,31
+,nagh vel oo ynseydagh nagh vel oo ynseydagh,245.23,248.47,asr,93
+,cha nel cha nel cha,252.67,263.56,asr,83
+,cha nel cha nel mee ynseydagh,263.35,266.53,asr,67
+,cha nel cha nel mee my ynseydagh now,267.10,272.08,asr,85
+,cha nel,283.99,284.35,asr,0
+,cha nel cha nel mee ynseydagh,283.96,287.02,asr,91
+,ta mee my cha nel cha nel mee ynseydagh,287.59,291.31,asr,93
+,choud's eh now and not a student,293.86,297.10,asr,100
+,drink,299.20,299.44,asr,0
+,cha nel cha nel mee ynseydagh ta mee my,312.28,315.88,asr,93
+,ta mee giu tey bane dagh moghrey,316.99,319.33,asr,100
+,cha nel cha nel mee ynseydagh giu tey bane dagh moghrey,320.44,324.97,asr,76
+,t'ee cheet ny fir-ynsee,328.42,338.47,asr,0
+,vel yn er-ynsee chouds,339.70,343.15,asr,32
+,cheet ta,344.95,352.57,asr,20
+,ny fir-ynsee ta,353.47,355.66,asr,50
+,ny fir-ynsee fow-jee,356.05,358.57,asr,29
+,cheet erlhiam dy vel eh ny fir-ynsee,360.73,370.60,asr,57
+,erlhiam dy vel yn er-ynsee cheet,371.47,377.32,asr,62
+,er,387.91,388.12,asr,0
+,er lhiam dy vel eh ny fir-ynsee,387.94,390.19,asr,43
+,son gobbragh ayns schoill erlhiam dy vel yn er-ynsee son t'eh gobbragh ayns schoill,390.79,397.12,asr,80
+,choud's eh son a,398.62,402.07,asr,30
+,er lhiam dy vel eh ny fir-ynsee son gobbragh ayns schoill ayns balley chashtal,414.16,419.80,asr,91
+,er lhiam dy vel yn er-ynsee son t'eh gobbragh ayns schoill ayns balley chashtal,420.88,424.90,asr,99
+,docter yee,428.44,436.57,asr,60
+,vel yn er lhee cha nel,437.80,445.12,asr,73
+,cha nel cha,445.90,457.69,asr,64
+,cha nel cha nel eh ny yee,457.51,460.39,asr,100
+,cha nel cha nel yn erlhee docter,461.29,467.29,asr,64
+,oh,481.57,481.63,asr,0
+,cha nel cha nel eh ny yee,481.24,484.45,asr,100
+,er lhiam dy vel eh ny fir-ynsee,485.20,487.36,asr,93
+,cha nel cha nel yn ayr yee erlhiam dy vel yn er-ynsee,488.41,492.16,asr,90
+,monney docter ny,495.91,499.45,asr,25
+,cha nel cha nel eh ny yee,509.98,512.95,asr,100
+,er lhiam dy vel eh ny fir-ynsee son t'eh gobbragh ayns schoill,513.73,517.99,asr,97
+,cha nel cha nel yn er lhee,518.95,521.05,asr,74
+,er lhiam dy vel yn er-ynsee son t'eh gobbragh ayns schoill,521.68,524.68,asr,98
+,nagh vel eh ny foddee nagh vel,552.19,554.80,asr,78
+,erlhiam nagh,568.03,568.96,asr,71
+,vel eh ny fir-obbee er lhiam nagh vel yn ayr,568.99,572.62,asr,86
+,er lhiam nagh vel eh ny fir-obbee,586.36,588.52,asr,100
+,er lhiam dy vel eh ny fir-ynsee,589.24,591.25,asr,93
+,er lhiam nagh vel yn erlhiam dy vel yn er-ynsee,592.45,596.11,asr,100
+,piece of mann er,599.77,615.76,asr,12
+,fer-lhiam nagh vel eh ny fir-obbee,615.61,617.74,asr,58
+,er lhiam dy vel eh ny fir-ynsee son t'eh gobbragh ayns schoill,618.55,622.75,asr,97
+,er lhiam nagh vel eh erlhiam dy vel yn er-ynsee son t'ee gobbragh ayns schoill,623.95,629.44,asr,85
+,ny fir-ynsee vel yn er-ynsee,638.50,641.29,asr,61
+,sy yiass ta,643.21,646.78,asr,0
+,ta ta,647.59,659.26,asr,100
+,ynsee feer vie,660.70,662.11,asr,86
+,ta t'eh ny er-ynsee feer vie,663.07,665.08,asr,96
+,cre te gynsagh gynsagh,674.98,678.10,asr,100
+,choud's as keayrt cheet as,680.17,682.51,asr,56
+,er lhiam dy vel eh gynsagh gaelg,690.46,692.77,asr,100
+,erlhiam dy vel eh gynsagh gaelg as,693.73,698.59,asr,54
+,er lhiam dy vel eh gynsagh gaelg,708.73,711.28,asr,100
+,agh cha nel fys aym er lhiam dy vel eh gynsagh gaelg agh cha nel fys aym,711.91,716.59,asr,94
+,docter yee,720.43,729.46,asr,38
+,un erlhee nagh vel eh ny yee,730.96,741.40,asr,49
+,nagh vel yn erlhee ansoor,742.18,745.60,asr,79
+,er lhiam nagh vel erlhiam nagh vel,752.26,755.41,asr,97
+,so,758.65,759.04,asr,0
+,er lhiam nagh vel t'eh liklee dy vel eh ny haaue nish,770.71,775.33,asr,94
+,er lhiam nagh vel t'eh licklee dy vel eh ny haaue nish,776.17,779.23,asr,100
+,ynseydagh,789.46,790.30,asr,16
+,bunnys ynseydagh yiass,790.99,794.47,asr,24
+,ta ta neesht,797.71,802.03,asr,55
+,castletown every ta,803.71,815.35,asr,0
+,gynsagh gaelg ayns balley chashtal dagh jecrean,816.28,820.03,asr,91
+,ta gynsagh gaelg ayns balley chashtal dagh jecrean,821.05,824.59,asr,100
+,vel ee ny ben obbee ny ben obbee,837.07,839.71,asr,42
+,cha nel fys aym cha nel fys aym,846.52,848.71,asr,100
+,choud's eh but she probably,849.73,852.85,asr,88
+,cha nel fys aym agh t'eh licklee dy vel ee ny ben obbee,862.90,867.07,asr,100
+,cha nel fys aym agh t'eh licklee dy vel ee ny ben obbee,868.15,870.73,asr,100
+,choud's eh now but sheese probably y maidjey,872.50,875.95,asr,70
+,t'eh,876.73,876.85,asr,0
+,cha nel fys aym agh t'eh licklee dy vel ee ny ben obbee son doo eck,888.31,893.95,asr,89
+,cha nel fys aym agh t'eh licklee dy vel ee ny ben obbee son ta doo eck,894.79,898.69,asr,93
+,choud as ish docter,900.58,902.56,asr,78
+,ben-lhee ny ben-lhee,909.52,910.57,asr,53
+,eh sheese er y thie ayd thie ny ta,912.28,920.08,asr,74
+,choud's is in the docter,922.99,925.18,asr,46
+,nagh vel ee ny ben yee nagh vel ee ny ben,932.20,935.56,asr,64
+,veih ny ben yee veih ny ben yee,946.87,950.38,asr,81
+,boss y docter brighton sheese ritchie and now,952.78,955.66,asr,66
+,veih ny ben-lhee agh er lhiam dy vel eh ny,966.46,970.09,asr,86
+,bio nish agh erlhiam dy vel ee ny taaue nish,970.42,975.55,asr,64
+,thie ny ben-ynsee,986.17,987.67,asr,60
+,cha nel ben-ynsee thie,988.93,1002.43,asr,23
+,hie ny ben-ynsee nagh vel ny ben-ynsee nagh vel,1002.28,1005.94,asr,91
+,yes ta,1009.36,1013.26,asr,100
+,ta eh yiass,1013.86,1016.44,asr,37
+,wonderful teacher ta,1017.37,1026.10,asr,0
+,thie ny ben-ynsee yindyssagh,1026.67,1028.95,asr,100
+,ta ny ben-ynsee yindyssagh,1029.70,1031.80,asr,100
+,he was a teacher,1033.87,1035.43,asr,0
+,ben insee veih ny ben-ynsee,1042.42,1044.79,asr,70
+,cha row ee ny ben insee,1047.91,1056.64,asr,43
+,roie ny ben-ynsee cheet,1057.24,1063.18,asr,37
+,dy row ee ny ben insee erlhiam dy row ee ny ben-ynsee,1072.00,1076.29,asr,87
+,vees y teacher now,1079.65,1082.23,asr,26
+,dy row ee ny ben insee agh cha nel ee gobbragh nish,1093.72,1097.95,asr,59
+,er lhiam dy row ee ny ben-ynsee agh cha nel ee gobbragh nish,1098.64,1102.00,asr,70
+,vees y cheet chee dys y quirk now sheese y thie ayd,1105.48,1109.08,asr,65
+,ferlhiam dy row ee ny ben-ynsee gobbragh nish hie ny tou,1120.51,1126.45,asr,69
+,er lhiam dy row ee ny ben-ynsee agh cha nel eh gobbragh nish,1127.56,1130.35,asr,95
+,chouds were you eh,1134.19,1136.62,asr,67
+,row ven-ynsee row dty ven-ynsee,1147.00,1149.94,asr,97
+,va va choud's,1154.65,1157.17,asr,0
+,va mee my ven-ynsee,1168.90,1170.13,asr,100
+,va mee my ven-ynsee gow-jee,1171.12,1174.33,asr,58
+,vees y cheet now,1175.89,1178.11,asr,23
+,va mee my ven-ynsee agh ta mee my haaue nish,1187.35,1191.85,asr,89
+,va mee my ven-ynsee agh ta mee my haaue nish,1192.72,1195.42,asr,100
+,cha vel ee ny ben-ynsee vel ee ny ben-ynsee,1198.78,1207.12,asr,62
+,cha nel cha nel,1211.98,1214.35,asr,100
+,now sheese y student,1216.39,1218.46,asr,75
+,cha nel thie ny ynseydagh,1225.30,1228.27,asr,100
+,cha nel yn ynseydagh now,1228.90,1233.46,asr,81
+,student ayns mannin,1234.42,1236.73,asr,0
+,the very cha,1237.36,1248.07,asr,0
+,cha nel thie ny ynseydagh,1247.89,1250.56,asr,100
+,gynsagh gaelg ayns purt le moirrey,1251.31,1253.50,asr,88
+,cha nel ynseydagh t'ou gynsagh gaelg ayns purt le moirrey,1254.67,1258.18,asr,95
+,ooilley yn thie ayd vel oo da,1261.72,1269.40,asr,0
+,vel oo dty cha nel,1270.60,1277.29,asr,100
+,cha nel eh now,1278.07,1280.56,asr,64
+,ayns erbee ry thie ayd cha nel agh ta mee laccal ve,1281.82,1292.05,asr,81
+,cha nel agh ta mee laccal ve my haaue,1293.64,1295.68,asr,91
+,beeal like working laik lhiat gobbragh,1298.77,1306.39,asr,0
+,laik lhiat gobbragh cha laik,1307.11,1314.10,asr,76
+,choud's eh now ye prefer sleeping,1316.68,1320.25,asr,100
+,cha laik share lhiam cadley,1329.94,1332.40,asr,100
+,cha laik share lhiam sleeping,1333.30,1339.87,asr,53
+,want to be ritod cha,1340.38,1350.52,asr,0
+,cha laik share lhiam cadley,1350.40,1353.10,asr,83
+,ta mee laccal ve my haaue cha laik share lhiam cadley ta mee laccal ve my haaue,1353.76,1359.46,asr,100
+,chouds dys like working,1361.29,1364.41,asr,82
+,lesh gobbragh laik lesh gobbragh,1370.47,1373.26,asr,81
+,cha laik lesh gobbragh ayns schoill,1376.35,1385.62,asr,56
+,lesh gobbragh ayns schoill s'laik,1386.70,1393.87,asr,62
+,s'laik choud's eh yiass,1394.71,1398.52,asr,0
+,s'laik s'laik lesh gobbragh ayns schoill,1406.44,1409.32,asr,100
+,s'laik s'laik lesh gobbragh ayns schoill,1410.22,1412.32,asr,100
+,yiass like working in a scoill,1414.84,1417.09,asr,57
+,erbee ry thie ayd s'laik,1418.74,1430.83,asr,0
+,s'laik lesh gobbragh ayns schoill,1431.40,1433.44,asr,100
+,agh bare lesh v'eh ny haaue,1434.22,1436.17,asr,93
+,s'laik s'laik lesh gobbragh ayns schoill agh bare lesh,1437.43,1440.31,asr,100
+,dys being a docter laik lesh,1445.14,1455.46,asr,5
+,bee ny yee laik lesh v'eh ny yee,1455.58,1458.70,asr,21
+,cha laik now,1464.85,1470.19,asr,61
+,he wants to be a goll-roo cha laik,1470.79,1479.67,asr,0
+,t'eh laccal cha laik t'eh laccal ve ny,1480.57,1484.38,asr,67
+,bodys eh now bee oo goll-roo,1486.81,1490.11,asr,56
+,as drinking tee cha laik,1491.37,1501.99,asr,0
+,t'eh laccal ve ny share lesh giu tey,1502.77,1506.88,asr,72
+,cha laik t'eh laccal ve ny share lesh giu tey,1507.81,1511.05,asr,88
+,like working gobbragh,1516.03,1525.00,asr,76
+,v'ee gobbragh now she prefers dooin yoga,1525.63,1532.05,asr,70
+,cha laik share lhee jannoo yoga,1539.82,1542.70,asr,100
+,cha laik share lhee jannoo yoga chouds eh,1543.39,1547.47,asr,98
+,yoga shiu prefer erbee,1549.45,1552.03,asr,52
+,cha laik share lhee jannoo yoga,1561.90,1565.14,asr,100
+,bare lhee ny goll-roo cha laik,1566.16,1569.58,asr,70
+,bare lhee jannoo yoga ny goll-roo,1569.88,1572.49,asr,38
+,like working in a bank laik lhee gobbragh,1576.15,1588.03,asr,17
+,ayns bank gobbragh ayns bank,1587.82,1590.55,asr,63
+,cha laik cha laik,1595.62,1597.72,asr,60
+,now cha,1600.09,1611.94,asr,0
+,cha laik laccal ny ben obbee,1611.79,1615.30,asr,62
+,v'eh ny ben obbee now,1617.16,1621.06,asr,57
+,hie haink she wants to be a maidjey cha,1621.75,1633.12,asr,0
+,cha laik lhiam dy vel ee laccal ny ben obbee,1632.94,1636.99,asr,79
+,er lhiam dy vel ee ny ben obbee,1638.64,1640.65,asr,72
+,quirk gobbragh,1644.07,1651.51,asr,0
+,dy loayrt gobbragh cha nel,1652.11,1657.99,asr,77
+,cha nel cha,1658.77,1669.54,asr,48
+,cha nel cha nel orrym gobbragh,1669.36,1671.91,asr,64
+,cha nel cha nel orrym gobbragh choud's eh,1672.66,1676.29,asr,86
+,braew like working cha nel yn orrym gobbragh agh,1678.72,1689.07,asr,64
+,boght s'laik lhiam gobbragh cha nel cha nel orrym gobbragh agh s'laik lhiam gobbragh,1688.89,1693.96,asr,88
+,choud's eh now we dont have to work like working,1695.28,1698.58,asr,58
+,cha,1711.42,1711.54,asr,0
+,cha nel cha nel orrym gobbragh agh s'laik lhiam gobbragh as cha nel mee laccal ve my haaue,1711.36,1718.35,asr,100
+,cha nel cha nel orrym gobbragh agh s'laik lhiam gobbragh as cha nel mee laccal ve my haaue,1719.19,1723.87,asr,97
+,working every day urree,1728.10,1738.30,asr,0
+,gobbragh dagh laa gobbragh dagh laa,1738.33,1741.90,asr,67
+,cha nel cha nel choud's eh now but,1748.11,1753.09,asr,87
+,cha nel agh s'laik lhee gobbragh,1760.05,1762.24,asr,100
+,cha nel agh s'laik lhee gobbragh now,1762.90,1767.70,asr,100
+,she like working ansherbee ritchie ayd,1768.21,1771.33,asr,62
+,cha nel agh s'laik lhee gobbragh as cha nel ee laccal ny taaue,1779.70,1785.10,asr,94
+,cha nel agh s'laik lhee gobbragh as cha nel eh laccal ve ny taaue,1786.27,1789.72,asr,95
+,bee eh docter or a teacher a female,1793.80,1797.52,asr,30
+,bare lhiat yee ny dy ven-ynsee,1808.68,1812.28,asr,65
+,v'eh dty lhieeney dty ven-ynsee docter,1813.63,1820.32,asr,37
+,er lhiam dy bare lhiam my ven yee,1830.46,1833.40,asr,92
+,er lhiam dy bare lhiam ve my ven choud's eh,1834.12,1838.62,asr,98
+,bee y docter drinking coffee,1840.30,1843.09,asr,58
+,er lhiam dy bare lhiam ve my ven yee,1853.20,1855.96,asr,86
+,son cha laik lhiam giu copy erlhiam dy bare lhiam ve my ven yee son cha laik lhiam giu caffee,1856.50,1863.10,asr,95
+,chouds bee in ramsey tomorrow,1866.46,1869.55,asr,73
+,bee oo ayns rhumsaa mairagh,1879.15,1880.53,asr,56
+,choud's ayns y jiass bee,1881.43,1885.27,asr,0
+,bee eh neesht,1885.96,1888.39,asr,62
+,blee in ramsey tomorrow on sunday,1888.90,1891.24,asr,57
+,bee bee'm ayns rhumsaa mairagh as jedoonee,1899.04,1903.03,asr,100
+,bee ayns rhumsaa mairagh as jedoonee,1903.78,1905.88,asr,87
+,obbeeyn ronsee tomorrow on sunday,1908.37,1910.68,asr,64
+,the work bee,1911.67,1921.12,asr,0
+,bee'm ayns rhumsaa mairagh as jedoonee son ta orrym gobbragh,1921.84,1926.10,asr,100
+,bee bee'm ayns rhumsaa mairagh as jedoonee son ta orrym gobbragh,1926.70,1930.15,asr,91
+,bee oo c'raad vees oo,1933.84,1940.65,asr,69
+,choud as c'raad vees oo jecrean c'raad vees oo jecrean,1942.03,1951.42,asr,91
+,cha nel fys aym cha nel fys aym probably bee in douglas,1957.63,1964.08,asr,68
+,cha nel fys aym agh t'eh licklee dy bee'm ayns doolish,1972.36,1976.56,asr,100
+,cha nel fys aym agh t'eh licklee dy bee'm ayns doolish,1977.46,1979.86,asr,100
+,oddys eh probably bee in douglas with my,1981.33,1984.33,asr,58
+,cha nel fys aym agh t'eh licklee dy bee'm ayns doolish marish yn chuyr aym,1993.69,1999.09,asr,100
+,cha nel fys aym agh t'eh licklee dy bee'm ayns doolish marish yn shuyr aym,2000.38,2003.68,asr,100
+,how it will it be in keeill,2005.45,2008.54,asr,6
+,bee eh fliugh ayns purt ny hinshey jemayrt,2018.32,2021.14,asr,90
+,bee eh fliugh as purt ny hinshey jemayrt ansoor,2021.95,2026.51,asr,81
+,but yesterday ve fliugh ayns shen jeh,2027.53,2038.15,asr,82
+,t'eh fliugh ayns shen jea yesterday as,2038.96,2044.51,asr,47
+,t'eh fliugh ayns shen jea as t'eh fliugh ayns shen jiu,2055.64,2059.54,asr,90
+,t'eh fliughal jiu choud's eh,2061.73,2064.67,asr,66
+,yesterday yn as day,2066.20,2068.66,asr,0
+,so it's probably tomorrow,2069.32,2072.05,asr,67
+,ve fliugh ayns shen jeh as t'eh fliugh ayns shen jiu,2084.89,2089.48,asr,96
+,myr shen t'eh licklee dy bee eh fliugh ayns shen mairagh,2090.41,2095.33,asr,100
+,v'eh fliughys jeh as t'eh fliughys jiu,2096.65,2099.62,asr,48
+,un t'eh licklee dy bee eh fliugh as mairagh,2100.31,2102.59,asr,79
+,when speeikeen about the male docter laik lhiat yn fer yee,2109.04,2118.34,asr,0
+,laik lhiat yn fer yee docter,2118.91,2124.31,asr,73
+,laik lhiat yn fer lhee ayd,2133.19,2135.20,asr,100
+,laik lhiat yn fer lhee ayd docter,2136.01,2141.17,asr,80
+,s'laik lhiam yn fer lhee aym,2147.26,2149.30,asr,100
+,s'laik lhiam yn fer lhiam choud's eh,2150.11,2153.47,asr,100
+,hie my docter prefer my ny jeesyn,2154.10,2156.71,asr,0
+,s'laik lhiam yn fer lhee aym agh share lhiam yn fer obbee aym,2166.01,2170.63,asr,100
+,s'laik lhiam yn fer lhee agh share lhiam yn fer obbee aym,2172.46,2176.30,asr,100
+,vel braar ayd vel braar ayd,2183.83,2185.81,asr,41
+,ta ta braar aym ta braar aym,2192.50,2195.80,asr,90
+,choud's yes i have a broddey goll-roo,2196.97,2199.70,asr,26
+,ta ta braar aym ta braar aym t'eh ny,2207.59,2213.02,asr,59
+,hie eddyr broddey he's a goll-roo he drinks every day,2215.93,2220.16,asr,50
+,ta ta braar aym pene er choyrt oo,2229.85,2232.82,asr,70
+,giu tey bane dagh laa,2233.72,2235.85,asr,76
+,ta ta braar aym t'eh giu tey bane dagh laa,2236.81,2241.01,asr,78

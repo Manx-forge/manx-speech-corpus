@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0513113",
+  "name": "Quoi uss?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "0513113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.57,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

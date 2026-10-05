@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42587197",
+  "name": "Agh lhig da briwnys roie sheese myr ushtaghyn, as cairys myr thooilley niartal.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42587197",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

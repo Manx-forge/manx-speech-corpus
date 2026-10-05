@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04246",
+  "name": "Nod oo fakin my vaatey? She er my chooyl ayns shoh",
+  "source": "https://www.youtube.com/watch?v=EbDgutbqx_c",
+  "platform": "youtube",
+  "resource_id": "04246",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 31.41,
+  "deep_link": "https://www.youtube.com/watch?v=EbDgutbqx_c&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

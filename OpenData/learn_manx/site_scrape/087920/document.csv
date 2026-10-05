@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon jees as daeed,0.31,3.31,asr,100
+,by vie lhiat by vie lhiam,7.24,9.82,asr,100
+,cha by vie lhiam ve my yee,10.87,14.47,asr,81
+,ve dty er-lhee ve my voandyr,15.55,18.76,asr,93
+,v'eh dty voandyr v'eh,19.69,22.15,asr,82
+,v'eh dty eeackleyr v'eh my aashapp,23.98,27.49,asr,20
+,ve my ven-ynsee v'eh dy,31.09,33.52,asr,74
+,v'eh my eirinagh v'eh dty eirinagh,35.26,38.29,asr,64
+,by vie lhiam ve my yee by vie lhiam,41.08,44.59,asr,100
+,by vie lhiam ve my voandyr by vie lhiam ve my ven-ynsee,47.32,52.09,asr,100
+,by vie lhiam ve my eeackleyr by vie lhiam ve my eirinagh,53.56,58.15,asr,100
+,the ghooinney mooar cha by vie lhiam ve my er-shapp,61.96,66.19,asr,69
+,by vie lhiat ve dty eeackleyr by vie lhiam goll nish,67.33,71.44,asr,62
+,cha by vie lhiam ve ayns shen nish er ve mooie ayns shen,72.55,77.62,asr,100
+,foddee thie-jalloo,80.02,82.03,asr,100
+,jalloo er y fa dy vel,83.05,85.72,asr,100
+,ry akin shegin dou,87.19,89.35,asr,84
+,my vees cheet,92.02,95.41,asr,31
+,by vie lhiam goll dys y thie jalloo noght,97.09,99.28,asr,92
+,cre'n fa er y fa dy vel jalloo feer vie ry akin,100.48,104.74,asr,98
+,as nagh vod oo goll cha noddym,106.24,109.18,asr,100
+,shegin da obbraghey elley foddee,109.81,113.17,asr,100

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05894113",
+  "name": "Teh shooyl ayns Purt le Moirrey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05894113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.92,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644769",
+  "name": "Shen-y-fa, lhig dauesyn t'ayns y stayd shen ve feer firrinagh gys nyn mreearrey-poosey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644769",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.56,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

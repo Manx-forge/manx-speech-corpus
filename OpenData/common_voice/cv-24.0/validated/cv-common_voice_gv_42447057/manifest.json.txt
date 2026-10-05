@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447057",
+  "name": "Te trimshey dou dy akin ny drogh-yantee: son nagh vel ad freayll dty leigh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447057",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.532,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

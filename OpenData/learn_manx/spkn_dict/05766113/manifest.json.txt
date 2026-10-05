@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05766113",
+  "name": "Mie lesh Voirrey cummal ayns Purt Çhiarn?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05766113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.22,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

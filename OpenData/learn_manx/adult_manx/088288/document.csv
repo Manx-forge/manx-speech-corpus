@@ -1,0 +1,306 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,1.00,3.61,asr,69
+,lessoon kiare-jeig choud's,4.90,9.73,asr,61
+,ta mee ching ta mee ching,17.05,20.14,asr,100
+,just say this week ta mee ching,22.12,32.38,asr,71
+,yn chiaghtin shoh ta mee jannoo yn chiaghtin shoh,32.56,35.95,asr,88
+,ta mee er ve ching ta mee er ve jiu,49.33,52.27,asr,89
+,just say been ill this week,54.28,57.43,asr,47
+,ta mee er ve ching yn chiaghtin shoh,67.42,69.94,asr,100
+,ta mee er ve jannoo yn chiaghtin shoh ta,70.75,90.61,asr,65
+,ta mee er ve jannoo yn chiaghtin shoh son va mee ayns doolish,90.46,95.02,asr,84
+,ta mee er ve jannoo yn chiaghtin shoh son va mee ayns doolish,95.95,98.95,asr,100
+,hie been this week ta,103.36,118.90,asr,0
+,ta mee er ve ching yn chiaghtin shoh,118.72,121.06,asr,89
+,son va mee ayns doolish ec y jerrey shiaghtin,121.69,124.27,asr,100
+,ta mee er ve jannoo yn chiaghtin shoh son va mee ayns doolish ec y jerrey shiaghtin,125.59,129.07,asr,93
+,the been working cha nel mee,132.25,142.24,asr,6
+,mee er ve gobbragh cha nel mee er ve gobbragh,142.12,145.96,asr,80
+,cha nel,158.68,158.98,asr,0
+,cha nel mee er ve gobbragh yn chiaghtin shoh,158.59,161.23,asr,100
+,cha nel mee er ve gobbragh yn chiaghtin shoh,161.86,164.05,asr,100
+,hie been working this week beeym bio,166.87,170.68,asr,46
+,cha nel mee er ve gobbragh yn chiaghtin shoh,180.13,183.46,asr,100
+,son ta mee er ve ching cha nel mee er ve gobbragh yn chiaghtin shoh son ta mee er ve ching,184.06,190.18,asr,96
+,have been in ramsey,194.32,195.94,asr,82
+,vel oo er ve ayns rhumsaa,205.30,207.40,asr,100
+,vel oo er ve ayns rhumsaa as have been in ramsey this week,208.84,215.11,asr,95
+,vel oo er ve ayns rhumsaa yn chiaghtin shoh,225.34,228.52,asr,100
+,vel oo er ve ayns rhumsaa yn chiaghtin shoh,229.90,231.88,asr,100
+,choud's ta ta,233.44,239.92,asr,0
+,ta mee er ve ayns rhumsaa,252.46,255.25,asr,100
+,ta mee er ve ayns rhumsaa neesht bee nyn ramsey,256.27,261.70,asr,75
+,ta mee er ve ayns rhumsaa,276.34,279.31,asr,89
+,va mee ayns shen moghrey jelhein,280.12,282.34,asr,100
+,ta ta mee er ve ayns rhumsaa moghrey jelhein,283.87,287.20,asr,72
+,oh,291.58,291.76,asr,0
+,vel oo er ve snaue snaue,302.59,306.43,asr,48
+,have been swimming today vel oo,310.81,324.40,asr,0
+,vel oo er ve snaue jiu er ve snaue jiu,324.13,327.55,asr,73
+,cha nel cha nel,334.57,336.73,asr,100
+,eh now bee as ayms ayns in douglas,338.23,340.84,asr,48
+,cha nel son cha row mee ayns doolish,349.90,353.08,asr,100
+,cha nel son cha row mee ayns doolish hooar,353.89,357.64,asr,69
+,beelzebub in douglas colby,358.63,361.48,asr,50
+,cha nel son cha row mee ayns doolish,374.71,377.68,asr,100
+,va mee ayns colby cha nel son cha row mee ayns doolish va mee ayns colby,378.16,382.60,asr,89
+,how just say it as beeym sunny,385.24,387.67,asr,74
+,grianagh ter ve grianagh,399.64,402.97,asr,83
+,been sunny this week grianagh,406.99,422.26,asr,0
+,yn chiaghtin shoh t'eh er ve grianagh yn chiaghtin shoh,422.26,426.07,asr,100
+,how just say as haink ad er,428.65,440.17,asr,0
+,er lhiam dy vel eh er ve fliugh,439.99,442.75,asr,100
+,erlhiam dy vel er ve fliugh with,444.07,450.07,asr,59
+,syn maree er,450.37,463.90,asr,0
+,er lhiam dy vel eh er ve fliugh ayns purt le moirrey,463.78,467.47,asr,79
+,er lhiam dy vel eh er ve fliugh ayns purt le moirrey,468.61,470.83,asr,88
+,is being in port st mary this week,473.89,476.26,asr,0
+,er lhiam dy vel eh er ve fliugh ayns purt le moirrey yn chiaghtin shoh,487.78,492.58,asr,100
+,er lhiam dy vel eh er ve fliugh ayns purt le moirrey yn shiaghtin shoh,493.78,496.87,asr,91
+,howl just say it probably hasn't been,499.45,502.96,asr,47
+,bee lhig nagh vel eh er ve cheh,515.62,518.80,asr,40
+,t'eh licklee nagh vel eh er ve cheh,519.85,521.98,asr,100
+,it's probably,526.30,527.05,asr,0
+,nagh vel eh er ve cheh ayns balley chashtal,541.18,544.00,asr,87
+,t'eh licklee nagh vel eh er ve jeh ayns balley chashtal,545.29,547.99,asr,93
+,choud's eh it probably been,549.43,552.37,asr,55
+,this week t'eh,553.57,567.64,asr,0
+,t'eh licklee nagh vel eh er ve cheh ayns balley chashtal yn chiaghtin shoh,567.49,572.14,asr,91
+,t'eh licklee nagh vel eh er ve cheh ayns balley chashtal yn shiaghtin shoh,573.19,576.46,asr,94
+,vel oo cordail rhym vel oo cordail rhym,587.08,590.05,asr,72
+,vel oo cordail rhym dy vel eh er ve feayr,605.20,608.83,asr,100
+,vel oo cordail rhym dy vel er ve feayr,610.09,612.10,asr,93
+,feayr as bee'n coayl dy vel,616.90,631.15,asr,0
+,vel oo cordail rhym dy vel eh er ve feayr ayns mannin,631.06,634.66,asr,85
+,vel oo cordail rhym dy vel er ve feayr ayns mannin,635.92,638.26,asr,94
+,it's been coayl dy mie ny s'laik,643.18,645.25,asr,0
+,vel oo cordail rhym dy vel eh er ve feayr ayns mannin yn chiaghtin shoh,657.70,662.26,asr,100
+,vel oo cordail dy gheddyn er ve feayr ayns mannin yn shiaghtin shoh,663.55,666.91,asr,85
+,jiass ta,669.64,673.72,asr,27
+,ta choud's eh yes agree with you,674.92,678.61,asr,58
+,ta mee cordail rhyt,686.20,688.42,asr,100
+,ta mee cordail rhyt neesht,690.37,694.51,asr,79
+,hie agree with you it's been very dys week,694.93,698.02,asr,57
+,ta mee cordail rhyt,709.09,711.88,asr,100
+,teh er ve feer feayr yn chiaghtin shoh,712.54,715.42,asr,100
+,ta mee cordail rhyt t'eh er ve feer vooar yn chiaghtin shoh,716.47,719.98,asr,93
+,how was it dy,721.75,723.91,asr,33
+,row eh chirrym chirrym,730.15,733.06,asr,100
+,dreih yn cheeill row,736.45,747.91,asr,0
+,chirrym ayns purt ny hinshey,748.30,750.01,asr,75
+,rolley chirrym ayns purt ny hinshey drilleeyn,751.12,756.31,asr,93
+,but the weeknd row,756.64,770.47,asr,0
+,chirrym ayns purt ny hinshey ec y jerrey shiaghtin,770.80,773.68,asr,84
+,row eh chirrym ayns purt ny hinshey ec y jerrey shiaghtin,775.75,778.15,asr,93
+,yes ta,781.30,786.85,asr,0
+,bayr yiass it was,787.63,792.13,asr,88
+,sunny daa,792.85,806.11,asr,0
+,eh chirrym as grianagh va v'eh chirrym as grianagh,806.86,811.57,asr,87
+,it was drillin sunny so we play tennis,815.38,819.07,asr,78
+,va v'eh chirrym as grianagh myr shen ren mee cloie tennis,830.80,837.07,asr,94
+,chirrym as grianagh myr shen ren mee cloie tennis,838.51,841.39,asr,91
+,how just say yiass it was drillin sunny so i play tennis with my,843.46,847.75,asr,63
+,va v'eh chirrym as grianagh,862.48,865.57,asr,100
+,myr shen ren mee cloie tennis marish yn charrey aym,866.26,869.77,asr,100
+,v'eh chirrym as grianagh myr shen ren mee cloie tennis marish yn charrey aym,872.44,876.07,asr,97
+,as juan juan,880.30,893.23,asr,44
+,ben er ve giu juan er ve giu couple,893.05,898.06,asr,59
+,as juan been drinking juan,901.03,915.79,asr,39
+,bun er ve giu couple juan er,915.67,919.60,asr,33
+,reesht yiass,920.56,924.10,asr,37
+,ta ta,927.58,929.56,asr,100
+,yiass been drinking,933.19,935.29,asr,67
+,every day ta,935.89,947.56,asr,0
+,te er ve giu dagh laa,948.64,951.28,asr,70
+,ta t'eh er ve giu dagh laa,952.12,954.37,asr,67
+,every day ta,958.75,973.45,asr,0
+,te er ve giu cour dagh laa,973.96,976.39,asr,77
+,son t'eh er ve ching giu couple dagh laa son t'eh er ve ching,977.14,984.52,asr,78
+,neesht bee'n drinking every day,987.40,990.25,asr,66
+,this week ta,991.72,1005.55,asr,0
+,dagh laa son t'eh er ve jannoo yn chiaghtin shoh,1008.16,1011.76,asr,81
+,ta ta er ve giu dagh laa son t'eh er ve jannoo yn chiaghtin shoh,1012.90,1017.97,asr,83
+,as jonee been drinking pints,1021.45,1024.06,asr,93
+,well jonee er ve giu puinsh,1037.95,1040.41,asr,26
+,vel jonee er ve giu punsh as jonee been drinking chicken,1041.31,1047.55,asr,83
+,well jonee er ve giu reesht,1059.64,1062.16,asr,50
+,reesht ayns,1064.77,1067.14,asr,0
+,ta,1079.98,1080.49,asr,0
+,t'ou giu punsh dagh laa ta,1081.03,1083.79,asr,100
+,giu ayns dagh laa yiass,1084.15,1087.78,asr,41
+,ta,1098.13,1098.61,asr,0
+,tou giu puinsh dagh laa nish,1099.03,1101.04,asr,100
+,ta t'ou giu ayns dagh laa nish neesht,1101.64,1106.26,asr,64
+,t'ee drinks puinsh every day now bee cooishyn rhyt,1106.74,1109.32,asr,53
+,ta giu puinsh dagh laa nish son thie ny tou,1121.50,1126.33,asr,90
+,ayns dagh laa nish son ny tou,1128.07,1130.14,asr,90
+,jonee has been fo atchim ayns every day,1134.67,1137.70,asr,73
+,dagh laa ta jonee er ve geayagh dagh laa,1151.08,1155.67,asr,92
+,every day this week ta,1160.11,1172.71,asr,0
+,ta jonee er ve dagh laa yn chiaghtin shoh,1172.50,1176.46,asr,71
+,as dagh laa yn chiaghtin shoh juan,1178.29,1183.24,asr,66
+,ta juan gra ta juan gra,1188.73,1192.09,asr,85
+,juan jonee has been fo atchim ayns every day,1195.57,1200.01,asr,54
+,ta juan gra dy vel ee er ve geayagh dagh laa,1212.58,1217.41,asr,84
+,ta juan gra dy vel ee er ve geayagh dagh laa,1218.70,1221.64,asr,90
+,but jonee as bee'n fo atchim ayns every day vees oik,1225.09,1228.30,asr,59
+,ta juan gra dy vel ee er ve geayagh dagh laa yn chiaghtin shoh,1244.83,1249.87,asr,92
+,ta juan gra dy vel ee er ve geayagh dagh laa yn shiaghtin shoh,1251.01,1254.55,asr,91
+,with juan,1258.15,1258.75,asr,0
+,vel oo cordail rish juan vel oo cordail rish juan,1268.50,1272.10,asr,100
+,with juan jonee as bee'n fo atchim ayns every day this week,1276.18,1279.96,asr,69
+,vel oo cordail rish juan dy vel jonee er ve geayagh dagh laa yn chiaghtin shoh,1291.12,1296.76,asr,100
+,vel oo cordail rish juan dy vel jonee er,1298.65,1300.66,asr,74
+,dagh laa yn chiaghtin shoh neesht,1301.26,1305.79,asr,100
+,ta mee cordail rish,1313.50,1315.81,asr,100
+,daa ta mee cordail rish ass,1316.32,1321.51,asr,68
+,dys jonee sea has been drinking pints,1322.98,1326.28,asr,62
+,jonee gra nagh vel ee er ve giu puinsh,1338.43,1342.15,asr,81
+,gra nagh vel ee er ve giu punsh,1343.35,1345.36,asr,70
+,jonee saying that she has been drinking this week,1349.20,1352.86,asr,56
+,vel jonee gra nagh vel ee er ve giu yn chiaghtin shoh,1365.16,1369.57,asr,74
+,foddee gra nagh vel ee er ve giu yn chiaghtin shoh,1370.98,1373.74,asr,73
+,cha nel fys aym cha nel fys aym cha,1382.59,1401.13,asr,20
+,cha nel fys aym cree ta jonee er ve gra,1400.92,1405.15,asr,60
+,cha nel fys aym cre ta jonee er v'eh gra,1406.38,1408.60,asr,90
+,cha nel fys aym cree ta jonee er ve gra,1427.74,1431.31,asr,90
+,son cha nel mee geaishtagh ree cha nel fys aym cre ta jonee er ve gra son,1431.70,1437.76,asr,68
+,quoi,1446.97,1447.39,asr,60
+,cloie hoo as been eating,1448.86,1454.53,asr,66
+,er ve gee quoi t'er ve gee,1461.61,1464.52,asr,48
+,ass been eating mie radio breck,1467.49,1471.96,asr,76
+,t'eh er ve gee yn radio breck aym,1484.35,1487.32,asr,22
+,quoi t'ou er ve gee yn reddyn breck aym,1488.82,1490.95,asr,79
+,ass bee'n mie reddyn breck,1494.07,1497.76,asr,45
+,vel fys ayd quoi t'er ve gee yn red ee breck aym,1507.75,1511.77,asr,93
+,vel fys ayd quoi t'ou er ve gee yn red as bee'n,1512.46,1520.68,asr,59
+,foddee breck er,1521.58,1534.54,asr,0
+,bare lhiam dy vel er ve gee yn reddyn breck ayd,1534.15,1539.04,asr,68
+,erlhiam dy vel er ve gee yn red,1540.18,1542.76,asr,61
+,oddys eh as haink goaldee looks as beaynidyn you're reddyn breck,1545.37,1549.15,asr,54
+,bee cooish ee like reddyn breck er,1549.66,1563.07,asr,0
+,erlhiam dy vel er ve gee yn reddyn breck ayd,1562.92,1566.91,asr,64
+,son s'laik lhee reddyn breck erlhiam dy vel oo er ve gee yn reddyn,1567.21,1572.64,asr,99
+,son s'laik lhee reddyn breck vel,1573.30,1588.66,asr,75
+,yn braar ayd geaishtagh vel oo gra yn geaishtagh,1588.57,1593.01,asr,55
+,howl ass dys broddey lesson,1594.33,1596.70,asr,33
+,vel yn braar ayd geaishtagh vel yn braar ayd geaishtagh,1602.94,1606.63,asr,94
+,dys eu broddey lusyn ta bing crosby,1609.69,1611.85,asr,65
+,yn braar ayd geaishtagh rish vel oo geaishtagh rish crosby,1625.47,1631.44,asr,61
+,he was as dy bee,1635.10,1636.03,asr,0
+,bee geaishtagh rish blein nish as reesht,1649.17,1651.51,asr,67
+,t'ee geaishtagh rish blein nish as reesht dy,1652.68,1658.38,asr,65
+,geaishtagh rish blein nish as reesht,1676.62,1678.78,asr,100
+,hoght share lesh elley ta geaishtagh rish blein nish as reesht,1679.65,1684.75,asr,83
+,boght share lesh elley phurt,1685.38,1694.11,asr,45
+,bare lhiat beaghey marish,1711.15,1713.31,asr,100
+,ny goaldee bare lhiat beaghey marish,1714.42,1717.54,asr,61
+,purt ny goaldee looks hie property lurg broad,1717.87,1723.84,asr,67
+,bare lhiam beaghey marish broad,1734.13,1736.38,asr,97
+,bare lhiam beaghey marish broad broad,1737.43,1743.97,asr,82
+,v'eh,1744.60,1744.72,asr,0
+,bare lhiam beaghey marish son,1760.29,1763.38,asr,59
+,ta elley ny goaldee looks beaghey marish,1763.98,1767.58,asr,62
+,ballina goaldee lots broad,1768.78,1774.75,asr,32
+,ee mooar poosey'n goaldee looks goaldee looks ec my red breck,1775.32,1779.91,asr,47
+,bare lhiam beaghey marish broad,1791.37,1793.44,asr,91
+,son te ny s'aaley na goaldee lots as ren,1794.07,1797.28,asr,85
+,block skian red breck aym bare lhiam beaghey marish,1797.82,1801.99,asr,79
+,ny goaldee looks as ren goaldee look skian red breck aym,1803.46,1806.94,asr,65
+,to go to douglas vel,1811.08,1821.70,asr,0
+,goll dys doolish goll dys doolish,1822.33,1824.97,asr,67
+,foddey as we have to go to douglas today,1826.59,1829.44,asr,6
+,goll dys doolish jiu goll dys doolish jiu,1838.71,1841.71,asr,80
+,yes ta,1843.81,1847.83,asr,0
+,ta ta,1848.58,1865.17,asr,50
+,ta orrym goll dys doolish ta orrym goll dys doolish,1865.50,1869.16,asr,94
+,douglas ta,1873.21,1885.84,asr,0
+,ta orrym goll dys doolish cha nel mee laccal goll,1885.99,1889.17,asr,92
+,ta orrym goll dys doolish agh cha nel mee laccal goll,1890.04,1892.59,asr,95
+,will she be in my house bee ee ayns y thie,1897.18,1907.32,asr,72
+,bee ayns y thie as,1907.89,1910.92,asr,80
+,bee ee ayns y thie eck,1918.69,1920.46,asr,55
+,thalloo as,1921.66,1925.32,asr,11
+,the house tomorrow morning bee ayns y,1926.40,1936.96,asr,0
+,sy thie eck moghrey mairagh as y toieag moghrey mairagh,1936.75,1941.22,asr,85
+,bee bee,1947.01,1949.05,asr,0
+,howl just say yes but she will be there tomorrow afternoon,1950.67,1954.66,asr,26
+,bee agh cha bee ee ayns shen fastyr mairagh,1964.44,1968.49,asr,96
+,erbee agh erbee fastyr mairagh,1969.24,1971.37,asr,59
+,bio coshee as dy be,1976.74,1989.49,asr,0
+,cha bee ayns shen fastyr mairagh,1990.57,1992.85,asr,88
+,son ta urree gobbragh bee agh erbee fastyr mairagh son duirree gobbragh,1993.42,1999.00,asr,88
+,da as hee,2001.01,2003.23,asr,46
+,raad vees eh c'raad vees eh,2010.31,2013.04,asr,85
+,bee bee on wednesday cre vees,2017.21,2032.99,asr,0
+,the jecrean c'raad vees oo jecrean,2033.02,2036.26,asr,67
+,howl just say bee in the restaurant,2041.69,2046.73,asr,21
+,er lhiam dy bee eh ayns thie bee,2056.06,2059.27,asr,94
+,erlhiam dy bee ayns y thie-bee with,2060.53,2066.14,asr,44
+,er lhiam dy bee eh ayns thie-bee marish yn charrey echey,2082.55,2086.42,asr,95
+,er lhiam dy bee eh ayns y thie-bee marish yn charrey echey,2087.71,2090.17,asr,100
+,troailt with his friend been eating in naa every day,2094.61,2099.56,asr,25
+,er lhiam dy bee eh ayns thie-bee marish yn charrey echey,2112.76,2116.57,asr,95
+,son te er ve gee ayns shen dagh laa,2117.20,2120.29,asr,100
+,er lhiam dy bee eh ayns y thie-bee marish yn charrey echey,2122.36,2125.09,asr,100
+,son t'eh er ve gee as dagh laa,2125.66,2127.94,asr,81
+,every day this week er,2135.26,2150.38,asr,0
+,erlhiam dy bee eh ayns y thie-bee marish yn charrey echey,2150.20,2154.07,asr,97
+,son te er ve gee ayns shen dagh laa yn chiaghtin shoh,2154.76,2158.93,asr,100
+,er lhiam dy bee eh ayns y thie-bee marish yn charrey echey son,2160.19,2163.31,asr,95
+,ben dagh laa yn shiaghtin shoh orroo,2164.27,2170.51,asr,64
+,jannoo kionnagh arran mairagh jannoo kionnagh arran mairagh,2181.85,2185.72,asr,92
+,yes mee,2188.42,2192.92,asr,0
+,nuy choud's eh,2193.67,2196.13,asr,40
+,aile buy bread nee neeym,2197.66,2209.69,asr,58
+,oo kionnagh arran as nee neeym kionnagh arran as,2209.57,2213.59,asr,81
+,loayrt time will you getchal,2216.89,2219.08,asr,93
+,yn traa nee oo girree girree,2227.78,2232.01,asr,43
+,warning,2238.01,2238.43,asr,0
+,yn traa nee oo girree moghrey jedoonee,2250.94,2253.79,asr,76
+,cre'n traa nee oo girree moghrey jedoonee cha,2254.99,2268.73,asr,80
+,cha nel fys aym probably get up with,2268.52,2275.84,asr,51
+,cha nel fys aym t'eh licklee dy jeanym girree ec mysh lieh oor lurg jeh,2290.87,2297.41,asr,92
+,t'eh licklee dy jeanym girree ec mysh lieh oor lurg jeih,2299.78,2302.69,asr,89
+,oiehooar t'ee cheet ayns mail,2308.30,2311.18,asr,22
+,fir-ynsee vel oo dty er-ynsee,2320.99,2323.15,asr,76
+,cha nel cha nel,2329.72,2332.09,asr,100
+,the teacher,2333.35,2335.45,asr,40
+,cha nel mee my er-ynsee,2344.15,2347.24,asr,100
+,cha nel mee my er-ynsee choud's,2348.11,2351.08,asr,83
+,was a teacher but beeym rhyt thie ayd,2352.16,2355.10,asr,47
+,cha nel mee my er-ynsee,2370.55,2373.52,asr,100
+,agh ta mee er ve my haaue son jeh laa nish,2374.18,2378.41,asr,91
+,cha nel mee my er-ynsee agh ta mee er ve my haaue son jeh laa nish,2379.43,2383.51,asr,96
+,ass bio like being ritchie ayd,2385.55,2388.55,asr,48
+,dy heu laik lhiat dy heu,2398.66,2401.15,asr,43
+,sy yiass s'laik,2402.98,2410.51,asr,0
+,s'laik this pasta,2412.10,2419.57,asr,0
+,at pasta pasta,2420.95,2435.80,asr,0
+,shoh cha mie as,2435.80,2438.17,asr,50
+,shen vel oo pasta shoh mie as yn fastyr shen,2438.83,2442.79,asr,64
+,cha share lhiam,2446.60,2456.71,asr,0
+,yn pasta shoh share lhiam yn pasta shoh,2456.77,2459.65,asr,79
+,choud's eh prefer this pasta,2461.06,2463.55,asr,35
+,but pastyr share,2464.60,2476.75,asr,0
+,bare lhiam yn pasta shoh cha noddym gee yn pasta shen,2476.57,2481.04,asr,60
+,share lhiam yn fastyr shoh cha noddym gee yn fastyr shen,2481.67,2484.37,asr,91
+,just say goaldee goaldee,2487.34,2496.46,asr,55
+,t'ou goaldee looks gra chouds eh,2498.14,2501.53,asr,73
+,goaldee oc soils that she prefers that fastyr,2502.40,2505.31,asr,50
+,ny goaldee looks gra dy nhare lhee yn pasta shen,2517.25,2521.06,asr,62
+,dy gra dy nhare lhee yn fastyr shen,2521.90,2524.27,asr,53
+,ta shiu,2528.17,2528.44,asr,0
+,as not pastyr broddey lesson to eh,2528.83,2531.41,asr,0
+,the goaldee looks gra dy nhare lhee yn pasta shen agh cha nel mee geaishtagh ree,2543.83,2549.80,asr,92
+,bod gra dy nhare lhiam as ta shen cha nel mee geaishtagh ree,2551.48,2554.81,asr,87
+,goaldee lossa as ta shiu prefers pasta,2557.45,2559.94,asr,70
+,vel eh cooish my reddyn breck,2561.17,2563.18,asr,57
+,ta gra dy nhare lhee yn fastyr shen,2577.76,2581.24,asr,73
+,agh cha nel mee geaishtagh ree son ren ee gee yn red breck aym,2581.81,2586.07,asr,72
+,but gra dy nhare lhiam pasta shen cha nel mee geaishtagh ree son ren ee gee yn red,2588.05,2592.55,asr,56
+,choud's eh goll dy walkal as he prefers that pasta,2594.44,2598.16,asr,52
+,listen to eh bee coshee eh mie reddyn breck,2599.03,2601.34,asr,59
+,the goaldee looks gra dy nhare lhee yn fastyr shen,2618.89,2622.43,asr,87
+,agh cha nel mee geaishtagh ree son ren ee gee yn red ee breck aym,2623.21,2627.74,asr,97
+,nish ta gra dy nhare lhee yn fastyr shen agh cha nel mee geaishtagh ree son ren ee gee yn red breck aym,2629.57,2637.31,asr,78

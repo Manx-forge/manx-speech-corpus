@@ -1,0 +1,27 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon tree-jeig as daeed,0.73,4.54,asr,69
+,arran berreen millish,6.16,8.89,asr,95
+,soo awree caffee,9.97,14.50,asr,67
+,ny jean ren eh,19.78,22.12,asr,0
+,ren eh jannoo ren eh,23.32,26.17,asr,75
+,nagh ren eh arran eh,27.34,29.68,asr,90
+,dy-mennick un cheayrt,31.42,34.12,asr,86
+,nagh ren oo rieau jannoo arran rheynn dy mennick,36.04,39.67,asr,98
+,nagh ren oo rieau jannoo soo rheynn dy mennick,41.20,45.19,asr,91
+,nagh ren oo rieau jannoo berreen millish greim dy mennick,46.18,50.05,asr,91
+,nagh ren oo rieau jannoo awree ren dy mennick,51.31,54.61,asr,92
+,nagh ren oo rieau jannoo greain dy mennick,55.51,59.02,asr,76
+,nagh ren oo rieau jannoo rheynn dy mennick,60.04,63.52,asr,90
+,nagh ren oo rieau jannoo yn obbyr shen un cheayrt,65.38,70.09,asr,82
+,ny hrooid myr shen dy mennick cha ren mee rieau jannoo feiyr,71.80,76.87,asr,84
+,jean dty lessoonyn nish pherick ta mee jannoo yn tey nish,78.67,83.56,asr,77
+,buinn vuinn mee,86.14,88.60,asr,100
+,rourit yn garey ayms ooilley,89.80,94.78,asr,86
+,ro liugh ansherbee,96.13,98.65,asr,100
+,jeant mooar,100.00,103.39,asr,0
+,ta mee fakin dy vel yn garey ooilley yn chenn nish,105.28,108.70,asr,62
+,bwooise da jee va mee ny praaseyn jea,109.99,112.99,asr,57
+,ren oo hene ooilley yn obbyr rheynn son shickyrys,114.46,118.66,asr,90
+,cha row monney obbyr obbyr dy liooar ayn,119.68,123.25,asr,91
+,cha nel red erbee jeant aym dy jarroo,124.18,127.51,asr,100
+,cre'n fa nagh cha nel fys aym,128.11,131.14,asr,86

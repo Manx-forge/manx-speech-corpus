@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,My,0.96,1.11,aligned
+0,1,t'eh,1.11,1.29,aligned
+0,2,jeh,1.29,1.50,aligned
+0,3,"foays,",1.50,2.07,aligned
+0,4,t'eh,2.52,2.76,aligned
+0,5,eisht,2.76,2.94,aligned
+0,6,jeh,2.94,3.09,aligned
+0,7,"scansh,",3.09,3.75,aligned
+0,8,as,4.20,4.35,aligned
+0,9,lhisagh,4.35,4.74,aligned
+0,10,eh,4.74,4.83,aligned
+0,11,ve,4.83,5.04,aligned
+0,12,taaghit.,5.04,5.67,aligned

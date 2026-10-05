@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445681",
+  "name": "Cre jir mayd eisht? jean mayd tannaghtyn ayns peccah, dy vod grayse bishaghey?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445681",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.784,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

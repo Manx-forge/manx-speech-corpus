@@ -1,0 +1,17 @@
+line,idx,word,start,end,status
+0,0,craad,5.94,6.15,aligned
+0,1,hie,6.15,6.36,aligned
+0,2,oo,6.36,6.42,aligned
+0,3,jea,6.42,6.75,aligned
+0,4,hie,7.29,7.44,aligned
+0,5,mee,7.44,7.53,aligned
+0,6,dys,7.53,7.71,aligned
+0,7,crosby,7.71,8.13,aligned
+0,8,craad,15.27,15.48,aligned
+0,9,hie,15.48,15.69,aligned
+0,10,oo,15.69,15.75,aligned
+0,11,jea,15.75,16.08,aligned
+0,12,hie,16.59,16.77,aligned
+0,13,mee,16.77,16.86,aligned
+0,14,dys,16.86,17.01,aligned
+0,15,crosby,17.01,17.43,aligned

@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,weather,1.84,2.29,aligned
+0,1,emshyr,3.37,3.97,aligned
+0,2,fliugh,5.80,6.37,aligned
+1,0,feayr,15.37,15.88,aligned
+1,1,cheh,18.13,18.76,aligned
+2,0,hot,19.81,20.23,aligned
+2,1,cheh,21.58,22.09,aligned
+3,0,graih,25.51,26.11,aligned
+3,1,chirrym,27.10,27.61,aligned
+4,0,ceau,29.41,30.04,aligned
+4,1,fliaghey,30.04,30.85,aligned
+4,2,raining,31.84,32.41,aligned
+5,0,ceau,33.46,34.00,aligned
+5,1,sniaghtey,34.12,35.08,aligned

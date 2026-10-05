@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05404113",
+  "name": "Cha nee Skeet uss",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05404113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.53,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

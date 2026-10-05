@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051905113",
+  "name": "Va mee ruggit er yn çheyoo laa Mean Souree",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051905113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.26,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

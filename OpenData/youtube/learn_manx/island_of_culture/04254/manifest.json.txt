@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04254",
+  "name": "Ta mee ayns Purt ny h-inshey jiu as t'eh beggan feayr",
+  "source": "https://www.youtube.com/watch?v=p1DgLWgfQqU",
+  "platform": "youtube",
+  "resource_id": "04254",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.03,
+  "deep_link": "https://www.youtube.com/watch?v=p1DgLWgfQqU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

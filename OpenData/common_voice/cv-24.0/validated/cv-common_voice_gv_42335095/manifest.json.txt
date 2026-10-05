@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42335095",
+  "name": "Lhig daue ve ynrycan lhiat hene, as cha nee lesh joarreeyn ayns ayrn mayrt.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42335095",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.64,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42598907",
+  "name": "\"Eisht denee eh ymmodee questionyn jeh; agh cha dug eh ansoor erbee da.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42598907",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.408,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

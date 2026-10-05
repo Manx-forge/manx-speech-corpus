@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,cha,0.00,0.15,aligned
+0,1,nel,0.15,0.39,aligned
+0,2,eh,0.39,0.57,aligned
+0,3,maynrey,0.57,1.20,aligned

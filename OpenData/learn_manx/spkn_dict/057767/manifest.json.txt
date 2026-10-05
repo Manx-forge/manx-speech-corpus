@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057767",
+  "name": "bonnag scone",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/bonnag%20-%20scone.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057767",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.78,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/bonnag%20-%20scone.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

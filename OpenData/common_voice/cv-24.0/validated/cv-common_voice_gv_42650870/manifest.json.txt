@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650870",
+  "name": "Cre'n ennaghtyn t'er ve ayd jeh dty pheccaghyn?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650870",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.328,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

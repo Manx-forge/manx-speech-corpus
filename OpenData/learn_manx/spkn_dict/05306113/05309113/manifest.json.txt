@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05309113",
+  "name": "Cre ren oo jea?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05309113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.27,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

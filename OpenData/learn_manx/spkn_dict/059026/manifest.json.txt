@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059026",
+  "name": "sheealeyder-ushtey water skier",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/sheealeyder-ushtey%20-%20water%20skier.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059026",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.57,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/sheealeyder-ushtey%20-%20water%20skier.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

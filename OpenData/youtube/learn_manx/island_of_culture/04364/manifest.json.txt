@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04364",
+  "name": "Cha nel mee feer vie ec dub",
+  "source": "https://www.youtube.com/watch?v=cRsNFRYiACc",
+  "platform": "youtube",
+  "resource_id": "04364",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.45,
+  "deep_link": "https://www.youtube.com/watch?v=cRsNFRYiACc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

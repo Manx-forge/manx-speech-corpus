@@ -1,0 +1,35 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,keim jees lessoon jeh,0.88,4.03,asr,62
+,lhaih shey reading seeks,4.72,8.02,asr,74
+,mannanan beg as enn ayrn kiare,9.07,12.76,asr,71
+,moghrey mie quoi shen,14.29,16.69,asr,76
+,ren ee gyllagh lesh coraa bing,17.29,19.45,asr,100
+,mannanan ren mannanan freggyrt dy trimshagh,20.29,23.62,asr,85
+,ta mee jeeaghyn son aym agh cha nel fys aym c'raad te va fys ayds,24.52,29.65,asr,93
+,cha nel fys aym c'raad t'eh nish,30.52,33.04,asr,100
+,agh ta fys aym c'raad v'eh ec kerroo lurg shey moghrey jiu,33.55,37.66,asr,95
+,ren mee fakin eh v'eh snaue ayns yn awin,38.23,41.44,asr,100
+,ren mee screeu arrane mysh vel oo laccal geaishtagh rish,41.98,46.12,asr,100
+,cha nel gura mie ayd ny sanmee foddee,47.02,49.72,asr,95
+,ta orrym feddyn embark nish well foddee dy vel fys ec yn ta mainshter yindyssagh,50.38,58.75,asr,94
+,er lhiam dy vel eh chymsagh fuygh er broogh yn awin nish hene,59.32,63.52,asr,95
+,gura mie ayd ren yn guilley gra as ren eh roie magh ass y dorrys,64.87,69.46,asr,100
+,hee'm oo ny sanmey vannanan ren benainshter bing gyllagh lesh coraa bing,70.39,75.43,asr,91
+,myr shen ren mannanan beg roie sheese dys yn awin raad va'n seyr mainshter yindyssagh chymsaghey veih,77.08,84.64,asr,92
+,kys t'ou ren mainshter yindyssagh briaght,85.93,89.23,asr,86
+,ta mee red beg trimshagh ren yn guilley freggyrt,90.34,93.64,asr,100
+,erlhiam dy vel caillt,94.33,96.55,asr,78
+,vel fys ayd c'raad te v'eh ayns shoh moghrey jiu,97.18,100.96,asr,100
+,ren mee fakin eh snaue ayns yn awin,101.50,103.60,asr,100
+,ren mainshter yindyssagh freggyrt cha nel fys aym c'raad t'eh nish,104.29,108.94,asr,100
+,er shen ren mainshter yindyssagh jeeaghyn er y thalloo,110.53,114.13,asr,98
+,as ren eh feddyn ynnydyn coshey ayns y laagh,114.67,117.55,asr,100
+,ren ad geiyrt er ny hynnydyn coshey son feed minnid,118.57,121.72,asr,88
+,as eisht ren ad enn,122.32,125.47,asr,81
+,ren mannanan gyllagh va'n cabbyl roie mygeayrt ayns magher mooar marish cabbyl elley,126.55,132.97,asr,96
+,gura mie ayd vainshter yindyssagh ren mannanan gra,134.17,137.77,asr,100
+,yn magher cre t'ou jannoo ayns shoh as quoi yn carrey noa ayd,138.40,143.08,asr,80
+,shoh jonee ren yn cabbyl freggyrt,144.07,147.19,asr,100
+,ta shin roie mygeayrt as goll er mooin y cheilley,147.88,150.97,asr,100
+,oh oh ren mannanan gra,151.78,154.27,asr,70
+,nee ren yn vagher freggyrt,154.93,157.69,asr,60

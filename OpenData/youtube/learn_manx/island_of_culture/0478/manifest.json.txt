@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0478",
+  "name": "Vel Doolish ny smoo aalin na Purt ny h-Inshey? Cha nel eh",
+  "source": "https://www.youtube.com/watch?v=m1oyOFA-EYU",
+  "platform": "youtube",
+  "resource_id": "0478",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.38,
+  "deep_link": "https://www.youtube.com/watch?v=m1oyOFA-EYU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

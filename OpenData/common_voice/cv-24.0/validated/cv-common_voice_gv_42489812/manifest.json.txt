@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42489812",
+  "name": "Dy beagh claare çhellveeish ayd, cre mychione veagh eh?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42489812",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.372,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

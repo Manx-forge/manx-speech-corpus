@@ -1,0 +1,14 @@
+{
+  "ident": "speech-082581",
+  "name": "L3Manx09",
+  "source": null,
+  "platform": "saysomething",
+  "resource_id": "082581",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1801.72,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "removed by publisher"
+}

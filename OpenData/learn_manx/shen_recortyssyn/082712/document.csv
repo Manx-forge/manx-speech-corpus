@@ -1,0 +1,64 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unveryssyn yn tooder-folley cha dug baane y thie,0.31,5.74,asr,33
+,v'eh shickyr agh foddee dy row y corp marroo mongey hooar ee rey rish y smooinaght as haink corree urree beggan,6.88,14.56,asr,97
+,v'eh jannoo geddyn baase sy thie ecksh as c'raad va'n ven aeg shen ren cheet marish mainshtyr jones dy hannaghtyn sy thie-goaldee,15.94,23.32,asr,98
+,benainshtyr jones insh dou eisht haink aggle er my,25.15,30.55,asr,66
+,wheesh c'red t'ee jannoo,31.15,33.13,asr,47
+,lhie sy thie-goaldee eck as v'ee smooinaghtyn ny reddyn shoh agh,34.87,40.06,asr,84
+,shen as ooilley berjee gyn loghtey red erbee sy chamyr,40.45,44.02,asr,56
+,yn eddin ec y fer marroo v'eh jeeaghyn dy row eh reesht son she,45.82,50.56,asr,69
+,hunga baase maynrey va'n eddyr-cheggey fillit dy jesh,51.19,55.15,asr,70
+,er faggys da'n lhiabbee erreishjee v'er ceau yn argid shen er,55.63,59.56,asr,84
+,cullee-eaddee jesh as costal braagyn,61.60,64.42,asr,67
+,currit da jesh er y laa faagys da'n lhiabbee ooilley eaddagh firryn dyn,65.02,70.72,asr,0
+,ansherbee,71.41,71.92,asr,0
+,shoh va mooar erskyn earroon sleih va ny ta er yn ooir,76.60,83.05,asr,96
+,sheel nyn ayr adam ooilley dy beagh bio,83.98,88.03,asr,100
+,gys jiu cha gormagh foast yn coontey shoh,88.60,92.83,asr,100
+,cooid ayns gloyr sloo cooid ayns gloyr smoo soilshean,93.82,98.71,asr,100
+,agh yn ainle sloo lesh gloyr y jee mooar lane,99.61,103.78,asr,100
+,myr ayns oie aalin ta shiu cur-my-ner,105.43,108.94,asr,95
+,ny cainleyn sollys lossey ayns yn aer,109.51,112.90,asr,100
+,paart beg paart moar cur soilshey er dagh laue,113.59,118.18,asr,98
+,rere towse y phooar ta jee er n'eeasaght daue,118.99,122.95,asr,96
+,foast ooilley sollys losses lhehmyrlheh,124.06,128.41,asr,88
+,chioee freayl nyn reill yn dooghys t'ad jeant jeh,129.67,133.75,asr,94
+,myr shoh ny ainleyn flaunyssagh va jeant,135.04,138.70,asr,100
+,as cha row oyr ec beg ny mooar dy phlaiynt,139.48,143.62,asr,95
+,cha nyrrys niau ve reeriaght eunyssagh,145.33,148.12,asr,100
+,as gys y seihll shoh soylit yindyssagh,148.93,151.66,asr,100
+,yn ream lane dy vie as mieys hene y ree,152.74,156.85,asr,97
+,yn slane theay graihagh ooilley jehn un chree,157.63,161.92,asr,100
+,foast mie yn theih dy ve firrinagh,163.12,167.35,asr,95
+,as foays mooar yee dy vel eh mie dy bragh,168.19,171.79,asr,100
+,gys gloyr yee hene tad ooilley er nyn oardagh,172.81,177.01,asr,98
+,as ass nyn booar cha row ad dy aase moyrnagh,177.64,181.75,asr,100
+,cha row yn seihll fo niau foast er ny yannoo,183.67,186.67,asr,100
+,as seose syn aer meiht cha row yn ooir ny shassoo,187.66,191.92,asr,94
+,agh raad ta'n ooir nish chemmit lesh y cheayn,193.03,196.87,asr,96
+,raad ta rollageyn eayst eaghlaa as grian,197.71,202.00,asr,98
+,va eaynagh ghowin gyn grunt gyn ooir gyn kione,202.96,208.15,asr,100
+,gyn doaie gyn cummey dorraghey as feayn,208.87,212.95,asr,100
+,cha row ayn har ny heear,214.27,216.31,asr,100
+,ny twoaie ny jiass chamoo vayn heese ny heose,216.97,222.46,asr,98
+,ny hoal ny wass imbagh ny traa,223.24,227.14,asr,100
+,daaghyn doo ny bane,227.92,229.81,asr,100
+,foast lesh ny rassyn oc shoh ooilley lane,230.59,234.40,asr,100
+,aer ooir aile ushtey,235.33,238.33,asr,100
+,nyn giare kione y cheilley as un oie eajee hoo,238.90,244.66,asr,91
+,reill harrish ooilley agh niau nish jeant mrish ny cummaltee,245.26,251.80,asr,93
+,rere pooar ooillniartal as ardchreenagh yee,252.52,256.15,asr,90
+,er laa dy row son laghyn ta ayns niau,257.32,261.19,asr,100
+,dy howseyn braa beayn nagh vod traa y cheau,261.91,266.14,asr,98
+,as ga te gyn oie foast ta ayn lheid y traa,267.28,271.69,asr,90
+,as ta shirveish dy scarrey laa veih laa,272.56,276.25,asr,100
+,er lheid y laa shen sheshaght caggee niau,278.47,282.25,asr,92
+,freggyrt gys symney reeoil her cur daue,282.79,286.78,asr,100
+,ooilley dy heet kiongoyrt rish stoyl y ghloyr,287.98,291.31,asr,100
+,dy chlashtyn aigney rish leigh yn croodagh mooar,292.09,295.81,asr,83
+,haink fod as gerrit veih dagh boan jehn reill,296.98,301.75,asr,90
+,seraphim gial as pooaryn ard leeideil,302.59,306.34,asr,100
+,ny troophyn sollys kiaull ving flaunyssagh,307.06,311.77,asr,100
+,lhieen yn aer vannee myr vad getlagh stiagh,312.40,316.09,asr,89
+,sy valley mooar shen trooid ny dorsyn ard,316.69,320.92,asr,100
+,maynrys as boggey lhieeney ayns dagh straid,321.79,325.48,asr,100

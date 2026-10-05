@@ -1,0 +1,37 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid queig-jeig s'mie lhiam,0.40,3.61,asr,100
+,s'mie lhiat gimman s'mie lesh bluckan-coshey,5.53,9.64,asr,100
+,s'mie lhee gobbraghey s'mie lhiam gee,10.93,14.56,asr,100
+,s'mie lhiam shooyl s'mie lhieu ushtey vea,15.64,19.48,asr,95
+,s'mie lesh kerrin caashey s'mie lesh yn dooinney,20.53,24.49,asr,100
+,mie lhiam gobbraghey mie lhiat shugyr,28.63,31.69,asr,97
+,mie lesh soo mie lhee beaghey ayns y twoaie,33.19,36.94,asr,100
+,mie lhiem eeast mie lhiat bainney,38.11,41.17,asr,91
+,mie lhieu ushtey bea mie lhiat yuan gimman,42.34,46.36,asr,90
+,mie lesh yn ven gee feill cha mie lhiam lhune,47.86,53.35,asr,100
+,cha mie lhiat tey cha mie lesh berreen,54.52,57.97,asr,85
+,cha mie lhee giu caffee cha mie lhiam shappal,58.99,62.77,asr,93
+,cha mie dy iu feeyn gial cha mie lhieu feeyn jiarg,63.67,67.66,asr,100
+,cha mie lesh jonee gobbraghey cha mie lesh yn moddey giu,68.56,72.85,asr,100
+,nagh mie lhiam snaue nagh mie lhiat gimman,74.20,77.95,asr,100
+,nagh mie lhiam shugyr nagh mie lhee arran,78.85,82.21,asr,90
+,nagh mie lhiam yees nagh mie lhiat bainney,83.14,86.59,asr,100
+,nagh mie lhieu lhune nagh mie lesh eli pronnagyn,87.31,91.09,asr,100
+,share lhiam eeym share lhiat ushtey,94.60,97.72,asr,100
+,share lesh gimman share lhee spollagyn,98.41,101.53,asr,100
+,share lhien shooyl share lhieu roie,102.55,105.34,asr,83
+,share lhieu cadley share lesh moirrey cairle,106.03,109.39,asr,37
+,nhare lhiam ushtey nhare lhiat caffee,111.52,114.85,asr,100
+,nhare lesh gimman nhare lhee spollagyn,116.23,119.65,asr,83
+,nhare lhien shooyl nhare lhieu cloie cammag,120.91,124.60,asr,100
+,nhare lhieu cadley nhare lesh moirrey feill vart,125.71,129.70,asr,89
+,nhare lesh y moddey conneeyn cha nhare lhiam ushtey,131.08,136.66,asr,85
+,cha nhare lhiat caffee cha nhare lesh gimman,137.50,141.07,asr,90
+,cha nhare lhee spollagyn cha nhare lhien shooyl,141.94,145.48,asr,91
+,cha nhare lhieu cloie cairtyn cha nhare lhieu cadley,146.35,150.34,asr,100
+,cha nhare lesh moirrey feill vuc cha nhare lesh yn moddey conneeyn,151.36,156.04,asr,100
+,nagh nhare lhiam oohyn nagh nhare lhiat caffee,158.14,161.53,asr,85
+,nagh nhare lesh hene nagh nhare lhee spollagyn,162.34,165.85,asr,100
+,nagh nhare lhien shooyl nagh nhare lhieu cloie stubbin,166.60,170.14,asr,100
+,nagh nhare lhieu cadley nagh nhare lesh moirrey feill vart,171.25,175.81,asr,89
+,nagh nhare lesh yn moddey bagoon,176.74,178.72,asr,100

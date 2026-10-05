@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,shoh,0.21,0.51,aligned
+0,1,john,0.51,0.75,aligned
+0,2,mcguinness,0.75,1.38,aligned

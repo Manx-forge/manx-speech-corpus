@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42664978",
+  "name": "Dt'aigney dy row jeant er y thalloo, myr t'eh ayns niau.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42664978",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.328,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

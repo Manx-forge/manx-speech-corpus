@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051174113",
+  "name": "Nagh nhione dhyt Dollyn?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051174113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.24,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

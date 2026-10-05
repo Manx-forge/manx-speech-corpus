@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,ta,6.21,6.30,aligned
+0,1,murran,6.30,6.72,aligned
+0,2,orrym,6.72,6.99,aligned
+0,3,agh,7.32,7.47,aligned
+0,4,ta,7.47,7.59,aligned
+0,5,mee,7.59,7.68,aligned
+0,6,dunnal,7.80,8.04,aligned
+0,7,ta,14.34,14.43,aligned
+0,8,murran,14.43,14.85,aligned
+0,9,orrym,14.85,15.09,aligned
+0,10,agh,15.09,15.18,aligned
+0,11,ta,15.57,15.72,aligned
+0,12,mee,15.72,15.90,aligned
+0,13,dunnal,15.90,16.14,aligned

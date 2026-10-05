@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04222",
+  "name": "Foshil yn giat, my sailt",
+  "source": "https://www.youtube.com/watch?v=5a876u5T5sg",
+  "platform": "youtube",
+  "resource_id": "04222",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 29.33,
+  "deep_link": "https://www.youtube.com/watch?v=5a876u5T5sg&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

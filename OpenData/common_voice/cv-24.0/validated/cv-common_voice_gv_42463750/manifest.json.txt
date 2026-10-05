@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463750",
+  "name": "Ersooyl voym lesh kiaull dty arraneyn, son cha neaisht-ym rish bingys dty violyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463750",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.884,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

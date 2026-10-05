@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052118113",
+  "name": "Shelg yn Drean",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052118113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.35,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,Cha,0.75,0.93,aligned
+0,1,vel,0.93,1.26,aligned
+0,2,sonnys,1.65,2.34,aligned
+0,3,gonnys,2.58,3.27,aligned

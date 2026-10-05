@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,teh,0.18,0.39,aligned
+0,1,ny,0.39,0.51,aligned
+0,2,smoo,0.51,0.84,aligned
+0,3,tappee,0.84,1.38,aligned

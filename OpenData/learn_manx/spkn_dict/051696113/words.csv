@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,mannagh,0.00,0.45,aligned
+0,1,jinnagh,0.45,0.81,aligned
+0,2,oo,0.81,0.93,aligned
+0,3,goll,0.93,1.29,aligned

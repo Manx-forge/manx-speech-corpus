@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0424",
+  "name": "Ta mee geearree caffee doo nish",
+  "source": "https://www.youtube.com/watch?v=jC7eaHU5ZnA",
+  "platform": "youtube",
+  "resource_id": "0424",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 19.81,
+  "deep_link": "https://www.youtube.com/watch?v=jC7eaHU5ZnA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

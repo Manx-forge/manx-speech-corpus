@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42333353",
+  "name": "Ta magher-chaggee, yn boayl dy phrowal foays yn chliwe.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42333353",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.724,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

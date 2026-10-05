@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385914",
+  "name": "Agh ve feer doillee daue dy gheddyn nyn yeearree.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385914",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.572,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

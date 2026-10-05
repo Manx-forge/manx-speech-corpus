@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04225",
+  "name": "Cur yn bluckan er yn chione",
+  "source": "https://www.youtube.com/watch?v=d5ipymtNnwI",
+  "platform": "youtube",
+  "resource_id": "04225",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.98,
+  "deep_link": "https://www.youtube.com/watch?v=d5ipymtNnwI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

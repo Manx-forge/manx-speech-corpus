@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058855",
+  "name": "reill ruler",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20school/reill%20-%20ruler.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058855",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.02,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20school/reill%20-%20ruler.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

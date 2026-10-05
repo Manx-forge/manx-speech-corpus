@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04333",
+  "name": "She Spanniagh mish",
+  "source": "https://www.youtube.com/watch?v=OQO2J4vfH0E",
+  "platform": "youtube",
+  "resource_id": "04333",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.59,
+  "deep_link": "https://www.youtube.com/watch?v=OQO2J4vfH0E&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

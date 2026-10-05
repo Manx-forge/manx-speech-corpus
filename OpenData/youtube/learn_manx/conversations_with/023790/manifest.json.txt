@@ -1,0 +1,14 @@
+{
+  "ident": "speech-023790",
+  "name": "In conversation with Davy Quillin? work",
+  "source": "https://www.youtube.com/watch?v=FQ2wDh1q89U",
+  "platform": "youtube",
+  "resource_id": "023790",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 57.82,
+  "deep_link": "https://www.youtube.com/watch?v=FQ2wDh1q89U&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42557251",
+  "name": "Cha dynsee mee creenaght, chamoo t'aym tushtey ny flaunyssee.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42557251",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.76,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

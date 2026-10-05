@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0428",
+  "name": "T'eh feayr agglagh jiu",
+  "source": "https://www.youtube.com/watch?v=pAnDP2zQJjU",
+  "platform": "youtube",
+  "resource_id": "0428",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.94,
+  "deep_link": "https://www.youtube.com/watch?v=pAnDP2zQJjU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42425973",
+  "name": "Er shoh myrgeddin ta my chree er-creau, as er ny lhaggaghey ayns my chleeau.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42425973",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.532,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

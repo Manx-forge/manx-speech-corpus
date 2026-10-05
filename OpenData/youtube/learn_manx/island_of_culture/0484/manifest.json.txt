@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0484",
+  "name": "S'mie lhiam Purt ny h-Inshey as s'mie lhiam loayrt Gaelg",
+  "source": "https://www.youtube.com/watch?v=mrHG39OlUOA",
+  "platform": "youtube",
+  "resource_id": "0484",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.01,
+  "deep_link": "https://www.youtube.com/watch?v=mrHG39OlUOA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650114",
+  "name": "T'eh jiole soo nieuagh veih'n vlaa vaasoil.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650114",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.04,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

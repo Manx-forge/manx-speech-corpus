@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04185",
+  "name": "Vel oo rieau er lhiah lioar Hall Caine?",
+  "source": "https://www.youtube.com/watch?v=q8Imw4WFf-k",
+  "platform": "youtube",
+  "resource_id": "04185",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.45,
+  "deep_link": "https://www.youtube.com/watch?v=q8Imw4WFf-k&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

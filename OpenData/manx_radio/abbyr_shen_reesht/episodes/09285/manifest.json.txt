@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09285",
+  "name": "Abbyr Shen Reesht - Say That Again 2ah Toshiaght Arree - 2025 - February 2nd",
+  "createdCircaStart": "2025-02-02",
+  "createdCircaEnd": "2025-02-02",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-2ah-toshiaght-arree-2025-february-2nd/",
+  "platform": "manx_radio",
+  "resource_id": "09285",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1313.8,
+  "deep_link": "https://podcasts.captivate.fm/media/7aac4436-e2dd-44b3-8dde-7d70d3873289/Abbyr-Shen-Reesht-2025-02-02-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

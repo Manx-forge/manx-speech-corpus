@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42333406",
+  "name": "Son cha vod unnane mee y ghoaill ass shen.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42333406",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.96,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

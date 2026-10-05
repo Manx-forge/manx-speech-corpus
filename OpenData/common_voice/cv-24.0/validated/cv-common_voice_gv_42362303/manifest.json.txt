@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42362303",
+  "name": "Ta ny bodjalyn cur dooin fynneraght voish chiass loshtee yn ghrian.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42362303",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.876,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

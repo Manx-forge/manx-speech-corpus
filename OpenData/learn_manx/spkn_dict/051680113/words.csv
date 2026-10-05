@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,jean,0.09,0.27,aligned
+0,1,oo,0.27,0.36,aligned
+0,2,goll,0.36,0.69,aligned
+0,3,er,0.75,0.90,aligned
+0,4,y,0.90,1.02,aligned
+0,5,vaatey,1.02,1.47,aligned
+0,6,my,1.50,1.65,aligned
+0,7,vees,1.65,1.89,aligned
+0,8,eh,1.89,2.04,aligned
+0,9,dorrininagh,2.04,2.73,aligned

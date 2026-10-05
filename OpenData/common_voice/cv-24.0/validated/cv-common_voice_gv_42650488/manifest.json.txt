@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650488",
+  "name": "As va e er-mooinjerey er ny lheihys ayns yn oor cheddin.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650488",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.436,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

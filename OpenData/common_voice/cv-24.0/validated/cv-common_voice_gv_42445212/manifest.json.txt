@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445212",
+  "name": "Ayraghyn, ny jean-jee nyn gloan y vrasnaghey, er-aggle dy gaill ad nyn gree.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445212",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.28,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

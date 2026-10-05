@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0441",
+  "name": "Ta mee ec shapp y vaatey-saualtys ayns Rhumsaa",
+  "source": "https://www.youtube.com/watch?v=V2O47_YaJ-I",
+  "platform": "youtube",
+  "resource_id": "0441",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.66,
+  "deep_link": "https://www.youtube.com/watch?v=V2O47_YaJ-I&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

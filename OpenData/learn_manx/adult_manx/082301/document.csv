@@ -1,0 +1,185 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,1.03,3.70,asr,67
+,tree lessoon shey-jeig,4.60,6.64,asr,95
+,she manninagh mee she,19.45,22.12,asr,53
+,she manninagh mee eh,21.94,25.51,asr,100
+,persoon hie live in the aile as mayrn,26.44,28.90,asr,0
+,she manninagh mee beaghey ayns mannin,39.67,44.14,asr,84
+,she manninagh mee ta mee beaghey ayns mannin,45.10,47.53,asr,100
+,jeusyn oo,51.49,52.42,asr,13
+,nee albinagh oo cha nee,60.73,68.56,asr,100
+,cha nel eh now,69.19,72.43,asr,79
+,yn earish person cha nee she yernagh,73.12,83.35,asr,67
+,mee cha nee she yernagh mee,83.41,85.87,asr,65
+,bio rish persoon broin live in glaschu cha,89.11,102.40,asr,0
+,cha nee she yernagh mee,102.22,105.07,asr,31
+,agh ta mee beaghey ayns galatz scoill,105.61,108.04,asr,82
+,cha nee she yernagh mee agh ta mee beaghey ayns glaschu oo,108.97,116.53,asr,74
+,nagh nee frangagh nagh nee frangagh eh,122.98,127.00,asr,93
+,yes she she,129.40,135.10,asr,18
+,he was born in boayrd dou shey,138.19,148.84,asr,0
+,gy ruggit ayns shey v'eh ruggit ayns boayrd,150.01,154.48,asr,39
+,just say yes he was born in baarle,156.91,160.84,asr,8
+,t'eh ruggit ayns aght t'eh beaghey ayns speyr nish,175.21,180.64,asr,50
+,she v'eh ruggit ayns bordeaux agh t'eh beaghey ayns,181.36,184.36,asr,85
+,nish shee,184.90,189.01,asr,28
+,bretnagh ee she bretnagh ee,197.83,200.53,asr,100
+,sheese e vummig as yn she she bretnagh ee magh,203.05,212.98,asr,79
+,she bretnagh ee nagh nee cha nee,214.06,222.40,asr,74
+,cha nee eh,223.03,225.04,asr,90
+,now sheese y spaniards,225.58,227.89,asr,100
+,cha nee sheese spaaniagh ee,234.79,237.91,asr,79
+,she spaainagh ee noo sheese y spaniards,238.99,243.67,asr,72
+,yes,245.29,245.53,asr,0
+,cha nee shee spaainey,256.63,259.48,asr,8
+,boght thie gobbragh ayns yn aer she spaainagh ee agh gobbragh ayns caardys,260.47,266.68,asr,62
+,sheese y spaniards but she works in jannoo,270.04,273.01,asr,40
+,shee spaaniagh ee gobbragh ayns caardee ayns y tourey,287.71,293.47,asr,69
+,she spaainagh ee agh t'eh gobbragh ayns caardys ayns y tourey,295.15,298.36,asr,79
+,foddee,302.62,302.86,asr,0
+,nee sostynee ad my nee sostynee ad,312.79,316.48,asr,59
+,live in the aile as mayrn shee agh t'ad,327.97,338.14,asr,0
+,beaghey ayns mannin agh ta beaghey ayns mannin,338.29,341.89,asr,98
+,foddey live in mannin shee agh,345.22,360.10,asr,0
+,agh t'ad beaghey ayns mannin as t'ad gynsagh gaelg,359.92,364.06,asr,91
+,she agh t'ou beaghey ayns mannin as t'ad gynsagh gaelg,364.99,367.90,asr,89
+,vel oo er,381.10,381.94,asr,0
+,geayninyn frangagh vel oo er nakin yn frangagh,382.45,386.50,asr,72
+,phrenshyn vel oo er nakin,390.07,400.75,asr,0
+,yn frangagh shen vel oo er nakin yn frangagh shen,400.93,405.13,asr,86
+,warning,411.07,411.43,asr,0
+,yn frangagh shen ta gee,425.80,428.14,asr,85
+,dagh moghrey vel oo er nakin yn frangagh shen ta gee ayns yn dagh moghrey,429.22,434.71,asr,92
+,cha nee frangagh,446.44,447.79,asr,0
+,cha nee frangagh eh frenchman,448.99,453.85,asr,50
+,cha nee frangagh erlhiam dy nee manninagh,466.96,471.94,asr,100
+,frangagh eh erlhiam dy nee manninagh eh,473.35,476.32,asr,73
+,veih dys oie croys ayns cre'n oyr t'eh gee,479.74,491.71,asr,0
+,bio dys every day cre'n oyr t'eh gee son dagh,499.51,517.99,asr,0
+,dagh laa eisht cre'n oyr t'eh gee ayns yn dagh laa eisht,518.02,522.34,asr,84
+,foddey son manx peepal eat as well,523.93,528.25,asr,41
+,ta paart dy vanninee gee son ta'n neesht,542.02,545.77,asr,89
+,ta paart dy vanninee gee ayns y neesht,546.37,548.77,asr,79
+,bishop in every french person,554.29,555.73,asr,51
+,ta paart dy vanninee gee,569.65,571.66,asr,92
+,da'n neesht as cha nel,572.44,575.20,asr,71
+,rangagh gee ad ta paart dy vanninee,575.83,579.34,asr,68
+,ayns y neesht as cha nel dy chooilley rangagh gee ad,579.91,582.61,asr,90
+,cha bee oo spoke welsh person,587.20,589.48,asr,100
+,but rishyn nagh vel oo er loayrt rishyn vretnagh,601.24,605.92,asr,91
+,yn loayrt rishyn,610.84,623.71,asr,0
+,yn vretnagh shen foast vel oo er loayrt rish yn vretnagh shen foast,623.53,628.84,asr,95
+,cha nel cha nel,633.85,635.95,asr,100
+,how just say now cha,637.03,641.17,asr,21
+,cha nel cha nel mee er loayrt rish bretnee erbee,652.54,657.79,asr,100
+,cha nel cha nel mee er loayrt rish bretnee erbee,658.87,661.33,asr,100
+,hene well as week,663.64,665.92,asr,41
+,cha nel cha nel mee er loayrt rish,680.17,683.80,asr,100
+,yn chiaghtin shoh cha nel cha nel mee er loayrt rish,685.54,689.56,asr,92
+,bee yn chiaghtin shoh person,690.31,699.76,asr,38
+,oo beaghey faggys nagh shen,714.28,717.55,asr,75
+,vel oo beaghey faggys da'n vretnagh shen,718.99,721.24,asr,100
+,bee eh,749.14,749.47,asr,0
+,faggys da'n vretnagh shen ta gaase praaseyn,749.89,753.31,asr,93
+,vel oo beaghey faggys da'n vretnagh shen ta gaase praaseyn,754.42,757.24,asr,86
+,cha nee bretnagh ee,770.59,772.39,asr,66
+,cha nee bretnagh ee spaniards,773.02,779.20,asr,37
+,cha nee bretnagh ee shee spaainagh ee,786.55,790.57,asr,97
+,bretnagh ee she spaainagh ee person,791.53,796.87,asr,45
+,sheese y spaniards she was born in seville,797.59,800.50,asr,52
+,cha nee bretnagh ee shee spaainagh ee,813.37,817.24,asr,95
+,veih ruggit ayns y bretnagh,818.11,822.85,asr,73
+,she spaainagh ee va ruggit ayns sy vaarle,823.45,825.70,asr,82
+,ren,840.28,840.49,asr,0
+,ren mee goll dys sophia ayns y yeurey,840.37,843.22,asr,68
+,ren mee goll dys y ayns y yeurey winter,844.39,850.33,asr,54
+,ren mee goll dys y ayns y yeurey,864.94,867.64,asr,83
+,va ram orrin jannoo ayns shen ren mee goll dys y yeurey,868.33,872.65,asr,75
+,ram orrin jannoo just say,873.16,877.15,asr,58
+,corranjey as s'laik,878.62,890.56,asr,0
+,lesh spaainee orrin son s'laik lesh spaainee orrin jin,890.71,894.70,asr,81
+,spinney sleih gollrish as s'laik,897.25,913.33,asr,0
+,at lesh spaainee orrin jin dagh laa syn ouyr,913.12,917.86,asr,63
+,s'laik lesh spaainee oranjeyn dagh laa syn ouyr,918.70,921.76,asr,80
+,well ta juan jannoo,927.70,939.85,asr,0
+,foddey juan jannoo cur y wheeyl da juan,941.08,944.02,asr,55
+,ta juan jannoo,947.26,957.67,asr,0
+,cur yn wheeyl shen da juan,957.73,960.13,asr,62
+,jannoo cur y beeal shen da juan as,960.76,965.17,asr,79
+,ooilley give that wheel to the frenchman jannoo cur yn wheeyl,966.13,981.43,asr,0
+,keeayll shen da'n rangagh jannoo,981.25,984.25,asr,67
+,bio shen da'n rangagh son ny,984.67,991.60,asr,27
+,yn wheeyl shen da'n rangagh ta beaghey er y clieau,1005.91,1009.87,asr,89
+,jannoo cur y wheeyl shen da'n rangagh dy beagh er y clieau,1010.89,1013.83,asr,92
+,probably not lhig,1016.86,1027.21,asr,0
+,clean nagh jean t'eh licklee nagh jean,1027.33,1030.51,asr,81
+,probably not t'eh,1032.46,1047.34,asr,58
+,bee'n licklee nagh jean son cha laik lhiam goll dys y clieau,1047.22,1052.38,asr,75
+,t'eh licklee nagh jean son cha laik lhiam goll dys y clieau,1053.46,1056.28,asr,100
+,probably not make into the mountain in the spring,1058.74,1062.55,asr,63
+,t'eh licklee nagh jean son cha laik lhiam goll dys y clieau ayns yn niarragh,1074.07,1079.62,asr,89
+,t'eh licklee nagh jean son cha laik lhiam goll dys y clieau ayns yn niarragh,1080.61,1083.88,asr,100
+,you nee fer obbee oo,1096.24,1098.28,asr,80
+,cha nee cha nee cha,1103.56,1106.32,asr,50
+,cha nee she fer-ynsee mee cha nee she fer-ynsee mee,1118.17,1122.76,asr,81
+,scottish person said,1127.50,1129.21,asr,57
+,ren yn albinagh gra,1135.54,1137.67,asr,100
+,albinagh gra scottish person said,1138.81,1144.24,asr,75
+,ren,1160.38,1160.65,asr,0
+,yn albinagh gra dy row eh ny s'grianee ayns glaschu oo,1160.56,1165.90,asr,79
+,albinagh gra dy row eh ny s'grianee ayns,1167.82,1170.16,asr,100
+,balley beg albinagh,1178.35,1196.11,asr,0
+,gra dy row eh ny s'grianee,1196.20,1198.90,asr,68
+,ny ve ayns balley beg albinagh gra dy row eh ny s'grianee ayns glaschu ny ve ayns balley beg,1200.22,1207.24,asr,80
+,scraa ren,1223.53,1235.65,asr,18
+,ren mee coardail ree ren mee coardail ree,1235.41,1238.95,asr,89
+,yn garey yn garey garden,1246.06,1251.79,asr,50
+,but un sy gharey queig ayns y gharey,1258.09,1261.12,asr,67
+,as ayns y gharey echey,1264.18,1274.05,asr,41
+,queig ayns y gharey echey lesh,1275.31,1280.86,asr,46
+,daa hostynagh ayns shen,1291.33,1293.52,asr,83
+,va daa hostnagh as shen eh,1294.33,1297.78,asr,96
+,daa,1311.67,1312.12,asr,0
+,hostynagh as daa nagh ayns shen,1312.15,1315.81,asr,87
+,va daa hostnagh as daa vretnagh as shen,1316.89,1318.90,asr,100
+,nagh row manninee erbee ayns shen nagh row manninee erbee ayns shen,1334.17,1338.88,asr,87
+,nagh row manninee erbee ayns shen nish,1353.58,1356.52,asr,79
+,nagh row manninee erbee as er nish cha row cha row,1357.48,1366.84,asr,86
+,cha row va ny manninee ayns thie,1381.81,1385.29,asr,94
+,cha row va ny manninee ayns y thie house,1385.89,1392.31,asr,67
+,oh,1392.67,1392.79,asr,0
+,cha row fer ny manninee ayns thie loayrt rish ny frangee,1407.22,1412.77,asr,81
+,va ny manninee ayns y thie loayr rish ny frangee,1414.03,1416.28,asr,76
+,bwoailley ny haaue speeikeen ta ny french people who lives close to the mountain,1419.61,1423.60,asr,50
+,cha row va ny manninee ayns thie loayrt rish ny frangee ta beaghey faggys da'n clieau,1440.22,1447.84,asr,97
+,cha row va ny manninee ayns y thie loayr rish ny frangee ta beaghey faggys da'n clieau,1448.74,1452.73,asr,99
+,eu,1465.87,1466.11,asr,0
+,black mantan doo yn slieau doo,1470.13,1480.33,asr,0
+,let mee go cha ren eh lhiggey dou,1485.22,1498.51,asr,0
+,goll cha ren eh lhiggey dou goll,1498.57,1501.63,asr,29
+,ow to see the chicken lhiggey dou,1505.56,1522.45,asr,0
+,t'ou goll dy geddyn yn chiark,1522.30,1524.88,asr,20
+,lhiggey dou goll dy akin yn chiark,1526.56,1528.63,asr,79
+,he didnt let mee go to see the welsh chicken,1531.87,1534.48,asr,0
+,eh lhiggey dou goll dy akin yn chiark vretnagh,1545.07,1549.27,asr,88
+,cha ren eh lhiggey dou goll dy akin yn shirt vretnagh,1550.38,1553.35,asr,96
+,or not shuyr cha nel mee shickyr,1556.59,1564.39,asr,91
+,cha nel mee shickyr cha,1565.11,1585.03,asr,60
+,cha nel mee shickyr gee ny praaseyn,1584.79,1588.48,asr,81
+,cha nel mee shickyr jannoo ny praaseyn french,1589.68,1594.27,asr,49
+,cha nel mee shickyr dy jean eh gee ny praaseyn frangagh,1608.10,1612.18,asr,77
+,cha nel mee shickyr jeh ny praaseyn frangagh,1613.14,1615.60,asr,83
+,main,1634.71,1635.04,asr,0
+,my nee oo loayrt rishyn yernagh,1634.80,1637.41,asr,82
+,my nee oo loayrt rish yn yernagh ersyn,1638.52,1647.37,asr,52
+,welsh person myr,1649.23,1663.69,asr,0
+,and nee uss loayrt rishyn yernagh,1663.60,1666.18,asr,83
+,nee eshyn loayrt rishyn vretnagh,1666.87,1669.18,asr,100
+,as loayrt rish yn yernagh nee eshyn loayrt rish yn vretnagh,1670.83,1673.86,asr,82
+,the bill ren shin,1677.55,1687.93,asr,0
+,ren eh ching jeh,1689.13,1690.18,asr,85
+,hie mee dy beagh bonnag ren,1693.06,1705.33,asr,0
+,yn bonnag vooar ren mee bonnag vooar,1705.12,1708.69,asr,91
+,hie mee dy big bonnag the french version of,1712.17,1716.34,asr,71
+,ren mee bonnag vooar agh ren ee ching jeeaghyn rangagh,1731.13,1736.44,asr,92
+,bonnag vooar agh ren ee ching jeh'n rangagh,1737.67,1740.19,asr,91

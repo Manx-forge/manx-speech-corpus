@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051201113",
+  "name": "Beeym ny share mairagh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051201113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.65,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

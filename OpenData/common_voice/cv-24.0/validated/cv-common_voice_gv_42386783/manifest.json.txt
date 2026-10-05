@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386783",
+  "name": "Lesh nyn lheid t'eh coyrt lheihys, as leodaghey nyn bianyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386783",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.544,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

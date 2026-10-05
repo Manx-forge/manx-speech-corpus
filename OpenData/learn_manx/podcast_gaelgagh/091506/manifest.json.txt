@@ -1,0 +1,14 @@
+{
+  "ident": "speech-091506",
+  "name": "learning manx part 96",
+  "source": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2096.mp3",
+  "platform": "learn_manx",
+  "resource_id": "091506",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 359.38,
+  "deep_link": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2096.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

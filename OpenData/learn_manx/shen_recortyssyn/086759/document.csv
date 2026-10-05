@@ -1,0 +1,26 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,hee as e heer as ersooyl she bleb eshyn she bleb eshyn,0.06,9.24,asr,89
+,shee as english she sostnagh ish she sostynagh ish,14.74,19.57,asr,27
+,he's not scottish he's not scottish,22.24,29.68,asr,60
+,cha nee albinagh eshyn cha nee albinagh eshyn,30.13,33.37,asr,100
+,nee manninagh eshyn nee manninagh eshyn,40.75,43.93,asr,100
+,nagh nee manninee adsyn nagh nee manninee adsyn,51.82,55.81,asr,100
+,nee rift inish nee rift inish,65.92,68.74,asr,62
+,it's a fine day she laa braew t'ayn she,72.91,83.14,asr,57
+,laa braew t'ayn it's in the dog,83.17,86.74,asr,87
+,it is in the dog cha nee moddey t'ayn cha nee moddey t'ayn,91.24,96.55,asr,97
+,it was a fine day yesterday yesterday,98.65,106.87,asr,44
+,she laa braew v'ayn jea she laa braew v'ayn jea,107.59,111.91,asr,91
+,the butty but now he's y gobbag,114.97,117.31,asr,65
+,douglas butty gobbag,121.90,123.97,asr,49
+,she douglas butty veshyn agh she gobbag eshyn nish,124.87,128.35,asr,85
+,she butty veshyn agh she gobbag eshyn nish,129.25,132.67,asr,85
+,tree tree,136.99,141.94,asr,0
+,billy t'ayn nee billy t'ayn,142.66,145.66,asr,76
+,yesterday ta,148.72,154.00,asr,0
+,yesterday nee laa braew v'ayn jea nee laa braew v'ayn jea,154.69,161.02,asr,78
+,was in the wonderful day was in the wonderful day,162.88,170.32,asr,80
+,nagh nee laa yindyssagh v'ayn,171.40,173.53,asr,100
+,nagh nee laa yindyssagh v'ayn mannin,174.52,179.50,asr,91
+,t'eh er mayrn nagh dooinney braew v'eshyn nagh dooinney braew v'eshyn,187.48,192.58,asr,80
+,is in johnna smessee nagh nee gow john nagh nee gow john,193.93,203.92,asr,59

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058046",
+  "name": "dhornane door handle",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/dhornane%20-%20door%20handle.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058046",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.28,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/dhornane%20-%20door%20handle.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05577113",
+  "name": "Vel Orry gobbragh ayns Doolish?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05577113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.41,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

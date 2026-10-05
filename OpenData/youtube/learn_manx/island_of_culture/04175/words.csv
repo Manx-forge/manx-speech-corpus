@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,vaik,6.03,6.24,aligned
+0,1,oo,6.24,6.33,aligned
+0,2,cesar,6.33,6.72,aligned
+0,3,jesarn,6.72,7.29,aligned
+0,4,cha,7.50,7.59,aligned
+0,5,vaik,7.59,7.98,aligned
+0,6,vaik,15.09,15.33,aligned
+0,7,oo,15.33,15.42,aligned
+0,8,cesar,15.42,15.81,aligned
+0,9,jesarn,15.81,16.38,aligned
+0,10,cha,16.56,16.68,aligned
+0,11,vaik,16.68,17.04,aligned

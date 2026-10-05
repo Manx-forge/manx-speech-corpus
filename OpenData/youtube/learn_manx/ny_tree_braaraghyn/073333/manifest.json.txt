@@ -1,0 +1,14 @@
+{
+  "ident": "speech-073333",
+  "name": "Ny Tree Braaraghyn",
+  "source": "https://www.youtube.com/watch?v=PFVghm58cGs",
+  "platform": "youtube",
+  "resource_id": "073333",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 202.84,
+  "deep_link": "https://www.youtube.com/watch?v=PFVghm58cGs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

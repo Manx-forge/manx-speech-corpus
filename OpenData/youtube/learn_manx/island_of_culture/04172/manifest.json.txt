@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04172",
+  "name": "Jagh oo dys Doolish jea? Hie",
+  "source": "https://www.youtube.com/watch?v=p-A60O-xoKk",
+  "platform": "youtube",
+  "resource_id": "04172",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.71,
+  "deep_link": "https://www.youtube.com/watch?v=p-A60O-xoKk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

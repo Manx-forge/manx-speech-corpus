@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059252",
+  "name": "thie oast inn",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20town/thie%20oast%20-%20inn.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059252",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.28,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20town/thie%20oast%20-%20inn.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386765",
+  "name": "My ver oo er-y-fa shen ooashley dou bee ooilley lhiat hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386765",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.724,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

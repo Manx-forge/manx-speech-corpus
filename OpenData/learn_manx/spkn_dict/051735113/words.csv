@@ -1,0 +1,7 @@
+line,idx,word,start,end,status
+0,0,cha,0.00,0.21,aligned
+0,1,nel,0.21,0.63,aligned
+0,2,cha,1.14,1.23,aligned
+0,3,mie,1.23,1.47,aligned
+0,4,lhiam,1.47,1.74,aligned
+0,5,gimmagh,1.74,2.22,aligned

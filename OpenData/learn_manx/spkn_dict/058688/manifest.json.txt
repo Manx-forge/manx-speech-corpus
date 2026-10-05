@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058688",
+  "name": "pussag hampster",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Pets/pussag%20-%20hampster.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058688",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.71,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Pets/pussag%20-%20hampster.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

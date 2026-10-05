@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04224",
+  "name": "Cur yn bluckan dou, my sailt (Gura mie ayd)",
+  "source": "https://www.youtube.com/watch?v=RmdeK0F3DY4",
+  "platform": "youtube",
+  "resource_id": "04224",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.61,
+  "deep_link": "https://www.youtube.com/watch?v=RmdeK0F3DY4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

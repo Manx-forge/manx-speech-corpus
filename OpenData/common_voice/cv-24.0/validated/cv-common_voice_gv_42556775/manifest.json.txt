@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42556775",
+  "name": "As druigh ta ooragh yn faiyr.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42556775",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.78,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

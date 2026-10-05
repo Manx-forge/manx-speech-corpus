@@ -1,0 +1,186 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,reading seven,6.49,7.36,asr,62
+,mannanan beg as y laa fliugh annane,8.86,13.21,asr,83
+,agh cha ren eh girree son,20.53,22.60,asr,100
+,fliaghey jiu as fliaghey,28.90,31.12,asr,40
+,ta mee laccal beaghey ayns boayl cheh,41.05,43.12,asr,100
+,ren eh geaishtagh dy trimshagh rish yn fliaghey bwoalley er yn,44.23,47.77,asr,92
+,ren eh goll sheese dys y chamyr-aarlee ec mysh lieh oor lurg nuy as ren eh gee anjeeal ayns shen marish yn jishig echey,50.44,58.15,asr,99
+,nod oo cooney lhiam jiu vannanan ren yn,59.83,62.59,asr,91
+,as ta ushtey roie stiagh ayn,67.06,68.68,asr,86
+,va agh ta'n towl shoh,79.15,81.40,asr,84
+,yn towl shen ta'n towl shoh cha mooar as mellyn ushtey shee bannee mee ren mannanan gra nee'm gee yn,82.15,91.45,asr,97
+,dy tappee eisht,92.02,93.04,asr,60
+,oh,95.74,95.83,asr,0
+,cha nel cha nel doolish aalin as purt chiarn,106.12,109.84,asr,92
+,cha nel cha nel doolish aalin as purt chiarn,110.80,113.53,asr,84
+,bun port erin vel,118.51,129.10,asr,0
+,vel doolish ny ellanyn purt chiarn,128.95,131.11,asr,67
+,vel doolish ny share na purt chiarn cha nel,132.37,140.26,asr,80
+,cha nel cha,141.31,157.48,asr,33
+,cha nel cha nel doolish ny share lhiam ny purt chiarn,157.27,160.51,asr,80
+,cha nel cha nel doolish ny share na purt chiarn,161.50,164.29,asr,100
+,as bee as keeill vel,168.64,179.02,asr,7
+,rhumsaa cha aalin as purt ny hinshey,179.11,181.66,asr,57
+,purt ny hinshey cha nel,184.30,191.98,asr,62
+,cha nel cha,192.79,207.55,asr,44
+,cha nel ta purt ny hinshey ny s'aaley na rhumsaa,207.34,210.79,asr,92
+,cha nel ta purt ny hinshey ny share na rhumsaa,211.51,214.21,asr,92
+,yn thie,227.98,228.28,asr,0
+,un thie shoh aalin vel yn thie shoh aalin,227.92,231.31,asr,92
+,vodjey ayns y jiass ta,232.12,235.66,asr,53
+,ta ta,236.26,246.04,asr,100
+,t'eh feer aalin ta t'eh feer aalin,246.31,249.28,asr,83
+,as bee as yn,253.69,254.26,asr,0
+,yn thie shoh cha aalin as yn thie shen,268.57,271.00,asr,80
+,yn thie shoh cha nel,272.35,280.33,asr,43
+,cha nel eh,281.20,283.72,asr,100
+,this house is as cha,284.98,296.05,asr,22
+,cha nel cha nel yn thie shoh aalin as yn thie shen,295.84,299.47,asr,91
+,cha nel cha nel yn thie shoh cha ellan as yn thie shen,300.46,303.52,asr,92
+,but ayns y jiass ta,305.11,309.76,asr,73
+,ta choud's eh neesht vees howse as,310.45,314.26,asr,85
+,matthews ta,315.07,326.08,asr,0
+,ta'n thie shoh ny yn thie shen,326.74,329.08,asr,77
+,ta yn thie shoh ny shellanyn thie shen,329.89,332.44,asr,79
+,dy vel yn kayt mooar,336.61,345.58,asr,29
+,vel yn kayt mooar choud's,346.45,349.09,asr,100
+,ta ta ta,351.61,363.97,asr,78
+,ta'n kayt feer vooar ta yn kayt feer vooar,364.18,367.54,asr,80
+,the cat as big as the dog vel,371.26,384.82,asr,0
+,vel yn kayt cha mooar as yn moddey mooar as yn moddey,384.67,388.93,asr,72
+,oh cha nel,390.70,396.85,asr,0
+,cha nel eh,397.51,400.84,asr,100
+,now but its not as big as the dog,401.59,406.66,asr,66
+,cha nel ta'n kayt mooar,417.73,419.71,asr,100
+,boght cha nel eh cha mooar as yn moddey cha nel ta'n mooar,420.16,425.23,asr,79
+,mooar as yn moddey is the cat bigger than the,426.13,432.76,asr,57
+,ny smoo na neesht ny smoo na,443.38,447.07,asr,68
+,ta ta choud's eh,451.39,454.39,asr,0
+,tar,462.31,462.70,asr,0
+,ny smoo ny neesht ta ta ny smoo na,463.48,467.23,asr,78
+,the cats bigger da ny fish but it's not as big as,470.53,473.29,asr,33
+,ta ta'n kayt ny smoo na eeast,486.13,488.35,asr,93
+,mooar as yn moddey ta'n kied ny smoo ny neesht,489.22,493.30,asr,58
+,boggey mooar as y moddey kiart,494.05,499.90,asr,57
+,but kiart vel,500.65,512.86,asr,0
+,yn kayt shoh ny smoo na shen,512.92,515.80,asr,69
+,vel yn kied shoh ny smoo na shen cha,517.66,520.81,asr,44
+,cha nel fys aym cha,527.62,530.41,asr,73
+,as kiart as bigger kiart,533.47,536.80,asr,51
+,cha nel fys aym er lhiam dy vel yn kayt shen ny smoo na shoh,548.44,553.03,asr,92
+,cha nel fys aym er lhiam dy vel yn kayt shen ny smoo na shoh,554.05,557.77,asr,90
+,chouds is douglas as big as keeill,559.54,562.66,asr,59
+,vel doolish cha mooar as va doolish cha mooar as gaelg,570.64,574.75,asr,75
+,cha nel cha nel eh,579.13,582.07,asr,100
+,yn dooghys cha nel,584.20,593.32,asr,13
+,bio ny smoo na doolish cha nel,594.16,596.41,asr,85
+,kiaull ny smoo na doolish douglas as bleeantyn as t'ou bio,597.04,604.03,asr,58
+,vel doolish aalin as va doolish aalin as,612.73,616.57,asr,80
+,choud and now,618.52,630.07,asr,48
+,cha nel,645.37,645.67,asr,0
+,cha nel fys aym agh t'eh licklee dy vel,645.28,648.28,asr,100
+,bio ny shellanyn doolish cha nel fys aym agh t'eh licklee dy vel ooilley ny shellanyn doolish,648.64,654.34,asr,80
+,quoid shuyr ayd,664.75,665.95,asr,7
+,quoid shuyr ayd ta nane aym,666.82,675.73,asr,64
+,ben aym choud's eh mon she lives in the house,676.93,681.76,asr,34
+,t'ou beaghey ayns y thie shen ta'n ennym,691.90,694.54,asr,100
+,t'eh beaghey ayns y thie shen as bee oo,694.87,701.47,asr,62
+,as dog vel,702.07,714.67,asr,0
+,clinchoor ayd cha aalin as yn moddey ayd,714.67,717.01,asr,66
+,vel yn cha aalin as yn moddey ayd,718.00,720.04,asr,75
+,cha nel cha nel cha say now my sister is very wonderful,724.69,730.51,asr,48
+,cha nel ta'n shuyr aym feer aalin,738.25,740.56,asr,81
+,cha nel tinshoor aym feer aalin mie dys,741.52,746.44,asr,62
+,moddey as my dog cha,747.97,761.50,asr,0
+,cha nel tinshoor aym feer aalin agh cha nel eh cha ellan as yn moddey aym,761.29,765.91,asr,99
+,cha nel tinshoor aym feer aalin agh cha nel eh aalin as yn moddey aym,767.08,771.01,asr,85
+,house smelley in this house,775.21,777.76,asr,5
+,vel yn thie shen ny sloo na yn thie shoh,786.37,789.61,asr,92
+,yn thie shen ny sloo na yn thie shoh cha nel,791.29,798.67,asr,67
+,cha nel eh now,799.69,802.72,asr,100
+,bath-house as biggin this house cha,803.86,815.08,asr,0
+,cha nel erlhiam dy vel yn thie shen ny smoo na yn thie shoh,814.87,818.95,asr,88
+,cha nel erlhiam dy vel yn thie shen ny smoo na yn thie shoh,819.91,823.24,asr,91
+,houses dys ee have thie,826.90,835.42,asr,15
+,just say as haink ee scoill too,839.62,842.41,asr,25
+,er lhiam dy vel jees echey erlhiam dy vel jees echey,848.14,852.13,asr,75
+,he has castletown and he has,857.20,859.87,asr,35
+,in jurby er,860.17,874.54,asr,0
+,er lhiam dy vel jees echey ta nane echey ayns balley chashtal as ta nane echey ayns jurby,874.39,880.90,asr,82
+,erlhiam dy vel jees echey ayns balley chashtal as ta echey ayns jurby,881.92,886.54,asr,81
+,jurby smoalley va ny,891.25,893.59,asr,68
+,vel yn thie ayns jurby ny sloo na yn thie ayns balley chashtal,908.35,912.19,asr,95
+,un thie as jurby ny sloo na yn thie ayns balley chashtal,913.90,916.36,asr,74
+,yiass ta,918.49,921.82,asr,40
+,ta choud's eh va,922.84,926.77,asr,67
+,is as big as va howseyn ta,928.18,943.69,asr,0
+,cha nel yn thie ayns jurby cha mooar as yn thie ayns balley chashtal,944.17,948.46,asr,100
+,ta cha nel yn thie ayns jurby cha mooar as yn thie ayns balley chashtal,949.75,953.53,asr,100
+,as big as berlin va doolish cha mooar as berlin,957.34,967.36,asr,66
+,doolish cha mooar as berlin now,968.71,972.73,asr,67
+,cha nel cha nel eh now,976.03,980.02,asr,100
+,cha nel ta doolish ny sloo na,988.93,990.88,asr,34
+,cha nel ta doolish ny sloo na ass,992.14,997.09,asr,80
+,cloie gitar cloie gitar,997.87,1005.91,asr,70
+,nod oo cloie gitar now,1006.87,1011.76,asr,85
+,cha nod cha nod eh,1014.52,1018.66,asr,100
+,now but cha nod agh ta mee laccal,1019.35,1029.55,asr,59
+,gynsagh cha nod agh ta mee laccal gynsagh,1029.49,1033.18,asr,90
+,as,1037.77,1037.98,asr,0
+,guitar shoh cha aalin as yn,1050.73,1052.92,asr,45
+,billy ayd guitar shoh cha aalin as yn,1053.28,1056.85,asr,70
+,bleeaney ayd cha nel,1057.21,1062.79,asr,45
+,cha nel eh now mie,1063.72,1067.08,asr,62
+,cha nel,1081.42,1081.72,asr,0
+,cha nel ta'n yokey illiam ny seihllyn yn guitar shen,1081.33,1085.71,asr,83
+,cha nel ny ellanyn guitar shen,1086.91,1090.36,asr,75
+,kanys swim nod oo snaue,1093.00,1099.81,asr,78
+,nod oo snaue ec yn swim,1100.53,1104.37,asr,52
+,foddym snaue foddym snaue,1108.81,1110.91,asr,100
+,foddym snaue agh share lhiam gimman foddym snaue agh share lhiam gimman,1125.22,1130.23,asr,100
+,hie yn swim bro prefer driving,1133.02,1135.57,asr,55
+,tom foddym,1137.82,1156.45,asr,0
+,foddym snaue agh share lhiam gimman son ta pian,1156.27,1159.84,asr,82
+,nish foddym snaue agh share lhiam gimman son ta,1160.47,1164.76,asr,78
+,ben nish as big as this my,1165.42,1172.02,asr,40
+,vel yn bee aym cha mooar as yn myr shoh,1185.40,1189.06,asr,61
+,vel yn bee aym dy bee oo er t'ou mooar as yn myr shoh,1190.35,1192.99,asr,34
+,choud's ta,1194.19,1197.64,asr,0
+,ta mie,1198.72,1203.22,asr,75
+,ooilley as bigger ta,1203.91,1219.09,asr,22
+,ny smoo na shen ta,1221.13,1224.34,asr,75
+,well ny smoo na shen bee tomorrow afternoon,1225.36,1232.26,asr,70
+,craad vees oo fastyr mairagh,1239.64,1242.04,asr,100
+,c'raad vees oo fastyr mairagh bee,1243.30,1248.64,asr,100
+,craad,1264.27,1264.78,asr,0
+,ec kerroo dys kiare fastyr mairagh,1265.26,1267.81,asr,90
+,c'raad vees oo ec kerroo dys kiare fastyr mairagh,1268.98,1271.71,asr,59
+,choud's eh yinnagh house beeym,1273.27,1283.89,asr,0
+,beeym ayns y thie eck beeym ayns y thie eck,1283.71,1286.32,asr,81
+,houses in the house,1287.79,1290.49,asr,60
+,bigger,1291.63,1291.99,asr,0
+,beeym ayns y thie eck son te ny smoo nyn gys ee,1304.20,1307.14,asr,85
+,beeym ayns y thie eck son te ny smoo na,1308.94,1311.07,asr,84
+,port st mary on friday goll dys,1316.53,1326.82,asr,33
+,dys purt le moirrey jeheiney jannoo goll dys purt le moirrey jeheiney,1326.67,1330.96,asr,94
+,cha jean cha jean,1338.91,1340.95,asr,100
+,now go to ramsey,1343.17,1344.97,asr,41
+,cha jean neeym goll dys rhumsaa,1352.41,1354.66,asr,100
+,cha jean neeym goll dys rhumsaa,1355.38,1357.54,asr,100
+,cha,1373.56,1373.74,asr,0
+,cha jean neeym goll dys rhumsaa son t'eh ny sailley,1373.53,1377.52,asr,100
+,cha jean neeym goll dys rhumsaa son t'eh ny,1378.45,1380.94,asr,86
+,now go to ramsey,1383.76,1386.04,asr,100
+,but it's not as cha,1387.87,1402.57,asr,0
+,cha jean neeym goll dys rhumsaa son te ny sailley as cha nel eh fliugh,1402.36,1408.09,asr,91
+,cha jean neeym goll dys rhumsaa son t'eh ny elley as cha noddym fliugh,1409.47,1413.55,asr,96
+,will you shop in manx is,1416.76,1418.77,asr,65
+,jannoo shappal ayns jerdein,1430.86,1433.44,asr,90
+,jannoo shappal ayns ms jardain ayns,1434.43,1437.94,asr,67
+,nuy nuy choud's eh,1441.12,1444.51,asr,0
+,possan red-thieyn now nee son ta mee my haaue,1445.65,1456.00,asr,51
+,nish nee son ta mee my haaue nish,1456.03,1459.33,asr,88
+,beelzebub now so we shop in aym as every day,1462.30,1466.59,asr,57
+,nuy son ta mee my haaue nish myr shen ta mee shappal ayns ms dagh laa,1479.04,1484.77,asr,100
+,oie son ta mee my haaue nish ta mee shappal ayns ayms as dagh laa,1486.06,1489.81,asr,64

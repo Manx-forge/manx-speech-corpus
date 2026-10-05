@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42481934",
+  "name": "Cha daink lesh y gheay, nagh ragh lesh yn ushtey",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42481934",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.58,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059236",
+  "name": "shapp gaih toy shop",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20town/shapp%20gaih%20-%20toy%20shop.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059236",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.72,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20town/shapp%20gaih%20-%20toy%20shop.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,16 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon kiare-jeig as feed leslie,0.40,4.57,asr,88
+,aym cha nel,8.83,11.50,asr,0
+,argid,15.01,15.52,asr,73
+,tombaagey jaaghag foaddan,20.77,25.87,asr,6
+,cha nel argid aym cha nel bun aym,28.33,32.20,asr,100
+,cha nel caa aym cha nel thombagey aym,34.06,38.08,asr,95
+,cha nel jaaghag aym cha nel foaddan aym,39.94,43.90,asr,100
+,cha nel jaaghag aym nish cha nel braagyn noa aym foast,50.05,55.57,asr,100
+,un phunt jeig aym sy chishtey,57.79,59.83,asr,55
+,ta fys aym cha nel fys aym,61.78,65.17,asr,96
+,cha nel mee fakin shooyl,73.33,76.81,asr,100
+,tammylt er dy henney cha nel mee fakin,81.52,87.88,asr,0
+,c'raad t'eh cha s'aym hie eh magh tammylt er dy henney,89.41,94.12,asr,46
+,cha nee eh shooyl cha nel jaaghagyn,97.06,100.72,asr,78
+,ta paart aym shoh nane dhyt gura mie ayd,102.31,105.85,asr,92

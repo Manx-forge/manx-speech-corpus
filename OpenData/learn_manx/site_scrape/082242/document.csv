@@ -1,0 +1,27 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon shiaght as daeed,0.28,3.70,asr,100
+,yn niarragh yn sourey,5.14,7.78,asr,0
+,yn fouyr yn geurey yn corkey,9.16,14.05,asr,44
+,ny praaseyn yn churnaght,15.31,18.40,asr,62
+,cuirrit buinnt,22.60,25.03,asr,93
+,jeant ceaut,26.35,28.42,asr,100
+,immeeit brisht,29.80,31.93,asr,100
+,ta'n yiarragh oo nish ta ny praaseyn cuirrit,33.46,36.85,asr,86
+,ta'n fouyr ayn nish ta ny praaseyn buinnt,38.20,41.26,asr,100
+,ta'n yiarey goll nish ta'n curnaght quite,42.55,46.15,asr,81
+,ta'n fouyr ayn nish ta'n churnaght buinnt,47.68,50.68,asr,100
+,goll nish ta'n corkey cuirrit,52.54,55.27,asr,79
+,ta'n fouyr ayn nish ta'n corkey buinnt,56.47,59.80,asr,100
+,ta'n sourey ersooyl nish cha nel yn geurey ceaut foast,62.80,67.81,asr,100
+,vel yn gleashtan brisht nagh vel oo ersooyl thie,69.22,73.54,asr,100
+,cha nel yn berreen jeant foast ta ooilley yn obbyr jeant aym,75.07,79.72,asr,93
+,gollrish emshyr houree yn obbyr,82.51,87.13,asr,97
+,ro liugh t'eh jeant,88.48,91.12,asr,100
+,cha nel ad buinnt jig peiagh erbee,92.74,94.90,asr,88
+,ram yn thalloo,97.15,99.64,asr,100
+,braew chirrym hello,101.02,106.63,asr,100
+,ta'n emshyr mie jiu t'eh aalin,108.01,110.95,asr,100
+,t'eh gollrish emshyr houree s'cosoylagh dy vel ooilley yn obbyr jeant ayd,111.49,116.44,asr,100
+,ta ram jeant aym agh cha nel ooilley ny praaseyn buinnt aym foast,118.03,122.47,asr,97
+,cha nel ad buinnt ec peiagh erbee foast,123.34,125.35,asr,100
+,va'n thalloo ro yoogh v'eh agh t'eh braew chirrym nish,125.98,130.78,asr,96

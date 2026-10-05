@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09313",
+  "name": "Abbyr Shen Reesht - Say That Again 24oo Mee Luanistyn - 2025 - August 24th",
+  "createdCircaStart": "2025-08-24",
+  "createdCircaEnd": "2025-08-24",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-24oo-mee-luanistyn-2025-august-24th/",
+  "platform": "manx_radio",
+  "resource_id": "09313",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 769.0,
+  "deep_link": "https://episodes.captivate.fm/episode/6e57efd1-8e65-4c63-a41f-22cfaa222305.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

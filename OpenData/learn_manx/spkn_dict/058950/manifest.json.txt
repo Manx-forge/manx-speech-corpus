@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058950",
+  "name": "doarney boxing",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/doarney%20-%20boxing.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058950",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/doarney%20-%20boxing.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

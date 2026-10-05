@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42663025",
+  "name": "Cre'n fa t'eh ymmyrçhagh shin y ve booisal gys goaill shibbyr y çhiarn?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42663025",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

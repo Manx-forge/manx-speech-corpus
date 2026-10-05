@@ -1,0 +1,56 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,tree feed as queig jeig lurg shoh hie oalys dy chur shilley er cooyrt hakon ree loghlyn,0.97,7.60,asr,100
+,agh roish my da'n as hakon fer ooasle ennagh jeh'n sluight reeoil enmyssit ayns my chassyn,8.29,15.28,asr,83
+,dy ve y ree ny hellanyn huggey yn ennym,15.94,19.33,asr,95
+,er y fa shoh hie yn pherkin shoh marish olaf as gorree dhone mac rennell,19.96,26.14,asr,96
+,lesh sheshaght vooar dy loghlynee gys ny hellanyn,26.86,29.44,asr,98
+,tra raink ad gys ellan voaid va'n geearree v'ad geearree goaill greim er y chashtal er egin,30.49,36.43,asr,88
+,agh ooilley clagh yn hakon shoh as hooar eh baase v'eh oanluckit ayns ellan oie,37.18,43.36,asr,86
+,tree feed as shey-jeig haink oayllys marish gorree dhone as ny loghlynee gys mannin,44.71,51.13,asr,94
+,raad rheynn ad reeriaght vannin as ny hellanyn eddyr oc,51.91,55.12,asr,100
+,dys mannin as hie gorree roish gys ny hellanyn,56.47,59.56,asr,89
+,as hie eh marroo ayns lioas,60.16,62.38,asr,100
+,lurg e vaase ghow olaf yn slane reeriaght choud as ve bio,63.31,68.05,asr,100
+,tree feed as shiaght-jeig er y chied laa as feed jeh mee ny boaldyn,69.88,74.77,asr,100
+,ren olaf mac ghorree ree vannin as ny hellanyn geddyn baase er inish pherick,75.40,80.68,asr,100
+,v'eh oanluckit ayns manishter voirrey ec rushen,81.64,84.34,asr,100
+,freayll eh un vlein jeig ayns mannin,85.33,87.52,asr,84
+,ghaa vlein as ren oo bio as nuy bleeaney lurg e vaase,88.42,92.65,asr,79
+,haink harald mac olaf dy ve kiare bleeaney jeig dy eash tra ghow eh toshiaght dy reill,93.61,100.21,asr,88
+,as va reill rish daa vlein yeig,101.23,103.66,asr,91
+,sy chied sourey jeh'n reiltys echey ayns mannin hiauley marish ooilley ny fir-toshee echey,104.68,110.23,asr,91
+,gys ny hellanyn faagail loghlan dooinney mooinjerey da,110.86,114.97,asr,91
+,myr kiannoort derrey harragh eh erash veih ny ellanyn,115.78,119.62,asr,96
+,tra raink eh ny hellanyn hooar eh oltaghey boggoil as arrymagh voish ny ellannee,121.06,126.40,asr,86
+,tree feed as hoght-jeig syn ouyr ec ain cho cannell ny three mec neale er ennym dugal toiggal as moal mooar marish carrey va enmyssit joseph,127.81,137.92,asr,94
+,gys ellan vannin as ghow ad cheer ec inish pherick,138.22,141.82,asr,100
+,laa erreish daue cheet er y wheiggoo laa as feed jerrey fouyir,142.90,147.04,asr,90
+,va co-hionnal jeh ooilley cummaltee vannin er ny chummal ec tinvaal,147.67,151.12,asr,100
+,va'n troor dy vec neale ec y chaglym shoh marish ooilley nyn villa cooinee,152.35,157.39,asr,89
+,ren ad cur lhieu voish ny hellanyn,158.17,160.24,asr,100
+,haink loghlan fer-coadee vannin gys ynnyd y chruinnaght shen neesht,161.29,166.00,asr,100
+,marish ooilley ny caarjyn echey as adsyn ooilley oddagh eh hymsaghey dy chooney lesh,166.57,171.01,asr,99
+,er y fa dy row eh goaill aggle roish mec neale er son nyn noidys eddyr oc,171.52,176.56,asr,100
+,lurg mraane lhuingey veih'n gagh cheu tra nagh dod,177.46,181.78,asr,89
+,ad y hayrn gys shee er aght erbee roie hyndaa er toshee magh ass y chaglym as ren ad caggey noi ry hoi,182.83,190.75,asr,92
+,hood deiney loghlyn y varriaght gys varr eh jees jeh mec neale,191.80,195.67,asr,88
+,dugal as moal mooar as joses cadley hassoo,196.36,200.02,asr,59
+,ren ny fir elley chea lurg y taghyrt shoh skeayl cho hionnal as hie dy chooilley ghooinney dy valley gys e hie hene,200.68,208.78,asr,95
+,tree feed as hoght-jeig eh,211.00,213.07,asr,100
+,syn arragh again haink harald er ash gys mannin veih ny hellanyn,213.58,217.72,asr,100
+,ghow eh cheer ec runnysvie as er y laa haink eh ren loghlan as ooilley ny fir-choonee echey chea voish harald shiaulley gys y thalloo vretnagh,218.32,226.66,asr,89
+,hug eh lesh e gholtey gorree mac olaf guilley as ambee mie echey,227.41,231.58,asr,91
+,v'ad shiaulley feiy'n laa shen as v'ad ny hoie bunnys derrey v'ad cheet er gerrey da'n clyst varrey bretnagh,232.24,238.57,asr,97
+,tra v'ad erchee goll stiagh sy phurt reiht oc chelleeragh ghow yn gheay toshiaght dy heidey ny noi,239.65,245.47,asr,95
+,va sterrym agglagh ayn as v'ad er nyn imman ersooyl veih'n phurt as hur ad coayl lhuingey er ynnyd creggagh,246.07,254.17,asr,94
+,va loghlan nane jeh ny kied deiney dy chlamey yn thalloo,255.43,258.88,asr,88
+,agh tra pheeley gorree geamagh er y chooyl lheim my ren eh sy lhong er y fa dy row eh arryltagh dy cur seose e vioys son y ghuilley,259.54,267.85,asr,86
+,gour yn guilley ayns e roihaghyn as flower dy debejagh dy roshtyn yn thalloo,268.69,274.51,asr,79
+,agh huitt yn jees oc sheese sy lhuingey as va'n,275.11,277.90,asr,39
+,va'n lhong lhieent lesh ushtey gys y laa lhuingys,279.46,282.01,asr,92
+,as heillagh fer dy row yn keayn sy lhong as unnane lhong sy cheayn,282.91,287.38,asr,78
+,va mysh daeed dooinney baiht maroo scoan chossyn lheid yn earroo dy lieh,288.07,293.62,asr,96
+,tree feed as nuy jeig va gospherick as guilleychreest mac my,296.74,301.63,asr,100
+,currit liorish ree loghlyn gys mannin,302.29,305.32,asr,100
+,cheau ad magh harald ree vannin er y fa dy dob eh goll gys yn chooyrt loghlinagh,305.98,310.93,asr,76
+,ghow ad kiannoortys ny cheerey ooilley as haggil ad ny keeshyn reeoil gys ymmyd ree loghlyn,311.65,318.37,asr,98

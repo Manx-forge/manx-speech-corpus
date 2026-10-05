@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051507113",
+  "name": "Ta Guy Martin ny smoo tappee er y clieau",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051507113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.18,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

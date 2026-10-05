@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,she,0.21,0.69,aligned
+0,1,she,0.75,0.99,aligned
+0,2,ratcheyder,0.99,1.53,aligned
+0,3,eshyn,1.53,1.89,aligned

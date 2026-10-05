@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,mee,0.12,0.42,aligned
+0,1,ny,0.42,0.51,aligned
+0,2,nollick,0.51,0.99,aligned

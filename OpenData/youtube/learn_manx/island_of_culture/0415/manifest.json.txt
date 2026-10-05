@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0415",
+  "name": "Ta mee er y twoaie jiu",
+  "source": "https://www.youtube.com/watch?v=F-lL_ukza-U",
+  "platform": "youtube",
+  "resource_id": "0415",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.66,
+  "deep_link": "https://www.youtube.com/watch?v=F-lL_ukza-U&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

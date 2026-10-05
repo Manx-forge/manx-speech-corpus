@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09091",
+  "name": "Abbyr Shen Reesht - Say That Again 28th February 2021",
+  "createdCircaStart": "2021-02-28",
+  "createdCircaEnd": "2021-02-28",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-28th-february-20211/",
+  "platform": "manx_radio",
+  "resource_id": "09091",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1292.54,
+  "deep_link": "https://podcasts.captivate.fm/media/50e161f5-6616-419e-a70f-d4dd9a79ca28/3408.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

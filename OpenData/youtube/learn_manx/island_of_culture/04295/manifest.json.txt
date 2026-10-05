@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04295",
+  "name": "295 T'eh grianagh ec y traa ayns Balley Chashtal",
+  "source": "https://www.youtube.com/watch?v=ebdguEqqvyE",
+  "platform": "youtube",
+  "resource_id": "04295",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.89,
+  "deep_link": "https://www.youtube.com/watch?v=ebdguEqqvyE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

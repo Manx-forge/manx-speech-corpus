@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04289",
+  "name": "Yindyssagh, ren yn nah vuggane scredey",
+  "source": "https://www.youtube.com/watch?v=e2ZSQ_dNH8k",
+  "platform": "youtube",
+  "resource_id": "04289",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 47.35,
+  "deep_link": "https://www.youtube.com/watch?v=e2ZSQ_dNH8k&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

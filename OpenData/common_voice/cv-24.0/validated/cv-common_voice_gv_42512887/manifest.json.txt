@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42512887",
+  "name": "Shegin da'n chied kiarail eu ve jeh nyn ghree hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42512887",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.796,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

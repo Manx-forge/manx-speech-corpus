@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04272",
+  "name": "T'ou uss bolvaneagh, she'n laa ta cheet stiagh",
+  "source": "https://www.youtube.com/watch?v=KmPC4iwSTjc",
+  "platform": "youtube",
+  "resource_id": "04272",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 48.37,
+  "deep_link": "https://www.youtube.com/watch?v=KmPC4iwSTjc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

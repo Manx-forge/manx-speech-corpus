@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04351",
+  "name": "S'mie lhiam Puddin y Nollick",
+  "source": "https://www.youtube.com/watch?v=6Y8ojTERtdI",
+  "platform": "youtube",
+  "resource_id": "04351",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.59,
+  "deep_link": "https://www.youtube.com/watch?v=6Y8ojTERtdI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

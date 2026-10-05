@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42669441",
+  "name": "Ren shickerys Yoseph son yn cairys troggal eh gys Stoyll reeoil Egypt.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42669441",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.336,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

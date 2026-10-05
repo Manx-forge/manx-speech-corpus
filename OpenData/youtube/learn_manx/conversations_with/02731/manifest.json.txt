@@ -1,0 +1,14 @@
+{
+  "ident": "speech-02731",
+  "name": "How to use honnick in Manx Gaelic",
+  "source": "https://www.youtube.com/watch?v=O2IlqCG2ZvY",
+  "platform": "youtube",
+  "resource_id": "02731",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 153.83,
+  "deep_link": "https://www.youtube.com/watch?v=O2IlqCG2ZvY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

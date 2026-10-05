@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42665134",
+  "name": "Lhig da chammah fir-choonee as preaçhooryn ve dy consheansagh kiart ayns slane currym ny Saasilee.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42665134",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.036,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

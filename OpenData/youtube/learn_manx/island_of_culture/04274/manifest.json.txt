@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04274",
+  "name": "Ren eh troggal clagh smoo as ren eh ceau shen erash",
+  "source": "https://www.youtube.com/watch?v=d57BNR9_qaE",
+  "platform": "youtube",
+  "resource_id": "04274",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 49.74,
+  "deep_link": "https://www.youtube.com/watch?v=d57BNR9_qaE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

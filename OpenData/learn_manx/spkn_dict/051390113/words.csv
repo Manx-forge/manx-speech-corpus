@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,share,0.00,0.39,aligned
+0,1,lhiam,0.39,0.72,aligned
+0,2,caffee,0.72,1.11,aligned
+0,3,doo,1.11,1.47,aligned

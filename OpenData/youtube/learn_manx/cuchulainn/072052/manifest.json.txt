@@ -1,0 +1,14 @@
+{
+  "ident": "speech-072052",
+  "name": "Cuchulainn 3 - Graih as Caggey",
+  "source": "https://www.youtube.com/watch?v=cQpA-Qz-nR4",
+  "platform": "youtube",
+  "resource_id": "072052",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 306.39,
+  "deep_link": "https://www.youtube.com/watch?v=cQpA-Qz-nR4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

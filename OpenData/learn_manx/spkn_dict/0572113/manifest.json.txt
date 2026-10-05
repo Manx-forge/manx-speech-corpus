@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0572113",
+  "name": "Purt ny h-inshey Peel",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "0572113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

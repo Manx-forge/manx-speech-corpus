@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457719",
+  "name": "\"Clague yn fer lhee, \"\"yn dooinney shen ta pooar echey dy varroo.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457719",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.2,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

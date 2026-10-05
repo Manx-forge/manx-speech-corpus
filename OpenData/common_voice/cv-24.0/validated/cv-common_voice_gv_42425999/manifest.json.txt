@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42425999",
+  "name": "Tra ta dooinney-caggee eillit freayll arrey er e hie, ta e chooid sauchey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42425999",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.236,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

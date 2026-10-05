@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,nee,0.12,0.45,aligned
+0,1,douglas,0.45,0.81,aligned
+0,2,butty,0.81,1.26,aligned
+0,3,orry,1.32,1.65,aligned

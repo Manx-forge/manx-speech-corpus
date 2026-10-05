@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05865225",
+  "name": "eeasteyr fisherman",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Fisherman.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05865225",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 7.05,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Fisherman.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

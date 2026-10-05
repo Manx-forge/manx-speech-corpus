@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,"""Clague",1.29,1.65,aligned
+0,1,yn,1.68,1.80,aligned
+0,2,fer,1.80,2.16,aligned
+0,3,"lhee,",2.16,2.52,aligned
+0,4,"""""yn",2.91,3.06,aligned
+0,5,dooinney,3.06,3.39,aligned
+0,6,shen,3.39,3.78,aligned
+0,7,ta,3.78,3.96,aligned
+0,8,pooar,3.96,4.29,aligned
+0,9,echey,4.29,4.53,aligned
+0,10,dy,4.53,4.65,aligned
+0,11,"varroo.""",4.65,5.07,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448061",
+  "name": "\"Agh, cha vel mee lowit! dooyrt ish, \"\"Son t'ad pryssoonee yn Count.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448061",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.424,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

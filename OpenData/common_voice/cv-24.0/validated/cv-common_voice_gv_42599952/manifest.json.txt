@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599952",
+  "name": "As dooyrt eh roo, Clasht-jee, ta mee guee erriu, yn dreamal shoh va aym.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599952",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.696,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

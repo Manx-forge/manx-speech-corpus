@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42512888",
+  "name": "Eisht nee oo yn voteil y vrishey ayns shilley ny deiney hed mayrt.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42512888",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.156,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

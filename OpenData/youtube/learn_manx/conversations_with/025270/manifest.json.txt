@@ -1,0 +1,14 @@
+{
+  "ident": "speech-025270",
+  "name": "Manx Gaelic Revival",
+  "source": "https://www.youtube.com/watch?v=Q1urD2CH37U",
+  "platform": "youtube",
+  "resource_id": "025270",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 298.79,
+  "deep_link": "https://www.youtube.com/watch?v=Q1urD2CH37U&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

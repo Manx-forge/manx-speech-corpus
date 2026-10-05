@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04318",
+  "name": "C'red t'ou geearree jannoo jiu?",
+  "source": "https://www.youtube.com/watch?v=X50JpjMqwlY",
+  "platform": "youtube",
+  "resource_id": "04318",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 31.25,
+  "deep_link": "https://www.youtube.com/watch?v=X50JpjMqwlY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086227",
+  "name": "Cappan y theihll ayns #Gaelg - World cup in #Manx (part 02)?",
+  "source": "https://www.youtube.com/watch?v=Uij9DpcxVsM",
+  "platform": "youtube",
+  "resource_id": "086227",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 24.1,
+  "deep_link": "https://www.youtube.com/watch?v=Uij9DpcxVsM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

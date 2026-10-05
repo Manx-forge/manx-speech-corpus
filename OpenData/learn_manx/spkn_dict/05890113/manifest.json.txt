@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05890113",
+  "name": "Cha nel mee feer vie",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05890113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.02,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

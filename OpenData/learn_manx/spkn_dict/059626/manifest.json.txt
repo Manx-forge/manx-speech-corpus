@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059626",
+  "name": "ynsaghey teaching and learning",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/ynsaghey%20-%20teaching%20and%20learning.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059626",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.02,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20verbs/ynsaghey%20-%20teaching%20and%20learning.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

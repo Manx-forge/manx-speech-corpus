@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,shegin,0.15,0.72,aligned
+0,1,da,0.72,1.05,aligned
+0,2,cloie,1.05,1.62,aligned

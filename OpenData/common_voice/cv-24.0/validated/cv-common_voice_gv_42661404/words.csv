@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,Myr,0.63,0.93,aligned
+0,1,rosh,0.93,1.20,aligned
+0,2,shin,1.20,1.47,aligned
+0,3,dys,1.47,1.71,aligned
+0,4,y,1.71,1.77,aligned
+0,5,"Vungaloo,",1.77,2.34,aligned
+0,6,va,2.88,2.97,aligned
+0,7,shin,2.97,3.21,aligned
+0,8,braew,3.21,3.57,aligned
+0,9,"skee,",3.57,4.08,aligned
+0,10,son,4.32,4.53,aligned
+0,11,v'eh,4.53,4.68,aligned
+0,12,çheh,4.68,4.98,aligned
+0,13,agglagh.,4.98,5.52,aligned

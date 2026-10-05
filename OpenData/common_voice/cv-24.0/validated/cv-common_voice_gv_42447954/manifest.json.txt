@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447954",
+  "name": "Trog-jee erriu, lhig dooin goll: cur-my-ner, ta eshyn er-gerrey dooin ta dy my vrah.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447954",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 11.232,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

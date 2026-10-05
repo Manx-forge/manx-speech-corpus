@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059641",
+  "name": "bodjallagh cloudy",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/bodjallagh%20-%20cloudy.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059641",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.06,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20weather/bodjallagh%20-%20cloudy.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

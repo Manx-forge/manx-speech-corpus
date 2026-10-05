@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083017",
+  "name": "chronicle 66-74a",
+  "source": "https://www.learnmanx.com/media/chronicles/chronicle%2066-74a.mp3",
+  "platform": "learn_manx",
+  "resource_id": "083017",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 558.71,
+  "deep_link": "https://www.learnmanx.com/media/chronicles/chronicle%2066-74a.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

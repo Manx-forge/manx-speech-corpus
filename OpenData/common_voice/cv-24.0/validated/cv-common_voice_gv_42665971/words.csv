@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,Dooisht,1.44,1.71,aligned
+0,1,shiu!,1.71,2.01,aligned
+0,2,O,2.40,2.67,aligned
+0,3,ghooisht,2.67,3.06,aligned
+0,4,shiu,3.06,3.36,aligned
+0,5,ny,3.36,3.57,aligned
+0,6,caddil-jee,3.57,4.29,aligned
+0,7,!,,,unaligned

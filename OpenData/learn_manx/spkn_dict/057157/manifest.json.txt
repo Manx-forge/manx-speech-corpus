@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057157",
+  "name": "kishtey argid money box",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/kishtey%20argid%20-%20money%20box.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057157",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.57,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/kishtey%20argid%20-%20money%20box.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

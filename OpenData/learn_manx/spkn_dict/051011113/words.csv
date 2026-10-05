@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,cha,0.00,0.33,aligned
+0,1,nod,0.33,0.57,aligned
+0,2,ee,0.57,0.87,aligned

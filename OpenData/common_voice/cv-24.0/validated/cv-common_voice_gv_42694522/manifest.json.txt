@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42694522",
+  "name": "My ta beaghey as coamrey ain, lhig dooin ve booiagh lhieu.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42694522",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.868,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

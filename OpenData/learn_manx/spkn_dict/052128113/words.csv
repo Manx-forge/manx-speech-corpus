@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,mannin,0.00,0.39,aligned
+0,1,veg,0.39,0.60,aligned
+0,2,veen,0.60,1.05,aligned

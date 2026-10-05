@@ -1,0 +1,14 @@
+{
+  "ident": "speech-089242",
+  "name": "mooinjer_veggey",
+  "source": "https://www.learnmanx.com/media/Files/mooinjer%20veggey.mp3",
+  "platform": "learn_manx",
+  "resource_id": "089242",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 89.89,
+  "deep_link": "https://www.learnmanx.com/media/Files/mooinjer%20veggey.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

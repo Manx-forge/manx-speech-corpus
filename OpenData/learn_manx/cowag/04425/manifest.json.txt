@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04425",
+  "name": "Additional material 07",
+  "source": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20trackadditional%20material07.mp3",
+  "platform": "learn_manx",
+  "resource_id": "04425",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 176.48,
+  "deep_link": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20trackadditional%20material07.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

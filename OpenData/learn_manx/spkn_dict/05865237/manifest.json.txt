@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05865237",
+  "name": "fer y phost postal worker",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Postal%20Worker.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05865237",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 6.32,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Postal%20Worker.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0472",
+  "name": "S'mie lhiam thie Harry Kelly agh ta mee maynrey nagh vel mee cummal ayns shen",
+  "source": "https://www.youtube.com/watch?v=WPPgrXRJXi4",
+  "platform": "youtube",
+  "resource_id": "0472",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.86,
+  "deep_link": "https://www.youtube.com/watch?v=WPPgrXRJXi4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

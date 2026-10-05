@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42279",
+  "name": "Dy voddagh oo croo fockle noa, cre veagh eh as cre'n bun veagh er?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42279",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 29.484,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

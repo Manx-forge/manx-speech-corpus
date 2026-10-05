@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867164",
+  "name": "tar dys shoh come here",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Come%20Here.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867164",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.66,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Come%20Here.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

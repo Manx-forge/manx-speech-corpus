@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644719",
+  "name": "Ta ennym Yeesey ro-gheyr dasyn gyn dy obbal aghin yn pheccagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644719",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.912,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

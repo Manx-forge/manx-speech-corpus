@@ -1,0 +1,182 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision,0.79,3.04,asr,59
+,tree lessoon tree-jeig lesson,4.42,7.21,asr,97
+,ren mee fakin,18.73,20.20,asr,0
+,ren mee fakin booa choud's,21.40,23.98,asr,88
+,ren mee fakin veg,33.85,36.13,asr,77
+,ren mee fakin veg ren,36.67,51.22,asr,76
+,ren mee fakin yn ren mee fakin yn voir,51.01,55.36,asr,63
+,ren mee fakin veg,68.05,70.51,asr,68
+,ren mee fakin veg da,71.41,77.20,asr,30
+,ren mee fakin veg ayns shen,87.40,90.43,asr,77
+,ren mee fakin veg ayns shen hie,91.87,97.21,asr,78
+,goll it was close to the,97.84,100.63,asr,46
+,ren mee fakin veg ayns shen,112.99,116.14,asr,90
+,vie faggys da'n thie,117.07,119.23,asr,90
+,ren mee fakin veg aynshen faggys da'n thie,120.43,123.64,asr,67
+,choud's eh its a foot,136.57,138.82,asr,41
+,bee cass t'ayn she cass t'ayn,145.09,147.79,asr,84
+,its a little foot cass veg t'ayn,150.10,158.29,asr,16
+,she cass veg t'ayn cass veg t'ayn,158.80,175.84,asr,0
+,bun nagh nee she cass veg t'ayn nagh nee,175.60,178.78,asr,89
+,yn chass,190.45,191.11,asr,0
+,cre'n chass t'ayn she,192.73,204.67,asr,9
+,yn chass t'ayn shen,204.73,207.13,asr,40
+,choud's eh but as she yn,209.92,220.30,asr,45
+,yn chass t'ayn nagh nee,220.09,222.34,asr,80
+,she chass ad nagh nee cha nee,223.51,231.40,asr,78
+,cha nee c'raad,232.27,246.34,asr,0
+,ta'n chass ayd c'raad ta'n chass ayd,246.49,249.07,asr,100
+,kay ayns shoh,251.98,260.86,asr,64
+,veih'n shoh yn austrail,265.93,267.13,asr,57
+,nagh row ayns australia,276.91,279.34,asr,35
+,nagh row uss australia yiass,280.36,285.10,asr,71
+,baa da da,289.63,303.49,asr,44
+,boght she cheer vooar t'ayn,304.27,306.49,asr,71
+,agh she cheer vooar t'ayn cha,307.99,313.81,asr,77
+,vel oo er n'ee cha,322.39,326.50,asr,56
+,vel oo er n'ee duillag duillag yiarg,338.32,355.96,asr,43
+,bee duillag giark red,357.37,362.26,asr,34
+,vel oo er foast,371.44,374.50,asr,42
+,bad foast cha row,376.60,382.30,asr,35
+,yiarn foast vel oo er yn duillag yiarn foast,394.99,398.47,asr,84
+,choud's ta,400.21,404.53,asr,100
+,ta ta,405.19,418.18,asr,100
+,ta mee er ta ta,418.99,421.90,asr,62
+,ta mee er n'ee hannah ta mee er n'ee hannah,435.25,440.32,asr,61
+,already giu ta,444.88,454.24,asr,0
+,ta mee er n'ee hannah gura mie ayd,454.84,457.36,asr,52
+,ta mee er n'ee hannah gura mie ayd cha,458.56,463.03,asr,79
+,vel ad deyr nagh vel ad er nakin,475.96,479.92,asr,42
+,cha vel,482.89,494.05,asr,0
+,ad er nakin fannag nod er nakin fannag,494.17,498.25,asr,0
+,cha vel ad er,501.31,511.48,asr,70
+,er nakin fannag foast vel ad er nakin foast,511.36,516.16,asr,82
+,cha vel,519.76,533.02,asr,29
+,hellad deyr nakin yn yannag foast,532.93,535.75,asr,20
+,vel ad er nakin yn annag foast vel,536.83,541.33,asr,23
+,bea laa deyr niau ghooinney yn yannag bane fo,553.48,556.90,asr,0
+,nakin yn yannoo ven foast yes,559.72,564.13,asr,20
+,ta ta ta,566.86,579.91,asr,78
+,fakin ee ta fakin ee,580.93,583.93,asr,48
+,currit as ta,587.05,598.45,asr,0
+,oie moghrey jiu ta enney,599.80,602.26,asr,67
+,moghrey jiu geay,602.83,612.13,asr,38
+,yn gheay,622.45,623.11,asr,38
+,yn gheay hie,623.74,627.52,asr,50
+,cha laik lhiam y gheay cha laik lhiam yn gheay,637.15,640.84,asr,73
+,dont like the wind it makes mee cha,643.96,657.94,asr,0
+,cha laik lhiam y gheay thie jannoo feayr jim,657.76,662.29,asr,90
+,yn gheay ta jannoo feayr jeem cha,664.00,682.54,asr,0
+,cha laik lhiam yn gheay jannoo feer feayr jim,682.36,686.26,asr,53
+,bleeaney t'ou jannoo feer feayr jim oo,687.82,690.28,asr,46
+,keead,707.59,708.01,asr,0
+,ta ayns mannin as ta'n gheay ayns mannin as vooarey,707.89,712.21,asr,65
+,choud's eh dy wind in the aile as maynrys,713.80,716.35,asr,61
+,in austrail ayns,717.49,730.42,asr,0
+,ayns mannin ny s'feayrey na'n gheay ayns mannin as feayryn,730.24,737.20,asr,37
+,australia drink,737.50,742.72,asr,32
+,jough ayd viljagh ayd,748.00,750.07,asr,62
+,hush dy vel yn jough ayd,753.79,760.39,asr,44
+,vel yn jough ayd vel,761.08,776.05,asr,75
+,vel yn jough ghoo ayd vel yn jough ghoo ayd,775.96,778.87,asr,43
+,ta ta but as,784.48,790.84,asr,63
+,ta soar breinn jee,802.18,805.57,asr,85
+,ta soar breinn jee,806.98,808.42,asr,78
+,dy drink it ta,813.91,825.91,asr,0
+,ta soar breinn jee cha nel mee laccal,826.75,830.20,asr,91
+,boghtey soar breinn jee cha nel mee laccal geearree,832.54,835.54,asr,58
+,hooar kys ren mee cur paag dhyt,839.83,850.48,asr,76
+,ren mee cur paag dhyt chouds eh,851.83,855.34,asr,100
+,yesterday ren mee cur,856.84,864.94,asr,76
+,jeh ren mee cur paag da jee,865.93,869.53,asr,81
+,yesterday ren mee cur,873.25,883.27,asr,0
+,cur paag dy jeh nagh ren mee cur paag dy jeeaney,883.09,887.50,asr,63
+,ren ren choud's eh neesht but we dont like it,894.49,901.06,asr,0
+,ren black,908.80,911.05,asr,44
+,cha blaik lhiam ee kys,913.00,920.17,asr,58
+,ren cha blaik lhiam yn,931.81,934.12,asr,84
+,beg fliugh shen ren cha blaik lhiam yn fer shen,934.51,938.74,asr,81
+,ren,955.18,955.66,asr,0
+,agh cha blaik lhiam yn fer fliugh shen,956.08,958.93,asr,92
+,ta mee laccal nane elley cha blaik lhiam ayns,959.56,963.25,asr,89
+,shen ta mee laccal nane elley dys y wheeyl,963.67,969.25,asr,64
+,queeyl ayns laksey queeylagh lacksey,975.82,979.30,asr,82
+,dys y wheeyl vooar ayns laksey queeyl vooar ayns laksey,982.15,990.79,asr,70
+,queeyl vooar ayns laksaa ny big wheels in laksey,991.66,997.27,asr,56
+,wheeyl vooar ayns laksey,1005.25,1006.99,asr,100
+,ta'n wheeyl vooar as laksaa river,1007.92,1015.24,asr,45
+,feayr ayns laksaa faggys da'n awin,1025.74,1028.92,asr,76
+,ta'n wheeyl vooar ayns laksaa faggys da'n awin,1030.27,1032.61,asr,100
+,bio as bigger wheeyl shoh ny smoo ta'n wheeyl shoh,1036.99,1047.25,asr,81
+,ny smoo dys will,1047.25,1051.21,asr,42
+,wheel wheeyl,1052.11,1063.69,asr,0
+,bio shoh ny smoo na'n wheeyl veg shen,1063.54,1066.18,asr,88
+,wheeyl shoh ny smoo na'n wheeyl veg shen cha,1067.68,1072.90,asr,65
+,vel oo er chlashtyn vel oo er chlashtyn,1082.47,1085.44,asr,100
+,choud as cha bee oo cheet,1087.12,1089.61,asr,62
+,vel oo er chlashtyn kiark,1097.20,1099.42,asr,81
+,vel oo er chlashtyn jiark chlash,1100.26,1116.04,asr,76
+,as jean yn chiark er chlashtyn yn chiark,1115.83,1120.21,asr,70
+,big chicken dy,1123.84,1132.84,asr,0
+,keesht jin nyn chiark vooar vel oo er chlashtyn yn chiark vooar,1133.83,1138.12,asr,61
+,the yes this afternoon,1140.91,1144.15,asr,61
+,ta ren mee clashtyn ee fastyr jiu,1152.22,1155.82,asr,94
+,fastyr jiu chouds eh,1157.95,1160.80,asr,0
+,this afternoon hungry,1162.42,1164.97,asr,36
+,ta ren mee clashtyn ee fastyr jiu,1175.89,1179.28,asr,94
+,er lhiam dy vel ee accryssagh,1179.94,1181.95,asr,97
+,ta ren mee clashtyn ee fastyr jiu erlhiam dy vel ee accryssagh,1183.15,1187.23,asr,93
+,vees cheet as more hungry,1191.01,1193.08,asr,76
+,barr shoh ny saggyrtsee ta'n chiark shoh ny saggyrtsee,1200.97,1205.26,asr,69
+,vees cheet as more hungry da'n nah cheet,1207.51,1210.24,asr,80
+,ta'n chiark shoh ny saggyrt yn chiark shen,1219.69,1223.23,asr,73
+,ta shoh ny saggyrt shen,1224.37,1226.89,asr,40
+,dys have a pig echey,1229.83,1236.34,asr,35
+,dys big pig mooar echey,1240.21,1248.52,asr,54
+,muc vooar echey as,1249.15,1253.68,asr,59
+,vel yn vuc vooar echey ta,1261.36,1277.74,asr,49
+,pooar echey ta pooar echey,1278.67,1281.58,asr,81
+,big yiass he's got the big pig and as,1283.02,1285.93,asr,0
+,ta ta'n vulk vooar echey as ta'n moddey beg echey,1295.50,1299.40,asr,100
+,ta ta'n phooar echey as ta'n moddey beg echey,1300.33,1302.67,asr,87
+,how to ask sooillid vel sooillid,1304.41,1314.76,asr,0
+,ta ta daa ta daa,1326.07,1329.52,asr,52
+,c'raad ta'n twoaie c'raad ta'n,1342.33,1345.06,asr,100
+,as c'raad ta'n twoaie vooar,1348.27,1358.32,asr,83
+,c'raad ta'n twoaie vooar hooar,1358.89,1373.65,asr,53
+,bwoir ayns myr ta'n tooill vooar ayns,1373.44,1376.77,asr,33
+,dys,1380.67,1380.85,asr,0
+,vel sleaystey as dys,1391.47,1395.46,asr,71
+,vel sleayst veg eck dy,1404.46,1409.08,asr,0
+,vel yn cleaysh veg eck cha nel,1417.60,1426.42,asr,56
+,cha nel cha,1427.35,1440.04,asr,57
+,cha nel ta'n cleayst spoarey,1439.80,1442.89,asr,60
+,cha nel ta'n cleayst vooar eck,1443.88,1446.01,asr,100
+,shopkeeper vel shapp ayns shoh,1452.10,1459.30,asr,57
+,vel shapp veg ayns shoh red ayns shoh,1470.40,1473.88,asr,65
+,ta thie faggys da'n awin ta faggys da'n awin,1485.13,1489.81,asr,75
+,the shop close vel,1493.44,1504.12,asr,0
+,yn chapp faggys vel yn chapp faggys,1504.21,1507.30,asr,89
+,ta thie faggys dy liooar ta faggys dy liooar,1519.87,1524.28,asr,100
+,bee shen she,1531.45,1543.00,asr,61
+,bio thunnag t'ayn she duck,1542.88,1548.82,asr,43
+,she thunnag vooar t'ayn she thunnag vooar ayn,1553.98,1557.58,asr,96
+,dooin cre ta'n thunnag jannoo,1560.70,1569.31,asr,30
+,cre ta'n thunnag jannoo gee,1570.18,1583.98,asr,68
+,bee yn duillag t'ou gee yn duillag,1583.80,1586.62,asr,42
+,thie,1596.70,1597.09,asr,0
+,class gee yn duillag ghlass,1598.35,1600.90,asr,61
+,bird ushag ayd,1605.10,1611.67,asr,57
+,ushag ayd neesht,1612.33,1616.08,asr,38
+,ta ta fannag veg aym,1623.73,1626.01,asr,82
+,ta thunnag veg aym choud's,1627.00,1630.42,asr,27
+,oh,1633.81,1633.87,asr,0
+,ta fannag veg aym as ta foillan mooar aym,1645.03,1648.18,asr,88
+,ta fannag veg aym as ta phoillan mooar aym,1649.47,1651.63,asr,79
+,c'raad t'ad c'raad t'ad,1659.01,1661.11,asr,100
+,bountys eh dy yannag ayns,1662.22,1673.50,asr,0
+,ayns y gharey ta'n ghannag ayns y gharey,1673.32,1675.72,asr,44
+,the garden and the house,1678.45,1681.45,asr,33
+,sy gharey as ta'n,1691.77,1693.87,asr,59
+,sy thie dys y gharey as ta'n phoillan ayns y thie,1694.68,1698.94,asr,87

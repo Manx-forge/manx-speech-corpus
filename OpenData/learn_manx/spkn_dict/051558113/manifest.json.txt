@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051558113",
+  "name": "By vie lhiam goll dys Droghad Vraddan",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051558113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.16,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

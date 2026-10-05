@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09009",
+  "name": "Abbyr Shen Reesht 4th August 2019",
+  "createdCircaStart": "2019-08-03",
+  "createdCircaEnd": "2019-08-03",
+  "source": "https://www.manxradio.com/player/podcasts/episodes/abbyr-shen-reesht-4th-august-20191/",
+  "platform": "manx_radio",
+  "resource_id": "09009",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2119.52,
+  "deep_link": "https://podcasts.captivate.fm/media/d05bec21-ee0c-43e8-9b50-677ca2e9d55f/1216-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

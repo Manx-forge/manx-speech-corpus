@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0432",
+  "name": "Ta mee shappal ayns Purt Chiarn jiu as t'eh beggan tarroogh",
+  "source": "https://www.youtube.com/watch?v=BQ4aCKKjs9I",
+  "platform": "youtube",
+  "resource_id": "0432",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.54,
+  "deep_link": "https://www.youtube.com/watch?v=BQ4aCKKjs9I&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

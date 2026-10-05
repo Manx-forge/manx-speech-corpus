@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04168",
+  "name": "S'mie lhiam yn traen, t'eh yindyssagh",
+  "source": "https://www.youtube.com/watch?v=PfODA0Qr1_0",
+  "platform": "youtube",
+  "resource_id": "04168",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.22,
+  "deep_link": "https://www.youtube.com/watch?v=PfODA0Qr1_0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650211",
+  "name": "Agh cha jean eh, as cha vel eh sauail dy chooilley wooinney peccoil.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650211",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.804,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

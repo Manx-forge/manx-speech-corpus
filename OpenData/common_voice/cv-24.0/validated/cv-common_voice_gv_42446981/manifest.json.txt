@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446981",
+  "name": "Hyndaa yn chreg chreoi gys poyll-ushtey: as y chlagh-flint gys chibbyr gheill.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446981",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.252,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

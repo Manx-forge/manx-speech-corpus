@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04286",
+  "name": "As son y chied cheayrt",
+  "source": "https://www.youtube.com/watch?v=5ETJ43mFF7U",
+  "platform": "youtube",
+  "resource_id": "04286",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 42.31,
+  "deep_link": "https://www.youtube.com/watch?v=5ETJ43mFF7U&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

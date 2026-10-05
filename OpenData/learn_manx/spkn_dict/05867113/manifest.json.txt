@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867113",
+  "name": "Ren oo goll dys Balley Sallagh jea?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05867113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.9,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04312",
+  "name": "C'red t'ou geearree?",
+  "source": "https://www.youtube.com/watch?v=_8bf_wg_ThM",
+  "platform": "youtube",
+  "resource_id": "04312",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.21,
+  "deep_link": "https://www.youtube.com/watch?v=_8bf_wg_ThM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

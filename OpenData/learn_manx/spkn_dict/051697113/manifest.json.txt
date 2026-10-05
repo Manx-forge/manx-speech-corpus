@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051697113",
+  "name": "Mannagh jinnagh eh gearaghtee",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051697113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.76,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

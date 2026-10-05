@@ -1,0 +1,14 @@
+{
+  "ident": "speech-023565",
+  "name": "How to use craad by vie ihiat cummal? in Manx Gaelic",
+  "source": "https://www.youtube.com/watch?v=RR_GOiRp28M",
+  "platform": "youtube",
+  "resource_id": "023565",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 131.01,
+  "deep_link": "https://www.youtube.com/watch?v=RR_GOiRp28M&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

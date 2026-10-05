@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05821241",
+  "name": "Balley Chashtal Castletown",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Balley%20Chashtal.m4a",
+  "platform": "learn_manx",
+  "resource_id": "05821241",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.51,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Balley%20Chashtal.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

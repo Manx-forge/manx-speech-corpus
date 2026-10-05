@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04358",
+  "name": "Oie vie as caddil dy mie",
+  "source": "https://www.youtube.com/watch?v=S_olMpj5_Fs",
+  "platform": "youtube",
+  "resource_id": "04358",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.54,
+  "deep_link": "https://www.youtube.com/watch?v=S_olMpj5_Fs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

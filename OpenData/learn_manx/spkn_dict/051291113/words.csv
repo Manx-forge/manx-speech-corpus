@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,t'eh,0.24,0.45,aligned
+0,1,ny,0.45,0.54,aligned
+0,2,hassoo,0.54,0.72,aligned
+0,3,shassoo,0.72,1.08,aligned

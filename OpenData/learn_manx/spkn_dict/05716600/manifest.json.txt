@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716600",
+  "name": "Yn Chiarn dy row meriu, as marish dty spyrryd The Lord be with you, and also with you",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/The_lord_be_with_you_and_also_with_you.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716600",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 12.46,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/The_lord_be_with_you_and_also_with_you.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

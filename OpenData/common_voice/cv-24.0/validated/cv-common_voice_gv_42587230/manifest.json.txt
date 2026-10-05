@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42587230",
+  "name": "Cre dynsee oo y çhiaghtin shoh chaie?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42587230",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.6,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

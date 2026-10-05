@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059355",
+  "name": "taksee taxi",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/taksee%20-%20taxi.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059355",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.18,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Transport/taksee%20-%20taxi.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

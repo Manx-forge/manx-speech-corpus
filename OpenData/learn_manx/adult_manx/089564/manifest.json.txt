@@ -1,0 +1,14 @@
+{
+  "ident": "speech-089564",
+  "name": "LG K3 L2 (Lhaih 1)",
+  "source": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20Keim%203%20sound%20files/LG%20K3%20L2%20%28Lhaih%201%29.m4a",
+  "platform": "learn_manx",
+  "resource_id": "089564",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 60.93,
+  "deep_link": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20Keim%203%20sound%20files/LG%20K3%20L2%20%28Lhaih%201%29.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

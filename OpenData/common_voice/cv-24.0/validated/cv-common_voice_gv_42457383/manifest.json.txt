@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457383",
+  "name": "Agh cur-my-ner, ta'n laue echeysyn ta dy my vrah, marym er y voayrd.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457383",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.92,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

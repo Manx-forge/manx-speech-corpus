@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0411",
+  "name": "Craad t'ou cummal?",
+  "source": "https://www.youtube.com/watch?v=JF13GlI7k9Q",
+  "platform": "youtube",
+  "resource_id": "0411",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 18.58,
+  "deep_link": "https://www.youtube.com/watch?v=JF13GlI7k9Q&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

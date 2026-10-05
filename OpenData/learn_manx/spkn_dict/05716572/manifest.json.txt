@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716572",
+  "name": "Hiarn, ayns dty vyghin, clasht rish nyn badjer Lord, in thy mercy, hear our prayer",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/Lord_in_thy_mercy_hear_our_prayer.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716572",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 10.42,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/Lord_in_thy_mercy_hear_our_prayer.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

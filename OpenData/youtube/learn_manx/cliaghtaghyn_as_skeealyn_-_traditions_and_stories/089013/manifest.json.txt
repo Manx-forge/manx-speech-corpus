@@ -1,0 +1,14 @@
+{
+  "ident": "speech-089013",
+  "name": "Bollan Bane  as Laa Tinvaal #manx #gaelic",
+  "source": "https://www.youtube.com/watch?v=uluVmkcrTV8",
+  "platform": "youtube",
+  "resource_id": "089013",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 330.54,
+  "deep_link": "https://www.youtube.com/watch?v=uluVmkcrTV8&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

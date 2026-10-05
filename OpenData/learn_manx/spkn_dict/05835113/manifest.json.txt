@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05835113",
+  "name": "er y fa dy vel ee gobbragh ayns Balley Chashtal",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05835113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.08,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

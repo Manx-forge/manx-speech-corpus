@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42694654",
+  "name": "Wooinney veen cre'n soar villish va çheet voish ny magheryn ta giarrit.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42694654",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.328,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

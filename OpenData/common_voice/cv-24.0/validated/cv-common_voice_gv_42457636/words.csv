@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Son",1.32,1.59,aligned
+0,1,ny,1.59,1.71,aligned
+0,2,boghtyn,1.71,2.34,aligned
+0,3,t'ad,2.43,2.70,aligned
+0,4,eu,2.70,3.00,aligned
+0,5,kinjagh,3.00,3.66,aligned
+0,6,meriu;,3.66,4.11,aligned
+0,7,agh,5.13,5.37,aligned
+0,8,mish,5.37,5.82,aligned
+0,9,cha,6.15,6.27,aligned
+0,10,vel,6.27,6.51,aligned
+0,11,eu,6.63,6.75,aligned
+0,12,"kinjagh.""",6.75,7.41,aligned

@@ -1,0 +1,171 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,0.94,3.49,asr,56
+,three lessoon shiaght choud's,4.36,9.31,asr,62
+,ta mee maynrey ta mee maynrey,16.12,18.85,asr,100
+,cha row eh this week,21.46,22.33,asr,41
+,ta mee maynrey yn chiaghtin shoh,27.52,29.80,asr,100
+,ta mee maynrey yn chiaghtin shoh as,30.34,35.17,asr,81
+,cre'n oyr cre'n oyr,40.93,43.60,asr,100
+,chouds respond bee co-seiy marmite,45.85,49.54,asr,66
+,son ren mee gee marmite,55.45,57.55,asr,100
+,ren mee gee marmite marmite,58.51,64.81,asr,44
+,son ren mee gee marmite as s'laik lhiam marmite,73.57,77.71,asr,100
+,son ren mee gee moghrey mie dys s'laik lhiam marmite,79.06,81.82,asr,94
+,chouds eh marmite cha nel ec marmite,83.29,87.13,asr,55
+,son ren mee gee marmite as s'laik lhiam marmite,100.93,105.22,asr,100
+,t'ee jannoo maynrey jim son ren mee gee marmite as s'laik lhiam marmite t'ee jannoo maynrey jim,105.76,112.84,asr,100
+,cha vel uss,115.99,125.80,asr,0
+,oie marmite vel uss er n'ee marmite,126.19,129.46,asr,83
+,choud's ta'n marmite,130.78,132.94,asr,38
+,vel uss er n'ee moghrey mie jiu,140.77,142.96,asr,73
+,vel us er n'ee moghrey mie jiu cha nel,143.71,152.05,asr,48
+,cha nel choud's eh now,152.74,156.07,asr,100
+,cha nel,164.83,165.52,asr,0
+,ta magher mike jannoo ching jim,166.30,168.61,asr,97
+,cha nel moghrey mie jannoo ching jim,169.36,171.40,asr,78
+,chouds eh now marmite makes mee bio y dooyrt eh,172.24,177.31,asr,55
+,cha nel ta magher mike jannoo ching jim,187.24,191.05,asr,97
+,cha laik lhiam ayns shoh cha nel,191.68,194.83,asr,100
+,mie jannoo jingan cha laik lhiam ayns shoh,195.25,197.65,asr,74
+,choud's eh it smells sweet ta,199.39,209.74,asr,0
+,ta soar millish jeh ta soar millish jeh,209.53,213.88,asr,92
+,choud's eh it smells sweet dys yn as,214.96,218.59,asr,15
+,ta soar millish jeh nagh vel,229.27,231.52,asr,83
+,ta soar millish jeh nagh vel cha nel,232.21,239.98,asr,78
+,cha nel eh now,240.55,243.58,asr,64
+,cha nel ta soar breinn jeh,252.85,255.76,asr,100
+,cha nel ta soar breinn jeh breeshey,256.51,262.57,asr,65
+,ren breeshey jeeaghyn er ren breeshey jeeaghyn abyl assee,271.27,276.28,asr,77
+,da breeshey watch yesterday ren breeshey,278.74,288.88,asr,90
+,ta jeeaghyn er ren breeshey jeeaghyn er lossee jeh,288.70,293.23,asr,73
+,cha ren cha ren,299.68,301.87,asr,100
+,now she dys yn,304.18,305.68,asr,23
+,that film cha ren cha laik,306.10,316.36,asr,0
+,yn fillym shen cha ren cha laik lhee yn fillym shen,316.75,320.50,asr,92
+,dys y film cha,323.47,338.08,asr,0
+,cha ren cha laik lhee yn fillym shen son te jannoo trimshagh jee,337.84,343.69,asr,97
+,cha ren cha laik lhee yn fillym shen son t'eh jannoo trimshagh jee,344.65,348.01,asr,98
+,the bird laik lhiat yn jishag laik lhiat yn jishag,351.94,361.81,asr,58
+,bird laik lhiat yn ushag aym,364.54,373.60,asr,57
+,laik lhiat yn jishag aym laik,374.17,378.34,asr,79
+,yn ushag veg aym laik lhiat yn ushag veg aym,387.13,390.10,asr,90
+,cha laik cha laik,395.68,397.81,asr,81
+,now it stinks,399.82,401.86,asr,100
+,ta soar breinn jee cha laik ta soar breinn jee,411.10,415.87,asr,98
+,now it stinks,418.69,420.55,asr,100
+,ta soar breinn jee share lhiam yn cabbyl ayd,436.12,439.90,asr,100
+,cha laik soar breinn j'ee share lhiam yn cabbyl ayd,440.77,443.77,asr,100
+,bee t'ou laccal gee quoi ta laccal gee,453.13,456.10,asr,79
+,the bread,458.29,459.43,asr,22
+,quoi ta laccal gee yn arran shoh quoi ta laccal gee yn arran shoh,464.98,469.30,asr,97
+,choud's ta,470.53,480.58,asr,0
+,ta mish laccal gee eh ta mish,480.37,482.68,asr,88
+,ow just say ta mish,484.51,495.67,asr,0
+,nish laccal my saillt ta mish laccal gee my saillt,495.49,499.78,asr,77
+,choud's eh ta mish,501.28,518.98,asr,0
+,bish laccal my saillt son soar millish jeh,518.77,523.81,asr,73
+,bio my sailt son soar millish jeh,525.91,528.40,asr,86
+,like drinking s'laik lhiat giu,532.87,542.02,asr,48
+,cre s'laik lhiat giu drinking in the morning,542.95,548.86,asr,100
+,cre s'laik lhiat giu ayns y voghrey,559.75,562.12,asr,100
+,kys s'laik lhiat giu ayns y voghrey t'ou,563.08,576.01,asr,44
+,t'ou briaght briaght,575.80,578.71,asr,42
+,cre t'ou,590.38,591.13,asr,0
+,v'ou briaght jin briaght jin,590.95,593.68,asr,41
+,hie yn as skyn giu like drinking in the morning,597.49,602.02,asr,60
+,v'eh briaght jeed s'laik lhiat giu ayns y voghrey,614.56,618.97,asr,81
+,briaght jee cre s'laik lhiat giu ayns y voghrey,620.38,622.75,asr,85
+,like drinking coffee in the morning s'laik,626.17,641.65,asr,0
+,cha glion giu colby ayns y voghrey,641.59,643.96,asr,58
+,s'laik lhiam giu caffee ayns y voghrey coffee ny moanee,644.65,650.50,asr,70
+,wonderful s'laik,651.70,662.80,asr,0
+,illiam giu caffee ayns y voghrey son ta soar yindyssagh,662.89,667.09,asr,85
+,s'laik lhiam giu caffee ayns y voghrey son ta soar yindyssagh,668.50,671.38,asr,82
+,dys breeshey drink tee giu,674.77,685.60,asr,59
+,giu tey giu tey,685.48,688.03,asr,62
+,dys breeshey drink in the morning,690.64,692.74,asr,82
+,t'ou giu tey ayns y voghrey giu tey ayns y voghrey,701.74,705.31,asr,74
+,cha nel fys aym as,711.67,713.92,asr,80
+,cha nel fys aym cha ren mee briaght jee,728.74,732.61,asr,100
+,cha ren mee briaght jee now,734.20,738.76,asr,60
+,oh,741.07,741.22,asr,0
+,cha ren mee briaght jee son,752.50,755.11,asr,56
+,bah ching as ren mee briaght jee son va mee ro hing,755.77,760.18,asr,78
+,juan vel oo,764.08,774.01,asr,0
+,boo er nakin juan vel oo er nakin juan,773.92,778.03,asr,83
+,cha vel oo,780.88,791.41,asr,0
+,vel oo er nakin juan foast jiu,791.05,793.75,asr,79
+,vel oo er nakin juan foast jiu ta,794.86,802.27,asr,72
+,ta ta,803.23,814.90,asr,50
+,ren mee briaght jee ta ren mee briaght jee,815.44,819.34,asr,98
+,choud's eh yes aye astyr,820.81,823.81,asr,45
+,ta ren mee briaght jee,837.67,840.43,asr,100
+,nee clashtyn ta ren mee briaght jeh cre ren eh clashtyn,841.36,845.89,asr,92
+,cre'n oyr t'ou cre'n oyr t'ou,858.49,862.00,asr,88
+,the morning cre'n,866.26,878.68,asr,0
+,cre'n oyr tou ayns y voghrey,878.50,881.02,asr,46
+,cre'n oyr t'ou ayns y voghrey chouds,882.22,885.76,asr,50
+,son te jannoo maynrey,895.24,897.04,asr,44
+,son t'eh jannoo maynrey jim choud's eh,897.91,901.18,asr,72
+,the morning bee cosoyl ayns y,902.65,915.07,asr,0
+,sy voghrey son jannoo maynrey jim,915.82,918.73,asr,77
+,bunnys y voghrey son t'eh jannoo maynrey shen,920.65,933.82,asr,65
+,mee shen ta,935.05,945.10,asr,29
+,shen ta mee ro shen ta,945.64,951.37,asr,81
+,shen dy chloie shen ta mee ro shen dy chloie shen,962.26,965.77,asr,88
+,ren mee briaght jee ren mee briaght jee,980.92,984.73,asr,77
+,choud's eh was wanting to come,985.60,989.44,asr,56
+,ren mee briaght jeh row eh laccal cheet,998.86,1002.19,asr,100
+,ren mee briaght jeh row eh laccal cheet heeym as,1003.30,1010.26,asr,67
+,ren eh gra dy row eh shen,1020.82,1023.67,asr,100
+,ren eh gra dy row shen ren,1024.93,1040.41,asr,55
+,ren eh gra dy row eh shen dy yannoo eh,1040.29,1043.53,asr,71
+,ren eh gra dy row shin dy yannoo eh,1044.64,1046.59,asr,82
+,ren eh gra dy row eh dy yannoo eh nish,1061.02,1064.53,asr,83
+,ren eh gra dy row shin dy yannoo eh nish,1065.28,1067.53,asr,85
+,ta shen jannoo trimshagh jim,1082.53,1085.02,asr,88
+,ta shen jannoo trimshagh sad,1086.55,1092.88,asr,54
+,ta shen jannoo ro hrimshagh jiu,1101.34,1103.89,asr,86
+,ta shen jannoo ro hrimshagh ain,1104.61,1110.07,asr,67
+,ta mee ro hrimshagh ta mee ro hrimshagh,1118.02,1121.44,asr,100
+,choud's sea ain too sad t'eh,1122.31,1124.98,asr,16
+,mee ro hrimshagh dy chur eh,1134.67,1137.10,asr,53
+,ta mee ro hrimshagh dy dhyt,1138.72,1140.73,asr,84
+,young thie aeg,1144.27,1150.21,asr,100
+,thie aeg sheese twoaie young,1151.59,1155.94,asr,93
+,bite aeg thie roig as have seen breeshey,1161.64,1167.22,asr,52
+,vel oo er nakin breeshey vel oo er nakin breeshey,1175.29,1178.80,asr,100
+,bee'n breeshey this week er,1181.98,1192.24,asr,50
+,er nakin yn chiaghtin shoh,1192.06,1194.64,asr,65
+,vel oo er nakin breeshey yn chiaghtin shoh,1195.27,1197.34,asr,98
+,ta ta hie as,1202.98,1208.50,asr,77
+,he was wanting to go ta,1209.46,1224.49,asr,0
+,ren mee briaght jee cuin veih laccal goll,1225.06,1228.60,asr,93
+,ta ren mee briaght jee cuin va goll,1229.50,1231.63,asr,86
+,nagh vel ee ro aeg nagh vel eh ro aeg,1246.06,1250.14,asr,95
+,cha nel cha nel cha,1257.25,1269.73,asr,83
+,cha nel thie hoght nish,1269.52,1272.22,asr,47
+,cha nel thie hoght nish dys,1272.88,1277.26,asr,50
+,laik lhee marmite laik lhee marmite,1288.51,1291.75,asr,100
+,now cha laik cha laik,1293.22,1298.32,asr,31
+,hie kied mee cha laik er,1301.86,1316.86,asr,0
+,er lhiam dy vel eh jannoo ching jee,1316.68,1319.59,asr,97
+,cha laik lhiam dy vel eh jannoo ching jee,1320.64,1323.31,asr,87
+,vel oo laccal goll magh goll magh,1338.94,1342.00,asr,85
+,vel oo laccal goll magh nagh vel oo laccal goll magh noght,1353.04,1357.06,asr,57
+,cha nel cha nel,1362.55,1364.74,asr,100
+,cha nel son ta soar breinn jeed,1379.74,1382.68,asr,100
+,son ta soar breinn jeed chouds,1383.70,1387.84,asr,21
+,juan,1389.16,1389.64,asr,0
+,juan geddyn yn arran ren juan geddyn yn arran,1400.98,1404.34,asr,93
+,sy yiass ren,1406.41,1411.39,asr,0
+,ren yes,1412.47,1415.95,asr,50
+,and as ta,1416.73,1428.46,asr,0
+,as ta soar millish yindyssagh jeh,1429.27,1432.33,asr,68
+,ta as ta soar millish yindyssagh jeh,1433.20,1436.11,asr,100
+,vel oo laccal goll dys yn towse,1454.29,1456.75,asr,56
+,goll dys yn choyrt-owse ort,1457.47,1464.04,asr,39
+,cha nel mee ro shen son shen,1475.80,1479.25,asr,93
+,cha nel mee ro henn son shen cha,1479.88,1499.02,asr,86
+,cha nel mee ro shen son shen as ta'n soar jannoo ching jim,1498.96,1504.12,asr,81
+,cha nel mee son shen as ta'n sur jannoo jingan,1505.26,1508.32,asr,70

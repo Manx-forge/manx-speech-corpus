@@ -1,0 +1,20 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,ny jees cren ennym tort,0.31,2.98,asr,85
+,ta'n ennym orrym moirrey insh dou dty earroo chellvane my saillt,3.94,8.20,asr,100
+,earroo chellvane hoght nane tree shey queig neunhee,9.46,14.11,asr,86
+,c'raad t'ou cummal ta mee cummal ayns purt ny hinshey,15.25,18.25,asr,100
+,ta mee cummal faggys da laksaa vel oo cummal ayns rhumsaa ta cha nel,19.09,24.97,asr,100
+,cha nel mee cummal ayns purt le moirrey cre ass t'ou dy bunneydagh,25.72,30.01,asr,100
+,ta mee ass doolish dy bunneydagh ta mee ayns sostyn dy bunneydagh,30.79,34.66,asr,100
+,c'raad t'ou gobbraghey ta mee gobbraghey ayns bank,35.71,38.95,asr,100
+,ta mee gobbraghey ayns shapp ta mee gobbraghey ayns offish,39.61,43.03,asr,100
+,ta mee cummal ayns colby t'ou cummal ayns colby,43.81,46.99,asr,100
+,t'eh cummal ayns colby t'ee cummal ayns colby,47.56,50.59,asr,100
+,ta shin cummal ayns colby ta shiu cummal ayns colby,51.22,54.49,asr,100
+,t'ad cummal ayns colby ta juan cummal ayns colby ta'n dooinney cummal ayns colby,55.09,60.22,asr,100
+,cha nel mee cummal ayns colby cha nel oo cummal ayns colby cha nel eh cummal ayns colby cha nel ee cummal ayns colby cha nel shin cummal ayns colby cha nel shiu cummal ayns,61.36,71.56,asr,100
+,cummal ayns colby cha nel ad cummal ayns colby cha nel juan cummal ayns colby cha nel yn dooinney cummal ayns colby,71.20,78.13,asr,94
+,vel mee cummal ayns colby vel oo cummal ayns colby,80.02,83.11,asr,100
+,vel eh cummal ayns colby vel ee cummal ayns colby vel shin cummal ayns colby vel shiu cummal ayns colby vel ad cummal ayns colby,83.68,91.75,asr,100
+,nagh vel mee cummal ayns colby nagh vel oo cummal ayns colby,93.73,97.09,asr,100
+,nagh vel eh cummal ayns colby nagh vel ee cummal ayns colby nagh vel shin cummal ayns colby nagh vel shiu cummal ayns colby nagh vel ad cummal ayns colby,97.66,106.66,asr,100

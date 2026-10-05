@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,bee,0.15,0.42,aligned
+0,1,as,0.42,0.63,aligned
+0,2,jough,0.63,1.20,aligned

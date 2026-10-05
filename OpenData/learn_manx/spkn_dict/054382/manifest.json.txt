@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054382",
+  "name": "braar brother",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/braar%20-%20brother.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054382",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/braar%20-%20brother.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

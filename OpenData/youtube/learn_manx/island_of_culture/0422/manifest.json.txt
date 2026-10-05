@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0422",
+  "name": "Ta shin ayns Purt Chiarn",
+  "source": "https://www.youtube.com/watch?v=_J3pmZ2q5W0",
+  "platform": "youtube",
+  "resource_id": "0422",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 19.5,
+  "deep_link": "https://www.youtube.com/watch?v=_J3pmZ2q5W0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

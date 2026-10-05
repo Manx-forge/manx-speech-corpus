@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09303",
+  "name": "Abbyr Shen Reesht - Say That Again 22ah Mean Souree - 2025 - June 22nd",
+  "createdCircaStart": "2025-06-22",
+  "createdCircaEnd": "2025-06-22",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-22ah-mean-souree-2025-june-22nd/",
+  "platform": "manx_radio",
+  "resource_id": "09303",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1553.06,
+  "deep_link": "https://episodes.captivate.fm/episode/a44cf124-e28c-4191-9f59-6f0d4a9b8990.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

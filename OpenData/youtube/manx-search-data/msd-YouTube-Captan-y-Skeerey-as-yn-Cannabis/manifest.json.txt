@@ -1,0 +1,18 @@
+{
+  "ident": "speech-msd-YouTube-Captan-y-Skeerey-as-yn-Cannabis",
+  "name": "🎥 Captan y Skeerey as yn Cannabis",
+  "author": "John Crellin, St Judes; Rob Teare; Paul Rogers",
+  "notes": "Recorded in October 2006. Timings are to the nearest 30s. The interviewer is Rob Teare, the interviewee is John Crellin, St Judes, Paul Rogers joins halfway through.\n",
+  "translated": "Rob Teare 2023",
+  "source": "https://www.youtube.com/watch?v=XYmgHWRKhec",
+  "platform": "youtube",
+  "resource_id": "msd-YouTube-Captan-y-Skeerey-as-yn-Cannabis",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 763.9,
+  "deep_link": "https://www.youtube.com/watch?v=XYmgHWRKhec&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok",
+  "corpus_work": "YouTube-Captan-y-Skeerey-as-yn-Cannabis"
+}

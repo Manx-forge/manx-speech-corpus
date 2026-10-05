@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,bee,0.96,1.53,aligned
+0,1,food,1.95,2.64,aligned
+0,2,bee,3.75,4.26,aligned

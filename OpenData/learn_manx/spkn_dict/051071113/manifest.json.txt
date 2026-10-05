@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051071113",
+  "name": "Cha by vie lesh Bob gee",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051071113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.93,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

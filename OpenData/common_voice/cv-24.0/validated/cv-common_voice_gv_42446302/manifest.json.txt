@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446302",
+  "name": "Ta'n gheay niar fowanagh cur mow dy-chooilley nhee.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446302",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.832,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

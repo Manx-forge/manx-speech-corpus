@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051657113",
+  "name": "Kay riojey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051657113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.49,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

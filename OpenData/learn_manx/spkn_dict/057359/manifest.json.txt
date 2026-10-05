@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057359",
+  "name": "parrad parrot",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/parrad%20-%20parrot.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057359",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.71,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Birds/parrad%20-%20parrot.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

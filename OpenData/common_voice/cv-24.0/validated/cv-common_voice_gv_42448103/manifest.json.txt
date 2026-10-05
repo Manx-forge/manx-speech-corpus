@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448103",
+  "name": "Hug eh daue claghyn-sniaghtee ayns ynnyd fliaghey: as lossaghyn aile ayns y cheer oc.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448103",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.54,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

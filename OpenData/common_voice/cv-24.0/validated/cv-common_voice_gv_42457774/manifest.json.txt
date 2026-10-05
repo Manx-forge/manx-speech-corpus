@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457774",
+  "name": "Agh my ta dooinney cairagh, as jannoo shen ny ta lowal as jeeragh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457774",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.416,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

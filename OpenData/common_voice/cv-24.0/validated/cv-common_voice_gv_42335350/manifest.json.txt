@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42335350",
+  "name": "As soilshaghey myghin er thousaneyn, jeusyn ta graihagh orrym, as freaylley m'annaghyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42335350",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.82,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

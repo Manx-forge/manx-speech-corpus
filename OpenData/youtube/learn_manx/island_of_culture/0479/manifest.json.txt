@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0479",
+  "name": "Vel Colby ny smoo danjeyragh na Purt ny h-Inshey?",
+  "source": "https://www.youtube.com/watch?v=VmGGtKMbHVI",
+  "platform": "youtube",
+  "resource_id": "0479",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.59,
+  "deep_link": "https://www.youtube.com/watch?v=VmGGtKMbHVI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

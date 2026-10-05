@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058320",
+  "name": "sleayst joan dust pan",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/sleayst%20joan%20-%20dust%20pan.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058320",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.85,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/sleayst%20joan%20-%20dust%20pan.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

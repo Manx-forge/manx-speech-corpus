@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42387043",
+  "name": "Eisht va Craueyn Yiarn eginit dy gholl er boayrd yn lhong, as goll roish.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42387043",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.668,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

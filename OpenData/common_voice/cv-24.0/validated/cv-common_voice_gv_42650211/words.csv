@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,Agh,1.14,1.32,aligned
+0,1,cha,1.32,1.41,aligned
+0,2,jean,1.41,1.65,aligned
+0,3,"eh,",1.65,1.86,aligned
+0,4,as,2.52,2.70,aligned
+0,5,cha,2.70,2.85,aligned
+0,6,vel,2.85,3.03,aligned
+0,7,eh,3.03,3.30,aligned
+0,8,sauail,3.42,4.08,aligned
+0,9,dy,4.08,4.23,aligned
+0,10,chooilley,4.23,4.71,aligned
+0,11,wooinney,4.71,5.10,aligned
+0,12,peccoil.,5.10,5.64,aligned

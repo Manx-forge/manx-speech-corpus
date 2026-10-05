@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058328",
+  "name": "spein tey tea spoon",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/spein%20tey%20-tea%20spoon.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058328",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.46,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/spein%20tey%20-tea%20spoon.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

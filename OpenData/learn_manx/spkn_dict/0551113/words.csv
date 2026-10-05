@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,braew,0.15,0.48,aligned
+0,1,gura,0.48,0.69,aligned
+0,2,mie,0.69,0.99,aligned
+0,3,ayd,0.99,1.17,aligned

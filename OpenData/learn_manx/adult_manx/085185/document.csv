@@ -1,0 +1,304 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,fastyr mie and considered visions eshyn,0.79,3.61,asr,90
+,kiare lessoon jees hie,4.51,9.37,asr,82
+,hie mee hie mee,14.56,16.51,asr,100
+,aye went to the garden,19.24,20.77,asr,0
+,hie mee dys hie mee dys y gheyrey,29.20,33.10,asr,75
+,hie mee dys,43.36,44.65,asr,46
+,the echey hie mee dys y gharey echey,45.46,48.01,asr,52
+,yesterday hie mee dys sy gharey echey,52.33,62.32,asr,48
+,ga jea hie mee dys y gharey echey jeh,62.20,65.35,asr,88
+,hie dy yannoo goll,68.68,76.87,asr,36
+,yinnin goll dy,77.59,81.58,asr,100
+,yinnin goll dys y thie yinnin goll dys y thie,89.41,93.52,asr,100
+,just say hie house,95.08,97.39,asr,0
+,yinnin goll dys y thie eck,107.50,109.60,asr,100
+,goll dys y thie eck choud's,111.67,114.94,asr,32
+,yesterday yinnin goll dys,117.46,127.48,asr,48
+,yn thie eck agh hie mee jeh,127.33,130.33,asr,75
+,neeym goll dys y thie eck agh hie mee jeh dyn,131.95,137.77,asr,57
+,cha jagh mee cha jagh mee,143.29,146.02,asr,100
+,cha jagh mee dys schoill,157.24,159.52,asr,0
+,cha jagh mee dys schoill port st mary,160.42,165.91,asr,67
+,cha jagh mee dys scoill phurt le moirrey,176.14,179.26,asr,100
+,cha jagh mee dys scoill phurt le moirrey cha,180.58,202.24,asr,93
+,cha jagh mee dys scoill phurt le moirrey,202.12,205.18,asr,89
+,son va mee ching cha jagh mee dys scoill phurt le moirrey son va mee ching,205.93,211.69,asr,81
+,bowjys eh cha,214.21,232.87,asr,0
+,cha jagh mee dys scoill phurt le moirrey son,232.72,236.20,asr,90
+,bee ching cha jagh mee dys scoill phurt le moirrey son ta mee er ve jiu,237.07,241.90,asr,88
+,jagh oo jagh oo dys,250.36,254.29,asr,67
+,sy traie jagh oo dys y traie,262.96,266.14,asr,68
+,douglas beach jagh,269.83,279.79,asr,0
+,dys traie ghoolish jagh oo dys traie ghoolish,280.12,283.99,asr,77
+,jagh oo,299.20,299.77,asr,0
+,dys traie ghoolish fastyr jea,299.95,302.29,asr,76
+,jagh oo dys traie ghoolish fastyr jea hie,303.10,312.04,asr,100
+,hie yes,312.97,316.60,asr,46
+,hie agh cha jinnin goll reesht,328.18,331.57,asr,84
+,hie agh cha jeanym goll reesht hug,332.32,338.35,asr,74
+,jamys cephas,344.41,346.60,asr,100
+,jagh as magh jagh as magh,357.04,359.65,asr,81
+,yesterday jagh as magh,364.72,374.11,asr,0
+,neemayd as magh jea cha jagh,375.34,384.37,asr,55
+,cha jagh eh,385.03,388.06,asr,25
+,cha jagh agh neeym goll magh ny sanmee,400.21,404.38,asr,95
+,cha jagh agh neeym goll magh ny sanmee,405.01,407.38,asr,83
+,haink,421.12,421.27,asr,0
+,agh neeym goll dys y chiarn ny sanmee,422.56,424.99,asr,86
+,cha jagh neeym goll dys y chapp ny sanmee,425.59,427.90,asr,86
+,juan go,432.67,433.33,asr,21
+,nagh jagh juan nagh jagh juan,438.55,441.28,asr,66
+,dyn juan juan,445.27,455.62,asr,50
+,yn thie nagh jagh juan thie,455.50,457.75,asr,88
+,er lhiam dy jagh erlhiam dy jagh,467.23,470.38,asr,100
+,aye well shoh,472.78,474.43,asr,0
+,paare dy jagh agh cha nel mee shickyr,480.94,484.12,asr,80
+,erlhiam dy jagh agh cha nel mee shickyr now,485.05,492.76,asr,48
+,dy jagh agh cha nel mee shickyr c'raad t'eh nish,501.91,505.84,asr,100
+,erlhiam dy jagh agh cha nel mee shickyr c'raad t'eh nish,506.38,509.20,asr,98
+,jagh,521.05,521.41,asr,0
+,foddee dy jagh eh house,522.91,528.55,asr,50
+,bee dy jagh eh dys thie yamys,538.96,541.78,asr,74
+,foddee dy jagh eh dys thie yamys craad,543.10,558.34,asr,88
+,as hie ad c'raad hie ad,558.22,560.65,asr,81
+,craad hie ad jecrean,571.51,573.58,asr,72
+,c'raad hie ad jecrean wednesday morning,574.66,580.21,asr,44
+,hed moghrey jecrean moghrey jecrean,587.74,592.33,asr,67
+,probably went y lhig,596.38,606.97,asr,0
+,dy jagh ad dys purt ny hinshey,607.60,610.03,asr,67
+,t'eh licklee dy jagh ad dys purt ny hinshey,611.20,613.24,asr,100
+,v'eh probably juan,615.79,618.31,asr,56
+,liklee dy jagh ad dys purt ny hinshey dy akin juan,627.61,632.11,asr,85
+,t'eh licklee dy jagh ad dys purt ny hinshey dy akin juan,633.10,635.83,asr,100
+,bird honnick mee ushag,639.82,648.13,asr,29
+,honnick mee ushag bird,648.70,653.26,asr,100
+,honnick mee ushag vooar honnick mee ushag vooar,660.76,664.21,asr,100
+,gow-jee sea is soar y big bird latthan,665.86,668.92,asr,0
+,honnick mee washag vooar garaghtee,676.27,678.76,asr,94
+,honnick mee ushag vooar gearaghtee garden,679.66,687.37,asr,80
+,honnick mee washag vooar sy gharey,694.27,697.42,asr,65
+,honnick mee washag vooar ayns y gharey,698.41,700.69,asr,73
+,honnick mee,714.22,714.76,asr,36
+,mee washag vooar sy gharey aym,714.61,717.55,asr,48
+,honnick mee ushag vooar gearaghtee ayns y gharey aym,718.48,720.91,asr,100
+,goll magh yinnin goll magh,733.18,737.23,asr,88
+,brie surrey big bird latinyn,742.24,744.52,asr,24
+,goll magh honnick mee,754.96,757.42,asr,84
+,but geraghtee ayns y gharey yinnin goll magh,758.41,762.40,asr,80
+,honnick mee washag vooar gearaghtee ayns y gharey,763.15,765.61,asr,84
+,myr yinnin,772.51,786.82,asr,0
+,yn goll magh honnick mee ushag mooar,786.82,791.05,asr,78
+,as cha nel mee laccal nish yinnin goll magh agh honnick mee ushag vooar gearaghtee ayns y gharey aym as cha nel mee laccal nish,793.54,802.18,asr,100
+,cheet ass coo,804.94,817.18,asr,0
+,red erbee red erbee,817.24,819.55,asr,68
+,but ass the just see anything gyn ny,821.35,823.78,asr,0
+,vac oo red erbee ayns y thie,832.81,834.76,asr,90
+,red erbee ayns y thie house,835.84,840.94,asr,61
+,sy thie eck red erbee ayns y thie eck,852.46,855.58,asr,72
+,yes honnick,857.50,861.10,asr,0
+,honnick eh,862.18,864.85,asr,45
+,duirrey little pig honnick,866.50,874.72,asr,0
+,honnick mee muc honnick honnick mee muc,875.35,878.95,asr,91
+,pig living on my patio,884.56,887.35,asr,32
+,honnick honnick mee muc veg,897.01,899.77,asr,100
+,garaghtee honnick honnick mee muc beg garaghtee er y diu,900.46,906.37,asr,75
+,chouds shoh,908.47,911.26,asr,0
+,nuy ushag honnick oo ny ushag honnick oo,919.36,922.48,asr,88
+,cha nee cha nee,929.35,931.93,asr,100
+,the little pig shoh cha,936.28,947.29,asr,0
+,cha nee she muc veg honnick mee,947.17,950.62,asr,65
+,bea she muc veg honnick mee shoh,951.70,957.97,asr,47
+,it was on the patio cha nee,958.96,969.49,asr,0
+,she muc veg honnick mee fei-yerrey foddee oo,970.00,973.54,asr,93
+,cha nee she muc honnick mee fei-yerrey patio,974.44,977.14,asr,84
+,bee veih jannoo c'red v'ou jannoo,986.50,988.90,asr,86
+,it was joe kingyn latin spotcheraght,992.89,1003.33,asr,61
+,as gearaghtee spotcheraght as gearaghtee,1003.36,1006.93,asr,72
+,ta juan juan c'raad v'ou juan,1009.78,1019.32,asr,56
+,went in douglas erlhiam dy jagh,1024.12,1034.50,asr,22
+,dys doolish erlhiam dy jagh eh dys doolish,1034.83,1038.34,asr,83
+,honnick eh,1049.86,1050.64,asr,8
+,kionnaghey honnick,1051.78,1064.11,asr,7
+,te ayns shen honnick,1064.23,1066.99,asr,77
+,yn goll,1072.81,1073.44,asr,0
+,er lhiam dy foillan,1082.20,1084.45,asr,70
+,ferlhien dy vaghey phoillan hie,1086.04,1091.62,asr,56
+,er lhiam dy vaik eh foillan ny jees,1102.27,1105.33,asr,76
+,erlhiam dy vaghey foillan ny jees gowjee sea,1106.35,1110.79,asr,98
+,too laxey ny bee erlhiam dy vaik eh fo,1112.77,1126.81,asr,0
+,foillan ny jees garaghtee er y traie,1126.63,1129.66,asr,86
+,erlhiam dy vaghey foillan ny jees garaghtee er y traie,1131.13,1134.16,asr,98
+,walk walk muc,1145.59,1165.21,asr,0
+,paitcheyder va muc cha vaik,1165.21,1174.30,asr,30
+,cha vaik eh now,1174.90,1178.26,asr,100
+,cha vaik honnick eh daa,1187.65,1190.59,asr,100
+,cha va honnick y daa ooilleyn cho just say,1191.94,1198.18,asr,63
+,hug mee shilley er,1212.61,1213.96,asr,78
+,juan hug mee shilley er juan,1218.31,1227.82,asr,86
+,hug mee shilley er juan juan ny,1228.57,1233.13,asr,74
+,hug mee shilley er juan moghrey jiu,1241.02,1243.75,asr,100
+,hug mee shilley er juan moghrey jiu just say,1244.62,1249.06,asr,74
+,hie mee dys doolish,1256.05,1257.64,asr,37
+,hie mee dys doolish eh,1258.15,1261.30,asr,84
+,ta juan hie mee dys doolish as hug mee shilley,1263.88,1274.17,asr,93
+,juan hie mee dys doolish as hug mee shilley er juan,1274.65,1278.61,asr,84
+,the juan this morning hie,1282.36,1293.31,asr,0
+,hie mee dys doolish as hug mee shilley er juan moghrey jiu,1293.19,1297.18,asr,100
+,hie mee dys doolish as hug mee shilley er juan moghrey jiu,1298.44,1301.11,asr,100
+,bee dty chiggin back oo yn chiark,1304.77,1313.83,asr,0
+,yn chiark as cheddin,1315.45,1320.37,asr,33
+,yn chiark echey,1332.91,1333.84,asr,13
+,raad chiggin echey,1337.38,1347.88,asr,0
+,honnick,1356.64,1357.09,asr,0
+,honnick eh,1357.96,1360.48,asr,100
+,the garden honnick,1362.04,1370.47,asr,0
+,veih ayns y gharey honnick,1371.07,1373.80,asr,100
+,the garden honnick,1379.02,1389.88,asr,0
+,veih ayns y gharey tra va mee loayrt rish,1390.57,1393.21,asr,83
+,honnick veih ayns y gharey tra va mee loayrt rish,1394.23,1396.39,asr,98
+,stoo,1400.95,1401.31,asr,0
+,lurg goo bee jee bee-jee,1411.00,1414.00,asr,23
+,sy yiass hug,1416.34,1420.30,asr,14
+,hug hug just say,1421.35,1424.29,asr,40
+,neesht hie david y text,1424.77,1427.11,asr,0
+,bee t'ec jee hug hug mee toig jee,1439.23,1442.83,asr,0
+,hug mee ny jees jee,1459.36,1461.61,asr,63
+,hug mee t'ec ny jees jee jiu,1463.08,1466.59,asr,59
+,choud's eh jiu,1479.04,1481.41,asr,12
+,ren ee gee ad yes,1492.81,1499.14,asr,38
+,ren ren choud's eh,1502.53,1506.25,asr,20
+,and then it was as,1507.93,1518.85,asr,0
+,as eisht ren ee ren,1518.64,1521.91,asr,48
+,bree juan,1523.44,1529.05,asr,33
+,dug oo red erbee da juan,1537.48,1539.73,asr,81
+,dy red erbee da juan juan,1540.45,1546.48,asr,40
+,dug oo red erbee da juan tra v'ou ayns shen,1559.38,1562.92,asr,93
+,foddey red erbee da juan tra v'ou cha dug,1564.06,1572.76,asr,51
+,cha dug tindin,1573.57,1580.05,asr,65
+,go to cha,1581.28,1592.23,asr,0
+,cha dug cur t'ec ny jees da,1592.08,1597.36,asr,67
+,cha dug ny jees da,1598.38,1601.32,asr,50
+,hie was in the giarey my t'ou,1605.07,1606.93,asr,31
+,the chicken cha,1609.12,1623.16,asr,0
+,cha dug va foym cur t'ec ny jees daa,1622.92,1627.45,asr,53
+,hug mee ad da'n chiark cha dug,1628.29,1631.74,asr,87
+,t'eh ny jees da hug mee ad da'n chiark,1632.55,1635.70,asr,79
+,into as chicken cha,1642.81,1656.43,asr,0
+,cha dug va foym cur t'eh ny jees da,1656.19,1660.72,asr,57
+,hug mee ad da'n chiark echey cha dug cur toig t'ad ny jees daa hug mee ad dooin,1661.53,1668.31,asr,62
+,the chicken like the t'eh black,1673.80,1688.92,asr,0
+,black lesh yn chiark dys ching yn,1692.58,1699.18,asr,70
+,pishin chiark echey ny black lesh yn chiark echey ny,1711.51,1715.83,asr,51
+,hie so black,1719.55,1730.50,asr,0
+,bare lhiam dy black so,1731.16,1735.60,asr,32
+,black,1749.70,1750.21,asr,0
+,veih jeeaghyn maynrey ansherbee,1751.17,1753.39,asr,100
+,erlhiam dy black va jeeaghyn maynrey ansherbee,1754.50,1757.26,asr,89
+,yn daa,1765.03,1779.13,asr,0
+,yuan yuan,1779.58,1782.55,asr,0
+,howjagh as dy geearree t'eh t'ayns juan's,1784.41,1787.80,asr,46
+,dug oo toig erbee da moddey yuan,1798.00,1801.21,asr,51
+,foddey yuan cha dug,1803.88,1814.32,asr,42
+,cha dug eh,1815.34,1817.92,asr,100
+,dynsee as dob cha,1819.18,1830.10,asr,0
+,cha dug cha vaik mee yn moddey echey,1829.89,1832.65,asr,71
+,cha vaik mee yn moddey echey giivit,1834.18,1842.19,asr,41
+,cha dug cha vaik mee yn moddey echey,1859.65,1862.62,asr,89
+,as cha jinnin cur yn daa ansherbee,1863.25,1866.67,asr,86
+,cha dug cha vaik mee yn moddey echey as cha jeanym cur t'eh chyndaa ansherbee,1868.08,1872.67,asr,83
+,t'eh cheet,1878.94,1881.37,asr,0
+,cha vaik mee yn moddey echey as cha jinnin cur t'eh chyndaa ansherbee,1894.78,1899.67,asr,92
+,son cha laik lhiam cha dug cha vaik mee yn moddey echey as cha jeanym cur,1900.42,1906.96,asr,91
+,ansherbee son cha laik lhiam,1907.77,1909.57,asr,77
+,just say now hie,1911.64,1914.58,asr,0
+,bwoaie it's too angry,1918.06,1921.51,asr,41
+,cha dug cha vaik mee yn moddey echey,1935.49,1938.52,asr,72
+,as cha jinnin cur yn daa ansherbee,1939.36,1942.39,asr,81
+,son cha laik lhiam eh t'eh ro chorree,1942.99,1945.72,asr,100
+,cha dug cha vaik mee yn moddey echey as cha jeanym cur,1947.25,1950.61,asr,85
+,yn daa ansherbee son cha laik lhiam eh t'eh ro chorree,1951.09,1954.75,asr,77
+,craa thieys cre thieys,1966.36,1968.82,asr,71
+,yesterday c'raad hie as jeh,1972.15,1980.64,asr,37
+,cre thie as jeh eh,1981.60,1985.20,asr,0
+,castletown hie mee dys balley chashtal,1985.86,1994.68,asr,67
+,hie mee dys balley chashtal castletown,1995.46,2000.44,asr,100
+,oh,2001.85,2002.00,asr,0
+,hie mee dys balley chashtal dy akin breeshey as jonee,2014.69,2018.83,asr,100
+,hie mee dys balley chashtal dy akin breeshey as jonee,2020.00,2022.76,asr,100
+,choud's eh castletown dys breeshey yn jonee,2024.08,2027.59,asr,81
+,hie mee dys balley chashtal dy akin breeshey as jonee,2043.52,2047.54,asr,100
+,va mee laccal red ennagh eu,2048.59,2050.96,asr,77
+,hie mee dys balley chashtal dy akin breeshey as jonee va mee laccal red ennagh diu,2052.25,2056.87,asr,93
+,s'mie shen that's good,2063.77,2069.62,asr,52
+,s'mie shen cree hug oo daue,2080.09,2083.36,asr,100
+,s'mie shen hug oo daue,2084.44,2086.66,asr,90
+,cha dug mee red erbee daue,2101.27,2103.25,asr,100
+,well cha dug mee red erbee daue haink,2104.06,2109.22,asr,46
+,cha dug mee red erbee daue,2120.83,2122.78,asr,85
+,son cha row ad ayns shen well cha dug mee red erbee daue son shen,2123.50,2129.17,asr,78
+,howl ass dy jus see va,2131.96,2134.78,asr,60
+,vaik oo yn cabbyl oc va oo yn cabbyl oc,2144.11,2148.01,asr,53
+,tra v'ou ayns shen va oo yn cabbyl oc tra,2163.70,2167.36,asr,75
+,honnick honnick,2174.53,2176.51,asr,100
+,yes honnick,2179.54,2190.85,asr,0
+,veih lioar vooar honnick v'eh lhaih lioar vooar,2192.23,2196.13,asr,88
+,yiass it was reading y big book on the patio,2198.86,2202.43,asr,49
+,honnick v'eh lhaih lioar feayr er y phartee,2211.88,2215.30,asr,91
+,honnick v'eh lhaih lioar vooar er y phartee oo,2216.29,2218.84,asr,85
+,s'mie shen s'mie shen,2227.03,2229.28,asr,100
+,sea is good s'mie,2230.75,2243.92,asr,0
+,mie shen quoi hug yn lioar da,2243.71,2247.52,asr,55
+,s'mie shen hug yn lioar da,2248.42,2250.94,asr,65
+,well,2254.93,2255.05,asr,0
+,cha vel fys ayd quoi hug yn lioar da,2267.95,2271.88,asr,89
+,s'mie shen vel fys ayd quoi hug yn lioar da,2272.72,2275.00,asr,86
+,breeshey probably david juan,2278.99,2281.57,asr,86
+,bee liklee dy dug da,2293.00,2296.48,asr,18
+,t'eh licklee dy dug eh,2297.53,2302.03,asr,65
+,breeshey probably david liklee,2302.66,2317.48,asr,50
+,bee dy dug da agh cha nel fys aym,2317.36,2320.93,asr,71
+,t'eh licklee dy dug da well,2322.25,2333.89,asr,43
+,vel fys ayd vel fys ayd vel,2333.77,2349.61,asr,57
+,vel fys ayd jiass jonee fisher jonee,2349.46,2353.54,asr,49
+,vel fys ayd jagh,2366.83,2368.12,asr,0
+,agh jonee dys y traie jagh jonee dys y traie,2367.94,2372.02,asr,68
+,with jonee ayns y bee chionn saturday jagh,2375.74,2389.45,asr,0
+,jonee dys y traie jesarn jagh jonee dys y traie jesarn,2389.30,2394.52,asr,72
+,sy yiass ta,2396.65,2401.48,asr,0
+,ta ta,2402.56,2416.27,asr,100
+,honnick yee ta honnick mee,2416.84,2419.57,asr,93
+,yiass hie soareyder plaiynt cammag,2422.24,2425.57,asr,69
+,ta honnick mee ayns shen cloie cammag,2439.79,2443.42,asr,100
+,ta honnick mee cloie cammag,2444.44,2446.93,asr,100
+,yes soareyder plain cammag,2449.27,2452.57,asr,85
+,ta honnick mee ee ayns shen cloie cammag,2465.38,2469.37,asr,100
+,tra ta mee shooyl dys y chiarn ta honnick mee cloie cammag tra va mee shooyl dys y chapp,2469.97,2476.66,asr,95
+,with breeshey raauee cloie marish breeshey,2481.49,2491.33,asr,86
+,quoi marish breeshey chouds,2492.89,2495.53,asr,86
+,cha row cha row hie,2500.12,2505.97,asr,59
+,haink breeshey with play cammag cha,2506.57,2518.27,asr,0
+,cha row eh nagh jinnagh breeshey cloie cammag,2518.06,2522.77,asr,78
+,cha row nagh jinnagh breeshey cloie,2524.09,2526.76,asr,75
+,hie breejey play cammag ayn ny,2531.08,2533.33,asr,51
+,cha row erlhien nagh jean eh,2543.50,2546.47,asr,76
+,da cloie cammag er y traie cha row,2547.13,2551.09,asr,90
+,nagh jinnagh breeshey cloie cammag er y traie,2551.81,2554.15,asr,87
+,play cammag aym erbee cha,2558.80,2560.12,asr,0
+,cha row er lhiam nagh jinnagh breeshey cloie cammag er y traie edyr,2572.09,2577.46,asr,73
+,cha row erlhien nagh jinnagh breeshey cloie cammag er y traie edyr,2578.75,2582.35,asr,73
+,wood play cammag aym erbee cheetal cha,2586.19,2601.37,asr,31
+,cha row erlhien nagh jinnagh breeshey cloie cammag er y traie edyr,2601.13,2605.96,asr,69
+,lhaih lioaryn cha row,2607.43,2610.16,asr,81
+,pian nagh jinnagh breeshey cloie cammag er y traie eddyr,2610.85,2613.55,asr,88
+,lhaih lioaryn cheet,2614.81,2622.31,asr,28
+,she prefers reading book son my patio,2623.06,2625.52,asr,97
+,cha row erlhien nagh jinnagh breeshey cloie cammag tryeyder,2638.24,2644.12,asr,78
+,share lhaih lioaryn er y phartee oo,2644.84,2647.69,asr,75
+,cha row er lhiam nagh jinnagh breeshey cloie cammag er y traie eddyr share lhaih lioaryn er y radio,2649.37,2655.55,asr,84
+,now breeshey play cammag aym erbee cheet,2658.01,2661.40,asr,73
+,she prefers reading son ny patio t'ou uss,2662.24,2665.69,asr,70
+,cha row er lhiam nagh jinnagh breeshey cloie cammag er y traie,2678.68,2684.08,asr,98
+,share lhaih lioaryn er y phaitt diu marish y chabbyl eck,2685.01,2689.60,asr,87
+,er lhiam nagh jinnagh breeshey cloie cammag er y traie eddyr,2691.40,2694.10,asr,97
+,lhaih lioaryn er y radio marish yn chabbal eck,2695.18,2697.61,asr,96

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056970",
+  "name": "boght poor",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/boght%20-%20poor.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056970",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/boght%20-%20poor.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

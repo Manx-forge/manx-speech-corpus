@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42628947",
+  "name": "Mannagh vod shiu gobbraghey t'eh lowit diu dy hooyl er ny Creesteenyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42628947",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.588,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

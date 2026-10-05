@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,"Cur-my-ner,",0.96,1.62,aligned
+0,1,yinnin,2.10,2.43,aligned
+0,2,eisht,2.43,2.73,aligned
+0,3,cosney,2.76,3.24,aligned
+0,4,roym,3.24,3.63,aligned
+0,5,foddey,3.63,4.02,aligned
+0,6,jeh:,4.02,4.47,aligned
+0,7,as,4.86,5.07,aligned
+0,8,fuirraght,5.07,5.49,aligned
+0,9,ayns,5.49,5.67,aligned
+0,10,yn,5.67,5.79,aligned
+0,11,aasagh.,5.79,6.36,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42175",
+  "name": "Kys oddagh oo çheet dy ve dty charrey da peiagh gyn çhengey t'ayd?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42175",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 31.14,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

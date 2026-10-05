@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457508",
+  "name": "Dy ve coonsheansagh jeh jannoo dy mie ta cur lesh y leagh hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457508",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.676,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

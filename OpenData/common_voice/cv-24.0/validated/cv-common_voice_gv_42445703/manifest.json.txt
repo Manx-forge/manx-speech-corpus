@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445703",
+  "name": "As myr shoh hig shiuish dy ve son feanishyn dooys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445703",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.176,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

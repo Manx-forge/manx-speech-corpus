@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,teh,0.00,0.27,aligned
+0,1,bunnys,0.27,0.66,aligned
+0,2,shey,0.66,1.14,aligned

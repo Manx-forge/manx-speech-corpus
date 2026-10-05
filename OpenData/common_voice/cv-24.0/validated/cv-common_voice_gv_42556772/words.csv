@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,T'eh,1.11,1.29,aligned
+0,1,yn,1.29,1.41,aligned
+0,2,cair,1.41,1.80,aligned
+0,3,ainyn,1.80,2.22,aligned
+0,4,dy,2.22,2.37,aligned
+0,5,ve,2.37,2.61,aligned
+0,6,er,2.61,2.76,aligned
+0,7,nyn,2.76,2.97,aligned
+0,8,"arrey,",2.97,3.33,aligned
+0,9,farkiagh,3.81,4.32,aligned
+0,10,son,4.32,4.53,aligned
+0,11,ordrail,4.53,5.13,aligned
+0,12,yn,5.13,5.25,aligned
+0,13,Mainshter.,5.25,5.88,aligned

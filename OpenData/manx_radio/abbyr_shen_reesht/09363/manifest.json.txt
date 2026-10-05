@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09363",
+  "name": "Abbyr Shen Reesht - Say That Again 23ss Mee Luanistyn - 2026 - August 23rd",
+  "createdCircaStart": "2026-08-23",
+  "createdCircaEnd": "2026-08-23",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-23ss-mee-luanistyn-2026-august-23rd/",
+  "platform": "manx_radio",
+  "resource_id": "09363",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 793.0,
+  "deep_link": "https://episodes.captivate.fm/episode/0d63a26d-0e88-47bd-949b-fc4dd9bd9a00.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

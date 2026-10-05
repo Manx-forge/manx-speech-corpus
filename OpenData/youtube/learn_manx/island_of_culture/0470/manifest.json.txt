@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0470",
+  "name": "S'mie lhiam Creneash agh cha nel monney shappyn ayns shoh",
+  "source": "https://www.youtube.com/watch?v=klCEE-Gz9VI",
+  "platform": "youtube",
+  "resource_id": "0470",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.22,
+  "deep_link": "https://www.youtube.com/watch?v=klCEE-Gz9VI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

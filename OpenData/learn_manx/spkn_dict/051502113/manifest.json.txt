@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051502113",
+  "name": "Vel Cummins feer tappee er y clieau?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051502113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.15,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

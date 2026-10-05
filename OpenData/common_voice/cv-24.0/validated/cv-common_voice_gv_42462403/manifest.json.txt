@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42462403",
+  "name": "Shoh'n ommijys oc, as ta nyn sluight moylley yn raa oc.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42462403",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.048,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

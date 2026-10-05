@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,laa,0.09,0.30,aligned
+0,1,yn,0.30,0.45,aligned
+0,2,ratch,0.45,0.84,aligned
+0,3,mooar,0.84,1.26,aligned

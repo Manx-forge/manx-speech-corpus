@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085276",
+  "name": "Yn Cholloo: Quoi s'lesh y phurt, ansherbee?",
+  "source": "https://www.youtube.com/watch?v=KxT5O8Xadxk",
+  "platform": "youtube",
+  "resource_id": "085276",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 142.85,
+  "deep_link": "https://www.youtube.com/watch?v=KxT5O8Xadxk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42661413",
+  "name": "Eisht dirree ooilley ny moidjynyn shen, as hooar ad aarloo nyn lampyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42661413",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.76,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

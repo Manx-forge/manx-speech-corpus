@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446064",
+  "name": "Quoi-erbee smaghtys e veeal, as e hengey, t'eh freayll e annym veih seaghyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446064",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.688,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

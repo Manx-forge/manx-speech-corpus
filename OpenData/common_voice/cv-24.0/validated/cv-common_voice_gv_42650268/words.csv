@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,Eisht,0.63,0.93,aligned
+0,1,nee,0.93,1.08,aligned
+0,2,yn,1.08,1.20,aligned
+0,3,chloan,1.20,1.62,aligned
+0,4,chairagh,1.65,2.22,aligned
+0,5,soilshean,2.31,2.88,aligned
+0,6,magh,2.88,3.21,aligned
+0,7,myr,3.21,3.45,aligned
+0,8,y,3.45,3.54,aligned
+0,9,"ghrian,",3.57,3.90,aligned
+0,10,ayns,4.50,4.71,aligned
+0,11,reeriaght,4.71,5.31,aligned
+0,12,nyn,5.31,5.52,aligned
+0,13,ayrey.,5.52,5.88,aligned

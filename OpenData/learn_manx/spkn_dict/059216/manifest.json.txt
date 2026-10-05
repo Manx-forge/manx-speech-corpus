@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059216",
+  "name": "pryssoon prison",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20town/pryssoon%20-%20prison.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059216",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.84,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20town/pryssoon%20-%20prison.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

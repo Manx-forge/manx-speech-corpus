@@ -1,0 +1,16 @@
+line,idx,word,start,end,status
+0,0,Kys,0.96,1.23,aligned
+0,1,t’ou,1.23,1.65,aligned
+0,2,ansherbee,1.65,2.19,aligned
+0,3,?,,,unaligned
+0,4,anyway,2.19,2.40,aligned
+0,5,?,,,unaligned
+0,6,Cha,3.27,3.36,aligned
+0,7,nel,3.36,3.51,aligned
+0,8,mee,3.51,3.66,aligned
+0,9,ro-olk,3.66,4.20,aligned
+0,10,.,,,unaligned
+0,11,C’raad,5.64,6.39,aligned
+0,12,t’ou,7.95,8.31,aligned
+0,13,cummal,12.30,12.63,aligned
+0,14,nish?,12.63,13.08,aligned

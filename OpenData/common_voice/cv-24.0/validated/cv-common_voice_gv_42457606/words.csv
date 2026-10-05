@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""Haink",1.05,1.35,aligned
+0,1,yn,1.35,1.47,aligned
+0,2,ven,1.47,1.77,aligned
+0,3,thie,1.77,2.16,aligned
+0,4,kione,2.16,2.49,aligned
+0,5,"feanish,",2.52,3.15,aligned
+0,6,"""""Vel",4.80,5.01,aligned
+0,7,red,5.01,5.22,aligned
+0,8,erbee,5.22,5.64,aligned
+0,9,eu,5.64,5.82,aligned
+0,10,foddym,5.82,6.21,aligned
+0,11,"lhaih?""""",6.21,6.69,aligned
+0,12,dooyrt,6.99,7.23,aligned
+0,13,"ee.""",7.23,7.50,aligned

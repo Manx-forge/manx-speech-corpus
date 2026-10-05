@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42663069",
+  "name": "Kiartee seose dty veeghyn nish myr dooinney: feysht-ym oo, as soilshee uss dooys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42663069",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.488,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

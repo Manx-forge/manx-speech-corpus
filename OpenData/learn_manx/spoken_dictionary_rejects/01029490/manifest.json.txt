@@ -1,0 +1,14 @@
+{
+  "ident": "speech-01029490",
+  "name": "learn_manx 01029490",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "01029490",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 17.5,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

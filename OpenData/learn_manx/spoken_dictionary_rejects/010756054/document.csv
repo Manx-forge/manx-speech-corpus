@@ -1,0 +1,35 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,magh tree,2.71,4.72,asr,0
+,ronnaghyn nane gys nane-jeig,5.32,7.75,asr,100
+,as hie eh reesht stiagh ayns y synagogue,9.31,12.22,asr,100
+,as va dooinney ayns shen lesh laue shirgit,12.97,16.42,asr,100
+,as va sooill oc er dy yeeaghyn jinnagh eh eh y lheihys er laa yn doonaght,18.01,25.18,asr,100
+,dy voddagh oyr y ve oc dy phlaiynt noi,25.93,29.29,asr,100
+,as dooyrt eh rish y dooinney lesh y laue shyrgit,30.64,34.36,asr,100
+,shass magh as dooyrt eh,35.20,37.87,asr,100
+,vel eh lowal dy yannoo mie er laghyn y doonaght,39.82,43.48,asr,100
+,ny dy yannoo olk dy hauail bioys,44.11,47.77,asr,100
+,ny dy stroie eh agh v'adsyn nyn dhost,48.46,52.09,asr,100
+,as tra v'eh er yeeaghyn mygeayrt orroo lesh corree,53.17,56.86,asr,100
+,v'eh seaghnit son creoghys nyn greeaghyn,57.73,60.82,asr,100
+,as dooyrt eh rish y dooinney sheeyn magh dty laue,61.78,65.71,asr,100
+,as heeyn eh magh ee as va e laue er ny laanaghey,66.82,71.59,asr,100
+,myr y laue elley as hie ny phariseeyn magh,72.13,76.66,asr,91
+,as chelleeragh ghow ad hene,77.26,80.23,asr,82
+,as ny herodianee coyrle n'oi,80.86,84.70,asr,100
+,kys oddagh ad eh y stroie,85.96,88.24,asr,100
+,as hie yeesey dy lhiattee marish e ynseydee,90.10,93.37,asr,89
+,gys ny marrey as deiyr earrooyn mooarey dy leih er veih galilee as veih,94.03,101.41,asr,91
+,as veih jerusalem as veih idumea,103.87,107.32,asr,91
+,as veih'n cheu elley dy yordan,108.22,110.29,asr,100
+,as adsyn mygeayrt tyre as sidon earroo mooar,110.89,114.73,asr,100
+,tra cheayll ad cre ny reddyn yindyssagh,115.66,118.54,asr,100
+,v'eh er n'yannoo haink ad huggey,119.56,121.63,asr,100
+,as loayr eh rish e ynseydee,122.92,124.93,asr,100
+,lhong veg dy ve aarloo erehon kyndagh rish y pobble,126.10,130.42,asr,81
+,son nagh jinnagh ad chionney stiagh,131.50,133.54,asr,100
+,son v'eh er laanaghey ymmodee ayns wheesh as dy row ad chionney stiagh huggey,135.67,140.62,asr,97
+,dy ventyn rish whilleen as va dourinagh,141.61,145.51,asr,100
+,as ny spyrrydyn neu-ghlen tra honnick ad eh,146.95,150.55,asr,100
+,huitt ad sheese kiongoyrt rish,151.42,153.82,asr,100
+,as dyllee ad gra she mac yee oo,154.45,157.99,asr,100

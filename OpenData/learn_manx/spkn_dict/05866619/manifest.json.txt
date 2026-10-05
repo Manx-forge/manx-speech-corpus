@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866619",
+  "name": "mac-shayrey nephew (sister's son)",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Nephew%20Son%20of%20Sister.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866619",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.79,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_Nephew%20Son%20of%20Sister.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

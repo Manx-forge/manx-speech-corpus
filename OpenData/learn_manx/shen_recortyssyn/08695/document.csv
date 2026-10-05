@@ -1,0 +1,94 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,dwoaieid s'jerree ta shen yn aght ta,0.24,2.49,asr,97
+,ta ta ny lettyryn scruit,4.60,7.63,asr,92
+,myr sampleyr ta'n tee jeeaghyn er cadjin dy liooar tra ta mee printit agh my ta sleih,9.37,15.82,asr,91
+,screeu sheese eh jeeaghyn gollrish yn aym ain,16.51,20.17,asr,89
+,as ta shen yn abbyrlhit ooilley,21.16,23.23,asr,28
+,screeuit sheese jeeaghyn gollrish mastey ny red ennagh,23.77,28.18,asr,98
+,agh nish ta cohirrey ayn,30.88,33.70,asr,100
+,va peiagh erbee cur cheb er shoh cloie liorish ta ny,35.89,40.84,asr,86
+,ny pabyryn shoh vod peiagh erbee cur cheb er,43.27,47.05,asr,93
+,yn yn fer shoh quoi yn dooinney shoh,48.34,50.44,asr,100
+,ta shen kiart as eeastarrane noa yn roosh,54.25,58.09,asr,70
+,as nish as fer elley,58.99,61.99,asr,100
+,veih crebee ta ta shen kiart neesht,62.86,66.31,asr,25
+,yn sanmee derrey as,68.98,71.86,asr,0
+,yn fer shoh she,72.49,76.03,asr,75
+,she cheet as,76.63,80.14,asr,0
+,shoh she she boirey,81.07,86.71,asr,0
+,roish my vees shiu graihagh,90.49,94.99,asr,50
+,er bluckan coshey foddee dy bee fys er shoh,95.44,99.40,asr,92
+,shen kiart as yn fer sjerree,102.40,108.97,asr,97
+,er fa feer ardghooagh ta shen kiart,109.57,115.33,asr,85
+,yn as ta'n ennym shoh my ta fys eddyr gaelg,118.78,124.15,asr,76
+,er y fa dy vel yn ennym stalin,125.35,127.39,asr,100
+,ta'n bun jeh dooinney jeant jeh stalin,128.08,130.90,asr,100
+,skeeal mayrn cha nel mee shickyr vel eh kiaull dy firrinagh ayn nagh vel eh,132.25,136.72,asr,82
+,vel in y chliass agh,137.29,139.33,asr,80
+,keead blein lurg peddyr mooar haink va lettyraght rooshagh my vlaa fy yerrey lesh obbyr aleksandr pooisheeyn,141.13,149.29,asr,100
+,v'eshyn bard as screeudeyr va corrym rish,151.09,154.45,asr,95
+,shakespeare ayns baarle mygeayrt ayns germaanish agh va for elley er lettyraght,155.05,160.48,asr,88
+,gollrish ny goll er screeu anmeenyn marroo,162.70,167.17,asr,85
+,turkinagh screeu eshyn cloan y saraghyn,168.70,173.17,asr,86
+,foddey dostey erskyn screeu eshyn loght as kerraghey as tolstoy ta mee gobbyr dy loayrt mychione eshyn,174.10,181.84,asr,82
+,michal david tolstoy foddee yn fer smoo ardghooagh ayns lettyr y chooish agh,185.20,190.36,asr,74
+,screeu eshyn caggey as shee as anna karenina as t'ad shen mastey ny hoorskeealyn smoo lesh y daa jeh'n ockle,190.69,200.14,asr,90
+,ayns y theihll dooyrt henry james dy row caggey as shee,200.95,206.02,asr,96
+,bannee mainster agh ny-yeih,207.43,210.70,asr,62
+,va focklyn kenjal echey neesht dooyrt eh ta tolstoy ny ghless-huarystal cha mooar as logh dooghyssagh ny vuggane ta kianglt rish y chooish vooar,211.48,221.80,asr,92
+,ooilley bioys sheelnaue as dy jarroo she ooilley bioys sheelnaue ta ry gheddyn ayns ny lioaryn echey veih ny coontaghyn s'firrinee jeh caggaghyn dy row rieau scruit,222.25,232.30,asr,96
+,gys coontaghyn jeh bea dagh laa yn theay er y thalloo,233.29,236.11,asr,61
+,va tushtey echey jeh creeaghyn as aignaghyn mraane as deiney ta dy bollagh gyn mac-soylley,236.95,242.86,asr,100
+,as cha row eh goaill aggle dy chremey as dy gheyrey,243.73,246.37,asr,65
+,yn sheshaght aynjee v'eh ruggit,246.91,248.89,asr,72
+,as marish shen v'eh goaill y reesht jeh ny kimmee as ny streebee sinshley,250.09,255.10,asr,95
+,va tolstoy ruggit ayns mean y roosh,257.35,260.05,asr,100
+,sy vlein hoght cheead jeig hoght as feed as hie ee gys ollooscoill cassan dy yannoo studeyrys er chengaghyn,260.41,268.75,asr,100
+,as ga dy row aegid stroialtagh echey,270.31,272.38,asr,83
+,ren eh shirveish ayns y caggey ayns graih meer as ayns shen,272.86,276.58,asr,85
+,screeu eh skeealyn sy mastey pobble hug er y hoshiaght y ghoo mie myr ughtar,277.18,282.07,asr,79
+,bayr as ayns hoght cheead jeig tree feed as jeih,285.64,288.79,asr,89
+,tree feed as jees as va three paitchyn jeig,289.75,293.92,asr,100
+,echey agh va fy yerrey v'eh jeant magh liorish,294.49,299.14,asr,93
+,liorish bea yn lught-thie as hooar eh meanal as kiarail v'eh er ny ve shirrey ry foddey dy hraa as she she shoh vrasnee eshyn dy screeu ny hooar-skeealyn smoo echey,299.53,309.88,asr,87
+,smoo echey agh tra haink ee dy ve ny shinney va barrellyn feer quaagh echey hug eh feer da'n reiltys yn agglish sleih as,309.49,319.78,asr,91
+,thalloo lhieu as yn cairys,319.81,321.82,asr,67
+,va scarrey moiraghyn veih cloan deiney veih,322.48,326.23,asr,49
+,deiney veih mraane as cur er,326.92,331.12,asr,79
+,sleih aghtal shymley ersooyl ayns pryssoonyn as cur tead mysh mwannal fer erbee va shassoo seose son dy vel credjal ayn as she shoh vrasnee ersyn dy screeu,332.23,342.43,asr,91
+,yn irree seose reesht yn oorskeeal s'jerree echey,342.82,345.67,asr,89
+,ren eh screeu shen son possan crauee tranlaasit da geill y roosh,347.38,352.03,asr,82
+,as va,352.63,355.90,asr,57
+,v'eh charbaait veih'n agglish chair-chredjuagh,356.62,360.28,asr,89
+,agh cha blhoys da'n reiltys cur trubbyl da,360.79,363.55,asr,85
+,son dy row eh liorish y traa shen ennoil feiy ny cruinney,364.30,368.41,asr,100
+,ayns ayns ny bleeantyn s'jerree echey,369.49,371.59,asr,100
+,ren eh beaghey bioys neuchramp,371.92,374.20,asr,100
+,agh lesh y ven shoh,375.31,377.56,asr,16
+,va ish graihagh er ram souyrid as,378.58,382.33,asr,86
+,fy-yerrey lurg arganey reeish ren eh roie er-chea ayns,384.01,388.06,asr,96
+,nuy cheead jeig as jeih as hooar eh baase ayns vershoon beg raad-yiarn as ta shoh quaagh son,388.69,395.77,asr,92
+,son peiagh erbee ta lhaih anna karenina son dy vel,396.22,399.61,asr,91
+,geddyn baase ayns stashoon,400.96,402.49,asr,100
+,lurg roie ersooyl ren thousaneyn as thousaneyn dy feallagh pian,403.24,410.11,asr,88
+,cheet gys yn oanluckey echey agh,411.49,414.16,asr,88
+,ta'n lhieggeyder echey foast bio t'eh foast bio ayns ny ayns ny skeealyn echey ta gerjaghey as greinnaghey sleih feiy ny cruinney,415.90,423.43,asr,85
+,ta reddyn quaagh elley ayn ve kianlt rish e hug eh er bun sheshaght loayrtee astyr antoyrtyssagh ny feill,424.69,431.56,asr,96
+,as hug eh ayns ayns y vlein sjerree jehn vioys echey,433.39,438.19,asr,98
+,hug eh screeunyn gys dooinney aeg va veih'n injey va jannoo studeyrys syn affrick yiass,438.76,445.54,asr,96
+,fy-yerrey yinnagh y dooinney shoh goll erash gys yn injey as va'n ennym echey my handy scandi,447.04,452.71,asr,100
+,as t'eh veih tolstoy hooar eh yn chooid smoo jeh ny,453.40,457.15,asr,94
+,jeh ny smooinaghtyn echey mychione sassoo magh gyn niart as gyn caggey,458.14,461.98,asr,80
+,as hug eh er bun stayd colloo ayns ninsh ta foast ayn nish enmyssit stayd colloo tolstoy,463.15,469.60,asr,84
+,shiaght bleeaney lurg baase tolstoy,472.24,474.28,asr,100
+,yn chyndaa mygeayrt va'n sarey sy lught-thie currit ayns pryssoon ayns y catherine buird as eisht,475.84,483.25,asr,99
+,currit da baase as va'n boayl swales ee,483.94,487.78,asr,92
+,as yn agglish currit fo chosh agh nish,488.35,492.70,asr,100
+,ta mish goll erash gys ny fraueyn echey,493.33,495.64,asr,77
+,foddee son dy vel keeill noa er ve troggit,496.27,500.41,asr,69
+,ayns yn ynnyd raad hooar lught-thieyn michael as baase as ta ammys currit daue,501.73,507.58,asr,87
+,nish trooidmagh ny roosh mennuighey ny martyryn,508.12,511.81,asr,75
+,v'er hee oo ayns eh ayns yn oie shoh,512.20,514.36,asr,0
+,as cre erbee ta shiu smooinaghtyn mychione y roosh,515.80,522.16,asr,100
+,cha vod shiu agh cur geill jee,523.69,526.06,asr,79
+,as shen y jerrey gura mie eu son geaishtagh,527.41,531.82,asr,100

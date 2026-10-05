@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,quoid,0.15,0.39,aligned
+0,1,biggin,0.39,0.84,aligned
+0,2,ec,0.96,1.14,aligned
+0,3,tommy,1.14,1.59,aligned

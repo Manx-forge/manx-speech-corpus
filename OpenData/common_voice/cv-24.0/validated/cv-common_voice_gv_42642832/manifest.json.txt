@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42642832",
+  "name": "Kys ta coontey er ny choyrt jeh nyn ver-kionnee?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42642832",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.68,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

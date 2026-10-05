@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42465112",
+  "name": "Va'n Voir voght clashtyn ooilley ny goan oc.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42465112",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.752,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

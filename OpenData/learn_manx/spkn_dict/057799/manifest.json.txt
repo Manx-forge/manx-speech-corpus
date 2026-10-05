@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057799",
+  "name": "cullyran pumpkin",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/cullyran%20-%20pumpkin.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057799",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/cullyran%20-%20pumpkin.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

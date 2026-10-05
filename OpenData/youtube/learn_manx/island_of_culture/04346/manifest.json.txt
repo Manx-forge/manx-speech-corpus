@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04346",
+  "name": "Ta shoh Billey y Nollick yindyssagh",
+  "source": "https://www.youtube.com/watch?v=EQgvRc73ElE",
+  "platform": "youtube",
+  "resource_id": "04346",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.82,
+  "deep_link": "https://www.youtube.com/watch?v=EQgvRc73ElE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

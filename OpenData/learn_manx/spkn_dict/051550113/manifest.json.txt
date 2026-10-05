@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051550113",
+  "name": "Bare lhiam cummal ayns Doolish",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051550113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.03,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051847113",
+  "name": "Kys haink oo thie?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051847113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.61,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

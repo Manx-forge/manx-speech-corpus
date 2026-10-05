@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09290",
+  "name": "Abbyr Shen Reesht - Say That Again 16oo Mee Vayrt - 2025 - March 16th",
+  "createdCircaStart": "2025-03-16",
+  "createdCircaEnd": "2025-03-16",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-16oo-mee-vayrt-2025-march-16th/",
+  "platform": "manx_radio",
+  "resource_id": "09290",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1734.35,
+  "deep_link": "https://podcasts.captivate.fm/media/1442e92f-fe1f-442b-b213-e87b69066f71/Abbyr-Shen-Reesht-2025-03-16-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42669509",
+  "name": "Veagh e laue chiare fo my chione, as veagh e laue yesh mygeayrt-y-moom.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42669509",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.02,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

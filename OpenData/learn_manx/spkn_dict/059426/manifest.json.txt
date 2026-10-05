@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059426",
+  "name": "crankal knocking",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/crankal%20-%20knocking.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059426",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.2,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20verbs/crankal%20-%20knocking.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

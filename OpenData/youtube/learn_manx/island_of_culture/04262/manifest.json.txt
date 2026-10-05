@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04262",
+  "name": "Cha nel eh ceau sniaghtey ayns Purt ny h-Inshey jiu",
+  "source": "https://www.youtube.com/watch?v=BfOLfNazbc4",
+  "platform": "youtube",
+  "resource_id": "04262",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.15,
+  "deep_link": "https://www.youtube.com/watch?v=BfOLfNazbc4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

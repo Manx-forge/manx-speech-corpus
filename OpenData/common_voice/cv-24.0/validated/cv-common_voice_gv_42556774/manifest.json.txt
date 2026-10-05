@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42556774",
+  "name": "Cur-jee my-ner, cre cha mie as eunyssagh te: vraaraghyn, dy vaghey cooidjagh ayns unnaneys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42556774",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.596,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

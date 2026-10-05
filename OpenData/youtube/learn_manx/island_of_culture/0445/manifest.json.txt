@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0445",
+  "name": "Mie lhiat spollagyn? Aye, s'mie lhiam spollagyn ram",
+  "source": "https://www.youtube.com/watch?v=6EfjN__MLlM",
+  "platform": "youtube",
+  "resource_id": "0445",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.89,
+  "deep_link": "https://www.youtube.com/watch?v=6EfjN__MLlM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

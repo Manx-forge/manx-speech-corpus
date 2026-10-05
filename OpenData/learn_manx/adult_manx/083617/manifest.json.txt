@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083617",
+  "name": "LG K2 L4 Cliaghtey",
+  "source": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20K2%20sound%20files%20%282023%29/LG%20K2%20L4%20Cliaghtey.m4a",
+  "platform": "learn_manx",
+  "resource_id": "083617",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2313.82,
+  "deep_link": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20K2%20sound%20files%20%282023%29/LG%20K2%20L4%20Cliaghtey.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

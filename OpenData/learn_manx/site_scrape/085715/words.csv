@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,moddey,3.01,3.61,aligned
+0,1,kayt,5.17,5.62,aligned
+1,0,cat,6.55,6.97,aligned
+1,1,bird,11.44,11.89,aligned
+1,2,muc,15.13,15.52,aligned
+2,0,muc,18.07,18.46,aligned
+2,1,stubbin,19.99,20.71,aligned
+2,2,manx,22.12,22.36,aligned
+2,3,cat,22.57,22.99,aligned

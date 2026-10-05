@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644711",
+  "name": "Eshyn ta abyl shoh y ghoaill er, lhig eh eh y ghoaill er.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644711",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.084,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058343",
+  "name": "fastyr mie  good afternoon",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/fastyr%20mie%20%20-%20good%20afternoon.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058343",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.21,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/fastyr%20mie%20%20-%20good%20afternoon.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

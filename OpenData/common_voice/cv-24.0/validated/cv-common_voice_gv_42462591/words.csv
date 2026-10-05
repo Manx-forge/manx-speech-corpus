@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,Choud,0.66,0.99,aligned
+0,1,as,0.99,1.11,aligned
+0,2,ta,1.11,1.23,aligned
+0,3,mee,1.23,1.38,aligned
+0,4,ayns,1.38,1.59,aligned
+0,5,yn,1.59,1.71,aligned
+0,6,faasagh,1.71,2.31,aligned
+0,7,shoh.,2.31,2.85,aligned

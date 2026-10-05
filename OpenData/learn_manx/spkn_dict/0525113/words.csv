@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,ta,0.00,0.21,aligned
+0,1,voirrey,0.21,0.54,aligned
+0,2,ching,0.57,1.05,aligned

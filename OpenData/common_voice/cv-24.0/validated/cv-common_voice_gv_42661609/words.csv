@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,T'eh,0.42,0.54,aligned
+0,1,laccal,0.54,0.87,aligned
+0,2,poosey,0.87,1.32,aligned
+0,3,agh,1.65,1.89,aligned
+0,4,cha,1.89,1.98,aligned
+0,5,nod,1.98,2.22,aligned
+0,6,eh,2.22,2.34,aligned
+0,7,fordrail,2.34,3.12,aligned
+0,8,fainey.,3.12,3.69,aligned

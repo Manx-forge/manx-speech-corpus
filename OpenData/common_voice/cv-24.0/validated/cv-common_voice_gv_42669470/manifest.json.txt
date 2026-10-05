@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42669470",
+  "name": "As nee eh marroo unnane jeh ny eeanlee ayns saagh craie, harrish ushtey-farrane.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42669470",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.308,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

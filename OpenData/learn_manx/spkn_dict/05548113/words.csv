@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,s'liklee,0.15,0.69,aligned
+0,1,dy,0.69,0.81,aligned
+0,2,vel,0.81,0.99,aligned
+0,3,eh,0.99,1.14,aligned
+0,4,feayr,1.14,1.59,aligned

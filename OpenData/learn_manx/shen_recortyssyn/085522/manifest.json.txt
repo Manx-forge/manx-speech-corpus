@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085522",
+  "name": "15b",
+  "source": "https://www.learnmanx.com/media/Saase%20jeeragh%20notes/15b.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085522",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 179.41,
+  "deep_link": "https://www.learnmanx.com/media/Saase%20jeeragh%20notes/15b.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

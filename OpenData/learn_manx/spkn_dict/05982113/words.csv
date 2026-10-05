@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,foddee,0.09,0.45,aligned
+0,1,eh,0.45,0.69,aligned
+0,2,giu,0.72,1.05,aligned
+0,3,caffee,1.11,1.65,aligned

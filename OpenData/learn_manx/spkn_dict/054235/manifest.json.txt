@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054235",
+  "name": "doo oallee spider",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/doo%20oallee%20-%20spider.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054235",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.15,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/doo%20oallee%20-%20spider.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

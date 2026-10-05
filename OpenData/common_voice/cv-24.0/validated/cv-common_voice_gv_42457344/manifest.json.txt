@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457344",
+  "name": "Quoi jeu s'aashagh ta shiu gheddyn dy yarrood? Brishey-trostey ny nyn badjeryn?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457344",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.748,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

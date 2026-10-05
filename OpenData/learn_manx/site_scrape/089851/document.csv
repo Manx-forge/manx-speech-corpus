@@ -1,0 +1,14 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon jees lessoon,0.73,3.85,asr,100
+,ta cha nel yn laa yn oaie,5.83,12.40,asr,0
+,yn emshyr yn moghrey,14.05,17.11,asr,100
+,braew uilk aalin mie yindyssagh,18.79,30.46,asr,6
+,ta'n emshyr braew ta'n emshyr jaaish ta'n emshyr mie,32.29,41.32,asr,55
+,emshir uilk ta'n emshir aalin,43.12,48.22,asr,77
+,ta'n emshyr yindyssagh,49.45,51.85,asr,100
+,mie stoo,61.30,63.67,asr,0
+,braew cha nel yn oie jesh cha nel yn moirrey mie,64.81,71.56,asr,0
+,ta nish,72.91,75.25,asr,67
+,cha nel eh jiu,76.63,79.09,asr,60
+,laa mie laa mie ealish,81.07,84.10,asr,76
+,cha nel eh olk jiu,86.95,88.36,asr,82

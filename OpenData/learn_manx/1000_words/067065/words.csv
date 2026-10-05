@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,er,1.29,1.62,aligned
+0,1,on,2.73,2.79,aligned
+0,2,yn,2.79,3.03,aligned
+0,3,(y),,,unaligned
+0,4,traie,4.59,5.22,aligned
+0,5,beach,6.78,6.93,aligned
+0,6,/,,,unaligned
+0,7,shore,8.91,9.18,aligned
+0,8,Jiu,9.18,9.51,aligned
+0,9,Moghrey,10.83,11.04,aligned
+0,10,Moghrey,11.49,11.76,aligned
+0,11,jiu,11.76,12.09,aligned

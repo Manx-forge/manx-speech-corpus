@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04350",
+  "name": "S'mie lhiam y Nollick",
+  "source": "https://www.youtube.com/watch?v=ygkQC2EeK6w",
+  "platform": "youtube",
+  "resource_id": "04350",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.61,
+  "deep_link": "https://www.youtube.com/watch?v=ygkQC2EeK6w&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

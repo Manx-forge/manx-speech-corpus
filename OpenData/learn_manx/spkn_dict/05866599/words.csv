@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,moir,0.03,0.39,aligned
+0,1,sy,0.39,0.66,aligned
+0,2,leigh,0.66,1.17,aligned

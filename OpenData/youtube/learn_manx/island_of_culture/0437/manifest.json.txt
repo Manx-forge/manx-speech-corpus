@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0437",
+  "name": "T'ad cloie feeal",
+  "source": "https://www.youtube.com/watch?v=0NOswM9tg1o",
+  "platform": "youtube",
+  "resource_id": "0437",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 20.22,
+  "deep_link": "https://www.youtube.com/watch?v=0NOswM9tg1o&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

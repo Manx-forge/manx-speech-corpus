@@ -1,0 +1,32 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,ayns y toshiaght chroo jee niau as thalloo,0.67,4.84,asr,100
+,as va'n thalloo gyn cummey as feayn,6.34,9.76,asr,100
+,as va dorraghys er eaghtyr y diunid,10.48,13.51,asr,100
+,as ren spyrryd yee gleashagh er eaghtyr ny ushtaghyn,14.62,19.27,asr,100
+,as dooyrt jee lhig da soilshey ve,20.59,23.65,asr,91
+,as va soilshey ayn as honnick jee yn soilshey dy row eh mie,24.64,30.67,asr,100
+,as ren jee scarrey yn soilshey veih yn dorraghys,31.57,35.71,asr,96
+,as denmys jee yn soilshey,36.94,39.40,asr,100
+,as y dorraghys denmys eh ee,40.78,43.36,asr,93
+,sy fastyr as y moghrey va'n chied laa,44.62,48.13,asr,91
+,as dooyrt jee lhig da ayr ve,49.99,53.11,asr,81
+,ny hushtaghyn as lhiggey scarrey ny ushtaghyn veih ny ushtaghyn,53.80,59.11,asr,100
+,as croo jee yn aer as scarr eh ny ushtaghyn fo yn aer,61.90,67.90,asr,98
+,veih ny ushtaghyn erskyn yn aer,68.62,70.60,asr,100
+,as shen myr ve as ren jee genmys yn aer,72.07,76.78,asr,69
+,as va'n fastyr as y moghrey yn nah laa,78.67,82.45,asr,100
+,as dooyrt jee lhig da ny ushtaghyn fo yn aer,83.98,88.45,asr,100
+,ve er nyn jaglym cooidjagh,89.35,91.42,asr,100
+,gys un voayl as lhig da'n thalloo chirrym cheet rish,92.05,96.91,asr,100
+,as shen myr ve as denmys jee yn thalloo chirrym ooir,98.05,103.84,asr,100
+,as chaglym cooidjagh ny ushtaghyn denmys eh veagh eh,104.92,109.24,asr,79
+,as honnick jee dy row eh mie,110.83,112.84,asr,100
+,as dooyrt jee lhig da'n thalloo gymmyrkey faiyr,114.55,118.33,asr,100
+,yn losserey ceau rass,119.68,121.75,asr,100
+,as y billey gymmyrkey mess,122.44,124.93,asr,100
+,lurg e ghooghys yn rass echey t'ayns hene er y talloo as shen myr ve,125.56,132.25,asr,99
+,as ren y thalloo gymmyrkey faiyr,134.14,136.39,asr,100
+,losserey ceau rass lurg e ghooghys,137.62,140.59,asr,100
+,as y billey tilgey mess y rass t'ayns hene,141.49,145.33,asr,100
+,lurg e ghooghys as honnick jee dy row eh mie,146.05,149.68,asr,100
+,as va'n fastyr as y moghrey yn trass laa,150.91,154.48,asr,100

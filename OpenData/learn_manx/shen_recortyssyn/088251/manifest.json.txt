@@ -1,0 +1,14 @@
+{
+  "ident": "speech-088251",
+  "name": "cooinaghtyn elley 07 pages 17-20",
+  "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2007%20pages%2017-20.mp3",
+  "platform": "learn_manx",
+  "resource_id": "088251",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 507.43,
+  "deep_link": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2007%20pages%2017-20.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

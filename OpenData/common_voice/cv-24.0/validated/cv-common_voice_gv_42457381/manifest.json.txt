@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457381",
+  "name": "Howse eh myrgeddin porch y yiat cheu-sthie, un chron.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457381",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.452,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

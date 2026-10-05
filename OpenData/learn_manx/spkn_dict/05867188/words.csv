@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,cur,0.81,1.08,aligned
+0,1,dou,1.08,1.38,aligned
+0,2,eh,1.38,1.59,aligned
+0,3,give,3.12,3.30,aligned
+0,4,it,3.30,3.36,aligned
+0,5,to,3.36,3.54,aligned
+0,6,me,3.54,3.60,aligned
+0,7,cur,4.05,4.29,aligned
+0,8,dou,4.29,4.62,aligned
+0,9,eh,4.62,4.80,aligned

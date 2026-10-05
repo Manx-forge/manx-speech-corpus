@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051250113",
+  "name": "Ta daa voddey ayns my gharey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051250113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.94,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

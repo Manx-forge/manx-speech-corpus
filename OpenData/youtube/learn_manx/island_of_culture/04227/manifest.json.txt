@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04227",
+  "name": "Insh dou c'raad t'ou cummal, my sailt",
+  "source": "https://www.youtube.com/watch?v=XrJ73s2vVpc",
+  "platform": "youtube",
+  "resource_id": "04227",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.05,
+  "deep_link": "https://www.youtube.com/watch?v=XrJ73s2vVpc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

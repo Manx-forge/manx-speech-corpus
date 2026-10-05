@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""Ta",0.63,0.78,aligned
+0,1,jees,0.78,1.23,aligned
+0,2,ny,1.23,1.38,aligned
+0,3,share,1.38,1.68,aligned
+0,4,na,1.68,1.80,aligned
+0,5,unnane;,1.83,2.31,aligned
+0,6,son,2.88,3.06,aligned
+0,7,ta,3.06,3.24,aligned
+0,8,leagh,3.24,3.69,aligned
+0,9,smoo,3.69,4.05,aligned
+0,10,oc,4.14,4.47,aligned
+0,11,son,4.74,5.10,aligned
+0,12,nyn,5.10,5.34,aligned
+0,13,"obbyr.""",5.43,5.82,aligned

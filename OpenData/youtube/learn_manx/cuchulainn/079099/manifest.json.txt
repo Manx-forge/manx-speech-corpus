@@ -1,0 +1,14 @@
+{
+  "ident": "speech-079099",
+  "name": "Cuchulainn 2 - Yn Ennym",
+  "source": "https://www.youtube.com/watch?v=SK47TAZyT6s",
+  "platform": "youtube",
+  "resource_id": "079099",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 314.98,
+  "deep_link": "https://www.youtube.com/watch?v=SK47TAZyT6s&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

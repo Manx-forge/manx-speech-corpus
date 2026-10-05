@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09328",
+  "name": "Abbyr Shen Reesht - Say That Again 7oo Mee ny Nollick 2025",
+  "createdCircaStart": "2025-12-07",
+  "createdCircaEnd": "2025-12-07",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-7oo-mee-ny-nollick-2025/",
+  "platform": "manx_radio",
+  "resource_id": "09328",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1934.0,
+  "deep_link": "https://episodes.captivate.fm/episode/7054185d-79eb-47a5-86f2-8fe2947005ab.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

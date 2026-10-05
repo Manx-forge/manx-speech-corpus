@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42461850",
+  "name": "Cur shiu Jee hoshiaght, eisht sleih elley, as shiu hene er jerrey ooilley.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42461850",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.82,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,erlhiam,0.15,0.60,aligned
+0,1,nagh,0.60,0.96,aligned
+0,2,vel,0.96,1.32,aligned

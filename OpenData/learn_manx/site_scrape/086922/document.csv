@@ -1,0 +1,22 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,daa-yeig as feed leshyn jiu,1.54,4.60,asr,46
+,oo dug mee,6.79,9.94,asr,57
+,cha dug mee yn bainney,11.68,15.10,asr,100
+,yn shugyr yn soo,16.30,19.06,asr,77
+,yn arran yn eayn,20.26,22.93,asr,0
+,yn ushtey naboo yn bainney er yn chishtey,24.28,29.80,asr,83
+,yn shugyr yn chishtey,32.29,33.97,asr,62
+,er yn chishtey yn arran er yn chishtey,37.27,41.80,asr,87
+,yn chishtey naboo va'n ushtey er yn chishtey,44.89,49.69,asr,88
+,cha dug eh stiagh yn daawheeyl,51.70,53.80,asr,75
+,hug jishag yn ghleashtan stiagh yn paitchey seose,55.87,61.99,asr,76
+,dy chooilley red sy ghleashtan briaght erbee cheet magh,64.57,70.60,asr,75
+,cha dug oo stiagh down,72.19,76.42,asr,88
+,traa ny lhiabbagh da'n chayt,78.43,81.73,asr,0
+,anmagh dy liooar cha nel eh agh jeih er y chlag,83.59,91.30,asr,100
+,tra nagh lhisagh nish o vummig cha nel eh agh jeih er y chlag foast,96.31,103.09,asr,58
+,dy liooar stiagh yn daawheeyl,105.16,108.34,asr,81
+,hug as ta'n moddey sthie nish,109.09,111.76,asr,0
+,neeym vie david bainney,112.72,115.06,asr,77
+,hug as eisht hug mee magh eh,116.68,119.20,asr,70
+,feer vie dy jarroo first lhiat eisht nish,120.10,123.88,asr,63

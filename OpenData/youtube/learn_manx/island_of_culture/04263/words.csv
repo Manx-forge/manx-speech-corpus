@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,t'eh,6.18,6.39,aligned
+0,1,beggan,6.39,6.81,aligned
+0,2,grianagh,6.81,7.47,aligned
+0,3,jiu,7.47,7.86,aligned
+0,4,agh,7.86,8.31,aligned
+0,5,bodjallagh,8.31,9.18,aligned
+0,6,t'eh,15.24,15.63,aligned
+0,7,beggan,15.63,16.02,aligned
+0,8,grianagh,16.02,16.68,aligned
+0,9,jiu,16.68,17.04,aligned
+0,10,agh,17.19,17.58,aligned
+0,11,bodjallagh,17.58,18.39,aligned

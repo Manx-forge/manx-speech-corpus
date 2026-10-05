@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057200",
+  "name": "bolg stomach",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/bolg%20-%20stomach.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057200",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.84,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/bolg%20-%20stomach.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05878113",
+  "name": "Cuin nee Orry goll dys Balley ny Loghey?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05878113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

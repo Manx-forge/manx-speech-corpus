@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42642898",
+  "name": "As va ooilley kibbinyn y chabbane-agglish, as jeh'n chooyrt ooilley mygeayrt dy phrash.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42642898",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.696,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

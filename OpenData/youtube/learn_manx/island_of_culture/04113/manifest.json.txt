@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04113",
+  "name": "Foddym snaue agh cha noddym snaue gollrish eeast",
+  "source": "https://www.youtube.com/watch?v=6S2fzIlAAMo",
+  "platform": "youtube",
+  "resource_id": "04113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.43,
+  "deep_link": "https://www.youtube.com/watch?v=6S2fzIlAAMo&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

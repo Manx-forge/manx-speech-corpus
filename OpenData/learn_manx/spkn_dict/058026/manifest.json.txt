@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058026",
+  "name": "cainle candle",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/cainle%20-%20candle.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058026",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/cainle%20-%20candle.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

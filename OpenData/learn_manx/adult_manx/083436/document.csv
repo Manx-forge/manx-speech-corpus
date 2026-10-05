@@ -1,0 +1,25 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,keim jees lessoon queig-jeig,0.88,4.36,asr,100
+,lhaih jeh reading ten,5.29,9.19,asr,63
+,mannanan beg as y laa fliugh,10.51,13.24,asr,100
+,ayrn kiare myr shen ren mannin as,14.35,19.90,asr,71
+,paart gimmeeaght reesht lurg mysh lieh oor ren ad roshtyn dys y droghad,20.41,25.87,asr,91
+,agh cha row droghad ayns shen agh cha nee ren mannanan gyllagh c'raad ta'n droghad,26.83,33.79,asr,83
+,ren yn magher gra erlhiam dy vel oo kiart aym magher,36.70,41.44,asr,91
+,ren yn ushtey skeabey eh ersooyl ayns yn oie cha laik lhiam yn fliaghey,42.04,46.96,asr,100
+,er shen ren mannin as aym va fakin yn arraneyder benainshter bing,48.13,53.32,asr,83
+,myr shen ren ad shooyl sheese dys yn awin dy loayrt ree,54.10,57.43,asr,98
+,moghrey mie venainshter ving ren yn guilley gra,59.26,62.59,asr,100
+,c'raad ta'n droghad moghrey mie,63.49,66.79,asr,100
+,veg ren benainshter bing freggyrt lesh coraa bing,67.42,71.65,asr,82
+,erlhiam dy ren yn awin skeabey eh ersooyl ayns yn oie,72.76,76.69,asr,98
+,cha nel shen feer vie ren mannanan gyllagh,77.74,81.10,asr,75
+,ta mish as goll dys y valley,82.12,84.46,asr,96
+,nagh nod oo snaue foddym snaue son shickyrys agh ta'n awin vooar venainshter,85.90,92.80,asr,94
+,ren ee jeeaghyn er yn ushtey o ta,93.70,97.09,asr,82
+,thie cho mooar as colby nish,97.81,99.88,asr,58
+,ta mee er ve screeu arrane mychione eck,100.66,102.94,asr,100
+,vel oo laccal geaishtagh rish oh cha nel venainshter gura mie ayd ta orrym feddyn mainshter yindyssagh nish son ta towl ayns mullagh y toor as ta,103.66,114.10,asr,91
+,as ta ushtey roie stiagh ayns y chashtal cha nel mainshter yindyssagh ayns y valley vannanan,113.77,120.34,asr,93
+,ren benainshter bing gra lesh coraa bing,120.94,123.76,asr,100
+,te er broogh yn awin as t'eh licklee dy vel plan echey,124.48,129.01,asr,96

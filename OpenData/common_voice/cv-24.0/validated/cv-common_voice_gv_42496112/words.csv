@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,Sooill,0.42,0.87,aligned
+0,1,son,0.87,1.20,aligned
+0,2,"sooill,",1.20,1.74,aligned
+0,3,feeackle,2.19,2.73,aligned
+0,4,son,2.73,2.97,aligned
+0,5,"feeackle,",2.97,3.57,aligned
+0,6,laue,3.93,4.44,aligned
+0,7,son,4.44,4.71,aligned
+0,8,"laue,",4.71,5.31,aligned
+0,9,kass,5.64,6.09,aligned
+0,10,son,6.09,6.36,aligned
+0,11,kass.,6.36,7.02,aligned

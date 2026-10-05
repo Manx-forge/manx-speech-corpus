@@ -1,0 +1,14 @@
+{
+  "ident": "speech-027171",
+  "name": "Cooish 2011_ the Villa Marina Arcade",
+  "source": "https://www.youtube.com/watch?v=8Pp6teSXOfc",
+  "platform": "youtube",
+  "resource_id": "027171",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 312.66,
+  "deep_link": "https://www.youtube.com/watch?v=8Pp6teSXOfc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

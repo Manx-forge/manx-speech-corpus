@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056721",
+  "name": "thummeyder diver",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/thummeyder%20-%20diver.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056721",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.04,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/thummeyder%20-%20diver.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

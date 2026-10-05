@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04187",
+  "name": "Quoi ren ny croshyn shoh?",
+  "source": "https://www.youtube.com/watch?v=TZb7zi0nVKE",
+  "platform": "youtube",
+  "resource_id": "04187",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.39,
+  "deep_link": "https://www.youtube.com/watch?v=TZb7zi0nVKE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

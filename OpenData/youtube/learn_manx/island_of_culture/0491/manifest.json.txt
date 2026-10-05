@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0491",
+  "name": "Mie lhiat yn baatey shoh?",
+  "source": "https://www.youtube.com/watch?v=VoKNlDmsmO8",
+  "platform": "youtube",
+  "resource_id": "0491",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 20.69,
+  "deep_link": "https://www.youtube.com/watch?v=VoKNlDmsmO8&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

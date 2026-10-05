@@ -1,0 +1,14 @@
+{
+  "ident": "speech-084248",
+  "name": "Cooishyn Gailckagh 2 - Months in Manx Gaelic",
+  "source": "https://www.youtube.com/watch?v=RS2iwJA-obs",
+  "platform": "youtube",
+  "resource_id": "084248",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1039.67,
+  "deep_link": "https://www.youtube.com/watch?v=RS2iwJA-obs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

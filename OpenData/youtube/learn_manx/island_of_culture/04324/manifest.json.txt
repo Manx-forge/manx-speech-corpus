@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04324",
+  "name": "S'liklee nagh jeanym shooyl er Raad ny Foillan nish",
+  "source": "https://www.youtube.com/watch?v=dEYmpnXhnHg",
+  "platform": "youtube",
+  "resource_id": "04324",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.73,
+  "deep_link": "https://www.youtube.com/watch?v=dEYmpnXhnHg&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,shee,0.00,0.42,aligned
+0,1,bannee,0.42,0.72,aligned
+0,2,mee,0.72,1.08,aligned

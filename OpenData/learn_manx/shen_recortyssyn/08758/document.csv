@@ -1,0 +1,24 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,agh dy gow dy,0.88,6.40,asr,0
+,nhegin dhyt goll nhegin dhyt goll,7.72,10.63,asr,100
+,dys yn attey gow shee dys yn aght,13.63,19.66,asr,29
+,cha nhegin jee goll cha nhegin jee goll,20.50,23.71,asr,95
+,dys yn mary nagh nhegin da mary goll nish nagh nhegin da mary goll nish,32.17,38.20,asr,80
+,john john as,38.83,44.53,asr,0
+,shegin da john goll shegin da john goll,45.40,48.79,asr,74
+,do you know mary do you know mary nhione dhyt mary nhione dhyt mary,50.41,59.41,asr,66
+,dys yn john mary dys yn john mary nagh nhione da john mary nagh nhione da,60.19,70.36,asr,97
+,the john mary cha nhione dou ee cha,70.24,80.50,asr,61
+,cha nhione dou ee agh t'eh,80.32,82.69,asr,83
+,well,87.61,87.76,asr,0
+,erreish dou goll dy valley hie mee dy lhie erreish dou goll dy valley hie mee dy lhie,90.28,95.80,asr,89
+,after she went shopping shopping,96.61,104.53,asr,52
+,erreish jee shappal hie dy valley,106.03,108.31,asr,92
+,erreish jee shappal hie dy valley,108.94,111.40,asr,92
+,watch after doo tomorrow watch after doo tomorrow,112.18,118.69,asr,0
+,cre shegin dhyt jannoo mairagh cre shegin dhyt jannoo mairagh,119.23,123.46,asr,100
+,but what is ee have doo now what is ee have doo now cre shegin da jannoo,124.51,134.95,asr,53
+,nish cre shegin da jannoo nish,134.98,138.07,asr,100
+,craad shegin jee goll craad shegin jee goll,147.58,151.69,asr,100
+,quoi shione dhyt quoi shione dhyt,158.95,161.26,asr,100
+,cre'n fa shegin dhyt goll cre'n fa shegin dhyt goll,168.10,172.21,asr,100

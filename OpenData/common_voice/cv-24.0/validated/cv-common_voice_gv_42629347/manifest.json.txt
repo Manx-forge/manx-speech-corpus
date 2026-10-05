@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42629347",
+  "name": "Lesh cre'n ymmyrkey aigney t'eh gynsaghey dooin dy ghoaill padjer?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42629347",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.076,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

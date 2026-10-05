@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05826113",
+  "name": "Cren fa nagh mie lesh Orry Purt Çhiarn?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05826113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.74,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

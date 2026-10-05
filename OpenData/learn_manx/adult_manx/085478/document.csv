@@ -1,0 +1,221 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon keim kiare lessoon queig,0.94,5.92,asr,85
+,choud's eh it's hot cheh t'eh cheh,7.45,16.30,asr,67
+,te,28.42,28.78,asr,0
+,mee cheh ayns laksaa jiu,28.69,31.51,asr,80
+,t'eh cheh ayns laksaa jiu myr,32.65,47.86,asr,93
+,te cheh ayns laksaa,48.16,50.20,asr,50
+,my t'eh cheh ayns laksaa laksey,51.16,56.56,asr,100
+,mat,67.69,68.23,asr,0
+,te cheh ayns laksaa neemayd goll dys y traie,68.17,72.58,asr,87
+,my t'eh cheh ayns laksaa neemayd goll dys y traie,74.23,76.66,asr,100
+,oo ta myr,81.52,91.78,asr,0
+,agh cheh ayns laksaa neemayd goll dys y traie ny sanmee,91.60,96.34,asr,91
+,so neemayd goll dys y traie ny sanmee gow-jee sea,98.86,103.54,asr,74
+,dy beagh eh cheh,111.64,113.35,asr,44
+,dy beagh ad dy,114.16,128.71,asr,18
+,dy beagh eh cheh ayns laksaa,128.56,130.93,asr,88
+,dy beagh eh cheh ayns laksaa cheh ayns laksaa,132.19,155.86,asr,71
+,yinnagh shin goll dys y traie,156.76,159.16,asr,100
+,dy beagh eh cheh ayns laksaa yinnagh shin goll dys y traie,160.33,163.48,asr,97
+,dy beagh eh feayr dy beagh eh feayr,173.59,177.22,asr,83
+,dy beagh eh feayr cha jinnagh shin goll,192.31,195.67,asr,95
+,dy beagh eh feayr cha jinnagh shin goll,196.60,198.55,asr,100
+,prin laksey beeym ayns laksaa,202.66,216.22,asr,0
+,dy beign ayns laksaa laksey,217.39,222.19,asr,93
+,ayns laksaa yinnin cur shilley er,234.64,238.06,asr,82
+,beayney s'laksaa yinnin cur shilley ad,239.26,247.96,asr,39
+,ayns laksaa yinnin cur shilley er dty yishag,261.73,266.05,asr,77
+,dy beign ayns laksaa yinnin cur shilley er dty yishag,267.25,270.31,asr,96
+,pooar dy been feayr,280.75,283.36,asr,74
+,un phooar cha jinnin goll magh,298.84,301.72,asr,69
+,dy been feayr cha jinnin goll magh,302.95,305.08,asr,94
+,if it is in mannagh,308.80,319.36,asr,0
+,cha vel eh feayr mannagh vel eh feayr,319.24,322.69,asr,62
+,yn keeill mannagh vel eh feayr,327.04,336.67,asr,54
+,purt ny hinshey mannagh vel eh feayr ayns purt ny h-inshey,336.97,341.38,asr,90
+,the keeill mannagh,345.49,359.08,asr,41
+,cha vel eh feayr ayns purt ny hinshey,358.93,361.72,asr,69
+,nee ad goll dys y chashtal mannagh vel eh feayr as purt ny hinshey goll dys y chashtal,362.20,369.37,asr,100
+,boaldyn keeill mannagh,373.15,388.90,asr,15
+,vel eh feayr ayns purt ny hinshey nee ad goll dys er chosh jouyl ny sanmee,388.96,394.45,asr,92
+,mannagh vel eh feayr as purt ny hinshey goll dys y chashtal ny sanmee,395.56,398.89,asr,91
+,mannagh bee eh feayr,412.69,415.30,asr,86
+,mannagh beagh y phooar dugal speech,416.26,424.87,asr,55
+,mannagh beagh eh feayr,435.58,437.83,asr,100
+,veagh shin er traie ghoolish,438.49,441.19,asr,100
+,mannagh beagh y phooar veagh shin er traie ghoolish,442.57,445.42,asr,84
+,mannagh,461.29,461.95,asr,0
+,nagh beagh eh feayr veagh shin er traie ghoolish nish,461.80,466.87,asr,82
+,mannagh beagh y phooar veagh shin er traie ghoolish nish,467.71,470.77,asr,100
+,just say mannagh,473.26,486.04,asr,14
+,been berchagh mannagh beign berchagh,486.22,489.97,asr,95
+,rich mannagh,493.48,506.56,asr,0
+,been berchagh cha jinnin shappal,506.65,509.89,asr,82
+,mannagh beign berchagh cha jeanym shappal,510.73,513.01,asr,90
+,howl just say if you want rich veih shop in aym as ass,514.63,519.58,asr,0
+,mannagh beign berchagh cha jinnin shappal ayns ms,531.70,537.52,asr,100
+,mannagh beign berchagh cha jeanym shappal ayns ms,538.48,541.33,asr,100
+,dy beagh oo boght,551.95,553.51,asr,24
+,dy beagh oo boght hooar,554.59,560.53,asr,77
+,bark dy beagh oo,561.76,571.81,asr,0
+,cha jinnagh oo gobbragh,572.44,574.54,asr,53
+,dy beagh oo jinnagh oo gobbragh,575.74,577.90,asr,78
+,if you pooar work for my broddey,581.44,584.05,asr,38
+,dy beagh oo boght,595.03,596.35,asr,100
+,jinnagh oo gobbragh son my vraar,596.98,599.17,asr,88
+,dy beagh oo boght jinnagh oo gobbragh son my vraar,600.55,603.19,asr,100
+,ny beayn boght hooar,616.03,622.96,asr,43
+,gyn boght yinnin gobbragh son peiagh erbee,637.21,641.14,asr,81
+,dy been yinnin gobbragh son peiagh erbee,641.98,644.80,asr,87
+,yinnagh oo kionnagh yinnagh oo kionnagh,659.29,662.98,asr,81
+,watch,665.74,666.13,asr,0
+,yinnagh oo kionnagh dy beagh oo berchagh,679.78,683.56,asr,90
+,cre yinnagh oo kionnagh dy beagh oo berchagh,684.67,686.95,asr,100
+,veih dogs yinnin kionnagh daa,690.25,700.42,asr,72
+,yinnin kionnagh daa voddey dog,702.04,707.59,asr,69
+,kionnagh daa voddey dy beign berchagh,718.27,721.57,asr,66
+,yinnin kionnagh daa voddey dy beign berchagh,722.38,724.84,asr,100
+,t'ou just say he has a dog moddey echey,726.16,735.73,asr,74
+,ta moddey echey dog,736.51,741.67,asr,73
+,mac echey myr ta moddey echey,748.45,751.93,asr,58
+,my ta moddey echey cha nel fys aym cre te,769.81,774.22,asr,55
+,my ta moddey echey as c'raad myr,775.66,793.18,asr,50
+,moddey echey cha nel fys aym c'raad t'eh nish,793.60,797.47,asr,93
+,my ta moddey echey as c'red t'eh nish,798.43,800.98,asr,74
+,buird have a dog dy,806.62,817.33,asr,0
+,dy beagh moddey echey dy beagh moddey echey,817.18,821.32,asr,92
+,had a dog dy,825.13,839.41,asr,0
+,dy beagh moddey echey cha beagh fys aym,839.32,842.50,asr,92
+,dy beagh moddey echey cha beagh eh,843.40,847.57,asr,100
+,dy beagh moddey echey cha beagh fys aym c'raad v'eh,864.28,868.63,asr,84
+,dy beagh moddey echey cha beagh fys aym cre,869.59,871.81,asr,82
+,dog was now,875.47,877.66,asr,68
+,dy beagh moddey echey cha beagh fys aym,891.94,895.03,asr,83
+,nish dy beagh moddey echey cha beagh fys aym cre v'eh nish,895.78,900.28,asr,95
+,if you have a cat if you have a cat,904.06,907.75,asr,37
+,mannagh beagh kayt aym,917.08,919.36,asr,100
+,mannagh beagh kayt aym cat,919.90,925.18,asr,46
+,mannagh beagh kayt cha jinnagh ee cheet,936.10,939.64,asr,91
+,mannagh beagh kayt cha jinnagh ee cheet,940.27,942.46,asr,95
+,if you have a cart come to mie,945.73,948.52,asr,50
+,mannagh beagh kayt cha jinnagh ee cheet dys my hie,960.07,964.33,asr,100
+,mannagh beagh kayt cha jinnagh ee cheet dys my hie,965.26,967.96,asr,89
+,eh is,970.42,971.68,asr,26
+,choud's,974.44,974.74,asr,0
+,nagh beagh kayt cha jinnagh ee cheet dys my hie dy akin mee,985.51,990.34,asr,91
+,mannagh bee as cha jinnagh ee cheet dys my hie dy akin ee,991.39,994.57,asr,90
+,vel braar eck vel braar eck,1005.16,1007.56,asr,33
+,myr ta nane eck cha nel mee er nakin eh,1023.58,1028.05,asr,100
+,my ta nane eck cha nel mee er nakin eh,1029.49,1031.50,asr,90
+,dy beagh braar echey,1043.44,1045.33,asr,0
+,dy beagh braar echey broddey,1045.96,1051.33,asr,76
+,bee so strange dy,1051.93,1062.19,asr,0
+,dy beagh braar echey cha beagh eh cha quaagh,1062.07,1066.33,asr,93
+,dy beagh braar echey cha beaghey quaagh,1067.83,1070.62,asr,71
+,probably,1075.63,1076.08,asr,0
+,dy beagh braar echey graihagh,1087.03,1090.78,asr,38
+,dy beagh braar echey t'eh licklee nagh beagh eh quaagh,1094.05,1096.96,asr,93
+,pooar fastyr dy,1102.66,1114.06,asr,0
+,dy bee ny stappee dy beaghey ny stappee,1113.94,1117.66,asr,67
+,if you were fastyr dy,1120.45,1135.45,asr,0
+,dy bee eh ny stappee cha beagh shin anmagh,1135.33,1139.62,asr,69
+,dy beagh eh ny stappee cha beagh shin anmagh,1140.67,1143.25,asr,86
+,mannagh beagh ad mannagh beagh eh dy moal,1157.11,1161.82,asr,74
+,slow mannagh,1165.27,1176.61,asr,0
+,cha beagh ad cha moal veagh shin ayns shen nish,1176.46,1180.63,asr,91
+,mannagh beagh eh dy beagh shin aynshen nish,1181.95,1184.50,asr,78
+,ta orrym goll ta orrym goll,1194.13,1196.62,asr,100
+,hie oo goll nish,1198.63,1206.37,asr,50
+,goll nish sorry,1207.09,1210.39,asr,72
+,gow my leshtal ta orrym goll nish,1218.25,1221.10,asr,100
+,gow my leshtal ta orrym goll nish dy,1221.91,1227.97,asr,91
+,feeagh orrym goll orrym goll,1236.34,1239.52,asr,76
+,bee as atchim now churrym goll nish bee orrym,1241.80,1252.30,asr,53
+,goll nish dog,1252.30,1257.52,asr,35
+,veagh orrym goll nish dy beagh moddey aym,1267.36,1270.42,asr,100
+,beagh orrym goll nish dy beagh moddey aym,1271.29,1273.30,asr,93
+,dob,1277.98,1278.28,asr,0
+,chirrym goll nish dy beagh moddey aym,1292.02,1294.84,asr,83
+,agh cha nel goll nish dy beagh moddey aym cha nel enn aym,1295.65,1301.14,asr,65
+,dy buy potatoes nagh,1305.34,1319.14,asr,0
+,but kionnagh praaseyn nagh beagh ad kionnagh raaidyn,1320.01,1324.48,asr,78
+,agh dy buy potatoes garden,1328.17,1331.35,asr,0
+,nagh beagh oo kionnagh praaseyn mannagh beagh garey ayd,1343.35,1348.24,asr,90
+,nagh beagh oyr kionnagh praaseyn mannagh beagh ayd,1349.32,1352.20,asr,72
+,yes feeagh,1354.51,1357.84,asr,60
+,veagh eh,1358.68,1361.74,asr,94
+,t'ou dy veagh,1363.06,1375.21,asr,0
+,orrym kionnagh yn neesht,1376.44,1378.69,asr,71
+,veagh orrym kionnaghey yn neesht,1379.59,1382.44,asr,75
+,ta mee my ayr ta mee my ayr obbee,1395.28,1398.91,asr,79
+,say dy,1401.25,1414.24,asr,0
+,bee ny fir-obbee dy beign er obbee,1414.36,1418.65,asr,62
+,able to see mee dy,1424.05,1438.06,asr,0
+,cha beagh oo abyl fakin nee,1440.43,1442.98,asr,30
+,oo abyl fakin mee dy,1445.98,1452.01,asr,27
+,dy bee my ayr obbee cha beagh oo abyl fakin mee nish,1464.19,1468.90,asr,90
+,dy beeym er obbee cha beagh oo abyl fakin mee nish,1469.86,1473.01,asr,100
+,mannagh been mannagh beign my,1486.81,1490.65,asr,73
+,probably mannagh,1496.68,1510.84,asr,0
+,been t'eh licklee dy bee my ven obbee,1510.96,1515.61,asr,63
+,mannagh bee my t'eh licklee dy bee my ven obbee,1516.69,1519.90,asr,66
+,eh dy beagh my,1522.54,1537.63,asr,0
+,my vraar ny fir-obbee dy beagh my vraar my ayr obbee,1537.45,1542.46,asr,79
+,howl just say is my brooder was ayd hee bee yn jurby,1544.98,1549.63,asr,48
+,dy beagh my vraar ny fir-obbee,1563.49,1565.86,asr,100
+,cha bee ayns jurby dy beagh my vraar er obbee cha beaghey ayns jurby,1566.73,1573.42,asr,93
+,bee,1579.78,1579.99,asr,0
+,dy beagh my vraar my ayr obbee,1592.29,1594.36,asr,74
+,t'eh licklee nagh beagh eh ayns jurby,1595.08,1597.69,asr,100
+,dy beagh my vraar ny fir-obbee t'eh licklee nagh beaghey ayns jurby,1598.92,1602.79,asr,95
+,he probably bee yn jurby now dy,1607.08,1620.73,asr,0
+,dy beagh my vraar my ayr obbee,1620.64,1622.74,asr,74
+,t'eh licklee nagh beagh eh ayns jurby nish,1623.55,1626.49,asr,100
+,dy beagh my vraar ny fir-obbee t'eh licklee nagh beaghey ayns jurby nish,1627.69,1631.53,asr,84
+,cha nel fys aym as,1638.55,1640.80,asr,80
+,cha nel fys,1652.50,1653.64,asr,0
+,cha vel eh grianagh,1653.43,1656.07,asr,60
+,as vel eh grianagh day,1657.84,1663.78,asr,39
+,cha nel fys aym grianagh jiu,1675.09,1678.90,asr,80
+,dy vel eh grianagh jiu day,1680.52,1687.30,asr,42
+,yesterday cha,1689.10,1702.48,asr,0
+,cha nel fys aym vel eh grianagh jiu,1702.39,1705.48,asr,80
+,as cha nel fys aym row eh grianagh jeh,1706.44,1709.71,asr,91
+,cha vel eh grianagh jiu as cha row eh grianagh,1711.15,1714.12,asr,88
+,myr t'eh grianagh my t'eh grianagh,1725.07,1727.74,asr,66
+,if it's sunny grianagh,1730.59,1745.53,asr,29
+,lhig dooin goll dys y gharey,1746.19,1748.20,asr,100
+,my t'eh grianagh lhig dooin goll dys y gharey,1749.13,1751.29,asr,96
+,how just say sunny,1752.85,1754.80,asr,71
+,myr,1771.72,1772.05,asr,0
+,bath t'eh grianagh lhig dooin goll dys y ghra dy chloie ping,1771.87,1776.97,asr,84
+,my t'eh grianagh lhig dooin goll dys y gharey dy chloie ping thom,1778.53,1781.83,asr,92
+,dy beagh eh grianagh dy beagh eh grianagh,1791.94,1796.05,asr,100
+,bee yn ny goan,1802.02,1802.86,asr,8
+,dy beagh eh grianagh shin,1811.59,1814.62,asr,81
+,dy beagh eh grianagh veagh shin ayns y gharey,1816.75,1818.97,asr,74
+,sunny bee yn ny goan plaiynt ping thom,1823.02,1826.02,asr,56
+,dy beagh eh grianagh veagh shin ayns y gharey cloie ping,1838.53,1843.00,asr,100
+,dy beagh eh grianagh veagh shin ayns y gharey cloie,1844.68,1847.11,asr,75
+,un plain ping thom eu dy,1852.33,1866.73,asr,0
+,dy beagh eh grianagh sy gharey cloie ping nish,1866.64,1871.89,asr,55
+,dy beagh eh grianagh shin ayns y gharey,1873.12,1875.16,asr,76
+,pon nish cha,1875.73,1886.80,asr,33
+,cha nel mee shickyr cha nel mee shickyr,1886.62,1889.20,asr,100
+,cha nel mee shickyr bee eh ayns shen,1903.90,1907.23,asr,100
+,cha nel mee shickyr eh,1908.25,1912.21,asr,50
+,cha nel,1925.35,1925.71,asr,0
+,cha nel mee shickyr bee eh ayns shen agh,1925.32,1928.62,asr,89
+,cha nel mee shickyr nagh bee da,1929.91,1938.97,asr,57
+,cha nel mee shickyr ayns shen,1949.26,1952.44,asr,74
+,cha nel mee shickyr beaghey vel,1953.40,1963.66,asr,78
+,vel fys ayd vel fys ayd,1963.48,1965.82,asr,0
+,vel fys bee e churrym goaill arrane,1984.75,1987.63,asr,100
+,vel fys ayd orrym goaill arrane cha nel,1988.47,1996.75,asr,83
+,cha nel cha,1997.59,2015.05,asr,35
+,cha nel agh dy beagh ort goaill arrane,2014.81,2018.89,asr,22
+,cha nel agh dy beagh ad goaill arrane,2019.58,2021.80,asr,71
+,cha nel agh dy beagh,2037.10,2039.35,asr,67
+,balley yinnin goll thie,2039.86,2042.05,asr,74
+,cha nel agh dy beagh ad goaill arrane yinnin goll thie,2042.98,2045.77,asr,96

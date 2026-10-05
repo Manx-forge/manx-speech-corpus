@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866695",
+  "name": "ta daa vraar as un shuyr aym i have two brothers and one sister",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20two%20brothers%20and%20one%20sister.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866695",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 12.49,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20two%20brothers%20and%20one%20sister.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

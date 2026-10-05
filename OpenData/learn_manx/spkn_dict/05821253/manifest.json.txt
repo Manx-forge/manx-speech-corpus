@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05821253",
+  "name": "Balley ny Loghey Ballaugh",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Balley%20ny%20Loghey%20v2.m4a",
+  "platform": "learn_manx",
+  "resource_id": "05821253",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.42,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Balley%20ny%20Loghey%20v2.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

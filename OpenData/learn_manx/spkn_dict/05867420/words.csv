@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,graney,0.45,1.23,aligned
+0,1,ugly,2.34,2.88,aligned
+0,2,graney,3.39,4.08,aligned

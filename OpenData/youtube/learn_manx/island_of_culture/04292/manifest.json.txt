@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04292",
+  "name": "Va shen aitt dy liooar ren y chied vuggane giggleragh",
+  "source": "https://www.youtube.com/watch?v=CFsYhFbbOaM",
+  "platform": "youtube",
+  "resource_id": "04292",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 47.07,
+  "deep_link": "https://www.youtube.com/watch?v=CFsYhFbbOaM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

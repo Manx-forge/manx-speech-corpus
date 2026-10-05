@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42642457",
+  "name": "V'eh soit er lheh ry-hoi ooashley y choyrt da Jee dy foshlit as dy follit.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42642457",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.308,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42444864",
+  "name": "Cur dooin laa lurg laa nyn arran gagh laa.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42444864",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.192,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

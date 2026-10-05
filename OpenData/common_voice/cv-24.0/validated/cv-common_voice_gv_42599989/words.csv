@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Ny",0.81,0.93,aligned
+0,1,reddyn,0.93,1.26,aligned
+0,2,shoh,1.26,1.74,aligned
+0,3,ta,1.74,1.89,aligned
+0,4,my,1.89,2.07,aligned
+0,5,annym,2.07,2.43,aligned
+0,6,dy,2.43,2.61,aligned
+0,7,yiooldey;,2.61,3.09,aligned
+0,8,t'ad,3.69,3.96,aligned
+0,9,myr,3.96,4.35,aligned
+0,10,my,4.35,4.65,aligned
+0,11,veaghey,4.65,5.25,aligned
+0,12,"dobberanagh.""",5.25,6.12,aligned

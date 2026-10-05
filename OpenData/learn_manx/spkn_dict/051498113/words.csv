@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,er,0.00,0.21,aligned
+0,1,y,0.21,0.27,aligned
+0,2,traid,0.27,0.84,aligned

@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09293",
+  "name": "Abbyr Shen Reesht - Say That Again 13oo Mee Averil - 2025 - April 13th",
+  "createdCircaStart": "2025-04-13",
+  "createdCircaEnd": "2025-04-13",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-13oo-mee-averil-2025-april-13th/",
+  "platform": "manx_radio",
+  "resource_id": "09293",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1691.45,
+  "deep_link": "https://podcasts.captivate.fm/media/bde3c11e-05d1-4583-ae62-888ff04b4f35/Abbyr-Shen-Reesht-2025-04-13-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

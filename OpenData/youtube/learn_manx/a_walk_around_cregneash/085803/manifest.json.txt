@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085803",
+  "name": "part three",
+  "source": "https://www.youtube.com/watch?v=Pw3yK3RWOdQ",
+  "platform": "youtube",
+  "resource_id": "085803",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 50.02,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "wrong video (Paul Kalkbrenner track) [P2 2026-10-01]"
+}

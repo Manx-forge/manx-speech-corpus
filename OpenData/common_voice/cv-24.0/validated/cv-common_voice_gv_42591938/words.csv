@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,"""Arragh",0.75,1.14,aligned
+0,1,"chayeeagh,",1.20,1.80,aligned
+0,2,sourey,2.04,2.58,aligned
+0,3,"ouyragh;""",2.61,3.27,aligned

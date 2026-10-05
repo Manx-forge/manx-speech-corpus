@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463820",
+  "name": "Marish ny nooghyn t'ec y thie.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463820",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.852,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

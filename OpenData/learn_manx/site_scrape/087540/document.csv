@@ -1,0 +1,20 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon tree-jeig,0.64,2.83,asr,100
+,lesson nagh,3.88,7.15,asr,64
+,nagh vel eh nagh vel ad,9.40,12.70,asr,0
+,eddin charlaadee eddin,17.86,21.55,asr,39
+,er yn traen eddin,23.95,27.37,asr,45
+,er yn etlan nagh vel eh er yn traid nagh vel eh,29.98,38.44,asr,0
+,nagh er yn varroose,41.59,43.96,asr,66
+,nagh vel eh er yn chahlaadee nagh vel,45.73,51.28,asr,69
+,er yn traen nagh vel eh er yn etlan,52.33,57.22,asr,36
+,vel jishag er yn train t'eh er yn varroose,59.98,66.16,asr,77
+,nagh vel yn arran er yn voayrd,68.29,70.45,asr,0
+,cha nel t'ee sy kishtey,71.80,74.41,asr,11
+,jinnair t'ee eck,77.59,80.83,asr,0
+,jinnair gura mie eu,81.43,85.63,asr,27
+,ta mee fakin eh cha nel mee fakin eh,86.92,90.61,asr,100
+,yn pabyr ayns shoh,91.84,96.46,asr,75
+,nagh vel eh ayns shen er yn voayrd cha nel eh ayns shoh cha nel mee fakin,98.32,103.84,asr,96
+,ayns shen er yn voayrd ec yn dorrys,105.85,108.97,asr,0
+,ta mee fakin eh nish gura mie eu,110.44,113.20,asr,94

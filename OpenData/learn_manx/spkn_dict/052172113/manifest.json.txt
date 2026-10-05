@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052172113",
+  "name": "Ta. Ren mee gee kay-riojey ayns Purt ny h-Inshey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052172113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

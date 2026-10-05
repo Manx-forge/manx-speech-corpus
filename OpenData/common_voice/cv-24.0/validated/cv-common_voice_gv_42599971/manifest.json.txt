@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599971",
+  "name": "As ec yn astyr haink eh marish yn daa ostyl yeig.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599971",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.968,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,36 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,yesterday yesterday,0.79,7.48,asr,74
+,va mee ching jea va mee ching jea,9.07,12.13,asr,100
+,yesterday john,13.99,20.17,asr,0
+,yesterday cha rou john tarroogh jea cha rou john tarroogh jea,20.86,26.44,asr,100
+,yesterday juan dooghys yesterday nagh row oo ayns doolish jea nagh row oo ayns doolish,32.14,42.37,asr,91
+,jea john was in port st mary yesterday,42.43,46.15,asr,0
+,john was in port st mary yesterday,51.94,54.28,asr,94
+,cha row juan ayns purt le moirrey jea cha row juan ayns purt le moirrey jea,54.85,59.38,asr,100
+,yesterday yesterday nagh row oo maynrey jea,61.96,71.41,asr,100
+,nagh row oo maynrey jea yesterday,72.07,76.93,asr,85
+,yesterday nagh row beggan skee jeh nagh row yn beggan skee jeh,81.76,87.16,asr,87
+,yesterday watch,89.26,94.00,asr,67
+,yesterday ren mee jeeaghyn er yn chellveeish jea ren mee jeeaghyn er yn chellveeish jea,94.72,100.18,asr,92
+,yesterday quirk yesterday cha ren oo gobbraghey jea cha ren eh gobbraghey jea,102.46,112.39,asr,94
+,yesterday yesterday,114.76,122.08,asr,37
+,ny cre'n ad shooyl er y traie jea nagh ren ad shooyl er y traie jea,122.74,127.30,asr,99
+,voirrey dy brad pitt yesterday,128.41,130.96,asr,73
+,voirrey dys brad pitt yesterday,136.75,139.06,asr,87
+,cha ren loayrt rish brad pitt jea cha ren,139.42,142.78,asr,82
+,loayrt rish brad pitt jeh shoprite on sunday,143.35,147.79,asr,85
+,shop in shoprite on sunday cha ren mee shappal ayns shoprite jedoonee,153.61,158.20,asr,90
+,cha ren mee shappal ayns shoprite jedoonee,158.74,160.96,asr,100
+,john gell john gell,162.19,168.85,asr,0
+,nagh ren juan goll dy valley riyr nagh ren juan goll dy valley riyr,170.38,174.82,asr,100
+,saturday lesson,177.49,181.99,asr,0
+,ren shin geaishtagh rish radio vannin jesarn ren shin geaishtagh rish radio vannin jesarn,184.18,189.37,asr,100
+,yesterday shoprite,191.59,193.75,asr,62
+,cha row mee ayns purt ny hinshey jea as cha ren mee goll dys shoprite,205.27,208.81,asr,76
+,cha row mee ayns purt ny hinshey jea as cha ren mee goll dys shoprite,209.47,213.10,asr,100
+,saturday saturday ren mee shooyl dys creneash jesarn ren mee shooyl dys,216.82,226.75,asr,79
+,dys creneash jesarn yesterday,226.60,230.23,asr,84
+,yesterday c'raad v'ou jea c'raad v'ou jea,234.91,238.72,asr,90
+,yesterday doo yesterday cre ren oo jea,240.61,248.56,asr,89
+,cre ren oo jea shop yesterday,249.16,252.82,asr,79
+,yesterday c'raad ren oo shappal jea c'raad ren oo shappal jea,257.62,262.36,asr,95

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650839",
+  "name": "Cur coontey jeh'n lioar smessey ren oo rieau lhaih.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650839",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.148,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

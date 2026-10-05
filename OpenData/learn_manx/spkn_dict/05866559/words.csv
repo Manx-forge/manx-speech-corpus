@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,oe,0.60,0.99,aligned
+0,1,grandchild,2.10,2.97,aligned
+0,2,oe,3.54,3.93,aligned

@@ -1,0 +1,17 @@
+line,idx,word,start,end,status
+0,0,S'mie,0.30,0.57,aligned
+0,1,lhiam,0.57,0.78,aligned
+0,2,Gaelg,0.78,1.29,aligned
+0,3,Braddan,2.55,3.03,aligned
+0,4,S'mie,3.90,4.23,aligned
+0,5,lhiam,4.23,4.47,aligned
+0,6,Braddan,4.47,4.98,aligned
+0,7,Partan,5.88,6.48,aligned
+0,8,S'mie,7.23,7.56,aligned
+0,9,lhiam,7.56,7.77,aligned
+0,10,Partan,7.80,8.40,aligned
+0,11,Bap,9.21,9.51,aligned
+0,12,S'mie,10.23,10.74,aligned
+0,13,lhiam,12.69,12.93,aligned
+0,14,Bap,15.00,15.39,aligned
+0,15,partan,17.37,18.15,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-023654",
+  "name": "Shelg yn Drean",
+  "source": "https://www.youtube.com/watch?v=mQT2nIFbMIA",
+  "platform": "youtube",
+  "resource_id": "023654",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 368.69,
+  "deep_link": "https://www.youtube.com/watch?v=mQT2nIFbMIA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

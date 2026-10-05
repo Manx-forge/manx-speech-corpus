@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04477",
+  "name": "Skeeal 20a",
+  "source": "https://www.learnmanx.com/media//cowag_1/cowag_3/skeeal%2020%2001.mp3",
+  "platform": "learn_manx",
+  "resource_id": "04477",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 105.22,
+  "deep_link": "https://www.learnmanx.com/media//cowag_1/cowag_3/skeeal%2020%2001.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

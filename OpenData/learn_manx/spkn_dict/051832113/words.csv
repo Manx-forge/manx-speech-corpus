@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,jagh,0.36,0.60,aligned
+0,1,oo,0.60,0.72,aligned
+0,2,dys,0.72,0.93,aligned
+0,3,colby,0.93,1.47,aligned

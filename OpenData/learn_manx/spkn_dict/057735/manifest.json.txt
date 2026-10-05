@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057735",
+  "name": "arran bread",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/arran%20-%20bread.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057735",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.71,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/arran%20-%20bread.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

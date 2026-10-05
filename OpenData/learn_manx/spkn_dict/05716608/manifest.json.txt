@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716608",
+  "name": "Shoh Sustal y Chiarn. Moylley dy row dhyts, Chreest  This is the Gospel of the Lord. Praise be to thee your Christ",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/This_is_the_gospel_of_the_lord_praise_be_to_thee_o_christ.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716608",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 11.47,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/This_is_the_gospel_of_the_lord_praise_be_to_thee_o_christ.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

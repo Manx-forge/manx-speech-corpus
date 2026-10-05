@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,Quoi,0.84,1.17,aligned
+0,1,va,1.17,1.32,aligned
+0,2,Pontius,1.32,1.86,aligned
+0,3,Pilate?,1.89,2.46,aligned

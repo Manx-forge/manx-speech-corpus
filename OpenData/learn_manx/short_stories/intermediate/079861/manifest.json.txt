@@ -1,0 +1,14 @@
+{
+  "ident": "speech-079861",
+  "name": "tey_doillee",
+  "source": "https://www.learnmanx.com/media//Comprehensible%20input/Peeshyn%20elley/Tey%20(doillee).mp3",
+  "platform": "learn_manx",
+  "resource_id": "079861",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 301.58,
+  "deep_link": "https://www.learnmanx.com/media//Comprehensible%20input/Peeshyn%20elley/Tey%20(doillee).mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445167",
+  "name": "Chiarn, dooisht shin seose, lesh jeanid as kiarail.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445167",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.904,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

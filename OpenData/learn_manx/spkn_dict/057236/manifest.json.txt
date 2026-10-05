@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057236",
+  "name": "folt hair",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/folt%20-%20hair.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057236",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.68,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/folt%20-%20hair.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

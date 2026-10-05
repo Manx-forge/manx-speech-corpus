@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42465192",
+  "name": "Screeb my greem, my graih, neose as seose rish clash my hoaney.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42465192",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.74,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

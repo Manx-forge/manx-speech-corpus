@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05869113",
+  "name": "Ren as neeym goll reesht mairagh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05869113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.64,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

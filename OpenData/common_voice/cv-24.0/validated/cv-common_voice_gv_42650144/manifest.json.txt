@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650144",
+  "name": "Sy traa t'ayn, aigh mie dy row lhiat!",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650144",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.176,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

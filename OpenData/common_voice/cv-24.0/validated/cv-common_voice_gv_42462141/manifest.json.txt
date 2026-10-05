@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42462141",
+  "name": "Shen-y-fa nee shiu tayrn ushtey lesh boggey ass ny chibbraghyn dy haualtys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42462141",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.776,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0446",
+  "name": "Ta ny spollagyn yindyssagh.",
+  "source": "https://www.youtube.com/watch?v=9-dC8shkDA4",
+  "platform": "youtube",
+  "resource_id": "0446",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 20.57,
+  "deep_link": "https://www.youtube.com/watch?v=9-dC8shkDA4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,quoi,0.15,0.42,aligned
+0,1,nee,0.42,0.66,aligned
+0,2,orry,0.72,1.02,aligned
+0,3,meeteil,1.05,1.47,aligned
+0,4,rish,1.47,1.86,aligned

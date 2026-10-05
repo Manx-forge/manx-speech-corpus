@@ -1,0 +1,14 @@
+{
+  "ident": "speech-096546",
+  "name": "learning manx part 73",
+  "source": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2073.mp3",
+  "platform": "learn_manx",
+  "resource_id": "096546",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 381.63,
+  "deep_link": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2073.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

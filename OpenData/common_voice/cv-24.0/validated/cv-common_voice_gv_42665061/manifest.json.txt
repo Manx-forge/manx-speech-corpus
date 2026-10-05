@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42665061",
+  "name": "Mish y çhiarn dty Yee; cha bee Jee erbee elley ayd's, agh mish.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42665061",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.02,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42477977",
+  "name": "As va feallagh elley er-chee prowal eh shirrey er cowrey veih niau.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42477977",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.228,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

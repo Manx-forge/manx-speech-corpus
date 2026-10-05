@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057169",
+  "name": "pabyrvoallley wallpaper",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/pabyrvoallley%20-%20wallpaper.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057169",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.41,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/pabyrvoallley%20-%20wallpaper.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

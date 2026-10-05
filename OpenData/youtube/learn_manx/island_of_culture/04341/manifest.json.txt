@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04341",
+  "name": "Vel oo rieau er nakin Buggane?",
+  "source": "https://www.youtube.com/watch?v=sYgBVMU8k6I",
+  "platform": "youtube",
+  "resource_id": "04341",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 31.74,
+  "deep_link": "https://www.youtube.com/watch?v=sYgBVMU8k6I&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

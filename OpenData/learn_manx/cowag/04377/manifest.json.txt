@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04377",
+  "name": "Conversation 13",
+  "source": "https://www.learnmanx.com/media//cowag/13%20Track%2013%209.m4a",
+  "platform": "learn_manx",
+  "resource_id": "04377",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 76.09,
+  "deep_link": "https://www.learnmanx.com/media//cowag/13%20Track%2013%209.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

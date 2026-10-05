@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04107",
+  "name": "Cre oddys oo jannoo ayns Rhumsaa?",
+  "source": "https://www.youtube.com/watch?v=TEW-HBQr1nc",
+  "platform": "youtube",
+  "resource_id": "04107",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.62,
+  "deep_link": "https://www.youtube.com/watch?v=TEW-HBQr1nc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

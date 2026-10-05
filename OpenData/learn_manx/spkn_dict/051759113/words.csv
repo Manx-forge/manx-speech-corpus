@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,ny,0.21,0.39,aligned
+0,1,tar,0.39,0.78,aligned
+0,2,erash,0.78,1.44,aligned

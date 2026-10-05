@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09074",
+  "name": "Abbyr Shen Reesht 2nd November 2020",
+  "createdCircaStart": "2020-11-02",
+  "createdCircaEnd": "2020-11-02",
+  "source": "https://www.manxradio.com/player/podcasts/episodes/abbyr-shen-reesht-2nd-november-20201/",
+  "platform": "manx_radio",
+  "resource_id": "09074",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2347.55,
+  "deep_link": "https://podcasts.captivate.fm/media/f9cd03ef-a454-407d-bfbe-d2e88c7fe4e6/2958.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

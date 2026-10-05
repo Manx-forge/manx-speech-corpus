@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09212",
+  "name": "Abbyr Shen Reesht 30th July 2023",
+  "createdCircaStart": "2023-07-29",
+  "createdCircaEnd": "2023-07-29",
+  "source": "https://www.manxradio.com/player/podcasts/episodes/abbyr-shen-reesht-30th-july-20231/",
+  "platform": "manx_radio",
+  "resource_id": "09212",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2075.87,
+  "deep_link": "https://podcasts.captivate.fm/media/8f8b5085-2d6a-4465-8100-4f087d9fbb31/7335.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

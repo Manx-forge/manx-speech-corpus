@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051597113",
+  "name": "Beagh oo feer vaynrey ayns Regaby?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051597113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.15,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

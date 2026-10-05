@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05825113",
+  "name": "Cren fa smie lesh Orry cummal ayns Doolish?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05825113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.65,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

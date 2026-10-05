@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457575",
+  "name": "Cha vel red erbee cha lajer as meenid, as meenid yn troshid cair.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457575",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.424,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

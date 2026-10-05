@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42169",
+  "name": "Cur coontey jeh boayl nagh ren oo rieau cur shilley er.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42169",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 36.648,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058122",
+  "name": "shamyr soie lounge",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/shamyr%20soie%20-%20lounge.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058122",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/shamyr%20soie%20-%20lounge.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

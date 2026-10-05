@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05865445",
+  "name": "ooyllyn apples",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Apples_Ooyllyn(A).mp3",
+  "platform": "learn_manx",
+  "resource_id": "05865445",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 6.56,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Apples_Ooyllyn(A).mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,corran,0.90,1.41,aligned
+0,1,bwee,1.41,2.04,aligned
+0,2,banana,2.58,3.36,aligned
+0,3,corran,3.69,4.26,aligned
+0,4,bwee,4.26,4.86,aligned

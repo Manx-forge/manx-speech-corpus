@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09292",
+  "name": "Abbyr Shen Reesht - Say That Again 30oo Mee Vayrt - 2025 - March 30th",
+  "createdCircaStart": "2025-03-30",
+  "createdCircaEnd": "2025-03-30",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-30oo-mee-vayrt-2025-march-30th/",
+  "platform": "manx_radio",
+  "resource_id": "09292",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1441.49,
+  "deep_link": "https://podcasts.captivate.fm/media/0b70cbc3-f6fc-4956-a917-0479f6df347b/Abbyr-Shen-Reesht-2025-03-30-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

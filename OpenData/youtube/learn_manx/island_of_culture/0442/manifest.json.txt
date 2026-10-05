@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0442",
+  "name": "Ta awin goll fo yn droghad",
+  "source": "https://www.youtube.com/watch?v=eLVNsKODeho",
+  "platform": "youtube",
+  "resource_id": "0442",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.39,
+  "deep_link": "https://www.youtube.com/watch?v=eLVNsKODeho&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

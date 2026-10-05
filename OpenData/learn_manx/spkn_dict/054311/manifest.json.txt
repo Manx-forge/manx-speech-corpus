@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054311",
+  "name": "mucawin bear",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/mucawin%20-%20bear.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054311",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.04,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/mucawin%20-%20bear.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

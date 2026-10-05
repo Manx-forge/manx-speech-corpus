@@ -1,0 +1,51 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,bob bob cuin honnick oo bob,1.15,7.72,asr,85
+,cuin honnick oo bob as,8.32,10.42,asr,79
+,honnick mee eh er y gherrid honnick mee eh er y gerrid,20.11,23.32,asr,96
+,ramsey ram,25.33,31.03,asr,0
+,cuin hie oo dys rhumsaa cuin hie oo dys rhumsaa,31.90,35.02,asr,76
+,ramsey ramsey,36.07,41.50,asr,28
+,hie mee dys rhumsaa mysh mee er dy henney hie mee dys rhumsaa mysh mee er dy henney,42.97,47.83,asr,100
+,doo last night doo last night cre ren oo riyr,49.63,59.80,asr,32
+,cre ren oo riyr cha ren,60.28,70.30,asr,85
+,cha ren mee veg riyr cha ren mee veg riyr,70.09,72.82,asr,76
+,last cre ren oo riyr cre ren oo,81.91,85.21,asr,35
+,hie mee,95.89,96.31,asr,18
+,hie mee dys yn gaiety riyr hie mee dys yn,95.95,98.86,asr,86
+,vel oo er ve ayns sostyn vel oo er ve ayns sostyn,107.83,110.95,asr,88
+,va mee ayns sostyn nurree va mee ayns sostyn nurree,122.41,125.68,asr,100
+,c'raad t'ou goll mleeaney c'raad t'ou,135.70,137.77,asr,0
+,c'raad t'ou goll mleeaney france,137.38,140.98,asr,59
+,sy mleeaney ta mee goll dys y rank mleeaney ta mee goll dys y rank,146.62,150.46,asr,95
+,row oo rieau ayns nherin row oo rieau ayns nherin,159.07,162.31,asr,91
+,va mee ayns nherin daa vlein er dy henney va mee ayns nherin daa vlein er dy henney,170.56,175.12,asr,100
+,never in scotland r'ou rieau ayns nalbin r'ou rieau ayns nalbin,181.57,185.98,asr,55
+,va mee ayns nalbin bleeantyn er dy henney va mee ayns nalbin bleeantyn er dy henney,194.08,198.43,asr,100
+,row oo rieau ayns bretin row oo rieau ayns bretin,206.32,209.35,asr,100
+,as cha nel mee er ve ayns bretin rish ymmodee bleeantyn cha nel mee er ve ayns bretin,211.60,221.83,asr,86
+,rish ymmodee bleeantyn row ayns,221.95,232.03,asr,57
+,ayns paris er y gherrid row ayns paris er y gerrid,231.85,235.36,asr,64
+,va mee ayns paris tammylt beg er dy henney va mee ayns paris tammylt beg er dy henney,244.48,249.07,asr,100
+,cuin hee'm oo reesht cuin hee'm oo reesht,258.55,261.31,asr,95
+,hee oo mish ayns kegeesh hee oo mish ayns kegeesh,270.40,273.70,asr,59
+,bwoaill oo yn dooghys last week in douglas last week,274.03,278.86,asr,33
+,row oo ayns doolish yn chiaghtin shoh chaie,279.73,281.86,asr,100
+,row oo ayns doolish yn shiaghtin shoh chaie,282.40,284.56,asr,100
+,the in douglas last week in douglas,285.88,293.32,asr,0
+,cha row mee ayns doolish yn chiaghtin shoh chaie cha row mee ayns doolish yn chiaghtin shoh chaie,294.34,299.17,asr,100
+,drank drunk row oo rieau scooyrit r'ou rieau scooyrit,300.79,310.03,asr,91
+,three times drunk,311.62,318.43,asr,0
+,ta mee er ve scooyrit three keayrtyn ta mee er ve scooyrit three keayrtyn,319.99,324.40,asr,100
+,phil illiam illiam,325.69,331.57,asr,62
+,vel oo er nakin illiam vel oo er nakin illiam,332.17,335.23,asr,100
+,illiam illiam,337.00,343.12,asr,54
+,cha nel mee er nakin illiam rish shiaghtin ny ghaa cha nel mee er nakin illiam rish shiaghtin ny ghaa,344.35,349.63,asr,91
+,cha vel oo clashtyn yn naight vel oo clashtyn yn naight,355.18,360.07,asr,85
+,cha nel mee er chlashtyn naight edyr,368.38,370.00,asr,73
+,cha nel mee er chlashtyn yn naight edyr have you spoke to tony brown already,370.57,375.07,asr,72
+,gys y tony brown already vel oo loayrt rish tony brown hannah,377.26,380.59,asr,82
+,brown hannah cha nel mee er loayrt rish,382.09,391.90,asr,86
+,foast cha nel mee loayrt rish foast,391.96,394.21,asr,59
+,cha bee with a meter meter,395.23,401.08,asr,38
+,vel oo rieau er veeiteil ree vel oo rieau er veeiteil ree,401.68,405.10,asr,100
+,cha nel mee rieau y vaateil ree cha nel mee rieau y vaateil ree,411.58,415.15,asr,66

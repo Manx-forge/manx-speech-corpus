@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,kiare,0.27,0.60,aligned
+0,1,as,0.60,0.72,aligned
+0,2,feed,0.72,1.17,aligned

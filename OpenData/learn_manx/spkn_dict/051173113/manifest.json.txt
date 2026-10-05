@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051173113",
+  "name": "Nhione dhyt Juan?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051173113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.11,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

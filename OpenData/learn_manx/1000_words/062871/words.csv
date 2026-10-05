@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,S,0.00,0.09,aligned
+0,1,becomes,0.09,0.30,aligned
+0,2,h,0.30,0.33,aligned
+0,3,Shuyr,0.39,0.87,aligned
+0,4,My,1.71,1.86,aligned
+0,5,huyr,1.86,2.22,aligned
+0,6,Mie,2.88,3.09,aligned
+0,7,lhiat,3.09,3.27,aligned
+0,8,my,3.27,3.48,aligned
+0,9,huyr?,8.40,8.76,aligned

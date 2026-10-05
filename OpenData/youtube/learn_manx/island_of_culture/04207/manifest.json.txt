@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04207",
+  "name": "Vel oo geearree berreen?",
+  "source": "https://www.youtube.com/watch?v=y_CLP-3J0Yo",
+  "platform": "youtube",
+  "resource_id": "04207",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.45,
+  "deep_link": "https://www.youtube.com/watch?v=y_CLP-3J0Yo&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057204",
+  "name": "beeal mouth",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/beeal%20-%20mouth.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057204",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.78,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/beeal%20-%20mouth.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

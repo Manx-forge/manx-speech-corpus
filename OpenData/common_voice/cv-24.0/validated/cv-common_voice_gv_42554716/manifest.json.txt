@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42554716",
+  "name": "Nee uss yn dooinney share?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42554716",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.428,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867408",
+  "name": "steatyn unnaneysit america the united states",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_United%20States.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867408",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.94,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_United%20States.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

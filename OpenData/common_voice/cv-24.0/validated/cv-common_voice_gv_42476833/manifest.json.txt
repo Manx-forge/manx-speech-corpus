@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42476833",
+  "name": "Cha dooar mee monney eunys agh anvea.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42476833",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.508,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

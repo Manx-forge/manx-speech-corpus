@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05710113",
+  "name": "Er y fa dy vel mee cummal ayns Purt Çhiarn",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05710113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

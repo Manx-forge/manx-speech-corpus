@@ -1,0 +1,16 @@
+line,idx,word,start,end,status
+0,0,Gollrish,1.47,2.04,aligned
+0,1,Perkin,3.33,3.87,aligned
+0,2,Nod,4.65,4.80,aligned
+0,3,oo,4.80,4.86,aligned
+0,4,snaue,4.86,5.19,aligned
+0,5,gollrish,5.19,5.49,aligned
+0,6,perkin?,5.49,6.03,aligned
+0,7,Clagh,7.02,7.68,aligned
+0,8,Foddym,8.79,9.03,aligned
+0,9,snaue,9.03,9.45,aligned
+0,10,gollrish,9.45,9.78,aligned
+0,11,clagh,9.78,10.38,aligned
+0,12,(,,,unaligned
+0,13,Clagh,11.25,11.67,aligned
+0,14,Vane,11.67,12.15,aligned

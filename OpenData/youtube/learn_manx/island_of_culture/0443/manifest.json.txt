@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0443",
+  "name": "Mie lhiat Marmite? Cha mie",
+  "source": "https://www.youtube.com/watch?v=Ctu4OSIrJGI",
+  "platform": "youtube",
+  "resource_id": "0443",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.45,
+  "deep_link": "https://www.youtube.com/watch?v=Ctu4OSIrJGI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

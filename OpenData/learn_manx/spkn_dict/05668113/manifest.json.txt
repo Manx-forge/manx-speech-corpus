@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05668113",
+  "name": "Ta. Ta moddey jiarg eck",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05668113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.19,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,266 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,1.48,4.36,asr,54
+,gimnane lessoon nuy went out,4.87,11.35,asr,42
+,ren mee goll magh ren mee goll magh,16.51,20.17,asr,100
+,veih dys ren mee,24.97,35.29,asr,0
+,mee goll magh agh cha ren mee gee,35.11,38.11,asr,86
+,ren mee goll magh agh cha ren mee gee identity,39.07,45.52,asr,68
+,ren mee goll magh agh cha ren mee,55.93,58.57,asr,100
+,ren mee goll magh agh cha ren mee soie,60.64,64.84,asr,92
+,veih dynsee ee bee dooin sleih ayd,66.10,68.89,asr,38
+,the in the morning ren,69.85,93.28,asr,0
+,ren mee goll magh agh cha ren,93.13,96.04,asr,54
+,son cha laik lhiam gee pastyr ayns y voghrey,97.75,101.08,asr,79
+,ren mee goll magh agh cha ren mee son cha laik lhiam gee pasta ayns y voghrey,102.25,106.33,asr,82
+,oie vie brown braid,109.42,112.42,asr,44
+,cha ren mee kionnagh arran dhone,122.68,125.14,asr,94
+,cha ren mee kionnagh arran dhone choud's eh,126.73,130.33,asr,89
+,the brown braid white braid,130.63,134.50,asr,43
+,cha ren mee kionnagh arran dhone,147.28,149.44,asr,90
+,son share lhiam arran bane,150.10,152.62,asr,100
+,cha ren mee kionnagh arran oarn son share lhiam my anvane,153.76,156.64,asr,70
+,ren oo gee ren oo gee,167.92,170.23,asr,100
+,yn keeill ren oo gee ayns purt,173.74,184.03,asr,12
+,purt ny hinshey ren oo gee ayns purt ny h-inshey,183.91,187.18,asr,86
+,yesterday ren oo,191.53,201.61,asr,0
+,gee ayns purt ny hinshey jea,201.67,203.65,asr,93
+,ren oo gee ayns purt ny hinshey jea dynsee,204.70,210.13,asr,68
+,yesterday nagh,210.94,221.71,asr,0
+,ren oo gee ayns purt ny hinshey jea,221.74,224.56,asr,61
+,nagh ren oo gee ayns purt ny hinshey jea yiass,225.34,230.32,asr,89
+,ren eh,235.03,237.43,asr,27
+,red curree ren,238.30,248.26,asr,0
+,ren mee gee curree ren cha ren mee gee curree,249.16,252.97,asr,82
+,feed curree agh,256.96,258.46,asr,0
+,boght cha ren mee gee curree ren mee gee peetsey,279.58,283.12,asr,86
+,cha ren mee gee curree ren mee gee peetsey,284.65,286.87,asr,100
+,ren oo cadley,298.00,299.08,asr,12
+,ren oo cadley yn douglas yesterday,299.86,306.28,asr,57
+,ren oo cadley ayns doolish jea,315.61,317.95,asr,100
+,foddey ayns doolish jea yiass,319.63,323.71,asr,24
+,ren eh,328.12,331.81,asr,30
+,in willaston aym,333.01,346.48,asr,0
+,ayns willaston ren toiggal aym ayns willaston,346.72,351.52,asr,77
+,rheynn,370.42,370.81,asr,0
+,fo aym ayns willaston t'ee feer vie,372.37,375.25,asr,88
+,aym ayns willaston t'ee feer vie yiass,377.23,382.57,asr,64
+,willaston it's very good hie,384.01,386.74,asr,74
+,yn dooghys ren,387.40,401.74,asr,0
+,toiggal aym ayns willaston,402.94,405.01,asr,72
+,feer vie s'laik lhiam cadley ayns doolish,405.94,409.96,asr,80
+,veih must willaston t'eh feer vie s'laik lhiam cadley ayns doolish,412.09,415.45,asr,87
+,watch top gear ren,419.71,430.81,asr,0
+,ren oo jeeaghyn er top gear ren oo jeeaghyn er ta,430.63,434.89,asr,73
+,v'ad top gear yesterday ren,438.28,450.25,asr,0
+,ren oo jeeaghyn er top gear jeh,450.07,452.56,asr,62
+,vel oo jeeaghyn er top gear jeh and,453.67,457.81,asr,54
+,cha ren,462.73,463.27,asr,43
+,cha ren eh now,464.44,467.26,asr,21
+,quoi,467.89,468.07,asr,0
+,ren cha nel cha ren cha nel t'ee v'ee aym,478.63,484.42,asr,78
+,cha dod have and we dont like jeremy clarkson,488.80,492.82,asr,6
+,cha ren cha nel t'ee v'ee aym as cha laik lhiam jeremy clarkson,503.83,508.96,asr,100
+,cha ren cha nel t'ee v'ey aym as cha laik lhiam jeremy clarkson,510.01,513.07,asr,94
+,c'raad ren oo cadley c'raad ren oo cadley,524.59,528.70,asr,62
+,the sunday craad,533.26,547.30,asr,0
+,ren oo cadley jedoonee cre ren oo cadley jedoonee,547.39,551.77,asr,79
+,oh,555.25,555.31,asr,0
+,ren mee cadley ayns rhumsaa,568.36,570.67,asr,100
+,ren mee cadley ayns rhumsaa in ramsey,571.81,577.60,asr,69
+,tobbyr bite ren,578.59,590.35,asr,0
+,ren mee cadley ayns rhumsaa son cha nel daa-wheeyl aym,590.20,594.94,asr,92
+,ren mee cadley ayns rhumsaa son cha nel daa-wheeyl aym,596.05,598.69,asr,81
+,eu kys t'ou kys t'ou,602.50,608.02,asr,76
+,but ayns y little bit bio,609.19,611.50,asr,43
+,ta mee red beg ching ta mee red beg ching,621.28,625.15,asr,100
+,my little bit bio drank coadey,627.76,631.30,asr,49
+,ta mee red beg ching son ren mee giu,639.67,643.03,asr,100
+,ta mee red beg ching son ren mee giu coadey,644.92,647.26,asr,100
+,drank in ramsey yesterday,651.85,654.07,asr,74
+,ta mee red beg ching son ren mee giu,669.04,671.68,asr,100
+,well ayns rhumsaa jiu ta mee red beg ching son ren mee giu coayl ayns rhumsaa jeh,672.19,677.86,asr,88
+,hie mee lhiettal bit bio drink in ramsey yesterday,680.50,684.43,asr,54
+,ta mee red beg ching son ren mee giu,700.66,703.90,asr,100
+,ayns rhumsaa jeh as cha laik lhiam,704.74,707.80,asr,97
+,ta mee red beg ching son ren mee giu ayns rhumsaa jeh as cha laik lhiam,709.78,714.40,asr,91
+,just say a little bit bio beeym drank in ramsey yesterday,716.86,722.14,asr,61
+,er,724.93,725.05,asr,0
+,ta mee red beg ching son ren mee giu,742.96,746.47,asr,76
+,ayns rhumsaa jeh as cha laik lhiam,747.37,750.22,asr,97
+,share lhiam yn briw ta mee red beg ching ren mee giu ayns rhumsaa jeh as cha laik lhiam coayl agh share lhiam yn briw,751.24,761.05,asr,90
+,ren oo gee,772.60,773.56,asr,12
+,gee eh,775.75,778.81,asr,0
+,t'ad brown braid ren mee gee arran,780.01,793.09,asr,0
+,pandoan as ren mee gee arran dooinney,793.00,797.35,asr,52
+,the brown braid yn ayns sunday,800.80,803.80,asr,69
+,ren mee gee arran dhone as oie jedoonee,818.59,822.07,asr,89
+,ren mee gee arran dhone as oie jedoonee,823.42,825.52,asr,89
+,with brown braid yn ayns sunday,828.25,830.83,asr,57
+,curree yesterday ren,832.09,846.49,asr,0
+,ren mee gee aaron dhone as oie jedoonee,846.34,849.55,asr,56
+,agh ren mee gee curree gee arran dhone as oie jedoonee agh ren mee gee curree jeh,850.33,857.77,asr,78
+,obbyr fish eeast ayd,860.71,867.79,asr,75
+,cha nel,875.20,875.77,asr,0
+,cha nel eh now hie,876.64,880.39,asr,100
+,yesterday cha nel,881.44,889.33,asr,71
+,ren mee gee jeh,890.08,892.18,asr,83
+,cha nel ren mee gee jeh coffee,893.26,898.21,asr,100
+,vel copy ayd copy ayd,903.52,905.86,asr,47
+,the rankit on sunday,910.09,912.28,asr,60
+,cha nel ren mee giu eh jedoonee,922.48,926.41,asr,100
+,cha nel ren mee giu eh jedoonee now,927.34,932.80,asr,81
+,vel fys ayd vel fys ayd,938.08,940.03,asr,100
+,vel fys ayd cre vel fys ayd cre,949.66,953.41,asr,61
+,vel,973.06,973.24,asr,0
+,vel fys ayd cre ren oo kionnagh,973.09,975.37,asr,32
+,cre ren oo kionnagh chouds,977.77,980.77,asr,47
+,ta ta fys aym now,989.38,994.99,asr,36
+,bread ta,996.25,1007.53,asr,0
+,ta fys aym ren mee kionnagh arran as,1008.07,1011.19,asr,56
+,doo ren mee kionnagh arran as ren,1013.23,1029.43,asr,61
+,ren oo kionnagh tey ren oo kionnagh tey,1029.25,1032.85,asr,69
+,nagh ren oo kionnagh tey nagh ren oo kionnagh tey,1045.75,1050.07,asr,98
+,eh now cha ren,1052.62,1056.88,asr,0
+,cha ren cha,1057.54,1073.14,asr,80
+,cha ren s'laik lhiam cha ren s'laik lhiam te,1072.96,1077.28,asr,68
+,bride prefer eieyn broo cha,1080.49,1097.26,asr,0
+,cha ren s'laik lhiam agh share lhiam yn briw,1097.08,1102.27,asr,61
+,cha ren s'laik lhiam te agh share lhiam eh yn broo,1103.86,1106.50,asr,92
+,vel fys ayd vel fys ayd,1115.05,1117.00,asr,100
+,vel fys ayd c'raad ren oo cadley,1127.65,1130.02,asr,100
+,vel fys ayd c'raad ren oo cadley cha,1130.95,1141.09,asr,72
+,cha nel fys aym cha nel fys aym,1140.88,1143.31,asr,100
+,bread ren oo kionnagh,1148.44,1158.76,asr,90
+,arran ren eh kionnagh arran,1158.82,1161.31,asr,64
+,at bread in shoprite on sunday,1164.58,1167.55,asr,73
+,ren eh kionnagh arran ayns shoprite jedoonee,1177.93,1182.19,asr,95
+,ren eh kionnagh arran ayns shoprite jedoonee,1183.42,1185.49,asr,100
+,at bread in shoprite on sunday,1189.15,1191.94,asr,72
+,boat yesterday,1192.51,1195.21,asr,76
+,ren oo kionnagh arran ayns shoprite jedoonee,1210.72,1214.44,asr,95
+,agh cha ren eh gee jeh,1215.07,1217.44,asr,88
+,ren eh kionnagh arran ayns shoprite jedoonee agh cha,1218.70,1221.04,asr,91
+,ren mee cadley ayns purt le moirrey,1237.18,1239.55,asr,97
+,ren eh caggey ayns purt le moirrey cha ren cha ren,1240.39,1248.22,asr,78
+,bis eh now hee slat in douglas,1249.42,1252.00,asr,14
+,cha ren mee cadley ayns doolish,1261.81,1265.62,asr,88
+,cha ren eh cadley ayns doolish,1266.91,1269.22,asr,88
+,gow-jee say now heese in douglas,1271.65,1275.46,asr,70
+,gee has a fine in willaston,1276.03,1278.94,asr,45
+,bee cadley ayns doolish t'eh,1295.05,1297.81,asr,65
+,vel braew echey ayns willaston cha ren eh uss doolish t'eh,1298.41,1304.35,asr,69
+,v'ou braew eddyr ayns willaston hauchey,1304.74,1310.47,asr,74
+,ren,1322.44,1322.65,asr,42
+,dy nee kionnagh gys spotchal ren oo kionnaghey spotchal,1322.56,1326.70,asr,87
+,cha ren,1334.77,1335.43,asr,0
+,cha ren eh now cheead as yn lhied gys,1336.36,1340.38,asr,64
+,cha ren cha laik lesh gys spotchal,1354.36,1357.39,asr,72
+,cha ren cha laik lesh gys spotchal gys,1358.23,1363.60,asr,73
+,but he prefers eieyn broo cha,1364.02,1380.01,asr,0
+,cha ren cha laik lesh gys spotchal share lesh yn briw,1379.80,1384.60,asr,73
+,cha ren cha laik lesh kys spotchal share lesh ain,1386.07,1388.65,asr,74
+,vel fys echey fys echey,1402.12,1404.46,asr,88
+,now vel,1407.76,1421.20,asr,0
+,vel fys echey cre ren oo kionnagh,1421.05,1423.63,asr,86
+,ren oo kionnagh now,1425.67,1430.59,asr,28
+,keead dys yn now cha,1431.46,1441.90,asr,0
+,cha nel cha nel cha nel cha nel fys echey,1441.72,1445.86,asr,80
+,v'eh dys yn now and he's a bit angry,1448.77,1451.35,asr,60
+,cha nel cha nel fys echey,1458.43,1461.01,asr,100
+,as red beg corree cha nel cha nel fys echey as t'eh red beg corree,1461.55,1466.65,asr,93
+,ren,1477.75,1477.93,asr,0
+,ren eh kionnagh goll ren oo kionnagh bun dy loo yn jurby,1477.78,1485.85,asr,50
+,ren oo kionnagh un jurby,1495.60,1498.42,asr,61
+,jurby jurby,1501.54,1507.48,asr,24
+,as yn thieyn laccal kionnagh,1509.07,1525.12,asr,13
+,ayns jurby agh t'eh laccal beaghey ayns thie yuan nish,1526.02,1531.15,asr,87
+,ren eh kionnagh jurby agh t'eh laccal beaghey ayns thailand nish,1532.38,1536.16,asr,78
+,ren ee goll ren oo goll,1546.12,1548.43,asr,70
+,dys colby ren eh,1551.16,1561.24,asr,0
+,goll dys colby ren oo goll dys colby,1561.36,1564.81,asr,100
+,go to colby cha,1567.96,1578.97,asr,0
+,cha ren ee goll dys colby orrin goll dys colby,1578.73,1582.72,asr,72
+,but colby goll,1585.27,1600.51,asr,17
+,goll dys colby son cha nel fys echey cre,1600.30,1604.23,asr,86
+,cha ren oo goll dys colby son cha nel fys echey cre,1605.76,1608.10,asr,75
+,ren ee goll,1620.82,1622.02,asr,38
+,ren ee goll she went to shoprite,1623.28,1627.96,asr,50
+,ren ee goll dys shoprite,1636.06,1638.13,asr,100
+,goll dys shoprite shoprite,1639.36,1644.16,asr,47
+,oayllee ren,1646.17,1664.35,asr,0
+,cha goll dys shoprite agh cha ren ee kionnagh radio-oaylee,1664.29,1668.88,asr,74
+,ren ee goll dys shoprite cha ren ee kionnagh radio-oaylee,1670.17,1672.96,asr,77
+,she went to shoprite but she didnt,1675.96,1679.11,asr,50
+,favioli coshee dys pasta,1679.62,1682.02,asr,50
+,ren ee goll dys shoprite agh cha ren ee kionnagh radio-oaylee son cha nel ee gee pasta,1694.14,1701.22,asr,90
+,goll dys shoprite cha ren ee kionnagh radio-oaylee son eli pastyr,1702.72,1706.71,asr,73
+,craad ren ee goll c'raad ren ee goll,1719.64,1723.12,asr,81
+,beechee ta ramsey ren ee goll,1724.92,1735.48,asr,52
+,goll dys rhumsaa ren ee goll dys rhumsaa,1735.09,1738.66,asr,86
+,ta ramsey ansherbee gys spotchal,1742.68,1745.53,asr,68
+,ren ee goll dys rhumsaa as ren ee kionnagh gys spotchal,1756.03,1760.20,asr,100
+,ren ee goll dys rhumsaa as ren ee kionnagh gys spotchal,1761.61,1764.19,asr,98
+,dys she watch skee sunday ren,1767.22,1780.42,asr,0
+,va'n oie jeeaghyn er skee jedoonee,1780.27,1782.79,asr,75
+,ren ee jeeaghyn er jedoonee and,1783.99,1787.47,asr,72
+,now bee coshee dys yn obbyr,1788.13,1798.06,asr,57
+,son cha nel t'ee v'ee eck cha ren son cha nel t'ee v'ee eck,1809.25,1813.60,asr,89
+,bee cur shee dys yn obbyr t'ee v'ee ayns y dys y spoyrt,1816.57,1820.14,asr,60
+,cha ren son cha nel,1833.07,1835.38,asr,100
+,bee eck as cha laik lhee sport,1835.71,1838.47,asr,85
+,horran son cha nel t'ee as cha laik lhee spoyrt,1839.52,1842.58,asr,75
+,doo jannoo,1847.59,1856.77,asr,30
+,ren ee jannoo jannoo,1858.63,1872.49,asr,27
+,boo jedoonee jannoo jedoonee,1872.31,1875.73,asr,67
+,ren ee cloie smuggey ren ee cloie,1890.64,1893.64,asr,75
+,prowidys eh she has a kiune,1896.22,1900.69,asr,45
+,ren ee cloie smuggey ta ceau ec nish,1909.45,1912.81,asr,62
+,quoi smuggey ta jiu ec nish,1914.22,1916.65,asr,42
+,she played smuggey she has a kiune eu she boayrd as in douglas,1918.90,1924.06,asr,0
+,ren ee cloie smuggey braew ec nish,1937.98,1942.15,asr,81
+,ren ee kionnagh ayns doolish,1942.81,1945.27,asr,90
+,cha nee cloie smuggey ta braew ec nish,1947.04,1949.98,asr,43
+,v'ee kionnaghey ayns doolish dys sheeloge plaiynt badminton,1950.37,1959.19,asr,72
+,laik lhee cloie badminton,1966.72,1969.03,asr,100
+,laik lhee cloie badminton badminton,1969.99,1975.48,asr,74
+,badminton s'laik lhee badminton,1984.21,1986.49,asr,87
+,badminton but cheeadyn place today,1988.95,1991.35,asr,66
+,s'laik lhee badminton agh cha ren ee cloie jiu,2005.27,2008.99,asr,100
+,s'laik lhee badminton cha ren ee cloie jiu,2010.34,2012.83,asr,91
+,bee,2020.21,2020.30,asr,0
+,badminton agh cha ren ee cloie jiu son red beg ching,2035.15,2040.55,asr,91
+,s'laik lhee badminton cha ren ee cloie jiu son red beg ching,2041.57,2045.53,asr,89
+,vel oo,2062.12,2062.51,asr,0
+,vel oo giu tey jiu vel oo giu tey jiu,2062.18,2065.78,asr,77
+,cha nel mee giu tey jiu,2081.14,2083.51,asr,100
+,cha nel mee giu tey jiu just say,2084.41,2086.93,asr,97
+,hie not drinking yesterday drink yesterday,2087.59,2091.61,asr,65
+,cha nel mee giu tey jiu as cha ren mee giu tey jeh,2101.51,2106.46,asr,100
+,cha nel mee giu tey jiu as cha ren mee giu drinking,2107.57,2113.81,asr,74
+,yn drink yesterday bee as,2114.89,2117.53,asr,60
+,cha nel mee giu tey jiu,2129.50,2131.75,asr,100
+,as cha ren mee giu tey jeh son cha laik lhiam tey,2132.29,2136.55,asr,100
+,cha nel mee giu tey jiu as cha ren mee giu tey jee son cha laik lhiam tey,2138.38,2142.49,asr,99
+,hie not drinking day,2145.79,2147.53,asr,58
+,dyn drink yesterday bee,2148.43,2153.08,asr,62
+,cha nel mee giu tey jiu as cha ren mee giu tey jeh,2165.68,2170.45,asr,100
+,son cha laik lhiam tey share lhiam gys spotchal,2171.02,2174.53,asr,100
+,cha nel mee giu tey jiu as cha ren mee giu tey jee son cha laik lhiam tey share lhiam gys spotchal,2176.51,2182.81,asr,99
+,cha vel copy ayd vel copy ayd,2186.53,2195.05,asr,26
+,cha nel,2203.63,2204.23,asr,100
+,cha nel caffee aym chouds eh,2206.12,2208.70,asr,64
+,coffee in douglas yesterday,2209.90,2213.50,asr,63
+,cha nel copy of ren mee kionnagh tey ayns doolish jea,2222.41,2227.27,asr,86
+,cha nel cabbil ren mee kionnagh tey ayns doolish jea,2228.74,2231.86,asr,84
+,cha nel mee laccal,2242.03,2243.32,asr,39
+,cha nel mee laccal tey chouds eh,2244.61,2247.31,asr,94
+,cha nel mee laccal tey gura mie ayd,2256.46,2259.10,asr,100
+,cha nel mee laccal tey gura mie ayd eddyr,2260.09,2264.68,asr,80
+,bee thanks cha,2265.07,2280.04,asr,0
+,cha nel mee laccal tey gura mie ayd,2279.86,2282.32,asr,97
+,cha laik lhiam eh gura mie ayd,2282.95,2287.30,asr,68
+,bis eh hie dooint giu,2290.69,2293.90,asr,14
+,hie dont like it hie prefer spotchal,2294.74,2297.62,asr,56
+,cha nel mee laccal tey gura mie ayd,2307.91,2310.46,asr,100
+,cha laik lhiam eh share lhiam gys spotchal,2311.18,2314.18,asr,100
+,cha nel mee laccal tey gura mie ayd cha laik lhiam eh share lhiam gys spotchal,2315.65,2319.19,asr,87

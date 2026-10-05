@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052020113",
+  "name": "Craad ren Voirrey gee kay-riojey?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052020113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.47,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

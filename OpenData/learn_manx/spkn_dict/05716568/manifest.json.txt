@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716568",
+  "name": "Trog-jee seose nyn greeaghyn. Ta shin troggal ad seose gys y Chiarn Lift up your hearts. We lift them up to the Lord",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/Lift_up_your_hearts_we_lift_them_to_the_lord.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716568",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 12.56,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/Lift_up_your_hearts_we_lift_them_to_the_lord.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

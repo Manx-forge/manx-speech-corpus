@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052116113",
+  "name": "Raad-yiarn lectragh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052116113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.59,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058240",
+  "name": "aanrit laue towel",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/aanrit%20laue%20-%20towel.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058240",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.62,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/aanrit%20laue%20-%20towel.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

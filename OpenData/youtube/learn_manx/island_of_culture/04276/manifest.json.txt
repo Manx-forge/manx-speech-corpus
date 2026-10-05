@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04276",
+  "name": "Cha nel uss agh shenn ooyl ommidagh ta lane dy gheay",
+  "source": "https://www.youtube.com/watch?v=gy6LORxZl4Y",
+  "platform": "youtube",
+  "resource_id": "04276",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 51.97,
+  "deep_link": "https://www.youtube.com/watch?v=gy6LORxZl4Y&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

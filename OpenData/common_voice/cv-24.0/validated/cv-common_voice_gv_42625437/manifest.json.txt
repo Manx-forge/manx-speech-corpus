@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42625437",
+  "name": "Va lane yindys oc tra cheayll ad yn skeeal.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42625437",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.428,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

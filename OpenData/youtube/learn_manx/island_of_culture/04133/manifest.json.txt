@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04133",
+  "name": "Vel braar ayd? Ta, ta un vraar ayms",
+  "source": "https://www.youtube.com/watch?v=zMDUUnkJzrw",
+  "platform": "youtube",
+  "resource_id": "04133",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.01,
+  "deep_link": "https://www.youtube.com/watch?v=zMDUUnkJzrw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

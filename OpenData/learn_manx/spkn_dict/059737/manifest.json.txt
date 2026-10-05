@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059737",
+  "name": "tendreil lightning",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/tendreil%20-%20lightning.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059737",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20weather/tendreil%20-%20lightning.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04328",
+  "name": "Ta mee goll dys Rhumsaa nish agh s'liklee dy jeanym gimman",
+  "source": "https://www.youtube.com/watch?v=oQylSj3koTk",
+  "platform": "youtube",
+  "resource_id": "04328",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.82,
+  "deep_link": "https://www.youtube.com/watch?v=oQylSj3koTk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

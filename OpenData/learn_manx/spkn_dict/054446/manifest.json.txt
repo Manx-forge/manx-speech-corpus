@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054446",
+  "name": "oikan baby",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/oikan%20-%20baby.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054446",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.81,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/oikan%20-%20baby.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

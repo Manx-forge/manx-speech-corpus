@@ -1,0 +1,14 @@
+{
+  "ident": "speech-094498",
+  "name": "learning manx part 05",
+  "source": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2005.mp3",
+  "platform": "learn_manx",
+  "resource_id": "094498",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 301.45,
+  "deep_link": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2005.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

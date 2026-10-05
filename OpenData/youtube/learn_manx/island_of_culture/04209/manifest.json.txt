@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04209",
+  "name": "Un verreen, daa verreen, tree berreenyn",
+  "source": "https://www.youtube.com/watch?v=V-Bs3vFJpLU",
+  "platform": "youtube",
+  "resource_id": "04209",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.26,
+  "deep_link": "https://www.youtube.com/watch?v=V-Bs3vFJpLU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

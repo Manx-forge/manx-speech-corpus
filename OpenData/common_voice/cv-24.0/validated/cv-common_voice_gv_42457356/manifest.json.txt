@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457356",
+  "name": "Ta kerraghey kiarit son ny craidoilee as scutchal son dreeym ny mee cheeayllee.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457356",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.144,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

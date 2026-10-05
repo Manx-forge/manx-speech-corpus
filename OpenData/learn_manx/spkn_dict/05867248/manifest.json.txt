@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867248",
+  "name": "y danvarg denmark",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Denmark.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867248",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.49,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Denmark.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

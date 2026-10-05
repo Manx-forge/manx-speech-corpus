@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866699",
+  "name": "cha nel braaraghyn aym i don't have brothers",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20don't%20have%20brothers.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866699",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.18,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20don't%20have%20brothers.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

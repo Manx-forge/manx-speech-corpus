@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42642822",
+  "name": "Cre ta dooghys dty heaghyn, o Vannanan veg vac y Leirr, as cre voish t'eh er jeet?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42642822",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.948,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

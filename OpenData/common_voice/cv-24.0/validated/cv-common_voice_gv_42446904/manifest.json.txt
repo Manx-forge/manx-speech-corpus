@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446904",
+  "name": "Foddey sloo oddym's eshyn y reggyrt, as reih my ghoan dy phleadeil rishyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446904",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.244,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05915113",
+  "name": "Ta mee geaishtagh rhyt",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05915113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.53,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

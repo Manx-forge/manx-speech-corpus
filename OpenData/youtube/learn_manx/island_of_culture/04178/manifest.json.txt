@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04178",
+  "name": "Vaik oo yn Moddey Doo ayns Purt le Moirrey jea?",
+  "source": "https://www.youtube.com/watch?v=XvUAC_F6wF0",
+  "platform": "youtube",
+  "resource_id": "04178",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.83,
+  "deep_link": "https://www.youtube.com/watch?v=XvUAC_F6wF0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

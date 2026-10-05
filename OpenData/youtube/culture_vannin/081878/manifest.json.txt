@@ -1,0 +1,14 @@
+{
+  "ident": "speech-081878",
+  "name": "Nollick： Some Manx words for Christmas, #2",
+  "source": "https://www.youtube.com/watch?v=130IAZ1fJKA",
+  "platform": "youtube",
+  "resource_id": "081878",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 36.57,
+  "deep_link": "https://www.youtube.com/watch?v=130IAZ1fJKA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

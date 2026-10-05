@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,moghrey,0.00,0.33,aligned
+0,1,mie,0.33,0.60,aligned
+0,2,vooinjer,0.60,1.02,aligned
+0,3,veggey,1.02,1.50,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650436",
+  "name": "Ta dty vaase, Illiam Dhone, brishey nyn gree!",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650436",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.86,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

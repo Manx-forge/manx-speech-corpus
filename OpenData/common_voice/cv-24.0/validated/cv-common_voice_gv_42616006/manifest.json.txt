@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42616006",
+  "name": "Dy beagh ennym ec dty cho-earrooder, cre veagh eh as cre'n fa?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42616006",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.84,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,veagh,0.18,0.51,aligned
+0,1,oo,0.51,0.66,aligned
+0,2,ching,0.66,1.20,aligned

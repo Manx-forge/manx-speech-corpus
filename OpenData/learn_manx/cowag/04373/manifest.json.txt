@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04373",
+  "name": "Conversation 09",
+  "source": "https://www.learnmanx.com/media//cowag/09%20Track%2009%209.m4a",
+  "platform": "learn_manx",
+  "resource_id": "04373",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 49.25,
+  "deep_link": "https://www.learnmanx.com/media//cowag/09%20Track%2009%209.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

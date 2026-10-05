@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,vel,0.12,0.30,aligned
+0,1,paitchyn,0.30,0.78,aligned
+0,2,ec,0.78,0.96,aligned
+0,3,tommy,0.96,1.38,aligned

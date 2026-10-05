@@ -1,0 +1,24 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon nane lessoon,1.09,5.02,asr,59
+,ping lhieng punt,11.62,15.76,asr,22
+,queig pingyn t'eh costal,17.17,20.59,asr,100
+,ren eh costal punt ping,22.90,27.43,asr,100
+,daa phing tree pingyn,28.90,32.23,asr,100
+,feed ping kiare pingyn,33.73,37.51,asr,50
+,queig pingyn shey pingyn,38.89,42.16,asr,100
+,daeed ping ren eh costal punt,43.66,48.55,asr,100
+,ren eh costal daa phunt,50.50,52.84,asr,100
+,ren eh costal tree punt,54.70,57.10,asr,100
+,ren eh costal punt,58.78,61.15,asr,100
+,ren eh costal queig punt,62.68,65.23,asr,100
+,ren eh costal shey punt,66.58,69.22,asr,100
+,quoid ta'n boayrd costal nish t'eh costal queig punt,71.80,77.05,asr,98
+,t'eh costal queig punt as feed ping,80.14,83.02,asr,100
+,costal daeed ping ny greiney costal shey pingyn,85.93,91.33,asr,85
+,vummig shen ooilley,92.08,95.71,asr,42
+,red erbee elley my sailt,97.45,100.84,asr,100
+,fastyr mie fastyr mie,103.57,106.75,asr,75
+,quoid ta enn aym costal jiu feed ping punt,107.59,112.84,asr,70
+,daa phunt my saillt red erbee elley nish,113.59,118.03,asr,95
+,kiare punt dy huggey nish,119.11,121.12,asr,33
+,shen ooilley gura mie ayd,121.81,124.87,asr,100

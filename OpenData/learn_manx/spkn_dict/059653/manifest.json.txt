@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059653",
+  "name": "droghearish bad weather",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/droghearish%20-%20bad%20weather.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059653",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20weather/droghearish%20-%20bad%20weather.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

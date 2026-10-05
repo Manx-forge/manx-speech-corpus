@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446958",
+  "name": "Shen-y-fa va'n magher shen enmyssit, Yn magher-foalley, gys y laa t'ayn jiu.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446958",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.524,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42629240",
+  "name": "Ec y jerrey ren ee claghyn-cruinn y akin er-gerrey dy laue.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42629240",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

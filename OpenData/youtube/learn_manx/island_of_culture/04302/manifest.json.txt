@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04302",
+  "name": "Veagh eh yindyssagh cummal ayns Balley Chashtal",
+  "source": "https://www.youtube.com/watch?v=O7UOi0K3IOc",
+  "platform": "youtube",
+  "resource_id": "04302",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.13,
+  "deep_link": "https://www.youtube.com/watch?v=O7UOi0K3IOc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

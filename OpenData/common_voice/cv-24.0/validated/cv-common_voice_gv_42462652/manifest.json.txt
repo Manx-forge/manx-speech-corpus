@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42462652",
+  "name": "Hyndaa oo dt'eddin voym: as va mee seaghnit.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42462652",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.58,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04237",
+  "name": "S'mie lhiam Doolish agh cha nel mee geearree cummal ayns Doolish, share lhiam Purt ny h-inshey",
+  "source": "https://www.youtube.com/watch?v=D4U3hKe8I_w",
+  "platform": "youtube",
+  "resource_id": "04237",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.05,
+  "deep_link": "https://www.youtube.com/watch?v=D4U3hKe8I_w&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

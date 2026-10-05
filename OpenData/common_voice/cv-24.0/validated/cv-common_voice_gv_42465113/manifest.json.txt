@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42465113",
+  "name": "As mannagh bee inneen echey, eisht ver shiu yn eiraght da e vraaraghyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42465113",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.616,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

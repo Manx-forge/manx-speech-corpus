@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051698113",
+  "name": "Veign maynrey dy beagh Brad Pitt ayns shoh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051698113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.04,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

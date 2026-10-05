@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,Cha,0.51,0.63,aligned
+0,1,lhisagh,0.63,0.99,aligned
+0,2,persoon,0.99,1.65,aligned
+0,3,erbee,1.65,2.13,aligned
+0,4,ve,2.13,2.31,aligned
+0,5,marrit,2.31,2.82,aligned
+0,6,ec,2.82,2.97,aligned
+0,7,persoon,2.97,3.48,aligned
+0,8,elley.,3.48,3.81,aligned

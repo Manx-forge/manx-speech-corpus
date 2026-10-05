@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04170",
+  "name": "Cre share lhiat: traen ny baatey?",
+  "source": "https://www.youtube.com/watch?v=VEbLFXIXiCs",
+  "platform": "youtube",
+  "resource_id": "04170",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.01,
+  "deep_link": "https://www.youtube.com/watch?v=VEbLFXIXiCs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

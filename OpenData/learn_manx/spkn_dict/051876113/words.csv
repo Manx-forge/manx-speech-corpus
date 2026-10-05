@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,ta,0.00,0.21,aligned
+0,1,daa,0.21,0.45,aligned
+0,2,vac,0.45,0.81,aligned
+0,3,aym,0.81,1.08,aligned

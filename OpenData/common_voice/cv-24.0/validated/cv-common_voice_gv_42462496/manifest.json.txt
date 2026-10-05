@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42462496",
+  "name": "Eer myr shen credjue, mannagh vel obbraghyn goll marish, te dyn vree ny-lomarcan.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42462496",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.828,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

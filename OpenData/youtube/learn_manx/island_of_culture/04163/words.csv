@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,ta,6.60,6.72,aligned
+0,1,ram,6.72,6.99,aligned
+0,2,smook,6.99,7.41,aligned
+0,3,ayn,7.41,7.71,aligned
+0,4,ta,14.34,14.49,aligned
+0,5,ram,14.49,14.85,aligned
+0,6,smook,14.85,15.27,aligned
+0,7,ayn,15.27,15.57,aligned

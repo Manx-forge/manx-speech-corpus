@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385955",
+  "name": "As tra v'ad er ghoaill arrane-moyllee hie ad magh gys cronk ny Oliveyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385955",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.056,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

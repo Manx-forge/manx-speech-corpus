@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04103",
+  "name": "Ren mee goll thie-caffee ayns Doolish Jerdein",
+  "source": "https://www.youtube.com/watch?v=K5vyOAXOWtE",
+  "platform": "youtube",
+  "resource_id": "04103",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.06,
+  "deep_link": "https://www.youtube.com/watch?v=K5vyOAXOWtE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

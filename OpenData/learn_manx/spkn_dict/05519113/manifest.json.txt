@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05519113",
+  "name": "Bee oo ayns Colby oie ny vairagh?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05519113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.16,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

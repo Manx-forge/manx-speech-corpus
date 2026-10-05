@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,shoh,0.24,0.57,aligned
+0,1,guy,0.60,0.90,aligned
+0,2,martin,0.90,1.38,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056939",
+  "name": "tead rope",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/tead%20-%20rope.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056939",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.78,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20garden/tead%20-%20rope.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

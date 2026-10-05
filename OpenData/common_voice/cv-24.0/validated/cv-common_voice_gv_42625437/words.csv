@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,Va,0.90,0.99,aligned
+0,1,lane,0.99,1.32,aligned
+0,2,yindys,1.32,1.71,aligned
+0,3,oc,1.71,1.92,aligned
+0,4,tra,1.92,2.19,aligned
+0,5,cheayll,2.19,2.46,aligned
+0,6,ad,2.46,2.64,aligned
+0,7,yn,2.64,2.73,aligned
+0,8,skeeal.,2.73,3.24,aligned

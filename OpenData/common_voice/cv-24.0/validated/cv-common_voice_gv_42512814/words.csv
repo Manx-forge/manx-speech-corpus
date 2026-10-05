@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Yn",0.75,0.90,aligned
+0,1,olk,0.99,1.35,aligned
+0,2,ta,1.35,1.56,aligned
+0,3,dy,1.56,1.71,aligned
+0,4,ve,1.71,2.01,aligned
+0,5,er,2.10,2.31,aligned
+0,6,ny,2.31,2.46,aligned
+0,7,haghney,2.46,3.03,aligned
+0,8,roish,3.03,3.42,aligned
+0,9,ooilley;,3.45,3.84,aligned
+0,10,dy,4.29,4.38,aligned
+0,11,ve,4.38,4.59,aligned
+0,12,"blah-hiass.""",4.59,5.55,aligned

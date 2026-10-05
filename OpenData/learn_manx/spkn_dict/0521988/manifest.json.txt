@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0521988",
+  "name": "Baatey-pooar power boat",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20beach/baatey-pooar%20-%20power%20boat.mp3",
+  "platform": "learn_manx",
+  "resource_id": "0521988",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.25,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20beach/baatey-pooar%20-%20power%20boat.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

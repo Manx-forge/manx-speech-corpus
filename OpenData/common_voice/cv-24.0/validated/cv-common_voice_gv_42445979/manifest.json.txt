@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445979",
+  "name": "Ta'n obbyr er choyrt yn rheumatism er ash dou.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445979",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.96,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

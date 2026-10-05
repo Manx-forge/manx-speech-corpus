@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42616015",
+  "name": "V'ee oanluckit ayns balley e ruggyr.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42616015",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.536,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,vel,0.06,0.21,aligned
+0,1,shuyr,0.21,0.63,aligned
+0,2,ny,0.63,0.78,aligned
+0,3,brayr,0.78,1.17,aligned
+0,4,echey,1.17,1.53,aligned

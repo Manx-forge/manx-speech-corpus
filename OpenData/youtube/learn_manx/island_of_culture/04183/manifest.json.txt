@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04183",
+  "name": "Jean oo tannaghtyn sthie my vees eh fliugh?",
+  "source": "https://www.youtube.com/watch?v=ssfXCvxZeQ0",
+  "platform": "youtube",
+  "resource_id": "04183",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.85,
+  "deep_link": "https://www.youtube.com/watch?v=ssfXCvxZeQ0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

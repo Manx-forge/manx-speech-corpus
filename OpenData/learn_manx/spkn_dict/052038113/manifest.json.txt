@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052038113",
+  "name": "Cha jinnagh eh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052038113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

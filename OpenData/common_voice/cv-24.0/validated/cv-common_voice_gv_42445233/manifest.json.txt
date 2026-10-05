@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445233",
+  "name": "Cheb-yms dhyt ourallyn-losht roauyrey, marish oural-millish reaghyn: cheb-ym dew as goair.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445233",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 10.332,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

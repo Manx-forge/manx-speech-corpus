@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04218",
+  "name": "Cre gollrish vees yn emshyr mairagh? Bee eh braew",
+  "source": "https://www.youtube.com/watch?v=Qx8gq34QRnI",
+  "platform": "youtube",
+  "resource_id": "04218",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.1,
+  "deep_link": "https://www.youtube.com/watch?v=Qx8gq34QRnI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

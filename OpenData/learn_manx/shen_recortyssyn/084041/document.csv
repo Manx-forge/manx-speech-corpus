@@ -1,0 +1,75 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,the gospel recordings in joan yn sushtal scruit liorish y noo ean,1.39,6.55,asr,68
+,nane ayns y toshiaght va'n goo as va'n goo marish jee as va'n goo jee,8.05,14.92,asr,100
+,va'n goo kerroo ayns y toshiaght marish jee,15.79,18.64,asr,79
+,liorishyn va dy chooilley nhee er ny yannoo as negooish cha,19.57,23.29,asr,53
+,bee jeant er n'yannoo aynsyn va bea as van vea soilshey deiney as ren y soilshey soilshean ayns y dorraghys as cha,23.92,34.24,asr,94
+,ren y dorraghys goaill lesh,34.18,36.22,asr,65
+,y dooinney er ny choyrt veih jee va enmyssit ean,37.00,40.21,asr,63
+,haink eh shoh son feanish dy ymmyrkey feanish jeh'n toilshey,41.26,45.10,asr,100
+,liorishyn dy voddagh dy chooilley ghooinney credjal,45.70,48.25,asr,32
+,cha nee eh va'n soilshey shen agh v'eh er ny choyrt dy ymmyrkey feanish jeh'n toilshey shen,49.27,55.39,asr,93
+,shen va'n soilshey firrinagh ta soilshean ayns dy chooilley ghooinney ta cheet er y,55.99,61.18,asr,96
+,sy theihll as yn seihll er n'yannoo liorishyn,63.16,65.80,asr,0
+,as y seihll cha dug enney er,66.40,68.53,asr,88
+,haink eh gys e vooinjer hene agh cha ren e vooinjer hene soiaghey jeh,69.70,74.50,asr,67
+,agh whilleen as ren soiaghey jeh dauesyn hug eh pooar dy ve nyn mec dy yee,75.34,80.17,asr,100
+,eer dauesyn ta credjal ayns yn ennym echey,80.71,83.08,asr,89
+,nyn ruggey cha nee jeh fuill ny jeh aigney ny foalley ny jeh aigney dooinney agh jeh jee,85.15,92.77,asr,94
+,as ghow eh er dooghys ny foalley,93.79,96.82,asr,100
+,as ren eh baghey ny mast ain as hug shin my-ner yn ghloyr echey yn ghloyr myr jehn ynrycan mac ta ny gheddyn jeh'n ayr,97.39,105.88,asr,81
+,lane dy ghrayse as dy irrinys,106.60,108.79,asr,100
+,dymmyrk ean feanish jeh as deie eh gra,109.84,113.41,asr,18
+,ren mish loayrt ta eshyn ta cheet my yei er ny hoiaghey roym,114.73,120.01,asr,93
+,son v'eh roym as jeh'n slane towse echey ta shin ooilley er gheddyn raaue as grayse grayse,120.64,128.08,asr,84
+,son lhaih eh er ny choyrt liorish moses agh grayse as firrinys liorish yeesey creest,128.77,135.64,asr,64
+,cha vel unnane erbee er vakin jee ec traa erbee,136.39,139.81,asr,100
+,yn ynrycan mac v'er ny gheddyn ta ayns oghrish yn ayr,140.32,144.19,asr,84
+,eshyn t'er hoilshaghey eh as shiaght eanish aym tra hug ny hewnyn saggyrtyn as leviteyn veih jerusalem dy eamagh jeh queeyl,144.79,155.56,asr,95
+,as ghow eh rish as cha dob eh,157.03,158.98,asr,77
+,agh ghow eh lesh cha nee mish yn creest,159.58,162.76,asr,82
+,as denee eh jeh quoi eisht nee reihys as dooyrt eshyn cha nee,163.27,169.18,asr,43
+,shen as dansoor eh cha nee,170.80,173.38,asr,27
+,eisht dooyrt ad rish quoi oo dy vod mayd ansoor y choyrt dauesyn coyrt shin,174.22,179.86,asr,99
+,cre t'ou gra mychione hene dooyrt eh mish coraa fer fockley magh ayns yn aasagh,181.06,187.15,asr,92
+,kiartee-jee raad y chiarn myr dooyrt y phadeyr as lheihys,187.78,192.13,asr,100
+,as v'adsyn er nyn goyrt jeh ny phariseeyn,192.76,195.43,asr,95
+,as denee eh jeh as dooyrt ad rish cre'n-fa t'ou bashtey eisht mannagh nee oo yn creest ny elias ny'n phadeyr shen,196.24,204.43,asr,91
+,dreggyr eh ad gra ta mish bashtey lesh ushtey as ta fer shassoo nyn mast eu nagh vel enney eu er,205.24,214.00,asr,85
+,eshyn eh ta cheet my yei agh t'eh er ny hoiaghey roym cainley ny braagyn echey cha vel mish feeu dy eaysley,214.84,223.36,asr,92
+,va ny reddyn shoh jeant ayns bethabara er cheu elley jeh jordan raad va ean bashtey,224.11,230.35,asr,100
+,yn nah laa honnick ean yeesey cheet ny whail as dooyrt eh cur-my-ner eayn yee ta goaill ersooyl peccah,231.28,240.16,asr,96
+,eshyn mychione dooyrt mee my yei ta dooinney cheet t'er ny hoiaghey roym son v'eh roym,242.23,248.56,asr,95
+,as cha row enn ayms er aght dy beagh eh er ny hoilshaghey da israel,249.34,254.59,asr,75
+,shen y fa haink mish bashtey lesh ushtey,255.37,258.79,asr,100
+,as dymmyrk ean feanish gra honnick mee yn spyrryd cheet neose veih niau myr calmane as tannaghtyn er,259.63,267.52,asr,100
+,as cha dug mish enney er agh eshyn ren mish y choyrt dy vashtey lesh ushtey dooyrt eh shen rhym ersyn hee oo yn spyrryd cheet neose as tannaghtyn,268.45,278.98,asr,98
+,yn ayr shen eh ta bashtey lesh yn spyrryd noo,278.83,282.61,asr,89
+,as honnick mee eh as dymmyrk mee feanish dy nee shoh mac yee,283.66,288.73,asr,100
+,yn nah laa roish va ean ny hassoo as jees jeh e ynseydee as eisht,289.78,294.70,asr,53
+,magher ve shooyl as dooyrt eh cur-my-ner eayn yee,295.90,300.91,asr,85
+,as cheayll yn daa ynseydagh eh loayrt as deiyr ad er yeesey,301.66,306.67,asr,89
+,eisht hyndaa yeesey as honnick eh ad geiyrt er as dooyrt eh roo cre ta shiu dy hirrey,307.69,314.08,asr,94
+,dooyrt adsyn rish rabbi ta shen dy ghra sy ghlare ainyn vainshter,314.86,320.17,asr,94
+,cre raad t'ou beaghey dooyrt eh roo tar-jee as hee shiu,320.89,325.93,asr,94
+,haink ad as honnick ad c'raad v'eh beaghey,326.68,329.08,asr,43
+,as duirree ad marish yn laa shen,329.59,332.17,asr,73
+,son ve mysh y mysh y jeu oor,332.59,335.23,asr,66
+,fa jeh'n jees cheayll ean loayrt as deiyr er va andreays braar simon peddyr,336.40,344.02,asr,82
+,hooar eshyn hoshiaght e vraar hene simon as dooyrt eh rish ta shin er gheddyn yn saase va shen dy ghra yn creest,344.83,353.92,asr,91
+,as hug eh lesh eh gys yeesey as tra honnick yeesey eh dooyrt eh uss simon mac jona bee oo enmyssit cephas ta shen dy ghra,354.70,364.84,asr,100
+,peddyr yn laa er-giyn jeh aigney yeesey va dy ghoaill magh gys galilee,365.26,371.14,asr,81
+,as hooar eh philip as dooyrt eh rish eiyr orrym,371.68,374.86,asr,32
+,nish va filley feie bethsaida ard-valley andreays as peddyr,375.97,380.53,asr,68
+,ta philip rish ny as dooyrt eh rish ta shin er gheddyn eshyn,381.73,386.44,asr,89
+,jeh ren moses ayns y leigh as ny phadeyryn scrieu yeesey dy nazareth mac,387.04,393.31,asr,83
+,myoseph as dooyrt ny tannil rish,393.64,396.70,asr,6
+,cheet magh ass meshtyryn dooyrt philip rish tar ard as,398.65,403.51,asr,75
+,hannah yeesey ny tanneil cheet ny whaiyl,405.76,408.52,asr,62
+,as dooyrt eh jehsyn cur-my-ner israelite firrinagh ayn nagh vel molteyrys erbee,409.12,415.78,asr,80
+,dooyrt my ven eu rish cre'n enney te'd orrym's,416.98,419.74,asr,75
+,dreggyr yeesey as dooyrt eh rish roish my deie philip ort tra v'ou fo'n villey-figgagh honnick mee oo,420.34,427.48,asr,98
+,dreggyr nathanael as dooyrt eh rish rabbah,428.44,431.11,asr,100
+,mac yee oo re israel graih yeesey as dooyrt eh rish er-y-fa dy dooyrt mee rhyt dy vaik mee oo fo'n villey-figgagh vel oo credjal,431.98,442.12,asr,88
+,reddyn smoo na ad shoh as dooyrt eh rish dy firrinagh firrinagh ta mee gra riu,443.38,449.23,asr,94
+,ny lurg shoh hee shiu niau foshlit as ainlyn yee goll seose as cheet neose er mac y dooinney,450.04,458.35,asr,100

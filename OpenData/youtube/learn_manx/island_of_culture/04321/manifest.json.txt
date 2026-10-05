@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04321",
+  "name": "S'mie lhiam gee berreen ayns Purt ny h-Inshey",
+  "source": "https://www.youtube.com/watch?v=xgLcsvxFcLE",
+  "platform": "youtube",
+  "resource_id": "04321",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.89,
+  "deep_link": "https://www.youtube.com/watch?v=xgLcsvxFcLE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

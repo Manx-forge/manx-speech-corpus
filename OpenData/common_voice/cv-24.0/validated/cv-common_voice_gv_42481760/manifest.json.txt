@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42481760",
+  "name": "S'maynrey yn charvaant cheddin, yiow e hiarn tra hig eh jannoo myr shen.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42481760",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.416,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

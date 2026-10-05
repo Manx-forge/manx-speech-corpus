@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599988",
+  "name": "My ta fer-reill cur cleaysh da breagyn bee ooilley e harvaantyn olk.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599988",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.588,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

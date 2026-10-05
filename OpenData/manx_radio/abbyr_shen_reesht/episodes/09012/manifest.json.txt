@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09012",
+  "name": "Abbyr Shen Reesht - Say That Again 25th August 2019",
+  "createdCircaStart": "2019-08-24",
+  "createdCircaEnd": "2019-08-24",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-25th-august-20191/",
+  "platform": "manx_radio",
+  "resource_id": "09012",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1065.01,
+  "deep_link": "https://podcasts.captivate.fm/media/ac1c975e-c5bc-4562-b35f-aaa31aba78d4/1284-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

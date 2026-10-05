@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056851",
+  "name": "boalley wall",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/boalley%20-%20wall.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056851",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.15,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20garden/boalley%20-%20wall.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

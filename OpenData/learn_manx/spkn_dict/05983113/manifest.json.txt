@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05983113",
+  "name": "Foddee ee gynsagh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05983113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.8,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

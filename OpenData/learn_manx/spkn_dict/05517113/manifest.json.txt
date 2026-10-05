@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05517113",
+  "name": "Bee oo ec yn thie-fillym noght?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05517113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.98,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

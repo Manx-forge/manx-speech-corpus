@@ -1,0 +1,25 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,yn cheer country side,0.70,3.82,asr,100
+,yn cheer cronk,4.81,6.31,asr,54
+,hill cronk hill,9.79,12.28,asr,73
+,slieau mountain,14.47,16.81,asr,100
+,slieau mountain rock,17.38,22.72,asr,67
+,creg rock awin,23.26,27.82,asr,22
+,river awin river,28.42,31.09,asr,82
+,strooan stream strooan stream,33.01,37.36,asr,100
+,curragh mysh curragh mysh,39.28,43.42,asr,81
+,logh lake logh lake,46.03,49.60,asr,100
+,loghan pound loghan,51.37,54.31,asr,0
+,pon cooyl,54.85,61.39,asr,67
+,magher field magher sheelt,67.03,71.23,asr,100
+,balley town balley town,72.67,76.36,asr,100
+,balley beg cheerey villa,79.15,82.75,asr,86
+,balley beg cheerey,83.53,84.82,asr,96
+,balley-hallooin form balley-hallooin form,87.49,92.71,asr,41
+,point point,102.82,105.88,asr,27
+,raaidey road,107.53,109.60,asr,56
+,raad road cleiyee,110.14,112.93,asr,94
+,cleiyee hedge giat,114.88,117.76,asr,100
+,gaait giat shibber,118.87,122.50,asr,64
+,chibbyr well farrane,124.87,127.60,asr,40
+,spring farrane spring,128.41,131.20,asr,67

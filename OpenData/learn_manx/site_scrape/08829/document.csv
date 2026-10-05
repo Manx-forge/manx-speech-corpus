@@ -1,0 +1,26 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon shiaght jeig,0.40,2.56,asr,100
+,lesson seventeen cha row,3.67,7.54,asr,0
+,cha row cha row ad,9.01,12.16,asr,10
+,ny meoiryn shee ny guillyn ny,16.72,22.78,asr,64
+,ynsee na,23.53,27.01,asr,0
+,ny reddyn ny paitchyn,29.86,33.34,asr,63
+,ny reddyn shen cha row ny guillyn ayn,35.44,40.66,asr,100
+,un cha row ny paitchyn un,44.68,49.00,asr,86
+,cha row ny meoiryn shee un cha row ny fir-ynsee un,51.13,58.27,asr,81
+,cha row ny reddyn shen va ny guillyn,60.34,66.10,asr,100
+,eshyn raad cha row ny h-inneenyn,66.76,70.99,asr,0
+,sy thie va ny paitchyn,71.77,75.61,asr,74
+,sy lhiabbee cha row ny meoiryn-shee,76.36,81.01,asr,100
+,ec yn thie nagh,81.76,85.15,asr,50
+,vel ny reddyn shen sy kishtey,90.40,92.83,asr,100
+,rish sy scoill ec yn scoill,95.05,99.40,asr,100
+,jea jiu,100.63,103.21,asr,60
+,guilley mitchooragh mitchooragh,104.59,108.55,asr,80
+,loayrt rish yishag,109.78,112.57,asr,100
+,va ny meoiryn shooyl sy scoill jiu yishag,117.22,120.25,asr,56
+,cha row ayd c'ren fa cha nel fys aym,121.33,125.14,asr,67
+,agh v'ad loayrt rish ny fir-ynsee,125.80,127.78,asr,100
+,as rish guilley guilley mitchooragh s'cosoylagh,128.47,132.16,asr,91
+,cha row ec yn scoill jeh shen eh,133.54,136.93,asr,100
+,cha row eh ec yn scoill jea mitchooragh,137.65,140.92,asr,100

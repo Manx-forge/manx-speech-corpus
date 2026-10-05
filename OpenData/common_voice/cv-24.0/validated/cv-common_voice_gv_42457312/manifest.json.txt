@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457312",
+  "name": "Croym dty chree gys ynsagh, as dty chleayshyn gys ny goan dy chreenaght.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457312",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.272,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

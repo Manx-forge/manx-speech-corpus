@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04119",
+  "name": "Cre by vie lhiat giu nish? By vie lhiam ushtey, my sailt",
+  "source": "https://www.youtube.com/watch?v=FRyAJ5DgpJc",
+  "platform": "youtube",
+  "resource_id": "04119",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.01,
+  "deep_link": "https://www.youtube.com/watch?v=FRyAJ5DgpJc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

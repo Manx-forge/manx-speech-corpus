@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,As,1.02,1.23,aligned
+0,1,dooyrt,1.23,1.59,aligned
+0,2,eh,1.59,1.74,aligned
+0,3,"roo,",1.74,2.04,aligned
+0,4,Ny,2.40,2.58,aligned
+0,5,trog-jee,2.58,3.27,aligned
+0,6,ny,3.27,3.42,aligned
+0,7,smoo,3.42,3.84,aligned
+0,8,na,3.84,4.02,aligned
+0,9,ta,4.08,4.29,aligned
+0,10,er,4.35,4.59,aligned
+0,11,nyn,4.59,4.83,aligned
+0,12,gurrym.,4.83,5.31,aligned

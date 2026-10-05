@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42335351",
+  "name": "Cha vel smooinaghtyn ard jee'm hene, as graase ard, dy bragh goll cooidjagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42335351",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.532,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

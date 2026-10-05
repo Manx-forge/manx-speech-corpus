@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09347",
+  "name": "Abbyr Shen Reesht - Say That Again 3ss Mee Voaldyn - 2026 - May 3rd",
+  "createdCircaStart": "2026-05-03",
+  "createdCircaEnd": "2026-05-03",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-3ss-mee-voaldyn-2026-may-3rd/",
+  "platform": "manx_radio",
+  "resource_id": "09347",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2132.0,
+  "deep_link": "https://episodes.captivate.fm/episode/c8fe5648-87af-4be9-bf02-5f40e97fb70b.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

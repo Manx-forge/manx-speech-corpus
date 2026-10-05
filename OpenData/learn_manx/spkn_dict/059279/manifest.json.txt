@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059279",
+  "name": "car-laadee lorry",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/car-laadee%20-%20lorry.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059279",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Transport/car-laadee%20-%20lorry.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

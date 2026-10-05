@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054271",
+  "name": "kyaghan mole",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/kyaghan%20-%20mole.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054271",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.25,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/kyaghan%20-%20mole.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

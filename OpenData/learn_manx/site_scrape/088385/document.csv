@@ -1,0 +1,20 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon nane as daeed,0.58,3.58,asr,100
+,ec juan y ec yn dooinney,5.59,8.26,asr,92
+,vax echey vax oc,9.07,11.62,asr,65
+,row exit bra,12.91,16.51,asr,70
+,shuyr naim naunt,17.23,20.50,asr,100
+,mac inneen va braar echey,21.28,26.32,asr,75
+,va shuyr echey va naim echey,27.58,30.49,asr,89
+,va mac echey va inneen echey,33.73,36.73,asr,100
+,nagh vel braar ayd cha row mac echey,38.89,42.52,asr,0
+,ta un shuyr echey ansherbee vel braar ec tomaase,43.78,48.61,asr,98
+,nagh vel mac ec dty vraar nish va inneen oc,50.38,54.22,asr,100
+,rieau illiam,56.26,58.18,asr,60
+,cha nel enney aym er laghyn seyrey,59.35,62.77,asr,100
+,nagh nee traa ennagh elley,64.18,67.18,asr,65
+,quoi yn dooinney shen marish tom erlhiam nagh nee,73.12,78.49,asr,100
+,cha nel enney aym er she eh dy jarroo,81.64,85.39,asr,77
+,honnick mee eh ayns shoh y treinagh elley,86.26,88.54,asr,86
+,cha naik mish rieau eh cre woish t'eh,90.19,93.07,asr,100
+,divlyn illiam t'eh er e laghyn seyrey scosoylagh,94.72,98.80,asr,85

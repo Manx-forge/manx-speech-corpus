@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0450",
+  "name": "Nane, jees, tree, kiare, queig, shey, shiaght, hoght, nuy, jeih, nane-jeig, daa-yeig, tree-jeig, kiare-jeig, queig-jeig, shey-jeig, shiaght-jeig, hoght-jeig, nuy-jeig, feed",
+  "source": "https://www.youtube.com/watch?v=e0oLAnaTc18",
+  "platform": "youtube",
+  "resource_id": "0450",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 41.45,
+  "deep_link": "https://www.youtube.com/watch?v=e0oLAnaTc18&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

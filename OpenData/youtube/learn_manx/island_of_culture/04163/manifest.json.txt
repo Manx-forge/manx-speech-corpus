@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04163",
+  "name": "Ta ram smook ayn",
+  "source": "https://www.youtube.com/watch?v=UPS_bViWyxI",
+  "platform": "youtube",
+  "resource_id": "04163",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.73,
+  "deep_link": "https://www.youtube.com/watch?v=UPS_bViWyxI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

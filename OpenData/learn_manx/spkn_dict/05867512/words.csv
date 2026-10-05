@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,aeg,0.42,0.93,aligned
+0,1,young,1.65,2.13,aligned
+0,2,aeg,3.27,3.78,aligned

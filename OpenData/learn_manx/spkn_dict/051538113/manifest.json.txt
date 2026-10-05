@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051538113",
+  "name": "Ren",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051538113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.6,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

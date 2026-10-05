@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051475113",
+  "name": "Nhare lesh Orry Ballabeg?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051475113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.93,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

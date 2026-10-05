@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04108",
+  "name": "Cre oddys oo kionnaghey ayns Rhumsaa?",
+  "source": "https://www.youtube.com/watch?v=YyRazN5cefU",
+  "platform": "youtube",
+  "resource_id": "04108",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.18,
+  "deep_link": "https://www.youtube.com/watch?v=YyRazN5cefU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

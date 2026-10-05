@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,row,0.24,0.39,aligned
+0,1,guy,0.39,0.69,aligned
+0,2,martin,0.69,1.08,aligned
+0,3,moal,1.08,1.50,aligned

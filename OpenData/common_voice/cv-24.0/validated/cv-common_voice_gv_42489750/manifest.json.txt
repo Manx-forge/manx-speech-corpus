@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42489750",
+  "name": "Cre'n sorçh dy ghreie t'ou freggyrt y feysht shoh er?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42489750",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

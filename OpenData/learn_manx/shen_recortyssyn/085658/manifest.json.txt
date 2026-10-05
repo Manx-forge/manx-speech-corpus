@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085658",
+  "name": "Before Ecumenism",
+  "source": "https://www.learnmanx.com/media/Stories/Before%20Ecumenism.pdf",
+  "platform": "learn_manx",
+  "resource_id": "085658",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 98.9,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

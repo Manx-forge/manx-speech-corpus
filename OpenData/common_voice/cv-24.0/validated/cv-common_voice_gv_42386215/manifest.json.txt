@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386215",
+  "name": "\"Bannee-jee adsyn ta jannoo tranlaase erriu; bannee-jee, as ny gwee-jee mollaght.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386215",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

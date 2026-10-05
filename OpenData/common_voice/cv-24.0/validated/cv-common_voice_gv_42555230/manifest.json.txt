@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42555230",
+  "name": "As dooyrt eh roo, Ny trog-jee ny smoo na ta er nyn gurrym.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42555230",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.868,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

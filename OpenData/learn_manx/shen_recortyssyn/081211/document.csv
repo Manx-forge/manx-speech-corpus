@@ -1,0 +1,17 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon shey-jeig goll,1.36,5.83,asr,76
+,foddee oo cheet foddee ad goaill arrane,7.51,12.31,asr,100
+,foddee gee fod mayd giu nish,14.59,18.91,asr,60
+,foddee shiu gobbragh foddee ad gimman,21.52,26.35,asr,97
+,foddee juan reih noddym cloie,28.99,33.46,asr,90
+,geaishtagh moddey fakin,35.59,39.28,asr,12
+,nod oo clashtyn nod mayd,41.74,45.43,asr,50
+,cha noddym cloie cha nod oo geaishtagh,48.67,52.63,asr,100
+,cha noddym fakin cha nod oo clashtyn,54.31,58.30,asr,66
+,cha nod mayd ceau mooin nagh noddym cloie,59.80,64.06,asr,100
+,nagh nod oo geaishtagh nagh noddym fakin,65.50,69.16,asr,82
+,nagh nod ee clashtyn nagh nod mayd ceau,70.51,73.96,asr,93
+,quoi oddys gee ny smoo na mish,77.53,79.72,asr,100
+,c'raad oddys mayd goll oddym goll dy valley,82.03,87.16,asr,88
+,kys oddys ad gimman s'liklee dy rinkey,90.01,96.34,asr,89
+,foddee nagh nod ad shooyl erlhiam dy nod gee ram,98.41,103.93,asr,98

@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09362",
+  "name": "Abbyr Shen Reesht - Say That Again 16oo Mee Luanistyn - 2026 - August 16th",
+  "createdCircaStart": "2026-08-16",
+  "createdCircaEnd": "2026-08-16",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-16oo-mee-luanistyn-2026-august-16th/",
+  "platform": "manx_radio",
+  "resource_id": "09362",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1932.0,
+  "deep_link": "https://episodes.captivate.fm/episode/5a4e9a91-edf9-4f37-9785-cbea36a17bf4.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

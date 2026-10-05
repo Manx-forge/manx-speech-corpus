@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058014",
+  "name": "aile fire",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/aile%20-%20fire%20.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058014",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.31,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/aile%20-%20fire%20.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

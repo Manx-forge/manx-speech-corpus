@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05845113",
+  "name": "Cha jean agh neeym goll Jerdein",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05845113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.36,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

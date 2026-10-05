@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42489833",
+  "name": "C'red t'ou oardreil ec y çhapp spollag?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42489833",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.472,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

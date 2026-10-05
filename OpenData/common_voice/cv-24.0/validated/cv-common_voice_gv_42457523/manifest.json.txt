@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457523",
+  "name": "Ta ny-lomarcan jannoo yindyssyn mooarey: son ta e vyghin farraghtyn son dy bragh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457523",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.892,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

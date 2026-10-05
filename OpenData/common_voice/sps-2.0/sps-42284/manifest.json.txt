@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42284",
+  "name": "Mannagh vel fys ayd er fockle ayns çhengey elley, c'red t'ou jannoo?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42284",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 39.024,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05865097",
+  "name": "obbree labourer",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Labourer.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05865097",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.56,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Labourer.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

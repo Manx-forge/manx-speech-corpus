@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0471",
+  "name": "Shoh shenn thie Harry Kelly",
+  "source": "https://www.youtube.com/watch?v=sqt9KHrrR2M",
+  "platform": "youtube",
+  "resource_id": "0471",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.78,
+  "deep_link": "https://www.youtube.com/watch?v=sqt9KHrrR2M&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

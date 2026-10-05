@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,vel,0.06,0.18,aligned
+0,1,oo,0.18,0.27,aligned
+0,2,rieau,0.27,0.60,aligned
+0,3,er,0.60,0.69,aligned
+0,4,nakin,0.69,1.08,aligned
+0,5,yn,1.08,1.20,aligned
+0,6,taj,1.20,1.56,aligned
+0,7,mahal,1.56,2.01,aligned

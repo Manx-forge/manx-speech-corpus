@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42694717",
+  "name": "T'eh son cooinaghtyn kinjagh jeh baase Chreest, derrey hig eh dy vriwnys y theihll.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42694717",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.488,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

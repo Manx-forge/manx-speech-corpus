@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059570",
+  "name": "shooyl walking",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/shooyl%20-%20walking.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059570",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.04,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20verbs/shooyl%20-%20walking.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

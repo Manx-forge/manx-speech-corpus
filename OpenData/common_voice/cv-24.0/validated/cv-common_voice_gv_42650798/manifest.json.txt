@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650798",
+  "name": "Mychione yn vooinjer meechrauee nagh vel gee corp Chreest.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650798",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.768,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644768",
+  "name": "As shoh ta mee myrgeddyn treishteil dy vel shiu credjal dy ve feer firrinagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644768",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.2,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

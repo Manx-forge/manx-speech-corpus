@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457172",
+  "name": "Nee yn laue jeidjagh gymmyrkey reill, agh bee yn meerioosagh fo keeshyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457172",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.28,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

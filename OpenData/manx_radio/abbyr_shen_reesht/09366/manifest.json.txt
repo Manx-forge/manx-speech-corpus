@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09366",
+  "name": "Abbyr Shen Reesht - Say That Again 13ss Mean Fouyir - 2026 - September 13th",
+  "createdCircaStart": "2026-09-13",
+  "createdCircaEnd": "2026-09-13",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-13ss-mean-fouyir-2026-september-13th/",
+  "platform": "manx_radio",
+  "resource_id": "09366",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1496.0,
+  "deep_link": "https://episodes.captivate.fm/episode/9cbc5d8b-1bbd-4f4b-8366-694517985a13.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

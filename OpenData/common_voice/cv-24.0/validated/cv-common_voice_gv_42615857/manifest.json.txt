@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42615857",
+  "name": "Cre s'laik lhiat jannoo tra t'eh grianagh?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42615857",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.392,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

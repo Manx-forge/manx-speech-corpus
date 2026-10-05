@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05696113",
+  "name": "Cha ren mee gynsagh Gaelg Jesarn. Ren mee gobbragh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05696113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

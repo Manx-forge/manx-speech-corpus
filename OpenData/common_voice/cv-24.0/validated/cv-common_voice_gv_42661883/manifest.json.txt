@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42661883",
+  "name": "Ynsee-jee voym's, dooyrt Yeesey, son ta mee meein as imlee ayns cree.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42661883",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.768,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

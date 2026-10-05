@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058527",
+  "name": "y fouyr the autumn",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/y%20fouyr%20-%20the%20autumn.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058527",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/y%20fouyr%20-%20the%20autumn.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716341",
+  "name": "Hooar Creest baase, dirree Creest veih ny merriu, hig Creest reesht Christ has died, Christ has risen, Christ will come again",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/Christ_has_died_Christ_has_risen_Christ_will_come_again.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716341",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 14.58,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/Christ_has_died_Christ_has_risen_Christ_will_come_again.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

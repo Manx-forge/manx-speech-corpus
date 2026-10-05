@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051864113",
+  "name": "Cha daink. Haink mee erash er y vaatey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051864113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

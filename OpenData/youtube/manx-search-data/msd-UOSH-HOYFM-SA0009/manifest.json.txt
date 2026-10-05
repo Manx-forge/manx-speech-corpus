@@ -1,0 +1,19 @@
+{
+  "ident": "speech-msd-UOSH-HOYFM-SA0009",
+  "name": "🎥 UOSH SA0009: Interview with Edward ('Ned') Maddrell speaking Manx Gaelic",
+  "createdCircaStart": "1951-01-01",
+  "createdCircaEnd": "1953-12-31",
+  "author": "Edward ('Ned') Maddrell, John William ('Bill') Radcliffe, Walter Clarke, Douglas Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "source": "https://www.youtube.com/watch?v=Ta__gjILa8s",
+  "platform": "youtube",
+  "resource_id": "msd-UOSH-HOYFM-SA0009",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 1890.81,
+  "deep_link": "https://www.youtube.com/watch?v=Ta__gjILa8s&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok",
+  "corpus_work": "UOSH-HOYFM-SA0009"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059812",
+  "name": "towshan tape measure",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/towshan%20-%20tape%20measure.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059812",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.36,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/towshan%20-%20tape%20measure.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

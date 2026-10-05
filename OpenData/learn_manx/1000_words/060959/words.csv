@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,Ben,0.84,1.23,aligned
+0,1,My,2.16,2.34,aligned
+0,2,ven,2.34,2.76,aligned
+0,3,Marish,3.63,4.50,aligned
+0,4,Hie,5.79,6.09,aligned
+0,5,mee,6.09,6.30,aligned
+0,6,marish,6.30,6.84,aligned
+0,7,my,6.84,6.99,aligned
+0,8,ven,6.99,8.07,aligned
+0,9,as,11.13,11.88,aligned
+0,10,my,12.69,14.13,aligned
+0,11,vac,14.13,14.55,aligned

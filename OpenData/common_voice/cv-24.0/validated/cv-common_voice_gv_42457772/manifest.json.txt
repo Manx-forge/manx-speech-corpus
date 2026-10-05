@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457772",
+  "name": "Cha bee feanish foalsey fegooish kerraghey, as nee yn breagerey dy shickyr cherraghtyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457772",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 10.224,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

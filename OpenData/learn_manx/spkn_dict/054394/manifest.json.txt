@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054394",
+  "name": "carrey friend",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/carrey%20-%20friend.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054394",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.68,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/carrey%20-%20friend.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,191 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,1.39,4.06,asr,73
+,gimnane lessoon feed lesson twenty,4.81,7.78,asr,58
+,c'raad t'ou,16.42,17.56,asr,0
+,c'raad t'ou bread,18.31,24.49,asr,45
+,craad t'ou kionnagh arran ayd,32.59,34.99,asr,79
+,c'raad t'ou kionnaghey'n arran ayd respond,35.53,39.37,asr,64
+,mie braid cha nel mee kionnaghey,40.66,49.54,asr,0
+,cha nel mee kionnaghey arran aym bread,50.74,55.90,asr,56
+,cre'n red cha nel mee,56.98,66.70,asr,0
+,yn arran aym ta mee jannoo yn arran aym,67.27,69.79,asr,62
+,cha nel mee jannoo yn arran aym ta mee jannoo yn arran aym,70.75,73.15,asr,100
+,bare dys juan juan cloie,76.24,86.35,asr,38
+,c'raad ta juan cleigh scoish cha nel fys aym,87.46,97.60,asr,75
+,cha nel fys aym choud's eh,98.08,100.36,asr,100
+,cha nel fys aym agh erlhiam dy vel eh,113.62,116.53,asr,100
+,quash ec yn ynnyd cha nel fys aym agh erlhiam dy vel eh cloie,117.01,121.18,asr,79
+,operator c'raad ta'n braar,126.10,135.01,asr,32
+,c'raad ta'n braar ayd cha nel fys aym,135.94,144.10,asr,84
+,cha nel fys aym nagh vel eh ayns y thie echey,157.57,161.50,asr,100
+,cha nel fys aym nagh vel ayns y thie echey sleeping,162.34,169.03,asr,86
+,craad s'laik lhiat cadley,176.41,178.60,asr,78
+,cre s'laik lhiat cadley sleeping,179.20,184.09,asr,88
+,cadley ayns e charrey vannin,193.87,195.88,asr,64
+,cadley as e charrey va'n aym cre,197.08,210.76,asr,76
+,ren gee gee,213.49,214.51,asr,35
+,now but she probably cha,224.47,237.94,asr,88
+,cha nel fys aym agh t'eh licklee dy ren ee gee ayns,237.76,241.93,asr,100
+,t'eh licklee dy ren ee gee ayns laa but,244.36,249.43,asr,57
+,cha nel fys aym agh t'eh licklee dy ren ee gee ayns,264.61,268.27,asr,100
+,son s'laik lhee peetsey cha nel fys aym agh t'eh licklee dy ren ee gee ayns laik lhiat son s'laik lhee peetsey,269.17,275.68,asr,84
+,c'raad ren yn shuyr ayd goll cha,288.64,296.05,asr,42
+,cha nel shuyr aym cha nel shuyr aym,302.92,305.68,asr,100
+,beriu c'raad v'ou,311.14,317.47,asr,0
+,c'raad v'ou was,318.07,324.40,asr,87
+,cha nel fys aym cha nel fys aym cre,333.58,337.60,asr,65
+,cha nel fys aym c'raad va mee son cha row my ven,353.83,358.09,asr,90
+,cha nel fys aym c'raad son cha row my ven,359.38,362.02,asr,68
+,cha vel fys ayd,364.30,370.42,asr,100
+,vel fys ayd c'raad,371.11,381.13,asr,60
+,vel fys ayd c'raad wales,381.61,386.38,asr,83
+,vel fys ayd c'raad v'eh vel fys ayd c'raad v'eh,392.44,395.71,asr,66
+,vel fys ayd c'raad v'eh moghrey jea,408.49,410.89,asr,100
+,vel fys ayd c'raad v'eh moghrey jea choud's eh,411.67,415.42,asr,69
+,bossan is house vel,418.63,430.12,asr,0
+,vel fys ayd c'raad v'eh moghrey jea,429.97,432.34,asr,20
+,son cha row eh ayns y thie echey c'raad v'eh moghrey jea son ayns y thie echey,433.00,438.82,asr,76
+,cha nel fys aym cha nel us,445.39,452.26,asr,65
+,cha nel fys aym foddee dy row eh ayns doolish,460.00,463.36,asr,100
+,cha nel fys aym foddee dy row ayns doolish now,464.35,470.65,asr,62
+,oh,474.49,474.61,asr,0
+,cha nel fys aym foddee dy row eh ayns doolish son she echey ayns willaston nish,485.65,491.53,asr,87
+,cha nel fys aym foddee dy row ayns doolish son ta,492.40,494.89,asr,100
+,beg ayns willaston nish cre t'ou jannoo,495.19,505.18,asr,89
+,cre t'ou jannoo ta mee gobbragh ta mee gobbragh,505.81,516.19,asr,73
+,hie working tennis,518.41,520.63,asr,34
+,ta mee gobbragh agh ta mee laccal cloie tennis,529.21,532.54,asr,100
+,ta mee gobbragh agh ta mee laccal cloie tennis tomorrow,533.35,540.22,asr,62
+,bee ta jannoo mairagh cre t'ou jannoo mairagh,547.18,551.17,asr,90
+,choud's eh this morning,552.88,555.49,asr,63
+,ta orrym gobbragh ayns y orrym gobbragh ayns y voghrey,563.29,567.16,asr,52
+,after work in the morning watch as,570.52,572.98,asr,41
+,ta orrym gobbragh ayns y voghrey agh ta mee laccal jeeaghyn er fillym ayns yn astyr,584.92,590.41,asr,93
+,gobbragh ayns y voghrey agh ta mee jeeaghyn er fillym ayns yn astyr,592.15,595.63,asr,85
+,gee,611.14,611.59,asr,11
+,cre bare lhiat gee curree,612.49,618.58,asr,56
+,cre bare lhiat gee curree,623.59,626.77,asr,81
+,cre bare lhiat gee curree,628.12,633.79,asr,69
+,bare lhiam curree bare lhiam curree,639.88,642.46,asr,100
+,curree yesterday,645.82,648.01,asr,55
+,bare lhiam curree son ren mee gee pasta jeh,659.14,662.35,asr,100
+,bare lhiam curree son ren mee gee pasta jeh,663.34,665.59,asr,88
+,da juan juan kionnagh,669.07,678.67,asr,70
+,ren juan kionnagh er,679.90,694.30,asr,40
+,er lhiam dy ren eh kionnagh daa-wheeyl,694.09,696.82,asr,89
+,erlhiam dy ren eh kionnagh daa-wheeyl drinking,697.84,705.13,asr,77
+,ren yn carrey ayd giu cre ren yn carrey ayd giu,715.24,719.53,asr,80
+,ren ee giu tey,729.28,730.54,asr,8
+,giu tey she drank tree bee cooishyn dys,731.65,736.36,asr,35
+,black coffee giu tey son,736.72,747.58,asr,0
+,doo ren ee giu tey son cha laik lhee,748.66,751.90,asr,62
+,t'ou gynsagh gaelg gynsagh gaelg,765.94,768.94,asr,63
+,haink juan yn breeshey er,772.09,782.92,asr,0
+,er lhiam dy vel juan as gynsagh gaelg,782.71,786.13,asr,95
+,er lhiam dy vel juan as gynsagh gaelg,787.09,789.37,asr,74
+,vel fys ayd ta cronk y voddee,797.74,803.65,asr,51
+,vel fys ayd quoi ren goll dys cronk y voddee,814.93,817.84,asr,100
+,quoi ren goll dys cronk y voddee cha nel,819.28,826.06,asr,82
+,cha nel eh,826.72,829.00,asr,100
+,now but as ren cha,829.75,842.71,asr,0
+,cha nel agh t'eh licklee dy ren yn carrey echey goll,842.50,846.49,asr,100
+,cha nel agh t'eh licklee dy ren yn carrey echey goll,847.42,850.00,asr,100
+,probably went bee as ee lurg watching t'ee t'ee,854.08,857.14,asr,45
+,cha nel agh t'eh licklee dy ren yn carrey echey goll son s'laik lesh jeeaghyn er,869.65,875.65,asr,100
+,cha nel agh t'eh licklee dy ren yn carrey echey goll son s'laik lesh jeeaghyn er y,877.15,881.11,asr,100
+,he was angry corree,885.16,893.08,asr,84
+,quoi ta corree juan and his broddey angry,893.80,900.25,asr,92
+,va juan as yn braar echey corree,910.21,912.55,asr,90
+,va juan as yn braar echey corree angry,913.18,918.97,asr,72
+,va juan as yn braar echey corree son ren,931.87,935.38,asr,100
+,va juan as yn braar echey corree son,938.23,940.54,asr,81
+,vel fys ayd vel fys ayd,950.29,952.00,asr,74
+,vel fys quoi s'laik lesh bonnag,963.82,966.19,asr,100
+,quoi s'laik lesh bonnag chouds,967.36,970.15,asr,57
+,ta ta fys aym ta,980.83,984.10,asr,40
+,ta ta fys aym s'laik lesh breeshey bonnag,998.20,1002.07,asr,100
+,tra ta fys aym s'laik lesh breeshey bonnag,1003.03,1005.25,asr,80
+,spollag ta,1010.95,1023.40,asr,0
+,ta fys aym s'laik lesh breeshey bonnag,1023.46,1026.28,asr,59
+,gee bonnag dagh laa ta fys aym s'laik lesh breeshey bonnag,1027.03,1031.86,asr,56
+,gee bonnag dagh laa drink coffee,1032.52,1038.61,asr,72
+,cuin t'ou giu copy cuin t'ou giu caffee,1045.48,1048.84,asr,85
+,windy drink coffee yn windy drink,1051.24,1053.67,asr,0
+,cuin t'ou giu colby as cuin t'ou giu tey,1062.67,1066.15,asr,90
+,cuin t'ou giu caffee as cuin t'ou giu tey,1067.56,1069.72,asr,81
+,hie drink coffee in the morning drink,1072.48,1075.15,asr,58
+,bee giu copy sy voghrey as giu tey ayns yn astyr,1086.70,1091.68,asr,63
+,ta mee giu caffee ayns y voghrey as giu tey ayns yn astyr,1092.61,1095.64,asr,67
+,cuin ren oo goll magh cuin ren oo goll magh,1106.83,1110.40,asr,69
+,went out on friday afternoon,1113.88,1115.98,asr,68
+,ren mee goll magh fastyr jeheiney,1123.78,1126.51,asr,100
+,ren mee goll magh fastyr jeheiney friday afternoon,1127.41,1134.16,asr,69
+,the morning ren,1136.47,1149.73,asr,0
+,ren mee goll magh fastyr jeheiney,1149.58,1151.98,asr,68
+,red beg ching moghrey jesarn ren mee goll magh fastyr jeheiney ta mee red beg ching moghrey jesarn,1152.91,1159.42,asr,92
+,play cuin ren,1164.13,1174.24,asr,0
+,ren yn chuyr ayd cloie cuin ren yn shuyr ayd cloie,1174.06,1177.78,asr,78
+,cha nel fys aym cha nel,1185.28,1187.08,asr,47
+,the play yesterday,1190.50,1191.58,asr,39
+,cha nel fys aym agh erlhiam dy ren ee cloie jeh,1200.04,1204.48,asr,96
+,cha nel fys aym agh erlhiam dy ren ee jeh,1205.26,1207.84,asr,85
+,giu in ramsey cuin v'ou ayns rhumsaa,1211.80,1222.66,asr,76
+,cuin v'ou ayns rhumsaa yn afternoon,1223.05,1227.91,asr,81
+,bun syn astyr syn astyr,1233.52,1235.98,asr,65
+,afternoon it was very hot syn astyr v'eh,1238.65,1249.12,asr,32
+,feer cheh ayns yn astyr v'eh feer cheh,1249.15,1252.51,asr,87
+,very hot port st mary,1256.77,1259.29,asr,0
+,bun syn astyr v'eh feer cheh share lhiam purt le moirrey,1269.58,1274.50,asr,92
+,ayns yn astyr v'eh feer cheh share lhiam purt le moirrey,1275.94,1279.03,asr,100
+,prefer shopping cuin,1282.81,1295.02,asr,0
+,share lhiat shappal cuin share lhiat shappal,1294.99,1298.20,asr,82
+,hie prefers shopping morning,1301.71,1303.84,asr,46
+,share lhiam shappal moghrey jemayrt,1313.92,1316.50,asr,100
+,share lhiam shappal moghrey jemayrt cuin,1317.16,1331.83,asr,68
+,ta goll cruintal goll,1331.89,1335.19,asr,57
+,choud's ta orrym goll,1336.75,1346.77,asr,38
+,goll nish ta orrym goll nish choud's,1346.62,1350.25,asr,5
+,hie hass ta,1350.91,1361.53,asr,0
+,ta orrym goll nish agh bare lhiam cadley,1361.35,1364.71,asr,92
+,ta orrym goll nish agh bare lhiam cadley,1365.85,1368.10,asr,100
+,kys t'ou,1374.85,1375.78,asr,100
+,kys t'ou ta mee braew,1376.44,1385.83,asr,33
+,ta mee braew ta,1386.43,1404.97,asr,35
+,ta mee braew agh cha nel fys aym c'raad ta'n daa-wheeyl aym,1404.82,1408.96,asr,85
+,ta mee braew agh cha nel fys aym c'raad ta'n daa-wheeyl aym,1410.04,1412.89,asr,98
+,choud's juan kys ta juan kys ta juan,1416.67,1425.67,asr,100
+,very well erlhiam nagh vel eh feer,1430.62,1441.00,asr,71
+,feer vie erlhiam nagh vel eh feer vie,1440.88,1443.85,asr,82
+,just say erlhiam,1445.77,1462.48,asr,0
+,nagh vel eh feer vie son v'eh gee,1462.51,1465.30,asr,74
+,abjee erlhiam nagh vel eh feer vie son,1465.66,1468.99,asr,68
+,bob jeh chouds ask how do oo slieau,1469.53,1474.57,asr,0
+,kys ren oo cadley kys ren oo cadley,1482.40,1485.28,asr,100
+,ren mee cadley feer vie ren mee cadley feer vie,1497.46,1501.51,asr,100
+,copy kys s'laik,1506.25,1516.39,asr,0
+,lhiat yn copy ayd kys s'laik lhiat,1516.57,1519.03,asr,0
+,hie like make coffee s'laik,1523.35,1536.31,asr,0
+,copy cheh as doo,1537.06,1539.07,asr,58
+,as doo like coffee black thanks,1541.62,1547.14,asr,41
+,s'laik lhiam yn copy cheh as doo gura mie ayd,1554.10,1557.85,asr,90
+,s'laik lhiam yn copy of cheh as gura mie ayd,1558.69,1561.21,asr,81
+,cha jeanym lhiggey mee,1563.07,1566.10,asr,32
+,cre'n oyr t'ou jeeaghyn orrym cre'n oyr t'ou jeeaghyn orrym,1574.77,1579.42,asr,100
+,cha nel fys aym cre'n oyr ta mee jeeaghyn ort,1593.91,1597.36,asr,100
+,cha nel fys aym cre'n oyr ta mee jeeaghyn ort,1598.17,1600.30,asr,93
+,bee oo goll cre'n oyr ren oo goll cha nel fys aym,1614.28,1624.42,asr,83
+,cre'n oyr ren yn braar ayd goll,1639.27,1641.34,asr,87
+,cre'n oyr ren yn braar ayd goll dys yn,1642.39,1649.29,asr,100
+,music ren,1649.74,1660.27,asr,0
+,ren eh goll son cha laik lesh kiaull,1660.06,1662.61,asr,50
+,goll son cha laik lesh kiaull cre'n oyr ta,1663.72,1679.74,asr,56
+,goll cre'n oyr ta goll,1680.28,1682.98,asr,0
+,how jiass cre'n,1684.33,1697.29,asr,0
+,cre'n oyr ta goll nish cre'n oyr ta goll nish,1697.11,1701.52,asr,55
+,ta,1714.81,1714.96,asr,0
+,ta orrym goll nish son ta orrym gobbragh,1714.78,1717.69,asr,92
+,goll nish son ta orrym gobbragh choud,1718.98,1724.20,asr,71
+,win as howse cre'n,1725.67,1737.85,asr,0
+,cre'n oyr fowan sy thie echey cre'n oyr va ayns y thie echey,1737.64,1741.93,asr,75
+,mee ayns y thie echey son va mee laccal,1760.65,1763.41,asr,89
+,gee echey va mee ayns y thie echey son va mee laccal,1764.19,1767.25,asr,80

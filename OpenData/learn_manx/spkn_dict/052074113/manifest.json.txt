@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052074113",
+  "name": "Vel oo dty vleb?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052074113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.27,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

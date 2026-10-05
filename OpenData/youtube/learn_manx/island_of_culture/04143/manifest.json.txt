@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04143",
+  "name": "Ta ny roaryn bree beggan feiyral",
+  "source": "https://www.youtube.com/watch?v=UqVPjwz0s_o",
+  "platform": "youtube",
+  "resource_id": "04143",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.33,
+  "deep_link": "https://www.youtube.com/watch?v=UqVPjwz0s_o&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

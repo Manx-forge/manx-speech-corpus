@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,er,0.21,0.36,aligned
+0,1,y,0.36,0.42,aligned
+0,2,varroose,0.42,1.02,aligned

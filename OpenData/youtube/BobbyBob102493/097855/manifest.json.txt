@@ -1,0 +1,14 @@
+{
+  "ident": "speech-097855",
+  "name": "Taishbynys 2021",
+  "source": "https://www.youtube.com/watch?v=rolNNLwR7Qw",
+  "platform": "youtube",
+  "resource_id": "097855",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2683.94,
+  "deep_link": "https://www.youtube.com/watch?v=rolNNLwR7Qw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

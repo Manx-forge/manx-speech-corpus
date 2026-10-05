@@ -1,0 +1,14 @@
+{
+  "ident": "speech-019670",
+  "name": "Oie ayns Baatey-eeastee liorish Ned Beg Hom Ruy",
+  "source": "https://www.youtube.com/watch?v=v0YpSQSLgsY&t=250s",
+  "platform": "youtube",
+  "resource_id": "019670",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 501.85,
+  "deep_link": "https://www.youtube.com/watch?v=v0YpSQSLgsY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

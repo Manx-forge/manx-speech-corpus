@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057386",
+  "name": "boandey tie",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/boandey%20-%20tie.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057386",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.97,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/boandey%20-%20tie.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

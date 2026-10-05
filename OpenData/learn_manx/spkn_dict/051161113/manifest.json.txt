@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051161113",
+  "name": "Nagh nhegin jee giu?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051161113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.17,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057474",
+  "name": "lheiney T T Shirt",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/lheiney%20T%20-%20T%20Shirt.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057474",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.1,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/lheiney%20T%20-%20T%20Shirt.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

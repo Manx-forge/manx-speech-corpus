@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42627120",
+  "name": "Agh neemayd shiu y eeck er-nyn-son nish, vainshter, my sailliu.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42627120",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.228,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

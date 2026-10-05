@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,cre,0.00,0.30,aligned
+0,1,mychione,0.30,0.63,aligned
+0,2,my,0.63,0.75,aligned
+0,3,vaatey,0.75,1.20,aligned

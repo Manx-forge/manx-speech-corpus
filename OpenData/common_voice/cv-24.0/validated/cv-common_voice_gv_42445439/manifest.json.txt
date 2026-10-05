@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445439",
+  "name": "Chyndaa dt'eddin veih my pheccah: as cur ersooyl ooilley my ghrogh-yannoo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445439",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.516,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

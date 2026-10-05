@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446553",
+  "name": "Nagh vel creenaght geamagh, as tushtey cur magh e coraa?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446553",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.928,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

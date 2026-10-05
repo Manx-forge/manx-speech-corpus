@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052071113",
+  "name": "Cha nel agh ta Purt le Moirrey na smoo aalin na Laksaa",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052071113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.75,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

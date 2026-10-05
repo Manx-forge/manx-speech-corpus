@@ -1,0 +1,20 @@
+{
+  "ident": "speech-0305",
+  "name": "🎥 Skeealyn Vannin, Disk 1 Track 6",
+  "createdCircaStart": "1948-01-01",
+  "createdCircaEnd": "1948-12-31",
+  "author": "Annie Kneale, Ballagarrett, Bride, J.W. (Bill) Radcliffe, Mark Braide",
+  "notes": "Conversation in Manx Gaelic between native speaker Annie Kneale and interviewers Bill Radcliffe and Mark Braide. Recorded on the Isle of Man by the Irish Folklore Commission in 1948.",
+  "translated": "Fiona McArdle, Kirk Michael",
+  "source": "https://youtube.com/watch?v=L4cisJQa_ao",
+  "platform": "youtube",
+  "resource_id": "0305",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 274.46,
+  "deep_link": "https://www.youtube.com/watch?v=L4cisJQa_ao&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok",
+  "corpus_work": "YouTube-Skeealyn-Vannin-Disk-1-Track-6"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-072084",
+  "name": "in_memoriam_john_pilling_translated_by_bob_carswell",
+  "source": "https://www.learnmanx.com/media//Stories/In_Memoriam_John_Pilling.mp3",
+  "platform": "learn_manx",
+  "resource_id": "072084",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 537.31,
+  "deep_link": "https://www.learnmanx.com/media//Stories/In_Memoriam_John_Pilling.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

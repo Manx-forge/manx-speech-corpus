@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386120",
+  "name": "Bee nyn Jiarn jymmoosagh rooin myr vees mayd fargagh rish yn vooinjer veggey echey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386120",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.712,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

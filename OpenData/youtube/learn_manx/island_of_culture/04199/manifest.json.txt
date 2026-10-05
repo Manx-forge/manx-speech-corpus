@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04199",
+  "name": "Shoh my viol",
+  "source": "https://www.youtube.com/watch?v=Q-jL3M7f28M",
+  "platform": "youtube",
+  "resource_id": "04199",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.22,
+  "deep_link": "https://www.youtube.com/watch?v=Q-jL3M7f28M&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

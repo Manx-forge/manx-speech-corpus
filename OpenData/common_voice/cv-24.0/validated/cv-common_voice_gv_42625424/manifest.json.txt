@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42625424",
+  "name": "Cre ta'n trass churrym ren oo gialdyn ec dty vashtey dy chooilleeney?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42625424",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.868,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

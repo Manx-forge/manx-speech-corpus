@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051680113",
+  "name": "Jean oo goll er y vaatey my vees eh dorrininagh?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051680113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.86,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

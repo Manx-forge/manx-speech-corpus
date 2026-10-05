@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446941",
+  "name": "Ny yeearree son caghlaa dy hrial.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446941",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.312,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

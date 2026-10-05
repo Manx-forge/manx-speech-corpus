@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086614",
+  "name": "lesson 19",
+  "source": "https://www.learnmanx.com/media/Files/intermediate%20lesson%2019.mp3",
+  "platform": "learn_manx",
+  "resource_id": "086614",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 105.72,
+  "deep_link": "https://www.learnmanx.com/media/Files/intermediate%20lesson%2019.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

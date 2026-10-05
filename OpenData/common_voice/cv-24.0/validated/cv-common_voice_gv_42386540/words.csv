@@ -1,0 +1,12 @@
+line,idx,word,start,end,status
+0,0,"""Gow",0.84,1.11,aligned
+0,1,lesh,1.14,1.38,aligned
+0,2,boggey,1.38,1.86,aligned
+0,3,surrans,1.86,2.49,aligned
+0,4,marish,2.49,2.91,aligned
+0,5,Chreest;,2.91,3.42,aligned
+0,6,t'eh,4.05,4.23,aligned
+0,7,paart,4.23,4.62,aligned
+0,8,jeh,4.68,5.13,aligned
+0,9,yn,5.13,5.28,aligned
+0,10,"eiraght.""",5.37,6.03,aligned

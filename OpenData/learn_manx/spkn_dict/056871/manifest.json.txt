@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056871",
+  "name": "faiyr grass",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/faiyr%20-%20grass.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056871",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20garden/faiyr%20-%20grass.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

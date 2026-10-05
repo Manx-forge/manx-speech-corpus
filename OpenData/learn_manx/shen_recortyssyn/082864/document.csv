@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon shey as feed roie,0.61,5.26,asr,100
+,ta mee roie dys colby roie dys colby,6.19,9.13,asr,100
+,cloie ta mee cloie er y wooi cloie er y wooi soie,10.69,16.81,asr,41
+,ta mee soie sheese soie sheese,17.44,20.38,asr,6
+,eu ta mee ceau moon gee,21.58,27.97,asr,55
+,ta mee gee keck kiark,28.93,31.57,asr,67
+,giu ta mee giu moon,32.95,35.08,asr,64
+,gimman,37.81,38.26,asr,17
+,ta mee gimman dy valley gimman dy valley,39.01,42.10,asr,90
+,cummal ta mee cummal ayns shoh,44.56,47.41,asr,70
+,cummal shoh mongey,48.10,50.50,asr,94
+,ta mee mongey jeeaghyn,51.28,55.42,asr,53
+,ta mee jeeaghyn er fillym jeeagh er fillym,55.96,58.81,asr,100
+,smooinagh ta mee smooinaghtyn,60.61,63.01,asr,97
+,smooinee orrym cooinaght,64.81,67.93,asr,92
+,cha mee cooinagh cooinee orrym,69.01,72.10,asr,0
+,gobbragh ta mee gobbragh,73.75,76.12,asr,100
+,obbree gynsagh,77.29,79.72,asr,0
+,ta mee gynsagh gaelg ynsee gaelg,80.38,83.26,asr,91
+,roie shiu dys y chiarn my,85.87,89.05,asr,78
+,bwee ny jeeagh shiu orrym,89.89,93.40,asr,75
+,ynsee shiu gaelg nagh obbree mairagh,94.93,98.59,asr,67

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-025414",
+  "name": "Traaue yn Aght Manninagh",
+  "source": "https://www.youtube.com/watch?v=jPPPA_bLINs",
+  "platform": "youtube",
+  "resource_id": "025414",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 446.11,
+  "deep_link": "https://www.youtube.com/watch?v=jPPPA_bLINs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059729",
+  "name": "t'eh çheh its hot",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20weather/teh%20cheh%20-%20its%20hot.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059729",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.62,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20weather/teh%20cheh%20-%20its%20hot.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

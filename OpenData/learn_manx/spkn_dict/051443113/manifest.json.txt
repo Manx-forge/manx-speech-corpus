@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051443113",
+  "name": "T'eh ec kione y traid",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051443113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.94,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

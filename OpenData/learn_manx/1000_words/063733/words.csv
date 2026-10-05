@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,Meen,0.39,1.11,aligned
+0,1,Bob,2.13,2.37,aligned
+0,2,veen,2.37,2.91,aligned
+0,3,/,,,unaligned
+0,4,Julie,3.57,4.02,aligned
+0,5,veen,4.02,4.44,aligned
+0,6,Carrey,5.52,5.94,aligned
+0,7,but,6.96,7.20,aligned
+0,8,Charrey,10.86,11.25,aligned
+0,9,veen,11.25,11.64,aligned

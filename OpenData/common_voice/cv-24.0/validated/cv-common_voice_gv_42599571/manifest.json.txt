@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599571",
+  "name": "Ny gow yindys dy dooyrt mee rhyt, Shegin diu v'er nyn ruggey reesht.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599571",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.228,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

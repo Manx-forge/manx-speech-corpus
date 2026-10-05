@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866683",
+  "name": "ta daa huyr aym i have two sisters",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20two%20sisters.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866683",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 7.39,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20two%20sisters.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

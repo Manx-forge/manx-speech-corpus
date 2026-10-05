@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04135",
+  "name": "Vel shuyr ayd?  Cha nel shuyr ayms agh ta braar ayms",
+  "source": "https://www.youtube.com/watch?v=VuXukuci9hc",
+  "platform": "youtube",
+  "resource_id": "04135",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.29,
+  "deep_link": "https://www.youtube.com/watch?v=VuXukuci9hc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

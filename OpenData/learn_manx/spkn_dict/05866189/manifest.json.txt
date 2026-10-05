@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866189",
+  "name": "feeacklyn teeth",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20colours/Body_Teeth.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866189",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 4.49,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20colours/Body_Teeth.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

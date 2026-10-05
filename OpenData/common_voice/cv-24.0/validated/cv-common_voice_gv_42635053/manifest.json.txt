@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42635053",
+  "name": "Nee'm padjer y ghoaill gys Jee er y hon.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42635053",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.14,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

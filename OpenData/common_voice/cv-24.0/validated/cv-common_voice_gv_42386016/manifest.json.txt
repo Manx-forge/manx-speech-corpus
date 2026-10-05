@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386016",
+  "name": "Son liorym's bee dty laghyn ymmodee, as bleeantyn dty vea er ny vishaghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386016",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.596,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-088825",
+  "name": "Yn Cholloo? Y Keyllys Mooar as y Kellys 'Foalsey' (y Keyllys Beg)",
+  "source": "https://www.youtube.com/watch?v=O7B95VIkptU",
+  "platform": "youtube",
+  "resource_id": "088825",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 53.32,
+  "deep_link": "https://www.youtube.com/watch?v=O7B95VIkptU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

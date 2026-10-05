@@ -1,0 +1,19 @@
+{
+  "ident": "speech-msd-UOSH-HOYFM-SA0010",
+  "name": "🎥 UOSH SA0010: Interview with Ned Maddrell of Glen Chass about fishing in the Isle of Man and the British Isles",
+  "createdCircaStart": "1952-01-01",
+  "createdCircaEnd": "1952-12-31",
+  "author": "Ned Maddrell, Walter Clarke, Douglas Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "source": "https://www.youtube.com/watch?v=LqleRQlVZ2k",
+  "platform": "youtube",
+  "resource_id": "msd-UOSH-HOYFM-SA0010",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 1916.8,
+  "deep_link": "https://www.youtube.com/watch?v=LqleRQlVZ2k&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok",
+  "corpus_work": "UOSH-HOYFM-SA0010"
+}

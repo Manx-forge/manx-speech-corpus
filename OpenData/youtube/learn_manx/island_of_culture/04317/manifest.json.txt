@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04317",
+  "name": "Shoh my charrey Ali as shoh my verreen",
+  "source": "https://www.youtube.com/watch?v=o_YrlAJ_8MQ",
+  "platform": "youtube",
+  "resource_id": "04317",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.37,
+  "deep_link": "https://www.youtube.com/watch?v=o_YrlAJ_8MQ&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

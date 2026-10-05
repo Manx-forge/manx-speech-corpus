@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447690",
+  "name": "Mish y leeideilagh ayns raad yn ynrickys, ayns ny cassanyn jeeragh dy vriwnys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447690",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.324,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385927",
+  "name": "O tar shiu reue, dy vod shiu cosney bea.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385927",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.22,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

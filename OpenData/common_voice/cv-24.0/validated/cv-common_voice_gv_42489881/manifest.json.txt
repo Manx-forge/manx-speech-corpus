@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42489881",
+  "name": "Quoid dy leih t'ou cummal mâroo?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42489881",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.816,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

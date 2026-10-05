@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05717949",
+  "name": "Oie vie Good night",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Oie%20vie.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05717949",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.12,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Oie%20vie.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

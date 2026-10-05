@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054315",
+  "name": "mucawin bane polar bear",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/mucawin%20bane%20-%20polar%20bear.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054315",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.41,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/mucawin%20bane%20-%20polar%20bear.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

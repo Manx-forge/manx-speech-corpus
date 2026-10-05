@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052162113",
+  "name": "My vees eh grianagh neeym goll shappal",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052162113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.98,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

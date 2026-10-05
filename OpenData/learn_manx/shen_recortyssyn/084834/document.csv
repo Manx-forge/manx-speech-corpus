@@ -1,0 +1,19 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,quoi uss mish bee ayns doolish mairagh bee,0.09,3.75,asr,79
+,bee oo ayns shoprite cha bee bee'm ayns,4.33,6.61,asr,100
+,cha beeym ayns bee'm ayns doolish mairagh as bee'm ayns shoprite,9.07,13.09,asr,89
+,kys t'ou feer vie juan ayns doolish mairagh cha bee c'raad vees juan mairagh bee eh ayns colby nagh bee eh ayns doolish,15.40,25.54,asr,88
+,cha bee bee eh ayns colby shen quaagh,26.02,28.90,asr,90
+,kys t'ou mie dy liooar gura mie ayd bee oo tarroogh mairagh beeym,30.85,35.17,asr,97
+,nagh bee oo skee cha bee'm skee bee oo ayns colby cha bee beeym ayns colby as bee'm skee agglagh,35.83,42.22,asr,92
+,quoi uss mish bee oo er y jough mairagh cha beeym,44.86,49.42,asr,75
+,ayns y thie-bane beeym bee oo scooyrit cha beeym scooyrit mie dy liooar,50.59,55.69,asr,84
+,kys t'ou castreycair gura mie ayd bee oo maynrey mairagh cha beeym agh bee oo,57.73,62.59,asr,91
+,beeym tarroogh agglagh mairagh ta mee toiggal been tarroogh agh cha beeym maynrey,63.07,68.20,asr,87
+,cha bee jamys ayns shoh mairagh nagh bee cha bee,71.71,74.86,asr,100
+,lieh tarroogh ta mee toiggal shoh myr shoh bee oo anmagh cha beeym mie dy liooar hee'm oo mairagh,75.28,83.20,asr,78
+,bee ayns purt le moirrey mairagh beeym,85.51,87.82,asr,95
+,cha bee eh bee fenella cha bee nagh bee cha bee bee ayns purt chiarn moghrey mairagh agh cha bee ayns purt le moirrey,89.02,97.81,asr,94
+,bee oo er yn traie mairagh cha beeym,100.21,102.28,asr,94
+,feer vie bee ee cha bee juan bee oo tarroogh mairagh atreih nagh bee oo er yn traie,102.94,111.04,asr,99
+,bee'm moghrey mairagh agh cha bee'm fastyr mairagh,111.67,114.55,asr,86

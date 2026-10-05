@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0475",
+  "name": "Cre smie lhiat jannoo er y jerrey-shiaghtin? S'mie lhiam cadley",
+  "source": "https://www.youtube.com/watch?v=K5gVt3KzkqY",
+  "platform": "youtube",
+  "resource_id": "0475",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.26,
+  "deep_link": "https://www.youtube.com/watch?v=K5gVt3KzkqY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-024627",
+  "name": "Shooyl mygeayrt Meayll marish Davy Fisher? 02",
+  "source": "https://www.youtube.com/watch?v=PpQdBCBVAPU",
+  "platform": "youtube",
+  "resource_id": "024627",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 381.84,
+  "deep_link": "https://www.youtube.com/watch?v=PpQdBCBVAPU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

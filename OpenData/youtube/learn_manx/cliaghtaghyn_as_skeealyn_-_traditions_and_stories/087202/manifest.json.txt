@@ -1,0 +1,14 @@
+{
+  "ident": "speech-087202",
+  "name": "Ayns cooinaghtyn jeh Manannan son Laa Tinvaal",
+  "source": "https://www.youtube.com/watch?v=Jzdf5p3glgc",
+  "platform": "youtube",
+  "resource_id": "087202",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 73.49,
+  "deep_link": "https://www.youtube.com/watch?v=Jzdf5p3glgc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

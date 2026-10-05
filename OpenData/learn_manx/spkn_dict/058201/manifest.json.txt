@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058201",
+  "name": "mie dy liooar good enough",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/mie%20dy%20liooar%20-%20good%20enough.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058201",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.1,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/mie%20dy%20liooar%20-%20good%20enough.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

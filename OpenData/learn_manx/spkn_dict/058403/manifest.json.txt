@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058403",
+  "name": "jiu today",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jiu%20-%20today.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058403",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jiu%20-%20today.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

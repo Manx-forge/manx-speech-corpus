@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04146",
+  "name": "TT aboo!",
+  "source": "https://www.youtube.com/watch?v=shhREDULcSQ",
+  "platform": "youtube",
+  "resource_id": "04146",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 31.42,
+  "deep_link": "https://www.youtube.com/watch?v=shhREDULcSQ&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

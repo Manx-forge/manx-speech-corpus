@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42558128",
+  "name": "Ta beeal yn er-ynrick cur magh creenaght: agh bee yn chengey vee-reiltagh giarit ass.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42558128",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.956,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

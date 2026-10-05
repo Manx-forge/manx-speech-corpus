@@ -1,0 +1,14 @@
+{
+  "ident": "speech-088497",
+  "name": "Shenn Stashoon ny Meoiryn Shee, Purt ny Hinshey",
+  "source": "https://www.youtube.com/watch?v=JJW_RpBtkQM",
+  "platform": "youtube",
+  "resource_id": "088497",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 51.46,
+  "deep_link": "https://www.youtube.com/watch?v=JJW_RpBtkQM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-072482",
+  "name": "american_inheritance_final_copy_15",
+  "source": "https://www.learnmanx.com/media/American%20Inheritance/american%20inheritance%20final%20copy%2015.mp3",
+  "platform": "learn_manx",
+  "resource_id": "072482",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 132.47,
+  "deep_link": "https://www.learnmanx.com/media/American%20Inheritance/american%20inheritance%20final%20copy%2015.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

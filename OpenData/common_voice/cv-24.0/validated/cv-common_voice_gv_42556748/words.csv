@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,Ta,1.02,1.14,aligned
+0,1,fir-oik,1.14,1.77,aligned
+0,2,ny,1.77,1.92,aligned
+0,3,keeshyn,1.92,2.40,aligned
+0,4,feer,2.40,2.70,aligned
+0,5,vie,2.70,2.97,aligned
+0,6,ec,2.97,3.09,aligned
+0,7,feddyn,3.09,3.45,aligned
+0,8,boiraghyn,3.45,3.96,aligned
+0,9,ayns,3.96,4.17,aligned
+0,10,ferrymyn,4.17,4.65,aligned
+0,11,keeshyn.,4.65,5.13,aligned

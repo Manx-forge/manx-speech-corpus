@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42482377",
+  "name": "Cooinnee shiu Chreesteeyn deyr, nagh vel shiu ny sodjey marroo ayns peccah.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42482377",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.588,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

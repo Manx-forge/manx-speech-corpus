@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386383",
+  "name": "Ver ny sleityn myrgeddin lhieu shee: as ny croink veggey cairys da'n pobble.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386383",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.632,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

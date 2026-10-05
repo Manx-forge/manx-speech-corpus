@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0474",
+  "name": "Cre smie lhiat jannoo ec yn jerrey-shiaghtin?",
+  "source": "https://www.youtube.com/watch?v=PeHZhZyFYko",
+  "platform": "youtube",
+  "resource_id": "0474",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.45,
+  "deep_link": "https://www.youtube.com/watch?v=PeHZhZyFYko&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

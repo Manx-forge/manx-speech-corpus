@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05520113",
+  "name": "Cuin vees oo ayns Doolish?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05520113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.72,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

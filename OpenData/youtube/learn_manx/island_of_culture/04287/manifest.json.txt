@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04287",
+  "name": "Haghyr shoh kiart myr va'n ghrian goll dy lhie reesht",
+  "source": "https://www.youtube.com/watch?v=oDt26QY-TME",
+  "platform": "youtube",
+  "resource_id": "04287",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 32.95,
+  "deep_link": "https://www.youtube.com/watch?v=oDt26QY-TME&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

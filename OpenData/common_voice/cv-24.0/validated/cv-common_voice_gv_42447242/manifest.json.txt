@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447242",
+  "name": "Ta creenaght niart smoo da'n dooinney creeney, na jeih treanee caggee ayns ard-valley.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447242",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.964,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

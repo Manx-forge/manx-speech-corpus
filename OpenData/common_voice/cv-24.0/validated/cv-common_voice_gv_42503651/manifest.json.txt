@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42503651",
+  "name": "Tar-jee marin as hee shiu nagh vel eh danjeyragh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42503651",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.356,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

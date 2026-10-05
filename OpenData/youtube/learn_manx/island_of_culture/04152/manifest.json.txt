@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04152",
+  "name": "Shoh my roar-bree",
+  "source": "https://www.youtube.com/watch?v=UvgrOWq7rgg",
+  "platform": "youtube",
+  "resource_id": "04152",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.57,
+  "deep_link": "https://www.youtube.com/watch?v=UvgrOWq7rgg&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

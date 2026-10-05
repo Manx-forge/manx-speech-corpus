@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42482299",
+  "name": "Cur dty chass er dhiane as nee e chyndaa ort.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42482299",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.86,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,laue,0.69,1.38,aligned
+0,1,hand,1.98,2.55,aligned
+0,2,laue,3.27,3.81,aligned

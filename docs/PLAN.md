@@ -1,36 +1,29 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-05)
-**Done:** P0–P4 (P3b + P4 signed off by Chris 2026-10-05; he judges quality in the final output). **Next:** P5. Read the `reports/` files for details. Nothing is running.
+**Done:** P0–P4 (P3b + P4 signed off by Chris 2026-10-05; he judges quality in the final output). **P5 built**, awaiting
+Chris's sign-off. Read the `reports/` files for details. Nothing is running.
 
-**P3b, ASR post-correction.** Fully run. See `reports/P3_asr.md`.
-- `asr.py nbest` (163,057 segments) and `score` (gpusched 154/155, 165,057 segments) finished 2026-10-04/05.
-- `asr.py collect` (2026-10-05, `work/logs/asr_collect_p3b.log`) rewrote `asr/asr_segments.tsv`: 165,258 segments.
-  Text sources: whisper 112,278, tdnn 39,384, whisper_p3 13,278, tdnn_longform 201, tdnn+whisper 117.
-  Rescored WER by band on 1,120 Loayr test segments: green 7.3, amber 18.9, red 33.9. P3 table kept as
-  `asr/asr_segments.p3.tsv`.
+**P5, export** (`scripts/export.py`, `reports/P5_export.md`):
+- `OpenData/`: 11,902 works (10,374 human + 1,528 ASR), 195,187 lines, 2.02 M words. `export.py check` (data CI)
+  passes on all of them, except a leftover empty folder `OpenData/learn_manx/spkn_dict/057871` (an empty transcript,
+  written by the first run). Delete it; it is not committed.
+- D35 done: `loayr/` and `automatic_transcriptions/` imported as subtrees with history. The old repos are untouched;
+  a pointer README or archiving them is Chris's call.
+- `inventory.py` reads Loayr metadata from `loayr/`, and the 8 Skeealyn Vannin recordings we hold that are also corpus
+  works now use the corpus `document.csv` (cased, speakers, English; D17). They were realigned; the old alignments are
+  kept as `align/human/<id>.normalised/`. `0308` keeps ours (the corpus copy covers 60 %).
+- Next: P6 (site).
 
-**P4, alignment** (`scripts/align.py`; QC table in `work/logs/align_qc.log`).
-- `human`: 10,375 of 10,378 aligned. The 139 30–94 s failures cleared on a rerun with the `nj` fix
-  (`work/logs/align_human_rerun2.log`). 3 remain, all transcript problems: `msd-YouTube-Skeealyn-Vannin-Disk-1-Track-11`
-  (empty transcript), `04235` (6 words / 33 s), `04230` (14 words / 32 s). The long-audio segmenter cannot handle
-  texts that short. Option: route them through the short-clip path.
-- `asr`: all 1,528 recordings (165,257 segments) aligned (`work/logs/align_asr.log`). 99.4–100 % of words aligned for
-  every source.
-- `human` QC: words aligned for clilstore and common_voice 100 %, learn_manx 94.4 %, youtube 90.8 % (17.7 % of youtube
-  phrases interpolated).
-- The first human run left 11 stale `<videoID>_words/phrases.csv` files inside `align/human/msd-*/`. `qc` now skips
-  any file not named after its directory, and P5 exports must do the same (or Chris may OK moving them aside).
-- No hand-check (Chris, 2026-10-05: he will judge alignment in the final result). See `reports/P4_align.md`.
-- P5 notes:
-  - Normalised human transcripts are one line, so their phrases span whole recordings. Split them at pauses for display.
-  - `registers/recordings.tsv` has 2 rows for some IDs that are on disk twice. Dedupe in `inventory.py`.
-
-**Waiting on Chris (later, not blocking P5):**
+**Fix later (Chris, 2026-10-05; not blocking):**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
-- `~/gpu-scheduler/config` is `ALLOWED_GPUS=0,1` (set by the score watcher). Both GPUs are idle, so GPU 0 may want
-  handing back.
 - A listen to the 12 batch-`20261001` recordings with no segments (list in `reports/P3_asr.md`).
+- 3 human recordings not aligned (`reports/P4_align.md`): one empty transcript, `04235` and `04230` too short for the
+  long-audio segmenter (could go through the short-clip path).
+- The master repeats two ids for different recordings: `083612` (Foillan film vs a LearnManx lesson, crossed metadata)
+  and `088445`. Export takes the first row, as alignment did; needs real ids from Chris.
+- 11 stale `<videoID>_*.csv` files in `align/human/msd-*/` from the first run; `qc` and `export` read only `<id>/<id>_*`.
+- `~/gpu-scheduler/config` is `ALLOWED_GPUS=0,1`; both GPUs idle.
 
 
 ## Goal
@@ -226,14 +219,14 @@ CPU jobs are given to Chris as commands to run, not launched by Claude, unless C
   to true CER. Set green/amber/red so that, for example, green means true WER ≲ 15% and red means ≳ 40%. Chris signs off
   the thresholds.
 
-**P3b. ASR post-correction (Chris, 2026-10-04).** IN PROGRESS: corpus n-best and scoring running, see Current state.
+**P3b. ASR post-correction (Chris, 2026-10-04).** DONE 2026-10-05: rescored text collected, signed off. See `reports/P3_asr.md`.
 
-**P4. Alignment (CPU, long).** IN PROGRESS 2026-10-04: `scripts/align.py` built and smoke-tested.
+**P4. Alignment (CPU, long).** DONE 2026-10-05: 10,375 human + 1,528 ASR recordings aligned, signed off. See `reports/P4_align.md`.
 - Run `timestamper` over every recording: human transcripts (D21), and Whisper text for ASR works (D19). For ASR, align
   per segment within its known span, which is more robust than whole-recording biased-LM search.
 - QC: aligned/interpolated/unaligned rates per source. Hand-check about 10 random words per source against the audio.
 
-**P5. Export.**
+**P5. Export.** BUILT 2026-10-05, awaiting sign-off: see `reports/P5_export.md`.
 - Build `OpenData/` works and the registers. Merge human over ASR (D17). Absorb the two Manx-forge repos (D35).
 - Data CI passes.
 

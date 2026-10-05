@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,nagh,0.12,0.42,aligned
+0,1,nhare,0.42,0.75,aligned
+0,2,lhee,0.75,1.02,aligned
+0,3,soo,1.02,1.41,aligned
+0,4,mess,1.41,1.53,aligned
+0,5,nhare,1.53,1.68,aligned
+0,6,lhee,1.68,1.80,aligned
+0,7,spollagyn,1.80,2.07,aligned

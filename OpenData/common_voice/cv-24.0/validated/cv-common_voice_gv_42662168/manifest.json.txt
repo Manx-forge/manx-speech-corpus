@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42662168",
+  "name": "\"Aw, boy beg,\" dooyrt mish, \"cha row rieau scoill Baarlagh ec ny h-ushagyn boghtey.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42662168",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.136,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

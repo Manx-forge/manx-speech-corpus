@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051079113",
+  "name": "Nagh by vie lesh oo?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051079113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.52,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

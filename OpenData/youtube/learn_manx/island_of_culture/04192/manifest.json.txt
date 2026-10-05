@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04192",
+  "name": "S'mie lhiam yn jiass",
+  "source": "https://www.youtube.com/watch?v=pXAkJVlqrEs",
+  "platform": "youtube",
+  "resource_id": "04192",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.94,
+  "deep_link": "https://www.youtube.com/watch?v=pXAkJVlqrEs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

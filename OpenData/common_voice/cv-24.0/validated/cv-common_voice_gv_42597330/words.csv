@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,As,0.63,0.87,aligned
+0,1,dob,0.87,1.14,aligned
+0,2,"eh,",1.14,1.26,aligned
+0,3,"gra,",1.41,1.86,aligned
+0,4,"Ven,",2.07,2.43,aligned
+0,5,cha,3.00,3.18,aligned
+0,6,vel,3.18,3.45,aligned
+0,7,enney,3.45,3.81,aligned
+0,8,aym,3.81,3.93,aligned
+0,9,er.,3.93,4.29,aligned

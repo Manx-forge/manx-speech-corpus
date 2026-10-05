@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,c'raad,0.00,0.54,aligned
+0,1,bare,0.54,0.81,aligned
+0,2,lesh,0.81,1.08,aligned
+0,3,voirrey,1.08,1.38,aligned
+0,4,cummal,1.41,1.80,aligned

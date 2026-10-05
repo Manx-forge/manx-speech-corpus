@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058723",
+  "name": "cheer oayleeaght geography",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20school/cheer%20oayleeaght%20-%20geography.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058723",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.25,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20school/cheer%20oayleeaght%20-%20geography.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

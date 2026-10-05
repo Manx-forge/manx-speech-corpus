@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058546",
+  "name": "ben-chiaullee female singer",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20music/ben-chiaullee%20-%20female%20singer.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058546",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.38,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20music/ben-chiaullee%20-%20female%20singer.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

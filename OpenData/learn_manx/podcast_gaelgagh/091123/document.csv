@@ -1,0 +1,67 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,just say juan as yn juan the house,1.27,4.72,asr,34
+,ta juan ayns yindyssagh ta juan ayns y thie,5.35,9.55,asr,86
+,the house ta mee ayns y thie juan sy howse ta juan ayns y,9.91,14.50,asr,69
+,juan was in the house,16.00,19.42,asr,19
+,va juan dooyrt va juan ayns y thie,20.17,24.40,asr,67
+,juan ayns y thie doo yindyssagh,25.39,31.30,asr,61
+,howl just say dollan was in port st mary,32.20,35.59,asr,45
+,but breeshey was in the house,36.19,39.70,asr,100
+,so dollan was in port st mary,40.63,42.76,asr,90
+,dollan ayns purt le moirrey,44.05,46.96,asr,89
+,was dollan was in port st mary,48.37,51.25,asr,88
+,mary dollan,53.65,55.75,asr,18
+,purt le moirrey dollan ayns,57.37,62.47,asr,82
+,purt le moirrey feer vie,63.25,65.26,asr,100
+,boat agh bwooise wales in her house,65.71,69.04,asr,92
+,va breeshey ayns thie,69.88,72.16,asr,92
+,whitby but breeshey was in the house,73.03,75.58,asr,89
+,yn oyr dy fo'n breeshey was in the house attey,76.18,81.37,asr,38
+,va brishey ayns thie aaght perfect,82.00,85.48,asr,75
+,agh va breeshey ayns y thie eck,86.11,88.48,asr,90
+,in port st mary va dollan ayns purt le moirrey,89.29,92.11,asr,76
+,but breeshey was in her house agh va breeshey,92.83,96.01,asr,100
+,ayns y thie eck moghrey jiu,96.31,100.24,asr,55
+,as this morning this afternoon,101.50,105.01,asr,52
+,fastyr jiu fastyr jiu so fastyr afternoon jiu ta day,105.88,111.46,asr,100
+,afternoon idea this afternoon fastyr jiu,112.36,115.90,asr,80
+,bee eh so chouds sea in my pub this afternoon,117.58,122.41,asr,56
+,va shin ayns y thie-lhionney,124.90,127.18,asr,89
+,fastyr jiu shen eh va shin ayns y thie-lhionney fastyr jiu,128.68,132.67,asr,100
+,chouds sea in douglas this afternoon but,133.54,137.20,asr,93
+,in port erin now so in douglas afternoon,138.19,142.03,asr,78
+,va shin ayns doolish,143.62,145.99,asr,95
+,fastyr jiu briwnys in the douglas in douglas,147.49,152.02,asr,48
+,va shin ayns doolish fastyr jiu but agh,152.77,157.75,asr,100
+,in port erin now va shin,159.25,161.89,asr,81
+,ayns purt chiarn,162.79,165.52,asr,100
+,nish as,166.27,167.50,asr,41
+,in port erin now agh ta shen,169.81,177.61,asr,52
+,ayns purt chiarn nish gard,179.11,184.12,asr,100
+,so in douglas this afternoon,184.72,186.76,asr,100
+,va shin ayns doolish fastyr jiu,187.33,189.76,asr,100
+,but in port erin now agh ta shin ayns purt chiarn nish,190.27,195.16,asr,100
+,it was very this afternoon but it was colden us this morning so it was very this afternoon but it was this morning,197.47,206.17,asr,71
+,v'eh feer cheh,207.13,210.16,asr,100
+,moghrey jiu this afternoon fastyr jiu fastyr jiu boat,211.78,217.03,asr,81
+,it was colden us this morning feayr dy liooar,218.35,222.55,asr,84
+,moghrey jiu feer vie it was very this afternoon but it's cold this morning,224.41,230.17,asr,70
+,feer cheh fastyr jiu good,232.39,235.78,asr,96
+,agh v'eh feayr,237.01,239.68,asr,50
+,moghrey jiu ec slaynt v'eh feer cheh fastyr jiu agh v'eh feayr dy liooar moghrey jiu,241.30,247.63,asr,98
+,so it was very hot this afternoon but it was cold this morning,248.50,252.04,asr,62
+,so how just say ta mee good,252.79,258.13,asr,35
+,choud's va mee good,258.94,262.39,asr,52
+,ta oie am not cha nel mee dooyrt,263.95,268.75,asr,51
+,cha row mee,273.16,274.81,asr,36
+,cha row cha row mee so vannee,275.41,278.74,asr,19
+,cha row mee ta mee,280.36,283.30,asr,100
+,cha nel mee not so,284.59,287.05,asr,67
+,hie in the pub yesterday,288.16,291.22,asr,56
+,yesterday cha row mee,293.29,295.36,asr,75
+,ayns thie-lhionney jea,296.38,299.32,asr,92
+,hug yesterday was cha row mee,302.44,311.14,asr,53
+,yn thie-lhionney jea feer vie cha row mee ayns y thie-lhionney jeh,312.25,318.25,asr,97
+,was thie ayd cha row mee skee,319.27,321.58,asr,71
+,va mee skee shen eh cha row mee ayns y thie-lhionney jea,324.07,327.79,asr,100
+,was in yesterday va mee skee hie as thie ayd,328.24,331.51,asr,57

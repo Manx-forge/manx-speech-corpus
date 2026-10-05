@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42694737",
+  "name": "Leih son peccaghyn t'er ngholl shaghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42694737",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.068,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

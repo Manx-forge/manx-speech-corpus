@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650135",
+  "name": "Cre'n fa ta peccah er ny enmys obbyr y drogh-spyrryd?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650135",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.148,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

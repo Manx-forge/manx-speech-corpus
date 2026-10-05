@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057272",
+  "name": "mollee eyebrow",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/mollee%20-%20eyebrow.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057272",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.73,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/mollee%20-%20eyebrow.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

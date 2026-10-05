@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42459005",
+  "name": "Dooinney nagh vel creeney ayns e obbraghyn, cha vel eh creeney ayns e chredjue.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42459005",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.1,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

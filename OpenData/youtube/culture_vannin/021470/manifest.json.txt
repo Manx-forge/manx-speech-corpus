@@ -1,0 +1,14 @@
+{
+  "ident": "speech-021470",
+  "name": "Tuill Tinvaal",
+  "source": "https://www.youtube.com/watch?v=Eqg8MZ2LAMs",
+  "platform": "youtube",
+  "resource_id": "021470",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 91.77,
+  "deep_link": "https://www.youtube.com/watch?v=Eqg8MZ2LAMs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

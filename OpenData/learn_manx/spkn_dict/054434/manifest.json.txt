@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054434",
+  "name": "naim uncle",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/naim%20-%20uncle.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054434",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/naim%20-%20uncle.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

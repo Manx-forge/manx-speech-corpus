@@ -1,0 +1,14 @@
+{
+  "ident": "speech-081882",
+  "name": "Lessoon Arrane Gaelgagh? Arrane Oie Vie",
+  "source": "https://www.youtube.com/watch?v=-RZUu2zThEs",
+  "platform": "youtube",
+  "resource_id": "081882",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 333.88,
+  "deep_link": "https://www.youtube.com/watch?v=-RZUu2zThEs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

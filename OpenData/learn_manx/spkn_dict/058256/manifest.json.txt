@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058256",
+  "name": "cappan cup",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/cappan%20-%20cup.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058256",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.1,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Kitchen/cappan%20-%20cup.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

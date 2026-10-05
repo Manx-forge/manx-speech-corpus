@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059470",
+  "name": "farkiaght waiting",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/farkiaght%20-%20waiting.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059470",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.36,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20verbs/farkiaght%20-%20waiting.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

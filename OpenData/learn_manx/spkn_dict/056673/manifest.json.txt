@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056673",
+  "name": "peinteyr painter",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/peinteyr%20-%20painter.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056673",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.97,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/peinteyr%20-%20painter.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

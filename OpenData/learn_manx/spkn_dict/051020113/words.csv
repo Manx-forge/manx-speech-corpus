@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,cha,0.00,0.27,aligned
+0,1,nhare,0.27,0.60,aligned
+0,2,lesh,0.60,0.93,aligned
+0,3,colby,0.93,1.50,aligned

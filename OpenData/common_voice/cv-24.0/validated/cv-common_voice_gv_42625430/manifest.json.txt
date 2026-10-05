@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42625430",
+  "name": "Ny bee-jee creeney ayns ny smooinaghtyn eu hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42625430",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.608,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

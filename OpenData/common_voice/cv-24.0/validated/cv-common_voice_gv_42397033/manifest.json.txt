@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42397033",
+  "name": "Cummee my laue eshyn dy-shickyr: as nee my roih eh y niartaghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42397033",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.316,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

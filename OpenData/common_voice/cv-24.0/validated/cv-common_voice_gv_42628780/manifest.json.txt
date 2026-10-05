@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42628780",
+  "name": "Gyn goanlys ny myskit y reayll ayns my chree.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42628780",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.968,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

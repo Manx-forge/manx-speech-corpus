@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04309",
+  "name": "Jinnagh oo cummal ayns Rhumsaa dy beagh oo berchagh?",
+  "source": "https://www.youtube.com/watch?v=9P9IdiyZ4K8",
+  "platform": "youtube",
+  "resource_id": "04309",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.5,
+  "deep_link": "https://www.youtube.com/watch?v=9P9IdiyZ4K8&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,Cha,1.02,1.23,aligned
+0,1,vel,1.23,1.47,aligned
+0,2,shin,1.47,1.86,aligned
+0,3,dy,1.95,2.04,aligned
+0,4,reih,2.04,2.40,aligned
+0,5,crosh,2.40,2.85,aligned
+0,6,dooin,2.88,3.12,aligned
+0,7,hene.,3.12,3.51,aligned

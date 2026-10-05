@@ -1,0 +1,7 @@
+line,idx,word,start,end,status
+0,0,ta,0.21,0.33,aligned
+0,1,john,0.33,0.57,aligned
+0,2,mcguinness,0.57,0.99,aligned
+0,3,ratchal,0.99,1.35,aligned
+0,4,feer,1.35,1.59,aligned
+0,5,tappee,1.59,2.04,aligned

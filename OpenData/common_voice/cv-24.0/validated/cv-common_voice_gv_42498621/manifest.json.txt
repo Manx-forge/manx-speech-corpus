@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42498621",
+  "name": "As cha row ansoor erbee oc dy choyrt gys ny goan shoh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42498621",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.616,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

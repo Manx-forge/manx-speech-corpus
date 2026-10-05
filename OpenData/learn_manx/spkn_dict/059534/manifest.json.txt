@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059534",
+  "name": "paagh thirsty",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/paagh%20-%20thirsty%20.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059534",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.73,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20verbs/paagh%20-%20thirsty%20.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

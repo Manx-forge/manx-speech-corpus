@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42615935",
+  "name": "Haggil eh ry-cheilley ooilley'n stoo echey as hie eh er y çhooyl.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42615935",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

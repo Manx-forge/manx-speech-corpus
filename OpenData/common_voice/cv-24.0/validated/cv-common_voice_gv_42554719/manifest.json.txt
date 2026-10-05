@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42554719",
+  "name": "Cha jeanagh eh coayl fockle jeh ny ta Jee dy ghra.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42554719",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.148,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

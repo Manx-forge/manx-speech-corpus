@@ -1,0 +1,26 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon nuy as daeed,0.73,4.30,asr,100
+,abbyr rish juan abbyr rish yn dooinney,5.86,9.49,asr,100
+,the ayr the voir,10.90,13.30,asr,0
+,yn fer-shapp yn fer-bainney,14.59,20.08,asr,96
+,yn fer post abbyr rish,21.07,25.03,asr,39
+,abbyr ree v'eh gra rish,26.23,29.62,asr,100
+,dooyrt eh rish nagh dooyrt eh rish,31.27,34.81,asr,100
+,dooyrt eh rish cha dooyrt eh rish,36.55,39.28,asr,100
+,abbyr rish ta eh y yannoo,42.25,44.32,asr,100
+,abbyr rish dty vummig eh y yannoo abbyr rish yn fer-shapp eh y yannoo,46.03,52.21,asr,100
+,abbyr rish yn inneen-shapp eh y yannoo,54.07,56.56,asr,81
+,abbyr rish yn fer-bainney eh y yannoo,58.15,60.55,asr,58
+,abbyr rish yn fer-poost eh y yannoo,62.08,64.60,asr,94
+,dooyrt mee rish dty ayr dy heet stiagh,67.72,69.88,asr,85
+,dooyrt oo rish mummig dy yannoo eh nish cha dooyrt peiagh erbee rhym,71.74,77.41,asr,97
+,abbyr rish ny paitchyn dy hannaghtyn mooie,80.50,83.41,asr,100
+,dooyrt jishag rhym dy gheddyn eh abbyr rish moirrey dy yannoo e lessoonyn,85.78,91.48,asr,81
+,er jeet c'red ren ee,95.26,98.77,asr,0
+,roie magh ad,100.72,103.60,asr,67
+,s'mie shen lesson tayrn,105.04,109.18,asr,91
+,dooyrt oo rish moirrey dy yannoo e lessoonyn,111.01,113.23,asr,100
+,dooyrt agh cha nel ee er jeet stiagh foast,115.00,117.76,asr,92
+,as c'red ren ee hie magh ass yn gharey,119.17,122.83,asr,91
+,roie magh reesht as abbyr ree ad y yannoo,124.81,127.78,asr,89
+,foddee ayns shen nish t'ee cheet stiagh,129.70,132.43,asr,78

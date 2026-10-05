@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,quoid,0.12,0.45,aligned
+0,1,moddey,0.45,0.90,aligned
+0,2,t'ayd,0.90,1.29,aligned

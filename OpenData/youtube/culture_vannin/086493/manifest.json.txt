@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086493",
+  "name": "Yn Chrosh Cheirn",
+  "source": "https://www.youtube.com/watch?v=0CO39IKx1OI",
+  "platform": "youtube",
+  "resource_id": "086493",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 208.89,
+  "deep_link": "https://www.youtube.com/watch?v=0CO39IKx1OI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

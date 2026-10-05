@@ -1,0 +1,12 @@
+line,idx,word,start,end,status
+0,0,As,1.11,1.32,aligned
+0,1,dooyrt,1.32,1.59,aligned
+0,2,eh,1.59,1.74,aligned
+0,3,"roo,",1.74,2.01,aligned
+0,4,Kys,2.46,2.73,aligned
+0,5,te,2.73,3.09,aligned
+0,6,nagh,3.09,3.24,aligned
+0,7,vel,3.24,3.45,aligned
+0,8,shiu,3.45,3.72,aligned
+0,9,goaill,3.72,4.02,aligned
+0,10,tushtey?,4.02,4.65,aligned

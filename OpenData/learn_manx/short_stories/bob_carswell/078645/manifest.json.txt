@@ -1,0 +1,14 @@
+{
+  "ident": "speech-078645",
+  "name": "veg_agh_ashlish_tan_vea_shoh_john_pilling_translated_by_bob_carswell",
+  "source": "https://www.learnmanx.com/media//Stories/Veg_agh_Ashlish_ta%27n_Vea_Shoh_John_Pilling.mp3",
+  "platform": "learn_manx",
+  "resource_id": "078645",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 530.38,
+  "deep_link": "https://www.learnmanx.com/media//Stories/Veg_agh_Ashlish_ta%27n_Vea_Shoh_John_Pilling.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

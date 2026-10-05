@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083037",
+  "name": "Cooishyn Gailckagh 1 - How to search the Corpus of Manx Gaelic Texts",
+  "source": "https://www.youtube.com/watch?v=vJFNtzkgS5M",
+  "platform": "youtube",
+  "resource_id": "083037",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 461.84,
+  "deep_link": "https://www.youtube.com/watch?v=vJFNtzkgS5M&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

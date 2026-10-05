@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447455",
+  "name": "Ta çhengey ny host ny share share na olk y ghra.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447455",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.616,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

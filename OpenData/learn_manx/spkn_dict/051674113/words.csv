@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,my,0.09,0.27,aligned
+0,1,oddys,0.30,0.69,aligned
+0,2,oo,0.69,0.81,aligned
+0,3,fakin,0.81,1.44,aligned

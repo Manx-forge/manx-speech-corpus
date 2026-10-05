@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051462113",
+  "name": "Nod Orry snaue dy mie?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051462113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.03,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-087063",
+  "name": "LG K3 L11 (Lhaih 6)",
+  "source": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20Keim%203%20sound%20files/LG%20K3%20L11%20%28Lhaih%206%29.m4a",
+  "platform": "learn_manx",
+  "resource_id": "087063",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 267.49,
+  "deep_link": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20Keim%203%20sound%20files/LG%20K3%20L11%20%28Lhaih%206%29.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

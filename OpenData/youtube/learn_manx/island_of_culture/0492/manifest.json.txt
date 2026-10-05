@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0492",
+  "name": "S'mie lhiam yn traie ayns Purt ny h-Inshey",
+  "source": "https://www.youtube.com/watch?v=2GSuPHqAm5Y",
+  "platform": "youtube",
+  "resource_id": "0492",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 20.9,
+  "deep_link": "https://www.youtube.com/watch?v=2GSuPHqAm5Y&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

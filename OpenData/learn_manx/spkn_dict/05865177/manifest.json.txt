@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05865177",
+  "name": "gaaue blacksmith",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Blacksmith.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05865177",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 6.06,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Blacksmith.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

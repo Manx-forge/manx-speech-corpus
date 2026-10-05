@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386737",
+  "name": "Ta caarjyn foalsey myr yn hibbyn ta cur mow yn boaley t'eh lhiantyn huggey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386737",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.876,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

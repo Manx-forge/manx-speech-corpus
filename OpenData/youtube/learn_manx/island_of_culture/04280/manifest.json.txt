@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04280",
+  "name": "As ny faghidyn dy ve ny s'lhiurey as ny s'lhiurey",
+  "source": "https://www.youtube.com/watch?v=WP38sSdErcc",
+  "platform": "youtube",
+  "resource_id": "04280",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 31.02,
+  "deep_link": "https://www.youtube.com/watch?v=WP38sSdErcc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

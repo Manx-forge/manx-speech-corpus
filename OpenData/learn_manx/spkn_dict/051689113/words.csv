@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,mannagh,0.15,0.48,aligned
+0,1,beign,0.48,0.90,aligned
+0,2,ching,0.90,1.44,aligned

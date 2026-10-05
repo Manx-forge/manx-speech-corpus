@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650859",
+  "name": "Follee ad ayns y joan dy cheilley, as coodee nyn eddin ayns dorraghys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650859",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.768,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,cre,0.00,0.27,aligned
+0,1,share,0.27,0.66,aligned
+0,2,lhiat,0.66,0.99,aligned
+0,3,jannoo,0.99,1.44,aligned

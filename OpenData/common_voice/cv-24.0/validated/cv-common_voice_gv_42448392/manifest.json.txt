@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448392",
+  "name": "T'eh coodaghey ynnyd e eanish, as skeayley bodjal harrish.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448392",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.868,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463860",
+  "name": "T'ee myrgeddin soie cooyl-chlea myr son spooilley, as bishaghey drogh-yantee mastey deiney.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463860",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.344,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

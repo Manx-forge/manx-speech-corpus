@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04291",
+  "name": "Hooyl ad stiagh dys mean y vrock va jeant oc",
+  "source": "https://www.youtube.com/watch?v=Zfpz1PxZggM",
+  "platform": "youtube",
+  "resource_id": "04291",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 47.81,
+  "deep_link": "https://www.youtube.com/watch?v=Zfpz1PxZggM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

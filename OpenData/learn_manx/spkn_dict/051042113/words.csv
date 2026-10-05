@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,quoi,0.09,0.45,aligned
+0,1,share,0.45,0.78,aligned
+0,2,lhiat,0.78,1.20,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867292",
+  "name": "yn injey india",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_India.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867292",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.25,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_India.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

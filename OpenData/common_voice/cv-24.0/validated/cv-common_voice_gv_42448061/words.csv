@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,"""Agh,",0.60,0.96,aligned
+0,1,cha,1.71,1.95,aligned
+0,2,vel,1.95,2.19,aligned
+0,3,mee,2.19,2.43,aligned
+0,4,lowit!,2.43,3.00,aligned
+0,5,dooyrt,3.36,3.63,aligned
+0,6,"ish,",3.63,4.14,aligned
+0,7,"""""Son",4.62,4.89,aligned
+0,8,t'ad,4.89,5.16,aligned
+0,9,pryssoonee,5.16,6.06,aligned
+0,10,yn,6.30,6.48,aligned
+0,11,"Count.""",6.63,7.26,aligned

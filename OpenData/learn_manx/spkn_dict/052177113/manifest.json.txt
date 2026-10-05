@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052177113",
+  "name": "Ta, ta un shuyr as daa vraar",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052177113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.82,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

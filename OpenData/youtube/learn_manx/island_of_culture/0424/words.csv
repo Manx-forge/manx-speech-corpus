@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,ta,5.97,6.09,aligned
+0,1,mee,6.09,6.27,aligned
+0,2,geearree,6.27,6.63,aligned
+0,3,caffee,6.63,6.99,aligned
+0,4,doo,6.99,7.23,aligned
+0,5,nish,7.23,7.77,aligned
+0,6,ta,13.38,13.44,aligned
+0,7,mee,13.44,13.59,aligned
+0,8,geearree,13.59,13.89,aligned
+0,9,caffee,13.89,14.22,aligned
+0,10,doo,14.22,14.40,aligned
+0,11,nish,14.40,14.85,aligned

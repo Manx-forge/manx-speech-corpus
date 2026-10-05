@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0420",
+  "name": "Ta mee cummal ayns Purt ny h-Inshey agh ta mee shappal ayns Doolish",
+  "source": "https://www.youtube.com/watch?v=uxX8tHD2RfM",
+  "platform": "youtube",
+  "resource_id": "0420",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.5,
+  "deep_link": "https://www.youtube.com/watch?v=uxX8tHD2RfM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

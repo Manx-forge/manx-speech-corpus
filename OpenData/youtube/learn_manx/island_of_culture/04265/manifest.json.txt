@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04265",
+  "name": "Keayrt dy row, va buggane cummal dy kiune er y cheu heear jeh slieau",
+  "source": "https://www.youtube.com/watch?v=eq7a4GLgzYQ",
+  "platform": "youtube",
+  "resource_id": "04265",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 52.62,
+  "deep_link": "https://www.youtube.com/watch?v=eq7a4GLgzYQ&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

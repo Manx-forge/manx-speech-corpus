@@ -1,0 +1,29 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon queig as daeed,0.61,4.09,asr,100
+,blein eash,5.62,8.17,asr,100
+,d'eash jeih bleeaney as daeed,9.43,13.27,asr,68
+,tree feed blein jeih bleeaney as tree feed,14.44,18.58,asr,98
+,kiare feed blein jeih bleeaney as kiare feed,19.78,23.92,asr,100
+,keead blein un vlein jeig as daeed,25.27,29.56,asr,100
+,daa vlein jeig as daeed tree bleeaney jeig as daeed,31.39,35.74,asr,100
+,kiare bleeaney jeig as daeed t'ee queig bleeaney jeig as daeed,37.18,42.64,asr,100
+,t'ee queig bleeaney as tree feed d'eash,44.62,46.93,asr,95
+,t'ee queig bleeaney jeig as three feed eash,47.83,50.62,asr,87
+,t'ee queig bleeaney as kiare feed d'eash,52.09,54.49,asr,95
+,t'ee queig bleeaney jeig as kiare feed d'eash,55.66,58.33,asr,96
+,t'ee queig bleeaney as keead eash,59.35,61.36,asr,100
+,v'eh tree bleeaney as feed nurree cha nel ee agh shiaght bleeaney as feed nish,62.32,67.90,asr,99
+,hug eh hoght punt as daeed erehon,69.34,71.68,asr,94
+,son nuy punt jeig as feed,73.87,75.88,asr,84
+,by vie lhiat cur kiare punt as tree feed erehon,77.53,80.29,asr,94
+,gollreeish meetee,83.53,86.35,asr,100
+,nuy cha shen as,87.43,89.95,asr,0
+,smooinee mish s'foddey neayr's,91.51,94.84,asr,97
+,jeeaghyn gollrish shen,96.22,98.80,asr,100
+,honnick mee fenella ec yn daunse riyr,103.63,106.06,asr,92
+,cha nel eh shen red gorree ish ec daue,106.96,110.50,asr,58
+,cha nel ee ass shen as shen vel,112.66,115.27,asr,55
+,ta dy jarroo t'ee queig bleeaney as daeed my keead blein,116.86,120.70,asr,100
+,queig bleeaney as daeed smooinee mee nagh row ee agh jeih as feed,122.44,126.94,asr,100
+,s'foddey neayr's honnick ee jeih as feed,128.32,130.81,asr,100
+,nee cha row ee jeeaghyn gollrish shen riyr,131.92,135.43,asr,98

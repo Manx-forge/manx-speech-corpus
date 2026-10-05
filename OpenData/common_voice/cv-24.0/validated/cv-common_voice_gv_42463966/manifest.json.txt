@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463966",
+  "name": "Eisht, gow shiu toshiaght dy yeeaghyn magh son ny rolageyn ta ayns yn ghoo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463966",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.892,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

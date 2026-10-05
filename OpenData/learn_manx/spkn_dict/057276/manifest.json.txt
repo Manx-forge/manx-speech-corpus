@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057276",
+  "name": "mwannal neck",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/mwannal%20-%20neck.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057276",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/mwannal%20-%20neck.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

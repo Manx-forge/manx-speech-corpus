@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42694785",
+  "name": "Yn ynsagh shoh focklit magh, dy vel credjue fegooish obbraghyn seyrey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42694785",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.804,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

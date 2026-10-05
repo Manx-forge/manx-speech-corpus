@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,eeast,0.18,0.42,aligned
+0,1,as,0.42,0.54,aligned
+0,2,spollagyn,0.54,1.11,aligned

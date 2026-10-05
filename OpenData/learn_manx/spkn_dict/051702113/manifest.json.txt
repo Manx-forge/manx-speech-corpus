@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051702113",
+  "name": "Veagh Angelia maynrey dy beagh Brad ayns shoh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051702113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.03,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

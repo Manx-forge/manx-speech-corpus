@@ -1,0 +1,21 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon hoght-jeig lesson eh hene,0.40,3.49,asr,100
+,ayns roaghyn,4.57,7.06,asr,56
+,row ad ayns barroose,8.44,11.41,asr,100
+,ayns lhong ayns traen,12.58,15.19,asr,67
+,ayns etlan ayns baatey,16.51,19.54,asr,100
+,ayns gleashtan rieau,20.92,24.01,asr,100
+,cha row eh rieau ayns barroose,25.99,29.41,asr,81
+,row eh rieau ayns traen row eh rieau ayns baatyn,30.94,35.41,asr,82
+,row eh rieau ayns gleashtan row eh rieau ayns lhong,36.70,40.78,asr,77
+,rieau ayns etlan ayns barroose er yn raad,42.37,48.19,asr,67
+,va'n saggyrt ayns gleashtan cha row ny neenyn shen rieau ayns traen,49.87,56.74,asr,100
+,row ny paitchyn ec yn chabbal v'ad ec yn scoill s'cosoylagh,58.54,63.88,asr,85
+,row uss row,65.47,67.75,asr,100
+,daunsin riyr son shickyrys er y fa,68.44,73.18,asr,100
+,cubbyl neesht,74.05,76.51,asr,100
+,cubbyl dy leih shoh yn ellan,77.77,81.13,asr,69
+,gura mie ayd shoh yn arran vummig,83.38,89.50,asr,74
+,gura mie ayd row kirree sister va son shickyrys,90.43,95.05,asr,79
+,cha row peiagh erbee elley va mee gobbraghey sy chapp neesht as va cubbyl dy leih elley ayn,95.38,102.52,asr,89
+,ainlish ta s'cosoylagh er y fa dy row eh gobbraghey,104.59,108.64,asr,74

@@ -1,0 +1,29 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,chyndaa ny raaghyn heese nane,0.28,4.00,asr,79
+,jeant glenney glen dy,5.44,11.38,asr,83
+,jees jean shiu shassoo seose,13.48,16.66,asr,100
+,shassoo seose tree,21.76,24.85,asr,50
+,ny jeant drappal yn billey shen yn billey shen,25.93,34.24,asr,91
+,ny jean woish yn villey shenn ven,38.65,41.02,asr,89
+,bee messyn woish yn villey shen ven queig,46.78,51.37,asr,81
+,jean tannaghtyn ayns y thie thie,52.84,58.87,asr,70
+,jean shiu brebbal yn bluckan,62.56,64.00,asr,88
+,braag shoe yn bluckan shiaght,68.47,71.89,asr,78
+,ny jean baareyder ny baare,73.33,79.57,asr,79
+,ny jean shiu keckey ayns my ny keck shiu ayns my gharey,83.41,90.82,asr,86
+,nuy ny jean bentyn rish,92.92,95.65,asr,91
+,ny benn rish dy vod jeih,100.24,103.00,asr,100
+,jean shiu paagey my hie my,104.59,111.82,asr,80
+,nane-jeig jean fuirraght as,113.71,116.56,asr,93
+,fuirree ayns shoh daa-yeig,121.84,124.84,asr,38
+,ny jean tallagh ny towie,125.74,131.80,asr,15
+,tree-jeig jean shiu soie sheese,133.87,137.32,asr,100
+,soie shiu sheese kiare jeig,141.52,144.82,asr,96
+,ny jean dreamal ayns y lhiabbee shoh,147.67,149.68,asr,79
+,ny dreamyder lhiattee shoh queig-jeig,153.88,157.93,asr,87
+,ny jean shiu gymmyrkey yn poagey my chemmyrk shiu yn poagey,159.34,165.07,asr,100
+,yn billioon myr shen ny,168.52,173.95,asr,33
+,shiaght-jeig jean lhaih,176.14,179.23,asr,100
+,lhie er y lhiabbee hoght-jeig,184.00,187.66,asr,0
+,jean shiu trog yn slattys shen,189.07,191.05,asr,67
+,hoght shiu yn slattys shen ny jean brishey my hellvane,195.46,201.28,asr,93

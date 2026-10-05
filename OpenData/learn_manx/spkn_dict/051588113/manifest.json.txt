@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051588113",
+  "name": "Cuin veagh oo aarloo?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051588113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.36,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

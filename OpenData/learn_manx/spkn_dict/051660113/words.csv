@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,my,0.00,0.30,aligned
+0,1,teh,0.30,0.54,aligned
+0,2,grianagh,0.54,1.32,aligned

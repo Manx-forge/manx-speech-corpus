@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057363",
+  "name": "skian wing",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/skian%20-%20wing.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057363",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Birds/skian%20-%20wing.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

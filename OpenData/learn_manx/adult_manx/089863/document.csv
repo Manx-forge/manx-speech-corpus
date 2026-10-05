@@ -1,0 +1,203 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou visions eshyn,0.97,3.58,asr,55
+,lessoon nuy lesson ain,4.78,7.06,asr,96
+,how just say ramsey in,8.32,10.51,asr,71
+,as beg ta rhumsaa mooar,10.84,18.46,asr,71
+,ta rhumsaa mooar choud's eh,19.36,22.72,asr,96
+,ramsey as beg but its not as,23.44,26.26,asr,79
+,mooar agh cha nel eh cho mooar as doolish,39.61,43.21,asr,88
+,cha nel eh mooar ayns doolish choud's,45.55,49.30,asr,62
+,ramsey as beg as big as douglas bee uss dooghys as very big,50.02,55.06,asr,64
+,ta rhumsaa mooar agh cha nel eh cho mooar as doolish son ta doolish feer vooar,67.72,74.05,asr,99
+,ta rhumsaa mooar cha mooar as doolish son ta doolish feer vooar,75.25,79.06,asr,79
+,as vel purt ny hinshey mooar,82.48,92.41,asr,67
+,vel purt ny hinshey mooar cha nel,93.19,100.57,asr,86
+,cha nel eh now peayl as yn big,101.38,105.76,asr,79
+,cha nel cha nel purt ny hinshey mooar,113.17,116.23,asr,100
+,cha nel cha nel purt ny hinshey mooar choud's,116.89,120.70,asr,78
+,the keeill as big as castletown vel,121.66,131.92,asr,19
+,vel purt ny hinshey cha mooar as balley chashtal,131.74,135.25,asr,91
+,vel purt ny hinshey mooar as balley chashtal,136.36,138.34,asr,79
+,cha nel fys aym cha nel fys aym,146.20,148.30,asr,100
+,choud's eh cha,149.20,165.22,asr,60
+,cha nel fys aym agh er-lhiam nagh vel eh cho mooar as balley chashtal,165.01,170.32,asr,100
+,cha nel fys aym agh erlhiam nagh mooar as balley chashtal,171.73,175.21,asr,86
+,yn,179.83,179.95,asr,0
+,yn daa wheeyl mooar vel yn daawheeyl mooar,190.54,194.44,asr,64
+,yn daa,197.41,207.34,asr,0
+,fer wheeyl ayd mooar vel yn daawheeyl ayd mooar,207.19,210.25,asr,50
+,choud's ta,211.33,216.10,asr,100
+,ta how just say yiass its very big,217.03,221.86,asr,100
+,ta te feer vooar,228.67,230.74,asr,100
+,ta t'eh feer vooar chouds eh,231.64,234.58,asr,96
+,very big it's as big as e ta,236.08,250.81,asr,0
+,te feer vooar cha mooar as cabbyl,251.44,254.56,asr,87
+,ta t'eh feer vooar t'eh er mooar as,255.91,258.10,asr,100
+,yn kayt mooar,262.87,272.56,asr,54
+,vel yn kayt echey mooar cha nel,273.13,279.94,asr,61
+,cha nel it's not as,280.90,285.82,asr,56
+,cha nel cha nel eh cha mooar as yn cabbyl echey,296.32,300.52,asr,100
+,cha nel cha nel eh mooar as yn cabbyl echey,301.57,304.09,asr,100
+,not as big as as cha,308.32,321.94,asr,0
+,cha nel cha nel eh cha mooar as yn cabbyl echey ansherbee,321.76,326.14,asr,100
+,cha nel cha nel eh mooar as yn cabbyl echey ansherbee,327.31,330.22,asr,100
+,vel eh aalin ta,343.60,350.32,asr,54
+,ta ta,351.01,363.43,asr,21
+,feer aalin ta feer aalin,364.30,367.30,asr,83
+,ish shee as bee oo ta fo as cha,370.12,383.68,asr,28
+,the aalin as yn cabbyl aalin as yn cabbyl,383.59,388.15,asr,84
+,cha,403.21,403.57,asr,0
+,cha aalin as yn cabbyl eck as yn cabbyl eck,403.24,407.83,asr,63
+,cha nel cha nel,413.98,416.62,asr,100
+,choud's eh now sheese but sheese not as bee as y,417.97,422.68,asr,59
+,cha nel thie aalin,438.55,440.65,asr,100
+,agh cha nel eh cha aalin as yn cabbyl eck,441.40,443.95,asr,98
+,cha nel thie aalin agh cha nel eh aalin as yn cabbyl eck,445.06,448.39,asr,88
+,fo but she nod as bee as very good-phoyll indeed,452.92,458.44,asr,34
+,cha nel thie aalin,471.61,473.71,asr,100
+,agh cha nel eh cha aalin as yn cabbyl eck,474.31,476.80,asr,98
+,son ta'n cabbal ec feer aalin dy jarroo,477.37,479.95,asr,97
+,cha nel t'eh aalin er yn ellan as yn cabbyl eck son ta'n cabbal ec feer aalin dy jarroo,481.27,486.85,asr,83
+,ooilley thie ayd vel oo skee,490.06,496.60,asr,69
+,vel oo skee choud's,497.59,500.32,asr,27
+,ta ta ta,504.04,517.09,asr,100
+,ta mee red beg skee jiu ta mee red beg skee jiu,517.09,521.20,asr,87
+,choud's son yn little bit thieyn today cha nod as thieyn as well yesterday,522.31,527.23,asr,0
+,ta mee red beg skee jiu,539.77,542.05,asr,100
+,hoght cha nel mee skee as va mee jea,542.74,545.77,asr,72
+,ta mee red beg skee jiu agh cha nel mee skee as ren mee,546.64,549.76,asr,84
+,vodjey as is his horse bio,552.88,555.97,asr,60
+,vel yn cabbyl echey ching vel oo cabbyl echey ching,564.19,568.15,asr,96
+,choud's ta,569.65,575.83,asr,0
+,ta ta,576.97,592.60,asr,45
+,agh cha nel eh cho ching as ta,593.29,597.01,asr,71
+,purt ching as v'eh yiass,597.88,601.84,asr,34
+,ta,615.22,615.82,asr,0
+,agh cha nel eh ching as ve moghrey jesarn,616.42,619.69,asr,89
+,ta cha nel eh ching as v'eh moghrey jesarn,620.80,623.32,asr,74
+,ass watchal,625.63,627.85,asr,0
+,row eh geayagh rollageagh,635.41,638.38,asr,100
+,howjey ass watchalyn ta'n friday afternoon,640.39,644.17,asr,47
+,row eh geayagh fastyr jeheiney,653.11,655.33,asr,100
+,rollageagh fastyr jeheiney chouds,656.29,659.44,asr,80
+,sy yiass da,659.77,664.27,asr,0
+,va choud's eh yiass,665.20,668.35,asr,100
+,watchal ayns daa,669.43,677.68,asr,0
+,ve geayagh agglagh va v'eh geay,678.52,682.24,asr,79
+,yes da,685.36,702.16,asr,0
+,v'eh geayagh agglagh er lhiam dy ren eh cadley ayns staabyl,702.79,707.11,asr,93
+,the daa v'eh geayagh agglagh erlhiam dy ren eh yn stabyl,708.28,712.06,asr,73
+,howl is port st mary sunny,713.98,717.16,asr,85
+,vel purt le moirrey grianagh purt le moirrey grianagh,725.14,729.37,asr,88
+,ta ta,736.15,738.34,asr,100
+,choud's eh yes but it's not as sunny as ramsey,739.24,743.26,asr,93
+,ta agh cha nel eh grianagh ayns rhumsaa,751.42,755.59,asr,92
+,ta agh cha nel eh grianagh ayns rhumsaa,756.85,759.70,asr,100
+,ta,779.20,779.77,asr,0
+,agh cha nel eh grianagh ayns rhumsaa,780.22,782.92,asr,100
+,ta rhumsaa grianagh agglagh,783.46,785.59,asr,100
+,ta cha nel eh grianagh ayns rhumsaa ta rhumsaa grianagh agglagh,786.91,790.93,asr,86
+,bee eh feayr,801.73,802.78,asr,0
+,vel eh feayr feayr,803.59,815.23,asr,78
+,fastyr jiu fastyr jiu,815.23,818.11,asr,44
+,red beg feayr t'eh red beg feayr,828.49,830.95,asr,97
+,its a little bit but it's not as coayl as it was,833.65,836.92,asr,33
+,t'eh red beg feayr agh cha nel eh cho feayr as v'eh,846.31,850.54,asr,96
+,ta red beg feayr cho feayr as v'eh,851.80,854.59,asr,64
+,was this morning t'eh,860.23,874.06,asr,0
+,t'eh red beg feayr cha nel eh cho feayr as moghrey jiu,873.88,878.11,asr,77
+,t'eh red beg feayr agh cha nel eh feayr as v'eh moghrey jiu,879.22,882.37,asr,84
+,cha row eh fliugh,893.83,894.97,asr,6
+,ro fliugh ayns aghterbee,895.75,900.31,asr,50
+,row eh fliugh jesarn ro fliugh jesarn,907.93,911.65,asr,84
+,dy ve feer fliugh,921.37,923.77,asr,36
+,v'eh feer fliugh say,925.00,927.70,asr,67
+,it was very but it wasnt as,929.20,932.08,asr,84
+,day baare,933.10,945.13,asr,0
+,ve feer fliugh agh cha row eh cho fliugh as te jiu,945.94,950.68,asr,96
+,v'eh feer fliugh agh cha row eh fliugh as jiu,952.18,954.76,asr,100
+,will you bee yn bee oo ayns doolish,958.36,967.51,asr,59
+,bee ayns doolish bee in douglas tomorrow,968.44,973.42,asr,43
+,bee oo ayns doolish mairagh doolish mairagh,984.13,987.82,asr,88
+,bee bee,995.95,998.38,asr,60
+,but it will probably bee,1002.10,1018.24,asr,0
+,agh t'eh licklee dy bee eh fliugh,1019.08,1021.96,asr,79
+,bee agh t'eh licklee dy bee eh fliugh,1023.16,1025.53,asr,100
+,choud's eh yiass probably bee,1026.82,1030.15,asr,57
+,hoght t'eh licklee dy bee eh fliugh agglagh,1039.84,1042.78,asr,93
+,bee agh t'eh licklee dy bee eh fliugh agglagh,1043.74,1046.17,asr,96
+,tomorrow cha,1050.88,1061.14,asr,0
+,cha bee eh cho fliugh mairagh,1060.93,1063.24,asr,80
+,cha bee eh fliugh mairagh bee as,1064.38,1069.15,asr,100
+,cha bee eh cho fliugh mairagh as jiu,1084.06,1087.42,asr,92
+,cha bee eh fliugh mairagh as t'eh jiu,1088.71,1090.72,asr,86
+,doo goaill arrane nod oo goaill arrane,1102.39,1105.12,asr,82
+,how just say michael foddym goaill,1106.47,1116.49,asr,0
+,goaill arrane foddym goaill arrane,1116.34,1118.56,asr,74
+,but now as of wales foddym,1123.84,1136.08,asr,0
+,goaill arrane agh cha nel mee cha mie nish as ren mee,1136.08,1140.43,asr,91
+,foddym goaill arrane agh cha nel mee er mie nish as vannee,1141.54,1144.12,asr,97
+,diu,1160.44,1160.62,asr,0
+,nod oo cloie gitar nod oo cloie gitar,1160.29,1164.34,asr,91
+,cha cloie gys foddym,1167.97,1178.35,asr,0
+,cloie gitar foddym cloie gitar,1178.41,1181.44,asr,73
+,veign cloie gitar as good as davy nobles,1183.96,1187.89,asr,71
+,foddym cloie yn guitar agh cha nel mee cha mie as davy,1197.64,1201.93,asr,79
+,foddym cloie gitar agh cha nel mee er mie as,1203.61,1205.56,asr,100
+,new paint nod oo peintal,1210.33,1219.84,asr,0
+,nod oo peintal cha nod,1220.50,1229.05,asr,43
+,cha nod eh,1229.47,1232.29,asr,94
+,cha nod,1241.71,1242.40,asr,0
+,agh ta mee laccal gynsagh cha nod agh ta mee laccal gynsagh,1243.12,1247.77,asr,83
+,now but i want to learn bee cosoylagh painting,1250.56,1253.77,asr,63
+,cha nod agh ta mee laccal gynsagh son s'laik lhiam paintal,1265.11,1270.21,asr,88
+,cha nod agh ta mee gynsagh son s'laik lhiam paintal,1271.50,1274.59,asr,100
+,will you goll ansherbee jannoo,1278.07,1288.39,asr,0
+,goll dys y traie goll dys y traie,1288.48,1292.14,asr,82
+,moghrey jannoo goll dys y traie mairagh,1296.10,1306.51,asr,72
+,jannoo goll dys y traie mairagh gow-jee,1307.38,1310.68,asr,69
+,nuy nuy,1316.50,1318.51,asr,0
+,chouds say yes,1319.83,1322.47,asr,68
+,probably will be as sunny tomorrow,1323.58,1325.59,asr,68
+,agh t'eh licklee nagh bee eh grianagh mairagh,1337.29,1341.52,asr,93
+,bee agh t'eh licklee nagh bee eh grianagh mairagh,1343.02,1345.69,asr,80
+,but it probably be as sunny tomorrow,1349.59,1352.11,asr,55
+,oh,1353.25,1353.31,asr,0
+,agh t'eh licklee nagh bee eh grianagh mairagh as jiu,1367.05,1371.85,asr,75
+,bee agh t'eh licklee nagh bee eh grianagh mairagh as jiu,1373.02,1376.29,asr,84
+,time cre'n traa,1380.19,1386.67,asr,50
+,cre'n traa as time,1387.57,1392.34,asr,67
+,cre'n traa nee oo geearree mairagh,1402.93,1405.57,asr,100
+,cre'n traa nee oo geearree mairagh gow-jee sea,1406.17,1410.46,asr,60
+,about the quarter past six nee'm,1412.20,1427.95,asr,0
+,girree ec mysh kerroo lurg shey,1428.01,1431.10,asr,87
+,nee'm girree ec mysh kerroo lurg shey,1432.51,1434.73,asr,84
+,choud's eh hoshiaght,1437.07,1438.42,asr,40
+,tomorrow neeym,1443.67,1457.62,asr,0
+,girree ec mysh kerroo lurg shey,1457.71,1460.59,asr,91
+,son erlhiam nagh bee eh cho fliugh mairagh,1461.22,1464.34,asr,98
+,nee'm girree ec mysh kerroo lurg shey son er-lhiam nagh bee eh fliugh mairagh,1465.96,1470.04,asr,79
+,choud's eh get up as about the quarter past six bee as,1472.74,1477.60,asr,38
+,nee'm girree ec mysh kerroo lurg shey,1493.35,1496.53,asr,92
+,son er lhiam nagh bee eh fliugh mairagh as jiu,1497.22,1501.57,asr,98
+,nee'm girree ec mysh kerroo lurg shey son erlhiam nagh bee eh ro fliugh mairagh as t'eh jiu,1502.86,1508.20,asr,88
+,jiass oie oo y thie ayd,1511.71,1514.26,asr,50
+,oo dy vel oo dy haaue,1520.83,1523.26,asr,79
+,now nish,1526.98,1536.91,asr,0
+,nish ta,1537.87,1545.19,asr,43
+,ta how's eh yes i'm ritchie ayd,1546.03,1549.48,asr,72
+,ta mee my haaue,1556.05,1558.51,asr,83
+,ta ta mee my haaue so er,1559.29,1565.41,asr,33
+,as of wales ta,1566.28,1578.88,asr,0
+,ta mee my haaue myr shen,1579.87,1582.48,asr,0
+,cha nel mee skee as ta mee my haaue,1583.08,1587.85,asr,81
+,bleayst skee as va mee gys jonee docter,1588.87,1595.20,asr,44
+,bee ny ben yee jonee ny ben-lhee,1606.57,1609.87,asr,0
+,oh cha nel,1611.52,1617.22,asr,20
+,cha nel eh now,1617.97,1621.06,asr,68
+,oh,1622.62,1622.68,asr,0
+,cha nel thie my t'ou nish,1632.07,1634.98,asr,100
+,cha nel thie ny tou nish choud's eh,1635.85,1639.81,asr,44
+,sheese ritchie and now so she is not as toilleyder s wales,1640.77,1644.61,asr,53
+,cha nel thie ny nish myr shen cha nel eh as skee as veih,1656.13,1662.25,asr,90
+,cha nel ny nish myr shen cha nel eh,1663.90,1666.69,asr,81

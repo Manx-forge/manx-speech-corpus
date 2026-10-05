@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650477",
+  "name": "As Jee nee geeck eh son e ghraih.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650477",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.752,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

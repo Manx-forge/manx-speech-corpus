@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051357113",
+  "name": "Cre share lhiat: Marmalade ny Marmite?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051357113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.57,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

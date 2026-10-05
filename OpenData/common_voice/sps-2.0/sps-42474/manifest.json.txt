@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42474",
+  "name": "Dy beagh ort garraghey dys çheer noa, c'raad ragh oo?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42474",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 22.14,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

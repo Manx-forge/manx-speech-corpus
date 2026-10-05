@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05327113",
+  "name": "Nagh ren Orry goll magh?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05327113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.67,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

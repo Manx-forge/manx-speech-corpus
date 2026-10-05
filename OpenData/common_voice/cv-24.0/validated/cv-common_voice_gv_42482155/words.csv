@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,As,1.11,1.32,aligned
+0,1,hug,1.32,1.56,aligned
+0,2,ad,1.56,1.74,aligned
+0,3,nyn,1.74,1.98,aligned
+0,4,laueyn,1.98,2.46,aligned
+0,5,"er,",2.46,2.79,aligned
+0,6,as,3.30,3.48,aligned
+0,7,ghow,3.48,3.78,aligned
+0,8,ad,3.78,3.93,aligned
+0,9,eh.,3.93,4.11,aligned

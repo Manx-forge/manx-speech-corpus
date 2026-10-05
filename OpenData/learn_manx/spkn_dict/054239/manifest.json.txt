@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054239",
+  "name": "doourchoo beaver",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/doourchoo%20-%20beaver.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054239",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.02,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/doourchoo%20-%20beaver.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

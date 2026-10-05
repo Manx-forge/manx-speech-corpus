@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457758",
+  "name": "As ver-yms daue cloan dy ve princeyn orroo, as nee paitchyn reill harrystoo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457758",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.02,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

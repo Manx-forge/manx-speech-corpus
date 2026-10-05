@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058558",
+  "name": "feddan whistle",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20music/feddan%20-%20whistle.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058558",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.18,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20music/feddan%20-%20whistle.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

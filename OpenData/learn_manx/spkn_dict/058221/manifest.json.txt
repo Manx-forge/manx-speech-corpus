@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058221",
+  "name": "slane lhiu goodbye plural",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/slane%20lhiu%20-%20goodbye%20plural.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058221",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/slane%20lhiu%20-%20goodbye%20plural.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

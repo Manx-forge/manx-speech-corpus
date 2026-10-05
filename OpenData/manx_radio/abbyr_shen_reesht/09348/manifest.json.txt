@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09348",
+  "name": "Abbyr Shen Reesht - Say That Again 10oo Mee Voaldyn - 2026 - May 10th",
+  "createdCircaStart": "2026-05-10",
+  "createdCircaEnd": "2026-05-10",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-10oo-mee-voaldyn-2026-may-10th/",
+  "platform": "manx_radio",
+  "resource_id": "09348",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1743.0,
+  "deep_link": "https://episodes.captivate.fm/episode/1c7dec02-5951-427d-9cfa-68b96b6ae100.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

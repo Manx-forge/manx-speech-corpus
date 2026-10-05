@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42642725",
+  "name": "Kys t'eh ry akin dy vel shin sarit dy yannoo ymmyd jeh'n phadjer shoh?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42642725",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.588,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463979",
+  "name": "Eisht v'ee feer seaghnagh as goaill yindys cre v'ee er yannoo rish.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463979",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.3,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

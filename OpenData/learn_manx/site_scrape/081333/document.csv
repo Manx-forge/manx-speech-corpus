@@ -1,0 +1,26 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon shiaght-jeig as daeed,0.31,3.52,asr,100
+,vie veih'n ven-ynsee,5.11,7.90,asr,90
+,veih juan fo,8.98,11.77,asr,100
+,ny fou t'eh geddyn eh,13.06,15.61,asr,0
+,v'eh geddyn eh jurnah,17.11,19.78,asr,100
+,nagh stiurey cha dooar,21.22,24.25,asr,76
+,hooar veih yn er-lhee,25.69,29.26,asr,78
+,veih'n voandyr veih'n eirinagh,30.55,33.76,asr,100
+,veih'n teyr veih'n ghreasee,35.20,39.22,asr,100
+,veih'n t'ou fo ad veih'n er-lhee,40.15,45.16,asr,76
+,veih'n voandyr ghow eh veih eirinagh,47.59,50.80,asr,50
+,quoid veih'n teyr fouyr veih'n ghreasee,52.27,56.32,asr,66
+,row ad veih'n t'ou lhiare dooyrt oo ad veih'n er-lhee,58.00,63.52,asr,75
+,v'eh geddyn eh veih juan cha dooar peiagh erbee ad veih'n ghreasee,65.35,70.90,asr,100
+,veih'n voandyr haink yn skeeal shen veih'n er-lhee jea,73.78,78.73,asr,100
+,cha dooar mee yn eaddagh veih'n jarrood yarrood mee,81.10,89.38,asr,82
+,nagh vel oo er ngeddyn ny reddyn shen,90.82,94.90,asr,100
+,veih'n tammylt er dy henney,96.67,100.24,asr,76
+,nagh vel oo er ngeddyn ny reddyn shen veih'n chapp foast,105.34,107.95,asr,91
+,cha nel cha dug oo argid dou,109.78,112.36,asr,100
+,cha nel brishey aym nish,115.36,116.53,asr,75
+,immee magh dys jishag as fow eh vie,117.46,120.07,asr,100
+,cre t'ee vel fys ayd,121.60,123.64,asr,47
+,er lhiam dy vel eh mooie sy gharey nagh jagh eh sheese y raad tammyltderrey hene,125.23,131.20,asr,93
+,jagh smooinee mish dy row eh sy gharey,132.64,135.46,asr,87

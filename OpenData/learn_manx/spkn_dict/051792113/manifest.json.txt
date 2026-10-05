@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051792113",
+  "name": "Imman",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051792113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.13,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

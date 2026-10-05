@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058082",
+  "name": "mullagh-shamyr ceiling",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/mullagh-shamyr%20-%20ceiling.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058082",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.46,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/mullagh-shamyr%20-%20ceiling.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,17 @@
+line,idx,word,start,end,status
+0,0,vel,5.88,6.03,aligned
+0,1,shuyr,6.03,6.42,aligned
+0,2,ayd,6.42,6.72,aligned
+0,3,ta,7.02,7.29,aligned
+0,4,ta,7.44,7.56,aligned
+0,5,daa,7.56,7.80,aligned
+0,6,huyr,7.86,8.13,aligned
+0,7,aym,8.13,8.22,aligned
+0,8,vel,14.31,14.43,aligned
+0,9,shuyr,14.43,14.82,aligned
+0,10,ayd,14.82,15.12,aligned
+0,11,ta,15.42,15.69,aligned
+0,12,ta,15.84,15.96,aligned
+0,13,daa,15.96,16.20,aligned
+0,14,huyr,16.26,16.53,aligned
+0,15,aym,16.53,16.62,aligned

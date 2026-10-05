@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42425867",
+  "name": "\"As nee eshyn, ta marroo baagh, shen y yannoo mie; baagh son baagh.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42425867",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.776,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

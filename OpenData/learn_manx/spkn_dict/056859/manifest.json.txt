@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056859",
+  "name": "drillin sparkler",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/drillin%20-%20sparkler.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056859",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.84,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20garden/drillin%20-%20sparkler.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

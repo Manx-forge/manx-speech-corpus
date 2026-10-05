@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867300",
+  "name": "yn eeran iran",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Iran.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867300",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 6.01,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Iran.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

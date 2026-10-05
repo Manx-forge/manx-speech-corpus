@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42444893",
+  "name": "Coointee shiu mooar jeh nyn gaarjyn son foddee nagh bee ad foddey meriu.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42444893",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.084,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

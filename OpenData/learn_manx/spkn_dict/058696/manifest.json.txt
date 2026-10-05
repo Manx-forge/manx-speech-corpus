@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058696",
+  "name": "shligganagh tortoise",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Pets/shligganagh%20-%20tortoise.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058696",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Pets/shligganagh%20-%20tortoise.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

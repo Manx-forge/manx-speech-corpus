@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04249",
+  "name": "V'eh beggan rastagh er y cheayn jiu",
+  "source": "https://www.youtube.com/watch?v=HMGtys2r_kE",
+  "platform": "youtube",
+  "resource_id": "04249",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 31.3,
+  "deep_link": "https://www.youtube.com/watch?v=HMGtys2r_kE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,"""Cur-my-ner,",0.69,1.56,aligned
+0,1,t'ou,1.89,2.10,aligned
+0,2,aalin,2.19,2.64,aligned
+0,3,my,2.64,2.76,aligned
+0,4,ghraih;,2.76,3.24,aligned
+0,5,cur-my-ner,3.96,4.89,aligned
+0,6,t'ou,5.43,5.64,aligned
+0,7,"aalin,",5.70,6.18,aligned
+0,8,ta,6.78,6.93,aligned
+0,9,ayd,6.99,7.20,aligned
+0,10,sooillyn,7.20,7.98,aligned
+0,11,"calmane.""",7.98,8.67,aligned

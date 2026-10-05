@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056701",
+  "name": "sidoor solider",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/sidoor%20-%20solider.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056701",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/sidoor%20-%20solider.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

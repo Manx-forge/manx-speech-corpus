@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04263",
+  "name": "T'eh beggan grianagh jiu agh bodjallagh",
+  "source": "https://www.youtube.com/watch?v=4lrg9PljlTw",
+  "platform": "youtube",
+  "resource_id": "04263",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.04,
+  "deep_link": "https://www.youtube.com/watch?v=4lrg9PljlTw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

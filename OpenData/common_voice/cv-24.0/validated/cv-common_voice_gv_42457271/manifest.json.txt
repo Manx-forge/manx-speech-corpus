@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457271",
+  "name": "Sy laa shen gow-jee arrane mychione eck, Garey-feeyney dy feeyn jiarg.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457271",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.632,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

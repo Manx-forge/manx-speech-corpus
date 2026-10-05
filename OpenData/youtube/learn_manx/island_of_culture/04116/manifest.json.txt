@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04116",
+  "name": "Noddym geddyn spollag? Cha nod, gow my leshtal",
+  "source": "https://www.youtube.com/watch?v=q9ikTUiBamY",
+  "platform": "youtube",
+  "resource_id": "04116",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.5,
+  "deep_link": "https://www.youtube.com/watch?v=q9ikTUiBamY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

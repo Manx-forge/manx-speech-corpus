@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058930",
+  "name": "carryn donkal bumper cars",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/carryn%20donkal%20-%20bumper%20cars.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058930",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.44,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/carryn%20donkal%20-%20bumper%20cars.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

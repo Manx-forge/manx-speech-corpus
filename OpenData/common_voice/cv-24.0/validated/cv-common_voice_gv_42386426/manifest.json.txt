@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386426",
+  "name": "Ta ymmydee king ghoaill aash er oghrish Chreest, ny-yeih ta reamys da'n chione euish.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386426",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.856,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

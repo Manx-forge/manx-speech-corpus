@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059124",
+  "name": "banc bank",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20town/banc%20-%20bank.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059124",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.78,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20town/banc%20-%20bank.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

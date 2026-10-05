@@ -1,0 +1,30 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid kiare va mee braew jeh,0.21,2.76,asr,100
+,ching v'eh mie dy liooar v'ee skee jeh,3.82,7.33,asr,82
+,va shin chea va shiu feayr,7.93,10.27,asr,100
+,v'ad scooyrit moghrey jiu va juan aarloo va'n dooinney tarroogh,10.99,15.40,asr,97
+,row mee mie dy liooar row oo scooyrit,16.81,19.75,asr,100
+,row eh feayr row ee skee,20.56,22.66,asr,100
+,row shin aarloo row shiu ching,23.53,26.02,asr,57
+,row ad feer tarroogh row yn moddey mie dy liooar,26.77,29.74,asr,100
+,cha row mee feayr cha row cha row eh mie cha row ee scooyrit,30.88,36.40,asr,92
+,cha row shin skee cha row shiu tarroogh cha row ad dy liooar cha row kerrin skee cha row yn eeast ayns y vaatey,37.63,45.16,asr,95
+,nagh row mee scooyrit nagh row oo skee nagh row eh chea nagh row eh beggan ching nagh row shin beggan tarroogh,46.54,54.43,asr,98
+,nagh row shiu feer scooyrit nagh row ad mie dy liooar nagh row kerrin aarloo nagh row yn moddey scooyrit,55.03,61.96,asr,100
+,ren mee goll dys doolish ren oo shooyl dys creneash,62.92,66.64,asr,100
+,ren eh jeeaghyn er y chellveeish ren ee goll dys forsdal,67.30,70.78,asr,100
+,ren shin gobbragh ayns y thie ren shiu giu bainney ny baa doo,71.38,75.76,asr,100
+,ren ad gee ayns yn ablet ren juan bonnag,76.42,79.42,asr,100
+,ren yn moddey giu ushtey ren mee goll dys doolish,80.29,83.83,asr,100
+,ren oo shooyl dys creneash ren eh jeeaghyn er y chellveeish,84.34,87.97,asr,100
+,ren ee goll dys forsdal ren shin gobbraghey ayns y thie ren shin giu bainney ny baa doo,88.69,94.66,asr,99
+,ren ad gee ayns yn ablet ren juan bonnag,95.35,98.17,asr,100
+,ren yn moddey giu yn ushtey cha ren mee giu yn ushtey,98.74,103.87,asr,100
+,cha ren oo gobbragh er y chronk cha ren eh jeeaghyn feer vie,104.41,107.98,asr,100
+,cha ren ee cummal er y chronk cha ren shin bonnag,108.67,111.70,asr,100
+,cha ren shiu shooyl dys purt chiarn cha ren ad goll dys y chronk cha ren kerron gee yn bonnag,112.39,118.09,asr,100
+,cha ren yn ven giu yn ushtey nagh ren mee shooyl dys y thie,118.75,122.77,asr,100
+,nagh ren oo jeeaghyn er y chellveeish nagh ren eh bonnag,123.49,127.09,asr,100
+,nagh ren oo gee caashey nagh ren shin goll jea,127.93,131.32,asr,100
+,nagh ren shiu gobbraghey jiu nagh ren ad shooyl dys doolish,132.46,136.33,asr,98
+,nagh ren kerron cummal ayns forsdal nagh ren yn moddey giu tey,137.29,141.31,asr,100

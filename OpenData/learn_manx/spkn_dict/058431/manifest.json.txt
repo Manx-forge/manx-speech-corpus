@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058431",
+  "name": "mayrnt march",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mayrnt%20-%20march.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058431",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.86,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/mayrnt%20-%20march.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09357",
+  "name": "Abbyr Shen Reesht - Say That Again 12ah Jerrey Souree - 2026 - July 12th",
+  "createdCircaStart": "2026-07-12",
+  "createdCircaEnd": "2026-07-12",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-12ah-jerrey-souree-2026-july-12th/",
+  "platform": "manx_radio",
+  "resource_id": "09357",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1647.0,
+  "deep_link": "https://episodes.captivate.fm/episode/b392fc33-40de-4f6a-81b3-cbf2f6a6dcaa.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457539",
+  "name": "\"Ta dooinney goll magh gys e obbyr, as gys e laboraght; derrey'n astyr.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457539",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 10.224,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

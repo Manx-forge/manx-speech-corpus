@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457836",
+  "name": "Lesh my veillyn ta mee er ny ve ginsh jeh ooilley briwnyssyn dty veeal.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457836",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.596,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

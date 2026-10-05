@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085663",
+  "name": "cooinaghtyn elley 09 pages 22-25",
+  "source": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2009%20pages%2022-25.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085663",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 494.11,
+  "deep_link": "https://www.learnmanx.com/media/cooinaghtyn%20elley/cooinaghtyn%20elley%2009%20pages%2022-25.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

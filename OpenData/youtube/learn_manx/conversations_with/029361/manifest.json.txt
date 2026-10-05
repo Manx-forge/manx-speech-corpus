@@ -1,0 +1,14 @@
+{
+  "ident": "speech-029361",
+  "name": "Loayrt rish Katie Kermode voish America",
+  "source": "https://www.youtube.com/watch?v=MOE2dms_TBQ",
+  "platform": "youtube",
+  "resource_id": "029361",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 329.19,
+  "deep_link": "https://www.youtube.com/watch?v=MOE2dms_TBQ&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

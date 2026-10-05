@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,Cre'n,0.48,0.72,aligned
+0,1,fa,0.72,0.99,aligned
+0,2,t'ou,0.99,1.17,aligned
+0,3,genmys,1.17,1.59,aligned
+0,4,eh,1.59,1.71,aligned
+0,5,stayd,1.71,2.16,aligned
+0,6,dy,2.16,2.28,aligned
+0,7,haualtys?,2.28,2.97,aligned

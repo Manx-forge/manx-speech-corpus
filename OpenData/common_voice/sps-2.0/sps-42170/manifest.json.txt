@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42170",
+  "name": "Cre dynsee oo y çhiaghtin shoh chaie?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42170",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 25.632,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

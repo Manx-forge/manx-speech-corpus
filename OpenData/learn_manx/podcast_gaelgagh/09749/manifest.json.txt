@@ -1,0 +1,14 @@
+{
+  "ident": "speech-09749",
+  "name": "learning manx part 92",
+  "source": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2092.mp3",
+  "platform": "learn_manx",
+  "resource_id": "09749",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 384.25,
+  "deep_link": "https://www.learnmanx.com/media//podcast/learning%20manx%20part%2092.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

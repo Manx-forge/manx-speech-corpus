@@ -1,0 +1,178 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,1.48,4.24,asr,82
+,jees lessoon shey-jeig ta mee beaghey,5.08,19.54,asr,44
+,mee baarey shaven,20.50,24.67,asr,34
+,ta mee beaghey ayns y voghrey,31.03,33.01,asr,78
+,berlin ayns y voghrey every day,34.36,40.42,asr,35
+,the bayrey ayns y voghrey dagh laa,48.97,51.64,asr,70
+,ta mee beaghey ayns y voghrey dagh laa ta,52.84,63.91,asr,69
+,ta mee goll ta mee goll,63.73,66.61,asr,85
+,bio ta mie house ta mee,69.31,79.57,asr,0
+,bee goll dys y thie aym ta mee goll dys y thie aym,79.42,83.02,asr,91
+,house ta shey ta mee,87.91,103.84,asr,0
+,mee goll dys y thie aym dy vaarey,103.75,106.30,asr,86
+,ta mee goll dys y thie aym dy vaarey howse she mie ta,107.47,115.84,asr,67
+,ta mee goll dys y thie aym dy vaarey yn folt aym,128.29,132.01,asr,91
+,ta mee goll dys y thie aym dy vaarey yn folt aym,132.94,134.98,asr,94
+,juan vel oo fakin juan,140.08,149.71,asr,47
+,vel oo fakin juan juan every saturday,150.46,156.40,asr,100
+,vel oo fakin juan dagh jesarn,169.09,171.73,asr,100
+,vel oo fakin juan dagh jesarn ta ram,172.60,180.82,asr,100
+,vel oo gimman dys rhumsaa,192.64,194.77,asr,100
+,vel oo gimman dys rhumsaa ramsey,195.55,202.63,asr,75
+,juan gimman dys,203.29,213.43,asr,0
+,rhumsaa dy akin juan,213.46,215.41,asr,75
+,gimman dys rhumsaa dy akin juan juan every day,216.94,224.47,asr,54
+,vel oo gimman dys rhumsaa dy akin juan dagh laa,233.65,237.37,asr,100
+,vel oo gimman dys rhumsaa dy akin juan dagh laa,238.30,240.76,asr,82
+,bee kys ain s'laik lhiam aegey s'laik,245.02,255.64,asr,44
+,laik lhiam aegey lhaih,255.46,260.05,asr,38
+,slat glion aegey yn braar ayd s'laik lhiam aegey yn braar ayd,271.15,275.74,asr,97
+,neeym snaue swim,287.95,292.66,asr,48
+,snaue dys laksey nee'm snaue dys laksey,300.46,303.88,asr,100
+,go broddey snaue,308.41,319.84,asr,0
+,dys laksey dy phaagey yn braar ayd,319.90,323.20,asr,88
+,nee'm snaue dys laksey dy phaagey yn braar ayd,324.25,326.68,asr,91
+,bee ta kys eu broddey un friday morning,331.42,334.12,asr,0
+,nee'm snaue dys laksey dy phaagey yn braar ayd moghrey jeheiney,344.41,349.39,asr,98
+,dys laksey dys yn braar ayd moghrey jeheiney,351.19,353.65,asr,75
+,howse troggal thie,357.40,365.20,asr,0
+,t'eh troggal thie chouds eh,365.80,368.65,asr,69
+,kay troggal,370.51,380.05,asr,44
+,un thie ayns purt ny hinshey t'eh troggal thie ayns purt ny h-inshey,379.99,384.61,asr,92
+,goll,393.97,394.48,asr,36
+,choud's eh goll,397.57,408.34,asr,100
+,dys purt ny hinshey goll dys purt ny hinshey,408.40,412.24,asr,86
+,bio erlhiam,416.80,425.83,asr,0
+,goll erlhiam dy jeanym goll,426.67,430.00,asr,66
+,dy jean eh goll dys purt ny hinshey,442.66,444.94,asr,98
+,erlhiam dy jeanym goll dys purt ny hinshey dy howse,446.74,454.51,asr,51
+,dy jean eh goll dys purt ny hinshey dy hroggal thie,468.76,471.94,asr,86
+,erlhiam dy jeanym goll dys purt ny hinshey dy hroggal thie,473.14,475.81,asr,90
+,bee t'ou jannoo c'red t'ou jannoo,487.15,490.03,asr,86
+,wanting doo cree t'ou laccal jannoo,493.99,504.40,asr,14
+,cre t'ou jannoo ta,505.39,515.77,asr,55
+,ta mee laccal goll ta mee laccal goll,515.62,518.68,asr,89
+,ta buy bread laccal,523.87,535.00,asr,0
+,goll dys balley chashtal dy chionnagh arran,535.06,538.84,asr,100
+,goll dys balley chashtal dy chionnaghey arran,540.73,542.77,asr,96
+,jack as d'ee oo ny howse,545.74,548.59,asr,29
+,bloo laccal gee ayns y thie,556.87,559.09,asr,77
+,gys y thie cha nel,560.62,567.43,asr,50
+,cha nel cha,568.03,583.48,asr,38
+,cha nel bare lhiam goll dys purt chiarn,583.24,587.05,asr,74
+,cha nel bare lhiam goll dys purt chiarn,588.34,590.41,asr,100
+,cha nel bare lhiam goll dys purt chiarn dy ee,606.46,610.96,asr,100
+,cha nel bare lhiam goll dys purt chiarn dty yee,612.01,614.11,asr,91
+,cha vel fys ayd vel fys ayd,615.70,622.90,asr,100
+,vel fys ayd cre t'ou laccal jannoo,640.24,643.54,asr,68
+,vel fys ayd cre ta breeshey jannoo ayns,644.14,650.29,asr,64
+,er lhiam dy vel oo laccal goll,658.03,660.40,asr,93
+,er lhiam dy vel oo laccal goll choud's eh,661.18,664.12,asr,72
+,er,680.44,680.68,asr,0
+,er lhiam dy vel eh laccal goll dys yn,680.50,683.20,asr,73
+,see erlhiam dy vel oo goll dys yn ynnyd,683.74,686.98,asr,63
+,t'ee er,691.60,706.30,asr,14
+,er lhiam dy vel eh laccal goll dys yn,706.09,708.79,asr,97
+,da chlea erlhiam dy vel eh goll dys yn ynnyd dy chloie,709.87,714.76,asr,87
+,vel fys echey c'raad vel fys echey c'raad,729.55,733.12,asr,74
+,watch the film vel,737.77,751.00,asr,0
+,vel fys echey c'raad t'ou jeeaghyn er fillym,750.82,754.36,asr,77
+,vel fys echey c'raad t'eh jeeaghyn er fillym,755.98,758.08,asr,95
+,cha nel cha nel,765.19,767.68,asr,100
+,just say now but she probably want to go to douglas,769.33,775.27,asr,40
+,cha nel agh t'eh licklee dy vel oo laccal goll dys doolish,784.87,790.63,asr,97
+,cha nel agh t'eh licklee dy vel oo laccal goll dys doolish,791.65,794.77,asr,84
+,but she probably ayns douglas dy watchit,797.92,800.59,asr,67
+,cha nel agh t'eh licklee dy vel ee laccal goll dys doolish dy yeeaghyn er,811.72,817.72,asr,100
+,cha nel agh t'eh licklee dy vel oo laccal goll dys doolish dy yeeaghyn er,820.06,824.08,asr,97
+,doo as,828.34,838.87,asr,20
+,bee oo dooytomorrow cre nee oo mairagh,839.59,850.39,asr,4
+,bee oo mairagh choud's,851.05,853.75,asr,0
+,ta orrym goll dys rhumsaa,862.15,864.28,asr,52
+,ta orrym goll dys rhumsaa ramsey with my,865.84,871.54,asr,63
+,ta orrym goll dys rhumsaa marish yn charrey aym,884.02,887.20,asr,100
+,ta orrym goll dys rhumsaa marish yn charrey aym,888.22,890.35,asr,100
+,choud's eh go to ramsey with mish,891.88,895.30,asr,83
+,ta orrym goll dys rhumsaa marish yn charrey aym dy akin yn chuyr echey,913.54,918.97,asr,100
+,ta orrym goll dys rhumsaa marish yn charrey aym dy akin yn shuyr echey,920.02,923.41,asr,99
+,howjey ass going,927.31,929.68,asr,0
+,cre'n oyr t'ou goll t'ou goll,937.30,940.72,asr,74
+,the house,942.37,945.46,asr,33
+,cre'n oyr t'ou goll dys yn thie eck,955.18,958.09,asr,100
+,cre'n oyr t'ou goll dys yn thie eck dog,959.05,966.40,asr,83
+,ta mee goll dys yn thie eck dy ghoostey yn moddey,977.68,981.43,asr,87
+,ta mee goll dys y toieag dy ghoostey yn moddey,982.54,984.61,asr,71
+,cur dog ta,988.24,1000.69,asr,0
+,ta mee goll dys yn thie eck dy ghoostey yn moddey eck,1000.51,1004.32,asr,76
+,ta mee goll dys y thie eck dy ghoostey yn moddey eck,1005.10,1007.35,asr,91
+,as has been plaiynt,1011.85,1014.25,asr,40
+,bee cloie pool billy er ve cloie pool,1024.09,1027.06,asr,69
+,ta ta choud's,1033.99,1036.75,asr,0
+,ta agh ta urree goll dys yn thie nish,1050.88,1054.87,asr,91
+,ta urree goll dys y thie nish,1055.98,1058.14,asr,64
+,ta agh ta urree goll dys yn thie ec nish,1073.89,1077.25,asr,98
+,ta urree goll dys y thie ec nish,1077.85,1080.01,asr,100
+,chouds yes but she has to go to her house now to work,1081.12,1085.14,asr,44
+,ta agh ta urree goll dys yn thie ec nish dy obbragh,1097.95,1102.81,asr,98
+,ta urree goll dys y thie ec nish dy obbragh,1103.77,1106.65,asr,69
+,c'raad t'eh goll c'raad t'eh goll,1117.90,1120.87,asr,79
+,c'raad ta'n carrey ayd goll,1132.48,1134.46,asr,100
+,c'raad ta'n carrey ayd goll ta,1135.12,1150.15,asr,60
+,gimman dys doolish,1150.90,1152.43,asr,78
+,gimman dys doolish castey drive douglas the saying,1154.11,1160.56,asr,53
+,gimman dys doolish dy ghoaill arrane,1171.84,1174.63,asr,89
+,gimman dys doolish dy ghoaill arrane,1176.22,1178.11,asr,87
+,v'ee fastyr drive to douglas ta,1182.04,1194.28,asr,0
+,gimman dys doolish dy ghoaill arrane ec y gheay,1194.73,1197.58,asr,73
+,gimman dys doolish dy ghoaill arrane ec y cheayrt,1199.23,1201.36,asr,68
+,laik lesh goaill arrane lesh goaill arrane,1213.90,1217.71,asr,89
+,s'laik s'laik,1223.32,1225.21,asr,100
+,choud's eh yes but he prefers erbee ry thie ayd s'laik agh,1226.95,1240.27,asr,73
+,bare lesh ny haaue,1240.45,1242.43,asr,86
+,s'laik agh bare lhiat ve ny chooid,1243.15,1247.05,asr,37
+,teh gra t'eh gra,1253.56,1256.17,asr,100
+,ow just say he said that he's going too as howse,1258.03,1262.05,asr,54
+,teh gra dy vel eh goll dys y thie echey,1275.52,1278.76,asr,95
+,t'eh gra dy vel oo goll dys y thie echey chouds,1279.60,1284.97,asr,82
+,t'eh gra dy vel eh goll dys y thie echey dy phaagey yn moddey echey,1300.96,1306.33,asr,97
+,t'eh gra dy vel eh goll dys y thie echey dy feddyn moddey echey,1307.29,1310.14,asr,91
+,t'eh,1330.09,1330.39,asr,0
+,gra dy vel yn moddey echey feer aalin,1330.51,1333.72,asr,86
+,t'eh gra dy vel yn moddey echey feer aalin brothers,1335.04,1344.34,asr,50
+,t'eh gra dy vel yn moddey echey ny saa na'n braar echey,1363.90,1368.34,asr,81
+,t'eh gra dy vel yn moddey echey ny,1370.05,1372.03,asr,100
+,yn braar echey vel,1372.48,1384.30,asr,45
+,vel oo cordail rish vel oo cordail rish,1384.00,1386.97,asr,89
+,cha nel cha nel cha,1391.68,1405.00,asr,83
+,cha nel ta'n moddey echey aalin,1404.82,1407.46,asr,65
+,cha nel ta'n moddey echey aalin ayns as broddey,1408.39,1417.09,asr,57
+,cha nel ta'n moddey echey aalin,1427.86,1431.46,asr,100
+,agh cha nel eh cha aalin as yn braar echey,1432.30,1435.15,asr,100
+,cha nel ta'n moddey echey aalin aalin as yn braar echey,1436.41,1440.49,asr,85
+,dy bee eh fliugh,1445.62,1451.68,asr,8
+,fliugh ec y jerrey shiaghtin fliugh ec y jerrey shiaghtin,1464.28,1468.48,asr,93
+,er lhiam dy bee eh feer fliugh,1481.20,1483.66,asr,97
+,erlhiam dy bee eh feer fliugh as dooyrt mee very well,1484.50,1490.29,asr,71
+,tomorrow er,1492.33,1507.93,asr,0
+,er lhiam dy bee eh feer fliugh,1507.78,1510.00,asr,52
+,myr shen neeym goll dys balley chashtal mairagh,1510.84,1513.69,asr,100
+,erlhiam dy bee eh fliugh goll dys balley chashtal mairagh,1515.13,1519.03,asr,79
+,choud's eh as haink mee very great sorch dy cassaltown tomorrow dy buy mac yn toshi,1520.77,1526.98,asr,51
+,dy bee eh feer fliugh myr shen neeym goll dys balley chashtal mairagh dy mac,1540.78,1546.33,asr,87
+,erlhiam dy bee eh fliugh goll dys balley chashtal mairagh dy chionnagh my,1547.62,1552.00,asr,80
+,with teacher the,1556.05,1570.18,asr,0
+,ynsee vel oo dty er-ynsee,1570.66,1572.85,asr,82
+,bun-erbee ritchie ayd ta,1576.42,1589.71,asr,0
+,ta mee laccal ve my haaue ta agh ta mee laccal ve my haaue,1590.58,1595.02,asr,95
+,how just say yes but want to be rethie ayd bee as dty,1596.91,1600.87,asr,0
+,ta agh ta mee laccal ve my haaue son ta orrym girree ec kerroo dys shiaght,1615.93,1621.90,asr,100
+,ta mee my haaue son ta orrym girree ec kerroo dys shiaght,1623.31,1627.66,asr,100
+,understand ta mee toiggal,1631.53,1638.19,asr,84
+,ta mee toiggal eh,1639.48,1642.63,asr,41
+,understand ta,1643.11,1654.42,asr,20
+,ta mee toiggal vel oo laccal goll dys doolish,1654.27,1657.75,asr,93
+,ta mee toiggal vel oo laccal goll dys doolish,1658.86,1661.17,asr,84
+,hie understand the one to go to douglas dy drink puinsh,1664.56,1668.31,asr,41
+,ta mee toiggal vel oo laccal goll dys doolish dy iu puint,1679.44,1683.91,asr,98
+,ta mee toiggal vel oo goll dys doolish,1684.75,1686.70,asr,84

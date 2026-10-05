@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,she,0.00,0.33,aligned
+0,1,bleb,0.36,0.63,aligned
+0,2,eshyn,0.63,1.05,aligned

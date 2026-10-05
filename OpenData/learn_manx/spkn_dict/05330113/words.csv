@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,nagh,0.09,0.33,aligned
+0,1,ren,0.33,0.48,aligned
+0,2,ee,0.48,0.57,aligned
+0,3,gobbragh,0.57,1.14,aligned

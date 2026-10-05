@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057394",
+  "name": "braagyn-jeen wellingtons",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/braagyn-jeen%20-%20wellingtons.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057394",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.2,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/braagyn-jeen%20-%20wellingtons.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

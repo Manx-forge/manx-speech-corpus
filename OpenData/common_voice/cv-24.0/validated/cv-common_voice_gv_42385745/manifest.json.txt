@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385745",
+  "name": "Ta dt'ennym myrgeddin cha faggys: as shen ta dt'obbraghyn yindyssagh dy hoilshaghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385745",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.72,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

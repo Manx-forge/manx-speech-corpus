@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,cre,5.58,6.00,aligned
+0,1,hooar,6.09,6.30,aligned
+0,2,oo,6.30,6.51,aligned
+0,3,voish,6.51,6.81,aligned
+0,4,jishag,6.81,7.17,aligned
+0,5,y,7.17,7.26,aligned
+0,6,nollick,7.26,7.59,aligned
+0,7,cre,14.04,14.43,aligned
+0,8,hooar,14.55,14.73,aligned
+0,9,oo,14.73,14.94,aligned
+0,10,voish,14.94,15.24,aligned
+0,11,jishag,15.24,15.60,aligned
+0,12,y,15.60,15.69,aligned
+0,13,nollick,15.69,16.02,aligned

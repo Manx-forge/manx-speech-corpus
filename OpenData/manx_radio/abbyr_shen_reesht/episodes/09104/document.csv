@@ -1,0 +1,429 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,manx radio podcast power baie shoh,0.00,3.27,asr,100
+,ayns abbyr shen reesht cheayrt shoh ta slane,8.32,10.84,asr,60
+,lesh shiaght laa jamys jeheiney goll as gaccan claare ny gael,11.83,16.51,asr,100
+,as dy ghoaill toshiaght eer bit beg as traa dy liooar myr shoh sy feailley,17.11,27.46,asr,64
+,feailley shoh ta caa diu clashtyn ny clashtyn reesht paart jeh'n ghaelg va ry chlashtyn ayns ny claareyn shen,27.25,33.22,asr,88
+,ayns traa dy liooar cheayll shin nah ghuillag y roie raa jeh pargys caillt gys yn lhaihder,34.60,40.21,asr,98
+,as shoh juan y geill lhaih magh shen ernynson,40.69,43.60,asr,93
+,my roshtyn giare my vriwnys neesht ro choon,53.62,57.67,asr,82
+,dy ghorraghys niartee lesh my ghlare,60.13,63.13,asr,78
+,trog seose my smooinaght ard erskyn yn aer,63.85,67.24,asr,98
+,dy voddym loayrt jeh dy yindyssagh,68.08,71.23,asr,74
+,erskyn earroo mie as eunyssagh,71.65,74.56,asr,80
+,cha vel eh lowit da dooinney bio,76.42,78.88,asr,94
+,dy chur slane freggyrt foast da'n queshtion shoh,79.57,83.26,asr,96
+,s'lioar da marvaanagh tushtagh,84.52,87.31,asr,97
+,jeh shen va ta as vees dy bragh er-mayrn,89.23,94.06,asr,100
+,myr s'gooidsave lesh hene v'er yeeaghyn daue,95.95,99.76,asr,82
+,choayl gloyroil s'mie coadit lesh,100.57,104.23,asr,85
+,inshyms diu dy,106.63,108.64,asr,100
+,dy chooilley chree ve agglagh roish,109.15,112.54,asr,91
+,jee yn chiarn,113.68,116.20,asr,77
+,yn chiarn jee myghinagh surranse foddey lane mieys,116.80,121.93,asr,100
+,freayll myghyn cour thousaneyn,123.70,126.79,asr,77
+,lhiggey sheese mooad kerragh toillit,127.45,130.15,asr,100
+,son nyn meechraueeys,131.05,133.09,asr,95
+,foast dy voirey cairagh y ve meoir-shee,134.14,138.49,asr,88
+,gyn logh cha gum eh kinliagh erbee,139.27,142.57,asr,81
+,cooilleeney foiljyn ayrey er y chloan,144.37,147.16,asr,74
+,gys ny sheelogheyn nagh vel,148.12,150.43,asr,82
+,she spyrryd casherick niartal skyn,152.68,156.25,asr,100
+,hooar ayns mieys creenaght,156.73,160.18,asr,67
+,cairys gillid gloyr shee er dy rieau,160.81,164.98,asr,80
+,as bee er son dy braa soilshagh shirrey,165.61,169.69,asr,88
+,roish as lurg dagh traa,170.29,172.72,asr,100
+,veih hene ta hoshiaght,173.89,176.02,asr,100
+,as veih ta dagh nhee,176.68,178.84,asr,86
+,goaill toshiaght bishagh bioys aash as bree,179.41,183.88,asr,95
+,dorraghys as soilshey dasyn,185.26,187.60,asr,67
+,yn un chooid as cha vel veg nagh rosh,188.71,193.03,asr,85
+,e hushtey trooid jeh hene,193.69,197.20,asr,100
+,lesh y ghloyr niartal t'eh hene,199.75,203.50,asr,54
+,gyn jerrey ta e phooar ta ooilley,204.31,207.91,asr,64
+,myr dooyrt mee roie eisht cha vel obbyr dasyn,209.95,215.14,asr,100
+,ta ro creoi juan y geill cur kione er gys yn lhaihder yn roie,215.80,226.33,asr,84
+,brie roie gys pargys caillt shiaght laa ta shin clashtyn bit beg mychione obbyr yn olloo avril maddrell as,226.12,233.92,asr,88
+,bio-oaylleeaght sheshoil as cultooroil er y taghyrt bleinoil goaill padjer ec ny shenn kialteenyn,234.94,241.57,asr,96
+,cha row ort elley ayns shiaght laa kiart myr ve reaghit hoshiaght as ta shin clashtyn mychione shen as fy yerrey ta shin clashtyn doolish y karagher loayrt mychione,242.59,252.70,asr,99
+,arrane ayns gaelg ny halbey cheayll eshyn as vershoon jeant echey jeh sy ghaelg ainyn,252.73,257.86,asr,91
+,blein ny ghaa er dy henney loayr mee rish yn olloo avril maddrell ayns shiaght laa mychione ny cooishyn t'ee ronsaghey,262.24,268.72,asr,99
+,te ny jeeyl oaylleeaght sheshoil as cultooroil,269.53,272.71,asr,98
+,ta sym eck er keintys as lesh y ghleashaght mish neesht ayns ny bleeantyn jeianagh ta shen er jeet dy ve ny cooish feer scanshoil,273.67,281.86,asr,100
+,dys aym ec yn olloo maddrell oaylleeagh as yn aght t'eh bentyn rish ny ennaghtyn,283.12,287.89,asr,84
+,as cochianglt rish shen ny ta taghyrt bentyn rish baase,288.58,292.60,asr,100
+,jeeaghyn er yn aght ta sleih oanluckit losht as agh ta cooinaghtyn jeu,293.11,298.30,asr,61
+,ta sym eck er yn aght ta buill as cummey ny cheerey as yn eiraght cochianglt rish spyrrydys as reddyn cheet dy ve casherick,299.32,306.88,asr,91
+,ta shin fakin ayns shoh ayns yn aght ta buill gollrish cashtal yn ard as va kiarkyl meayll nyn shassoo er y cheer,308.08,315.40,asr,97
+,as ta rollageyn mooar dy liooar ayn neesht ta ry akin dy baghtal,316.33,319.81,asr,98
+,myr sampleyr jeh'n aght ta reddyn cheet dy ve casherick ayns aght foddee neuyerkit va'n olloo maddrell jeeaghyn er ny ratchyn te as yn aght ta traa ny ratchyn jannoo seose,321.28,331.63,asr,97
+,sorch dy faarkeydys as sleih cheet gys yn ellan as jeeaghyn er ny markee gollrish feer erskyn dooghys foddee eer nyn jeeaghyn,331.45,339.94,asr,91
+,t'eh gra dy vel shenn claareyn as shenn roaryn bree as memorabilia elley cheet dy ve moir taitnys da ny pirgrinyn ny feer jeean ta cheet,340.90,350.68,asr,93
+,ayns aght cha nee son ny ratchyn hene agh dy chooilleeney spyrrydys oc lesh jurnaa gys ynnyd casherick dou,351.22,358.33,asr,90
+,t'ad gra dy vel eh ny share da peiagh erbee dy ve ny hoie gyn gra fockle,364.06,369.67,asr,96
+,as sleih mygeayrt y mysh smooinaghtyn dy nee ommidan,370.18,372.58,asr,90
+,ny dy ghra red ennagh as myr shen dy scughey magh dooyt erbee oc,373.51,377.41,asr,95
+,well s'liklee dy liooar eh dy vel shiartanse dy leih foddee yn chooid smoo dy leih jeeaghyn orrym myr sorch dy bonkan ny yeih nagh vel fys oc er yn chooid smoo jeh ny reddyn bolvaneagh,378.25,388.12,asr,95
+,er ve jeant aym agh son shiaght laa ta mee reaghey dy gholl mygeayrt as dy loayrt rish sleih ta cochianglt rish taghyrtyn syn ellan goll gys e vraane dy gheddyn,387.97,398.47,asr,93
+,y bun jeh'n chooish shen myr ren mee er yn chiaghtin hie mee lesh shilley er phil cre'n ayns doolish as myr cheayll shin ren mee recortys jeh gyn doilleeid,398.53,408.70,asr,89
+,ny sanmee yn laa cheddin shen hie mee sheese gys purt le moirrey,409.63,413.11,asr,94
+,as haink mee quaiyl peiagh ennagh as dinsh eh dou mychione taghyrt pryssoon dy gerrid,413.80,418.69,asr,93
+,tra raink mee thie cha row traa dy liooar aym dy yannoo veg ec y traa shen as myr shoh ren mee reaghey dy eaishtagh rish recortys shen moghrey jiu as dy femblal eh dy beagh,419.71,429.94,asr,97
+,feme er ve ayns shen as shen yn aght hooar mee magh,430.00,433.54,asr,88
+,dy row slane brock jeant aym jeh'n recortys shen as cha dod mee jannoo ymmyd jeh veg,434.17,440.08,asr,100
+,tra va mee,448.12,448.54,asr,0
+,the giense ghaelgagh goll,450.79,453.64,asr,56
+,ayns shen dynsee mee ayns nalbin ta mee skee ta'n ayrn ayns my,454.00,460.66,asr,6
+,er nyn jyndaa as yn albinish vanninagh by vie lhiam clashtyn halley,463.42,469.15,asr,62
+,dy vanninee as adsyn ooilley goaill y,470.14,472.90,asr,24
+,celtiagh shoh as my t'ad,473.71,476.29,asr,32
+,t'ad jannoo ayns dy cheayll mee son y chied,476.71,481.18,asr,24
+,ta mee skee skee as moo lhiam,483.04,487.33,asr,0
+,bee as bee as bun dy cheeillagh cooyl y ghrangan glass beg aalin cooyl y ghrangan aalin ta mee,492.25,507.85,asr,0
+,bee eh er ennagh un sy voanee ta mee skee mee lhiam beeym bun as bun dy gheinnagh agh tra hee hee'm uss cheet neose neose y,509.86,523.48,asr,0
+,sy boallagh voish ny sleityn cha,523.27,525.97,asr,15
+,red ennagh ayn ta mee skee s'mie lhiam beayn nyn as bun dy keayn,534.88,541.99,asr,0
+,choud's cre'n arrane shen ec nyn guirraghyn shen va ram cassyn goll stampey er y laare,543.94,550.36,asr,30
+,ta sleih ennagh gaccan mychione chyndaa arraneyn,552.76,556.12,asr,44
+,ta mish y ghra roie yn chengey as,558.73,562.84,asr,73
+,ocsyn as yn chengey as cultoor,563.47,566.65,asr,90
+,ayns focklyn shiaght laa,568.12,575.65,asr,20
+,s'mie lhiam gra dy row jamys jeheiney ry chlashtyn reesht lurg barney liauyr dy liooar,577.03,581.59,asr,100
+,as ta daa wheshtion jeig ec jamys kinry ernynson,582.16,585.01,asr,100
+,fastyr mie tammylt neayr's ta mee er ve er y radio,591.82,597.37,asr,100
+,agh ta mee cha nel mee cooinaghtyn,598.12,600.97,asr,100
+,guin va mee ayns shoh yn cheayrt sjerree myr,601.39,603.40,asr,64
+,as t'ad er chaghlaa ooilley ny greinyn noi ny jeshaghtyn nyn shoh ny co-earrooderyn,604.24,610.18,asr,93
+,so bee yn claare shoh myr sorch dy chliaghtey,610.96,615.16,asr,98
+,erlhiams cur caa dooys,615.85,620.08,asr,53
+,gynsagh kys ta reddyn gobbragh ayns shoh neesht,620.86,623.89,asr,84
+,as ver mayd shaghey yn traa lesh sorch ennagh dy wheesh,624.49,629.53,asr,96
+,erlhiam beeyms roish ooilliu,630.31,633.16,asr,63
+,yn doghan nagh nhegin ve er n'enmys,634.48,637.39,asr,76
+,va shin cloie red ennagh enmyssit,638.56,641.35,asr,100
+,dy daa wheshtion jeig,642.07,644.35,asr,83
+,feer vaghtal cre tayrn daa whestion jeig my hiarn caghlaaghyn cooish as ta mee er,645.31,652.78,asr,91
+,ny cooishyn ayns kiare ayrnyn,654.19,656.44,asr,100
+,myr va mee jannoo roie yn chiaghtin shoh she,657.70,661.51,asr,90
+,bean etlee filmyn,662.08,665.14,asr,83
+,bee as feer ny foalsey,666.64,670.18,asr,91
+,tar my kiare ayrnyn jeh'n whilst sy myr shen bee tree queshtionyn ayns dagh ayrn,670.96,676.54,asr,98
+,lhie-yms ny queshtionyn,677.74,679.96,asr,81
+,as eisht ver-yms,680.98,683.35,asr,69
+,ny ansooryn doo son ny queshtionyn,684.16,688.84,asr,84
+,ta mee treishteil dy jean eh gobbragh gowmayd toshiaght er y wheeyl,689.38,694.90,asr,94
+,kiart dy liooar myr dooyrt mee ta mish er rheynn eh ayns kiare ayrnyn daa wheshtion jeig mysh three queshtionyn ayns dagh ayrn bean etlee,695.44,704.59,asr,100
+,fillymyn bee as feer ny foalsey,705.40,709.42,asr,94
+,scat dy liooar myr shen bee yn er three,710.05,713.35,asr,0
+,beiyn ta getlagh,714.16,716.50,asr,69
+,nane ta dhyt head aghtallys as,717.85,722.50,asr,52
+,ooilliu keintyn jeh cren,725.14,727.66,asr,88
+,baagh etlee ta'n daayt said aghtallys as,728.20,733.78,asr,48
+,ooilliu keintyn jeh cren baagh etlee,735.01,739.27,asr,100
+,cre'n sorch dy veagh ta enmyssit,740.98,743.56,asr,90
+,da said atlantic jees cren cretoor,744.28,747.97,asr,56
+,cretoor sheiltynagh ta coyrt cabbyl echey,749.11,754.90,asr,100
+,agh chiarn as skianyn,756.10,758.62,asr,100
+,cren cretoor sheiltynagh,761.38,763.93,asr,72
+,ta coyrt cabbyl echey,765.31,767.50,asr,90
+,agh chiarn as skianyn,768.46,770.89,asr,100
+,as three,774.37,774.91,asr,12
+,cre'n jeenys dy chretooryn etlee,775.51,778.00,asr,97
+,ta'n ennym echey meanal,778.81,780.85,asr,100
+,skian my ayrey ny meir skianagh,781.48,787.09,asr,66
+,ayns geeck cren jeenys dy chretooryn etlee,787.63,793.72,asr,98
+,ta'n ennym echey meanal skian,795.19,798.85,asr,100
+,my ayrey ny meir skianagh so we,799.90,804.73,asr,85
+,finger ny red ennagh myr shen,806.83,809.62,asr,88
+,daa ockle greek,810.52,812.95,asr,63
+,ta'n ennym y jeenys mow,813.49,816.04,asr,82
+,cha lhiass monney greek ve eu dy gheddyn shoh cha nel geeck erbee aym pene,817.57,823.27,asr,86
+,agh t'eh licklee dy vel shiu er chlashtyn yn,824.32,828.43,asr,98
+,yn daa ockle shoh roie erlhiam pene,829.81,834.67,asr,67
+,erlheh yn fockle son meir foddee dy vel shiu er chlashtyn shen,835.90,840.82,asr,97
+,ennym y jeenys ansherbee now va'n chied ayrn jehn quiss mychione beiyn ec three,841.75,848.23,asr,90
+,questionyn shen hooar shiu eisht,852.73,855.52,asr,81
+,ta dhyt head aghtallys as ooilliu keintyn jeh cren baagh ec,856.75,861.88,asr,86
+,shey lhemeen tan lhemeen ooilley sorch dy lhemeen,863.17,868.84,asr,88
+,yn atlas fer jeh ny lhemeenyn smoo sy theihll,869.50,873.64,asr,81
+,myr tou freayll,876.73,879.40,asr,87
+,shellanyn bee shiu er chlashtyn jeeaghyn dy-meen shoh tayrn,879.97,885.40,asr,91
+,ayns shilleeaghyn son te gee,887.92,891.55,asr,69
+,t'eh gee yn chair as myr shen jannoo jannoo boirey jeen,894.58,899.11,asr,82
+,ta mee smooinaghtyn mychione yn fockle,899.83,902.17,asr,89
+,ta daa ockle ayn ayns gailck ta spooillit,904.42,907.42,asr,88
+,er yn aght cheddin as ee,909.49,913.15,asr,81
+,ta nane jeu shen fer jeu shen meanal,914.23,917.59,asr,100
+,as fer elley meanal y come t'ou,920.62,924.19,asr,93
+,cur trooid yn folt ayd my ta folt erbee ayds my t'ou lucky dy liooar,924.82,929.71,asr,85
+,folt erbee ve ayds agh t'ad focklit magh gennaghtyn enney,930.37,934.24,asr,87
+,ta'n yn chied as ta meanal as eh ayn myr shen,935.08,939.43,asr,90
+,as yn fer elley agh er oyr ennagh enney ny dorraghey oc hene,941.35,948.04,asr,82
+,ren ad goaill orroo da spellal ayd,948.73,950.92,asr,94
+,er yn aght cheddin shen myr te,951.43,955.03,asr,100
+,jees cren cretoor sheiltynagh ta,955.60,957.91,asr,90
+,ta coyrt cabbyl echey agh chiarn as skianyn,958.27,962.89,asr,100
+,kiarn cabbal agh chiarn as skianyn urley,966.28,970.42,asr,67
+,shoh ny rish ta shiu er chlashtyn jeh my t'ou rieau,971.35,974.80,asr,91
+,er yeeaghyn er harry,975.61,978.16,asr,100
+,bee shiu bee eh er,979.24,981.37,asr,64
+,bio va'n as three,982.12,985.63,asr,50
+,cre'n jeenys dy chretooryn etlee ta'n ennym echey meanal,986.47,990.52,asr,98
+,skian my ayrey ny meir skianagh red ennagh myr shen ayns greek,991.03,997.09,asr,100
+,son daa ockle,998.35,1001.02,asr,100
+,meanal skian as dagh mee shen,1001.77,1006.24,asr,76
+,feer vie ayrn jees jin quiz ooilley mychione fillymyn,1007.86,1013.02,asr,77
+,foddee red beg ny sassey na mee braew shickyr,1013.92,1017.49,asr,58
+,so myr shen shoh queshtion kiare quoi mannagh der leeideilagh,1018.90,1024.54,asr,98
+,ayns ny filmyn shoh un dys ee,1025.35,1030.48,asr,63
+,as hard ta kiaull dy peat reayrt un dys ee as hard ta kiaull foddee shiu dyn dooyt sheiltyn cren sorch,1031.14,1041.22,asr,89
+,yn ta shin loayrt mychione un ec,1042.78,1047.22,asr,90
+,bun ayndoo ooilliu yn ynractey leeideilagh ayndoo,1048.03,1052.29,asr,62
+,as ta mee cha nel er n'yannoo yn dooinney shoh cha nel er n'yannoo fillymyn erbee son blein ny ghaa neesht,1053.82,1061.05,asr,97
+,agh kuse dy vleeantyn er dy henney v'eh foast goll,1061.65,1064.68,asr,100
+,as screeu,1065.88,1068.46,asr,89
+,ny fillymyn echey hene neesht screeu as stiurey,1069.09,1074.28,asr,100
+,as ayns ny filmyn echey hene,1075.24,1079.80,asr,91
+,ren ta mee credjal goll jeeragh dys,1080.76,1084.99,asr,100
+,myr yiarragh oo agh quoi yn dooinney shoh ish,1086.28,1090.45,asr,95
+,va peat reayrt un dys ee as hard ta kiaull,1092.19,1094.83,asr,70
+,queig va'n fillym tastagh shoh stiurit liorish alfred oc as soit er lioar liorish,1095.40,1105.51,asr,100
+,hall caine filmit ayns mannin,1105.57,1107.91,asr,57
+,as currit magh ayns nuy cheead jeig as shey jeig,1108.54,1112.23,asr,100
+,va'n fillym tastagh shoh silent fillym stiurit liorish alfred it oc as soit er lioar liorish hall caine filmit ayns mannin,1113.52,1122.91,asr,100
+,as currit magh ayns nuy cheead jeig as shey jeig,1123.45,1127.47,asr,100
+,cre'n fillym ayn as shey,1127.98,1131.28,asr,92
+,quoi ren stiurey ny fillymyn twin peaks dy ve as e ayd as,1132.18,1137.76,asr,89
+,three fillymyn fillymyn mie er enn quoi ren stiurey twin peaks rhesar hed,1139.14,1144.96,asr,85
+,ta shin loayrt mychione fillymyn queshtan kiare,1147.57,1150.99,asr,87
+,quoi va'n ec dty leeideilagh ayns ny filmyn ny paayrtit un dys ee as hard ta kiaull,1151.53,1157.41,asr,73
+,she stephen seagal,1158.79,1161.01,asr,78
+,vayn stainney follan,1161.73,1165.27,asr,16
+,as foddee dy vel shiuish er chlashtyn paart da skeealyn mychione echeysyn,1166.59,1171.48,asr,100
+,cha lhiass diu cha jeanyms ginsh,1172.59,1175.17,asr,94
+,doo fer erbee jeu diu nish agh,1175.86,1178.71,asr,90
+,foddee shiu shirrey erriu trooid son reddyn myr shen dy ram skeeallyn mychione echey,1179.28,1184.38,asr,84
+,as son tammylt v'eh screeu,1185.37,1187.53,asr,100
+,as stiurey as aghtal ayns ayns ny filmyn echey hene va goll jeeragh dys video son tammylt,1188.28,1196.23,asr,95
+,dy cheayll mish boayl ennagh well dooyrt mee nagh jeanyms ginsh skeeallyn erbee agh cheayll mish,1197.31,1203.25,asr,83
+,dy row eh ayns paggad,1204.27,1206.94,asr,86
+,vac as ve er aght ennagh eginit,1208.29,1212.25,asr,87
+,tannaghtyn dy yannoo tra ve,1213.15,1217.11,asr,75
+,foddey harrish y chramp,1218.37,1221.01,asr,65
+,son v'ad v'ad chionney er dy yannoo dy yannoo tooilley fillymyn,1223.08,1227.04,asr,89
+,son v'ad v'ad geddyn ayrn jeh,1228.03,1231.24,asr,85
+,ayrn jeh'n phossan jeh ny fillymyn shen queig,1231.96,1235.26,asr,86
+,va'n fillym tastagh shoh currit da stiurit liorish alfred oc as soit er lioar liorish hall caine filmit ayns mannin,1236.25,1246.00,asr,95
+,as currit magh ayns nuy cheead jeig as shey jeig,1246.78,1250.32,asr,100
+,shey ny manxman v'ayn,1250.83,1253.59,asr,58
+,cha nel coppeeyn erbee jeh'n ayns shoh er-mayrn,1255.63,1258.54,asr,74
+,va mish lhaih va'n ynrican cappee v'ayn streisht ayns aile,1259.59,1264.90,asr,97
+,as yn folt ayns,1265.89,1268.17,asr,47
+,three feed as queig marish,1268.62,1272.52,asr,84
+,lane filmyn elley scanshoil ta shin er choayl,1273.84,1277.71,asr,100
+,as shey quoi ren stiurey ny fillymyn twin peaks,1278.85,1284.58,asr,93
+,hed as diunid,1285.87,1288.33,asr,22
+,she david lint feer vie,1289.80,1293.88,asr,67
+,quoid ta shiu er gheddyn chouds neesht,1295.41,1297.54,asr,100
+,mannagh beign's er screeu ayd cha nel mee braew shickyr quoi jeu,1299.01,1302.43,asr,98
+,v'eh er gheddyn bee yn ayrn mychione bee,1303.30,1307.44,asr,63
+,yn trass na'n treeoo ayrn,1308.37,1310.77,asr,92
+,cha nel mee shickyr vel caghlaa erbee,1311.67,1313.59,asr,100
+,ayrn eddyr yn daa agh shen dy ghra,1314.31,1318.03,asr,73
+,yn ard ta mee credjal dy row,1318.63,1322.17,asr,100
+,sess erlheh ayns shenn yernish cour loayrt myr t'ou loayrt mychione yn sleih,1322.83,1331.38,asr,50
+,shaghey reddyn elley ayns coondae ad agh cha nel mee braew shickyr,1332.31,1338.16,asr,91
+,bee eisht queshtionyn shiaght hoght as,1339.45,1342.75,asr,94
+,ta ennym y jeenys dy ee mychione ny queshtionyn mychione geeck,1343.62,1348.93,asr,85
+,yn chiaghtin shoh er oyr ennagh ta ennym y jeenys ta lussyn piob drommey,1350.16,1356.01,asr,100
+,meanal bee ny jeeaghyn ayns,1356.82,1360.24,asr,100
+,ennym y jeenys as meanal bee ny jeeaghyn,1363.72,1367.32,asr,100
+,ayns geeck agh cren bee ta shinyn gee,1367.95,1371.85,asr,83
+,t'ad jeant jeh luss ny plant sy jeenys shoh,1372.48,1377.49,asr,89
+,cre'n bee ta shinyn gee t'ad jeant jeh luss sy jeenys keeall drommey,1378.96,1385.08,asr,81
+,hoght cren claare,1387.51,1390.96,asr,68
+,greek t'ad jeant jeh teayst,1391.53,1394.98,asr,71
+,agh er boddagh so,1396.00,1399.99,asr,43
+,claare ry yannoo deaisht geeck ta jeant jeh teayst sorch dy,1400.65,1406.47,asr,80
+,sooslagh post agh er boddagh,1407.19,1411.93,asr,55
+,yn agh er t'ou ayns glass,1415.08,1418.74,asr,89
+,ta shin loayrt mychione agh oohyn yeeast,1420.06,1423.72,asr,100
+,oor neayst ogher,1424.98,1427.44,asr,56
+,ayns baarle sy claare greek t'ad jeant jeh teayst,1429.27,1434.04,asr,100
+,agh er boddagh as boddagh foddee dy vel fys eu er shen,1434.67,1438.84,asr,75
+,claare greek t'ad jeant jeh teayst agh er bollagh as nee,1440.79,1445.80,asr,86
+,bar tan carolina v'ee,1447.33,1449.85,asr,0
+,ayns ard ghoo cre'n oyr ta'n carolina ree,1450.90,1455.97,asr,45
+,ayns ard ghoo as as,1456.96,1459.21,asr,86
+,chammahs shen cre tayrn cre ta'n,1459.63,1462.24,asr,90
+,as cre'n fa te ayns ard ghoo,1463.59,1466.38,asr,43
+,kiart dy liooar yn treeoo ayrn jehn hoieys ooilley mychione bee,1467.79,1472.26,asr,73
+,shiaght ta ennym y jeenys ta lussyn piob drommey,1472.80,1478.14,asr,100
+,meanal bee ny jeeaghyn,1479.10,1481.26,asr,100
+,ayns geeck cren bee,1482.13,1484.47,asr,8
+,t'ad jeant jeh luss jeenys shoh,1485.10,1487.83,asr,94
+,chiarn as ta shiu er chlashtyn dyn dooyt jeh feeu bromeen,1489.36,1495.90,asr,92
+,yn stoo yn yn bun stoo as bree echey cha breeoil tayns,1496.44,1503.01,asr,92
+,as my eeys oo rouyr jeh foddee eh cur ort gollish,1504.81,1508.17,asr,84
+,as cur chingys king ort agh bee eh gee,1508.77,1511.77,asr,81
+,ram jeh keeill eoin jeh,1512.52,1515.28,asr,68
+,dy ennaghtyn ny heiyrtyssyn shen ta mish er jeet faggys,1515.94,1520.29,asr,100
+,shegin dou goaill rish claare greek t'ad jeant jeh teayst agh er boddagh agh er,1521.01,1530.25,asr,89
+,my ta shiu cooinaghtyn ta shoh,1530.91,1534.03,asr,100
+,sy later shegin dou gra nagh vel mish rieau er vlashtyn jeh agh va shin gee,1534.66,1540.48,asr,91
+,agh er boddagh ass stainnaghyn,1540.99,1544.02,asr,100
+,tra va mish aeg va my vummig graihagh er as stoo shoh as,1544.95,1549.84,asr,96
+,partan carolina reaper ayns ardghoo,1550.23,1552.81,asr,54
+,well pibbyr s'choe,1554.34,1556.95,asr,62
+,sy theihll tayn tayrn recortys,1557.88,1561.99,asr,97
+,yn echey son ny,1562.95,1565.17,asr,0
+,er s'choe as spiosagh sy theihll carolina,1566.07,1570.00,asr,50
+,er my hroggal ayns south carolina liorish dooinney enmyssit ayd corree cha nel uss dooghyssagh tayrn ad cha jinnagh oo,1571.23,1579.75,asr,92
+,feddyn eh dy dooghyssagh boayl erbee ny slooid te er scapail,1580.68,1587.10,asr,94
+,feer vie neesht ayrn sjerree y whilst,1588.57,1591.72,asr,92
+,she feer ny foalsey as ta ny tree skeealyn,1592.35,1597.78,asr,84
+,dy jinnagh oo roo my hiarn jallooyn,1599.40,1602.73,asr,76
+,jallooyn grainnit cha nee jallooyn,1603.33,1606.81,asr,88
+,peintit agh jallooyn grainnit ta,1607.41,1610.50,asr,97
+,jees jeh ny skeealyn shoh firrinagh,1611.64,1615.03,asr,100
+,as nane jeu foalsey,1615.84,1619.11,asr,100
+,sy jeh ayns aboo dalby,1621.12,1623.85,asr,100
+,ta jalloo jeh camomile coamrit myr spider-man ayns mean kerrin balley ayns aboo dalby ta jalloo jeh camomile,1625.23,1635.25,asr,100
+,coamrit myr spider-man,1635.97,1638.04,asr,55
+,nane-jeig er adam ayns stashoon traen ayns vilnius ta jalloo queig meader er yrjid,1639.30,1648.03,asr,98
+,jeh t'ou nee sy pronney ayns dressyn gawne,1648.84,1652.50,asr,95
+,jamys y lheeanee my ta shiu cooinaghtyn er y laa shen,1653.70,1657.72,asr,68
+,queig meader er yrjid t'eh ny hassoo er,1658.62,1661.89,asr,92
+,yn adam ayns stashoon traen ayns firrinys,1662.55,1665.25,asr,83
+,as daa-yeig ayns soalt laksey t'ee ta jalloo jeh kiark gyn kione,1666.42,1672.57,asr,86
+,kiark gyn kione vee currit seose ayns cooinaghtyn jeh kiark van chiarn ec gerrit jee,1673.77,1683.07,asr,90
+,agh ren tannaghtyn bio ren cummal rish,1683.67,1686.43,asr,95
+,son daa vlein enney erreish da'n chiarn eck ve gerrit jee,1687.75,1691.95,asr,85
+,tannaghtyn bio son daa vlein as tan ayns sulby sy t'ee er oyr ennagh t'ad,1694.14,1700.26,asr,90
+,jannoo imraa jee t'ad er n'yannoo imraa jee,1701.58,1704.61,asr,91
+,liorish cur seose yn jalloo shoh ayns mean y valley,1705.27,1709.02,asr,100
+,ta nane jeh ny reddyn shen quoi jeu ta shiu smooinaghtyn,1709.59,1715.02,asr,88
+,dooar feer ny foalsey ayrn sjerree agh as,1715.74,1719.64,asr,72
+,dinsh mee diu my hiarn three jallooyn,1721.47,1724.71,asr,100
+,jallooyn grainnit shen dy ghra well ta mee gra granit,1725.64,1729.57,asr,89
+,t'eh licklee nagh row ad y granney foddee dy row ad castit,1730.20,1734.76,asr,84
+,er cre ta'n fockle shen ayns gailck ta mee gra granit,1735.69,1739.44,asr,89
+,dy yannoo lhiettrymys eddyr,1740.13,1742.20,asr,77
+,jallooyn chammah peintit jallooyn status ayns aboo dalby,1742.74,1747.63,asr,89
+,ta jalloo jeh camomile coamrit myr spider-man,1748.20,1751.02,asr,100
+,well ta shoh kiart ny braew jeem cre'n fa t'eh ayn agh t'eh ayn ta mish er nakin cochaslys jeh,1751.86,1760.23,asr,100
+,nanejeig er adam ayns stashoon traen ayns vilnius ta jalloo queig,1761.16,1767.94,asr,100
+,er err jeant jeh tooilley sy pronney ayns dressyn gawne,1768.45,1771.51,asr,88
+,ta shoh kiart neesht er oyr ennagh elley nagh vel mee,1772.80,1777.33,asr,100
+,dy slane toiggal erlhiam dy row ad jeant son sorch dy taishbynys ellanagh as tra va shen jeant v'eh scughit dy,1777.78,1787.47,asr,96
+,ynnyd noa er yn stashoon trean,1787.98,1790.86,asr,84
+,as myr shen cha nel,1791.61,1793.92,asr,86
+,jalloo jeh kiark gyn kione ayns soalt laksey t'ee,1794.61,1798.39,asr,84
+,va kiart ren tannaghtyn bio fegooish kione son tammylt agh cha nee yn sod ec seti van as cha ren ad rieau,1800.04,1808.29,asr,85
+,cur seose jalloo ayns cooinaghtyn jee feer vie,1809.07,1813.54,asr,98
+,jamys kinry jamys jeheiney as daa wheshtion jeig,1821.04,1824.82,asr,94
+,foast goll as gaccan ta phil gawne cloie ernynson recortys jeh drane beg elley scruit as jeant echeysyn as eh any kissag dynsaghey sheeanyn ny gaelgey da,1826.38,1836.43,asr,91
+,va paitchyn aegey dy gholl gys ny possanyn mooinjer veggey,1836.31,1839.88,asr,93
+,t'eh gra dy vel ny draneyn cheet dy ve feer ennoil rish ny paitchyn,1840.60,1843.90,asr,100
+,as yn cheayrt shoh ta cur trimmid er y fo neeym,1844.44,1847.32,asr,96
+,goll as gaccan ren,1848.61,1886.95,asr,0
+,ren robert gorrym garaghtee dy,1886.68,1889.95,asr,62
+,gerraghtee mucyn boy,1892.14,1894.60,asr,52
+,garaghtee garaghtee,1904.35,1908.31,asr,0
+,er y,1917.73,1922.41,asr,0
+,station,1928.08,1928.32,asr,0
+,goll as gaccan trimmid er y fo neeym,1940.83,1943.74,asr,100
+,sy dreain shen liorish phil goanlys annie kissack va ry chlashtyn ayns goll as gaccan,1944.31,1948.99,asr,96
+,rish dunlop claare ny gael ta caa dooin clashtyn stroie dy skeeallyn giarey ayns chyndaays sy ghaelg jeant ec neddy beg hom ruy edard faragher cregneash as shoh,1950.58,1960.78,asr,89
+,skeealyn eh son goaill rish nagh row cooinaghtyn aym er chor,1960.81,1970.86,asr,49
+,erbee er yn chied skeeal shoh as jeeaghyn urree nish ta mee fakin,1971.04,1974.46,asr,68
+,cha row mee toiggal ee dy kiart noadyr yn moddey oaldey ayns coamrey keylagh,1974.91,1980.34,asr,92
+,keayrt dy row va moddey oaldey dy slane kiarail dy chaghlaa e ghooghys liorish y choamrey,1982.14,1987.30,asr,100
+,myr shen dy voddagh eh geddyn beaghey fegooish gortey,1988.32,1991.92,asr,100
+,coamrit lesh crackan cairagh ren eh gyndyr marish y chioltane moylley yn boghil lesh y chrout,1992.58,1999.60,asr,97
+,ayns yn astyr v'eh jeih ifc liorish y vochil ayns yn willy,2001.10,2004.40,asr,97
+,as va'n dorrys jeant shickyr haink yn boghil ayns un oie dy gheddyn beaghey son y vagheragh,2005.24,2011.66,asr,99
+,as ghow ee seose yn moddey oaldey smooinaghtyn dy row eh,2012.44,2015.50,asr,89
+,as ren eh marroo eh lesh y skynn ayns willie,2016.70,2019.73,asr,100
+,as shen yn skeeal myr shoh cha row yn moddey oaldey geearree caghlaa e ghooghys,2021.44,2026.00,asr,100
+,scooter shoh v'eh laccal caghlaa cummey echey as ayns far chummey v'eh fosyn gee ny kirree rere e ghooghys foddee,2026.54,2034.76,asr,96
+,as nish yn bochilley aeg as yn moddey oaldey,2036.11,2038.69,asr,78
+,va boght lieh ec freayll arrey er shioltane keyrragh y gareydere balley-beg-cheerey,2039.95,2044.78,asr,75
+,as chur eh lesh ny cummaltee magh three ny kiare dy cheayrtyn lesh geamagh magh yn moddey oaldey yn moddey oaldey,2045.62,2052.52,asr,100
+,as tra haink ny naboonyn gys y chooney ren eh garaghtee orroo son nyn anvea,2053.18,2058.82,asr,99
+,haink yn moddey oaldey dy jarroo ec y jerrey,2060.32,2062.69,asr,98
+,va'n schollag nish dy firrinagh agglit as geamagh ayns angaish as atchim ta mee guee erriu tar shiu gys my chooney son ta moddey oaldey marroo ny kirree,2063.41,2072.71,asr,97
+,agh cha ren unnane jeu cur geill da,2073.79,2076.64,asr,100
+,ny cur cooney da yn moddey oaldey fegooish oyr erbee dy agglaghey eh ersooyl ghow eh y ghra harrish as ren eh raipey stroie yn clane,2077.33,2087.80,asr,98
+,yn shioltane cha nel breagerey dy ve craidit ga t'eh loayrt yn irriney,2087.68,2093.59,asr,85
+,ny guillyn as ny froggyn va paart dy yuillyn cloie er-gerrey da loghan as honnick ad earroo dy froggyn ayns yn ushtey,2095.87,2104.78,asr,100
+,ren ad cur toshiaght dy chlaghey ad,2105.83,2108.14,asr,100
+,gys ren ad marroo ymmodee oc tra ren unnane jeh ny froggyn troggal y kione erskyn yn ushtey as geamagh magh,2108.86,2116.12,asr,100
+,fuirree shiu my ghuillyn ta mee guee orroo,2116.75,2119.45,asr,90
+,shen ny ta jannoo ardjys diuish jannoo baase dooin,2120.17,2123.80,asr,100
+,as skeeal elley yn scollag as ny undaagaghyn,2126.23,2129.02,asr,100
+,hooar scollag aeg kiune voish undaagaghyn,2131.06,2133.79,asr,88
+,ren eh roie thie as ginsh eh da e voir gra,2134.75,2137.99,asr,100
+,ga dy vel eh coyrt wheesh dy feeyn dou cho ren mee eh agh feer veeley,2138.86,2143.33,asr,79
+,shen yn oyr gortey vooar dy vel eh shiu er scoaldey,2144.56,2148.46,asr,100
+,yn nah cheayrt nee oo bentyn undaig,2149.18,2151.37,asr,87
+,greimmeyder daaney as bio cho meeley sheeidey ayns dty laue,2151.97,2156.38,asr,92
+,as cha jean eh scoaldey shiu er ny sloo cre erbee t'ou jannoo,2156.95,2162.17,asr,93
+,jean eh lesh ooilley dty niart yn shynnagh fegooish e amman,2162.77,2168.92,asr,100
+,va shynnagh tayrit ayns ribbey as ren eh scapail liorish coayl e amman,2170.54,2175.85,asr,100
+,ny lurg shen gennaghtyn e vioys myr laad eh liorish yn oltooan as nearey ve taghyrt rish,2177.08,2183.53,asr,98
+,v'eh resooney rish hene son saase dy chur lesh ooilley ny shynnee gys yn un stayd rish hene dy voddagh eh ny share keiltyn yn coayl echey hene,2184.40,2193.22,asr,94
+,ren eh chaglym earroo mooar dy hie mee as coyrlaghey ad dy yerrey ny fammanyn jeu gra,2194.54,2199.31,asr,94
+,cha jinnagh ad ynrican jeeaghyn foddey share fegooish oc agh dy beagh ad rea rish trimmid ny kabanyn ny fee neuyesh dou,2200.21,2208.19,asr,96
+,ren fer jeu scarrey eh shen dy ghra ren eh brishey stiagh er as dooyrt eh,2209.18,2213.62,asr,91
+,mannagh row shiu hene er choayl dty amman my charrey cha jinnagh shiu myr shoh coyrlaghey shin,2214.52,2219.53,asr,97
+,yn dow as yn hrog va dou giu ec loghan as y nish stampey gynyss aile dy froggyn aegey as ren eh marroo fer jeu,2221.87,2231.53,asr,92
+,haink yn voir seose as choayl yn un jeh mec ren ee briaght jeh ny braaraghyn cre'n earroo ven rish,2232.64,2240.32,asr,96
+,t'eh marroo voir gheyr son tra gherrid er dy henney haink brout feer vooar lesh kiare cassyn gys yn mucyn as ren eh smoashal eh dys baase ny shey roin skeilt,2241.40,2251.93,asr,88
+,ren yn hrog shirjee hene magh as briaght ee,2253.43,2256.34,asr,93
+,row yn vrout wheesh shen fuirree shiu voir she jee shiu hene magh dooyrt magh as nagh bee shiu corree son ta mish shickyr dy beagh shiu scoltey,2256.94,2267.20,asr,99
+,dy yinnagh shiu hene ayns cochaslys y vriw chenn,2267.14,2270.29,asr,77
+,ny kelly caggee as yn va daa chellagh caggee dy row ayns ooilleyn eirinagh streeu son yn vainshtyragh,2271.76,2281.06,asr,96
+,ren fer ec y jerrey castey yn fer elley,2282.35,2285.17,asr,100
+,ren yn chellagh va currit fo chosh roie ersooyl as dollee eh hene ayns corneil feagh,2286.58,2293.54,asr,100
+,yn fer e geddyn yn varriaght getlagh seose er boayl ard ren eh craa as skianyn as gerrym dy moyrnagh lesh ooilley e niart,2295.04,2304.04,asr,90
+,va urley shiaulley trooid yn aer,2305.54,2308.24,asr,77
+,as ren eh gra my eh ayns y chroagan as cur lesh ersooyl,2309.11,2312.71,asr,84
+,haink yn fer elley magh ass y chorneil chelleeragh tra ren eh fakin shen,2313.88,2319.34,asr,100
+,as ren eh reill fegooish unnane dy streeu rish,2320.03,2323.21,asr,100
+,yiow moyrn lhieggey yn partan as e voir,2324.68,2330.14,asr,100
+,dooyrt partan rish e mac cre'n fa ta shiu shooyl wheesh gys yn derrey cheu my lhiannoo,2332.18,2338.72,asr,100
+,t'eh voddey share dy gholl jeeragh er yn raad,2339.47,2341.87,asr,95
+,ren yn partan aeg gansoor,2343.22,2345.38,asr,100
+,ta shen feer chiart voir gheyr as my nee shiuish jeeaghyn raad jeeragh dou,2346.52,2351.95,asr,97
+,neesht gialdyn dy ren e voir streeu,2352.64,2357.59,asr,69
+,ayns fardail as cur seose fegooish fockle dy ghra rish y lhiannoo,2358.19,2363.50,asr,100
+,ta sampleyr ny stroshey na,2365.12,2367.61,asr,100
+,yn ven aeg as yn curn bainney,2369.32,2371.39,asr,100
+,va inneen eirinagh cur lesh cur yn bainney er y kione voish yn vagher gys yn thie eirinys,2372.62,2378.47,asr,100
+,tra huitt ee ayns smooinaghtyn er yn aght shoh,2379.01,2381.26,asr,76
+,yn argid nee yn bainney shoh creck erehon neear kionnagh three cheead oohyn er y chooid sloo,2382.85,2388.49,asr,100
+,ny hoohyn lowal son lhag aghteyryn nee bishaghey daa cheead as lieh dty hene,2389.66,2395.36,asr,97
+,bee ny hene aarloo son y vargey tra nee ad cur lesh yn price smoo,2396.44,2400.58,asr,100
+,myr shen ec jerrey ny bleeaney as lesh ny dooraghtyn nee tuittym gys my ayrn bee argid dy liooar aym dy chionnagh coamrey noa,2401.33,2408.89,asr,100
+,ayns y choamrey shoh hems gys ny daunseyn ec y nollick,2410.15,2413.27,asr,96
+,eisht vees ny guillyn aegey laccal mish son sheshey agh nee'm cre mychione ec dy chooilley unnane jeu,2413.87,2419.93,asr,97
+,as ren ee craa e kione ayns coardailys rish y smooinaghtyn,2420.71,2423.62,asr,85
+,as ren yn cur yn bainney tuittym gys y thalloo,2424.49,2427.01,asr,98
+,as va ooilley smooinaghtyn scarrit ayns tullagh,2427.70,2430.85,asr,90
+,ny coontey ny hein roish ta ny hoohyn guirt,2432.20,2435.80,asr,95
+,yn cabbyl as guilley ny gabbyl,2437.48,2440.00,asr,91
+,va guilley ny gabbyl dy row cheau laghyn ayns karraghey as caerraghey cabbyl,2441.98,2447.92,asr,87
+,agh ec yn un traa v'eh guy john corkey voish,2449.30,2453.44,asr,95
+,as chreck eh ad son y chosney hene,2454.49,2456.53,asr,100
+,aless dooyrt yn cabbyl myr ta shiu dy jarroo geearree mee dy ve ayns stayd mie,2458.12,2464.15,asr,97
+,shegin diu keyrrey mee ny sloo as cur ny smoo dy vaghey dou,2464.81,2469.28,asr,100
+,ta'n onnerid anchreenaght share,2470.96,2473.36,asr,100
+,chyndaays sy ghaelg jeant ec neddy beg hom ruy jeh skeealyn aesop as caillt liorish coayl reader sy vlein nuy cheead jeig as nane,2479.96,2488.15,asr,92
+,shen myr v'ad ry chlashtyn ayns claare ny gael,2488.78,2491.21,asr,100
+,as kiart nish ta shin er jeet gys jerrey fo freaylley shoh shen dy ghra ta mee er chee cur kione er abbyr shen reesht rish slane lhiu,2492.56,2500.78,asr,97
+,t'eh jeh'n raad,2511.61,2514.43,asr,22
+,with the best balley on the island from just twenty tree nod oo,2519.32,2523.64,asr,0
+,geddyn the high-speed super boss plus board band shoh,2526.58,2531.11,asr,20
+,visit us in douglas ramsey yn phurt aerin,2532.40,2534.98,asr,0
+,shoh t'ayn,2535.76,2536.87,asr,0

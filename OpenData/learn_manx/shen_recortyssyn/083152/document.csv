@@ -1,0 +1,26 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,cre'n traa t'ou girree mysh shiaght as uss hene,1.39,4.48,asr,100
+,ta mee geearree ec hoght cre'n traa ta mary geearree t'ee geearree ec lieh oor lurg shiaght vel ee,5.08,12.07,asr,92
+,well eddyr shiaght as hoght well ta mee geearree eddyr hoght as nuy,12.70,16.51,asr,91
+,cre'n traa hie oo dys colby jea hie mee mysh jeih,19.84,23.23,asr,100
+,cre'n traa hie dy valley mysh daayeig,24.01,26.47,asr,97
+,jagh oo shappal fastyr jea hie,27.19,29.29,asr,100
+,cre'n traa hie oo shappal hie mee shappal mysh jees mie dy liooar,29.92,33.94,asr,90
+,cre'n traa vees oo ayns doolish mairagh mysh jeih,36.73,39.55,asr,83
+,nagh bee oo ayns doolish ec nuy cha beeym,40.21,42.55,asr,68
+,bee oo anmagh cha beeym anmagh,43.12,45.10,asr,100
+,bee'm ayns doolish mysh kerroo dys nuy feer vie hee'm oo,45.85,49.30,asr,100
+,cre'n traa nee oo gee anjeeal mairagh mysh shiaght,52.75,55.66,asr,100
+,cre'n traa nee oo goll dys obbyr mysh hoght cre'n traa nee oo gee kirbyl mysh daayeig cre'n traa nee oo goll dy valley,56.23,63.64,asr,100
+,queig as shey mie dy liooar cre'n traa vees oo ec yn ablet bee'm ec yn ablet mysh nuy nagh bee oo ec yn ablet ec hoght,64.33,74.38,asr,86
+,bee'm ayns shen mysh hoght cre'n traa nee oo goll dy valley neeym goll dy valley mysh nanejeig,75.58,80.53,asr,97
+,neeym goll dy valley ec mean oie cre'n traa nee oo shappal mairagh mysh nuy,81.13,87.43,asr,100
+,cre'n traa nee oo goll dys obbyr cha jeanym goll magh jannoo cha jin,88.18,91.96,asr,97
+,cre'n traa nee oo geaishtagh rish yn radio eddyr queig as shey mie dy liooar hee'm oo mairagh,92.62,97.99,asr,97
+,cre'n traa honnick oo jeeaghyn riyr honnick mee jim ec noi,100.57,104.20,asr,82
+,cre'n traa hie dy valley hie mee dy valley mysh nanejeig,104.86,107.89,asr,86
+,cre'n fa nee oo fakin eh mairagh nee oo fakin eh mysh nuy,108.61,112.21,asr,100
+,cre'n traa vees oo ayns doolish bee'm ayns doolish ec kerroo dys nuy,112.99,116.50,asr,100
+,bee oo er yn traie mairagh beeym cre'n traa,118.57,121.36,asr,93
+,well bee'm er yn traie mysh jeih cre'n fa nee oo goll dy valley neeym goll dy valley ec daa-yeig,121.75,127.63,asr,86
+,cre'n traa nee oo goll dy lhie goll dy lhie ec nane-jeig nee'm goll dy lhie ec mean oie,128.47,133.84,asr,95

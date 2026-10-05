@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04250",
+  "name": "Mie lhiat breck ny marrey?",
+  "source": "https://www.youtube.com/watch?v=XW0yxU3Fx8Y",
+  "platform": "youtube",
+  "resource_id": "04250",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.21,
+  "deep_link": "https://www.youtube.com/watch?v=XW0yxU3Fx8Y&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

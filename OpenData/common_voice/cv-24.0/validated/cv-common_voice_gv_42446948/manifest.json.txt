@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446948",
+  "name": "Ta my gheiney-mooinjer er my hreigeil, as ta my chaarjyn dooie er my yarrood.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446948",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.432,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,10 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou how are you dooin,0.52,3.40,asr,0
+,kys t'ou whooinney kys t'ou whooinney,7.66,13.87,asr,86
+,ta mee braew i'm fine,16.30,19.60,asr,74
+,ta mee braew ta mee braew gura mie ayd,20.80,25.63,asr,100
+,ta mee braew gura mie ayd ta mee braew gura mie ayd as uss hene,29.23,36.91,asr,100
+,ta mee braew gura mie ayd as uss hene,42.43,45.16,asr,70
+,ta mee skee ghooinney ta mee skee ghooinney,47.23,54.04,asr,74
+,ta mee mie dy liooar ghooinney well,56.14,59.65,asr,70
+,ta mee mie dy liooar ghooinney,61.78,63.40,asr,100

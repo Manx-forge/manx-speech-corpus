@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42643305",
+  "name": "Er-yn-oyr dy nee er y chied laa jeh'n çhiaghtin dirree Creest veih ny merriu.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42643305",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.804,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

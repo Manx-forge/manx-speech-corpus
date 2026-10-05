@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,cren,0.33,0.60,aligned
+0,1,driss,0.60,0.90,aligned
+0,2,tort,0.90,1.32,aligned

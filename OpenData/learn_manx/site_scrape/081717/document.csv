@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon daa-yeig lesson quaiyl,2.59,5.41,asr,100
+,er yn boayrd,6.43,9.37,asr,67
+,er yn voayrd yn arran,10.78,13.72,asr,100
+,yn bainney yn eeym,15.22,17.89,asr,88
+,yn teh yn ushtey,19.00,21.64,asr,87
+,yn shugyr ta'n arran er yn voayrd,22.63,27.28,asr,62
+,ta'n eeym er yn boayrd ta'n ushtey er yn boayrd,28.81,33.85,asr,50
+,ta'n bainney er yn boayrd ta'n tey er yn boayrd,35.20,40.18,asr,38
+,ta'n shugyr er yn boayrd vel yn bainney er yn boayrd foast,41.50,47.56,asr,92
+,cha nel arran er yn voayrd nish,49.39,51.67,asr,100
+,t'ad er yn voayrd jeeagh ta'n raad sollagh shen er yn chishtey jeeagh,53.77,60.73,asr,100
+,cha nel peiagh erbee er yn barroose,62.14,64.21,asr,97
+,quoi ta ny greeishyn nish dy chooilley,66.22,70.24,asr,90
+,dy chooilley red podjal,73.72,76.66,asr,100
+,son shickyrys sy vodjal,78.10,81.07,asr,71
+,claare er yn chlaare,82.63,85.69,asr,100
+,vel dagh ooilley red aalin nish,89.11,92.05,asr,100
+,cha nel fys aym vel bainney as ta fer jeu,94.27,97.96,asr,95
+,ta as ta arran er yn claare,99.10,101.71,asr,56
+,er yn eeym mie ta son shickyrys,102.88,106.45,asr,82
+,claare feer vie,107.41,110.29,asr,45
+,ta ta dagh ooilley red aalin boayrd nish,110.89,114.82,asr,82

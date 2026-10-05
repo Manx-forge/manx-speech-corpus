@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,Arran,0.72,1.20,aligned
+0,1,/,,,unaligned
+0,2,Eeym,1.38,1.92,aligned
+0,3,/,,,unaligned
+0,4,Bainney,2.07,2.67,aligned
+0,5,/,,,unaligned
+0,6,Mess,9.00,9.54,aligned
+0,7,/,,,unaligned
+0,8,Praaseyn,10.38,10.86,aligned

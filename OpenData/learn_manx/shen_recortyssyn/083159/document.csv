@@ -1,0 +1,31 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid nane bannaghtyn,0.49,2.83,asr,100
+,kys t'ou kys ta shiu,3.94,6.13,asr,100
+,moghrey mie fastyr mie,7.42,9.76,asr,100
+,oie vie slane lhiat,10.72,12.85,asr,54
+,slane lhiu hee'm oo,13.60,15.79,asr,64
+,heeym shiu quoi uss,16.72,20.44,asr,95
+,mish jamys quoi shoh,21.25,23.89,asr,100
+,kys t'ou braew gura mie ayd,24.67,26.83,asr,100
+,kiart dy liooar mie dy liooar,27.67,29.95,asr,100
+,agglagh castreycair,30.85,34.51,asr,100
+,goll as gaccan earrooyn,35.26,38.50,asr,100
+,neunhee nane jees,39.55,42.19,asr,100
+,tree kiare queig,42.79,45.22,asr,100
+,shey shiaght hoght nuy,45.79,48.94,asr,100
+,jeih nane-jeig daa-yeig,49.60,52.06,asr,91
+,ynnydagh rhumsaa tree,54.01,56.56,asr,67
+,roonysvaie kiare purt ny hinshey nane laksaa tree,57.13,62.05,asr,98
+,balley chashtal jees noo shorys shiaght,62.65,65.65,asr,100
+,forsdal neunhee roish queig,66.58,69.31,asr,97
+,maayl nhee balley keeill eoin shey,70.12,72.88,asr,100
+,bluckan-coshey eddyrashoonagh sostyn neu-nhee nherin jees,73.81,79.36,asr,100
+,nalbin tree bretin nane rank nane ellan vannin kiare y spaainey kiare yn iddaal jees,80.08,89.38,asr,98
+,jees y velg neunhee,90.49,92.56,asr,79
+,laghyn sy chiaghtin jedoonee jelune jemayrt jecrean jerdein jeheiney jesarn,93.88,102.07,asr,100
+,goll ta mee goll,103.54,106.21,asr,100
+,t'ou goll t'eh goll,106.90,108.88,asr,100
+,t'ee goll ta shin goll ta shiu goll t'ad goll,109.51,113.80,asr,87
+,ta mee skee ta mee maynrey,115.12,117.94,asr,100
+,ta mee corree ta mee tarroogh,118.69,120.97,asr,100
+,ta cha nel,122.17,123.97,asr,100

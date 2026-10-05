@@ -1,0 +1,20 @@
+{
+  "ident": "speech-msd-YouTube-L-Quirk-Coraaghyn-Vannin",
+  "name": "🎥 L Quirk Coraaghyn Vannin",
+  "createdCircaStart": "2002-09-01",
+  "createdCircaEnd": "2002-09-29",
+  "author": "Leslie Quirk",
+  "notes": "Conversation between Leslie Quirk & Rob Teare",
+  "translated": "Rob Teare 2022",
+  "source": "https://www.youtube.com/watch?v=-XeBkH9_RDs",
+  "platform": "youtube",
+  "resource_id": "msd-YouTube-L-Quirk-Coraaghyn-Vannin",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 869.26,
+  "deep_link": "https://www.youtube.com/watch?v=-XeBkH9_RDs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok",
+  "corpus_work": "YouTube-L-Quirk-Coraaghyn-Vannin"
+}

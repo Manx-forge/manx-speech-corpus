@@ -1,0 +1,14 @@
+{
+  "ident": "speech-087321",
+  "name": "conversations 11 emshyr",
+  "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2011%20emshyr.mp3",
+  "platform": "learn_manx",
+  "resource_id": "087321",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 121.29,
+  "deep_link": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2011%20emshyr.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

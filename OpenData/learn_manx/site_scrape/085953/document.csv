@@ -1,0 +1,26 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon tree as daeed,1.09,5.32,asr,68
+,mooar big,6.85,9.16,asr,89
+,yn claare mooar yn phash-hey vooar,10.42,14.20,asr,97
+,yn foshil vooar yn claare beg,15.79,19.33,asr,100
+,yn phash-hey veg yn foshil veg,20.74,24.64,asr,65
+,peesh cur dou,26.26,29.23,asr,14
+,ny cur dou jeeagh dou,30.67,33.88,asr,84
+,ny jeeagh dou fow dou,35.41,38.56,asr,53
+,ny fow dou cur dou yn claare mooar,39.82,44.44,asr,100
+,cur dou yn phash-hey vooar cur dou yn foshil vooar,46.03,51.25,asr,100
+,cur dou yn claare beg cur dou yn,52.81,56.38,asr,90
+,cur dou yn foshil veg ny cur dou yn pheesh vooar,59.08,64.78,asr,94
+,jeeagh dou yn fer beg cur dou yn red shen,66.46,71.59,asr,91
+,fow dou yn guin shen,73.15,75.10,asr,80
+,ny fow kishtey mooar nish by vie lhiam yn ooyl mooar shen,76.90,82.39,asr,100
+,s'mie lhiam s'mie lhiat,85.03,87.91,asr,100
+,by vie lhiat berreen,89.41,92.08,asr,100
+,gaue ro vie,93.79,96.28,asr,70
+,er chor erbee afternoon jee,97.60,102.07,asr,93
+,by vie lhiat jeh'n verreen shoh chirree,104.11,106.42,asr,87
+,cur dou peesh veg my saillt gow peesh vooar shoh ee,108.22,113.56,asr,94
+,gura mie ayd ren uss hene eh,115.24,117.28,asr,96
+,rheynn s'mie lhiat eh,118.21,120.16,asr,57
+,s'mie lhiam eh dy jarroo t'eh feer jesh,121.51,124.81,asr,100
+,cha nel eh ro vie er chor erbee,127.36,129.16,asr,100

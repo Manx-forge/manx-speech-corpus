@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052004113",
+  "name": "Beagh Voirrey maynrey cummal ayns Paris?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052004113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.6,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

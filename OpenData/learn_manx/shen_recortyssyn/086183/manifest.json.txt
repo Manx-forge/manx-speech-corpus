@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086183",
+  "name": "Ayns y sniaghtey A",
+  "source": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/Ayns%20y%20sniaghtey%20A.mp3",
+  "platform": "learn_manx",
+  "resource_id": "086183",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 188.19,
+  "deep_link": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/Ayns%20y%20sniaghtey%20A.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

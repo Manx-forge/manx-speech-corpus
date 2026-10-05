@@ -1,0 +1,77 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,bee that you want to eat in manx,4.18,7.09,asr,68
+,it's very vel oo geearree gee,7.60,11.89,asr,60
+,vel oo geearree gee,14.38,16.18,asr,74
+,tweet vel oo geearree gee shen eh vel oo geearree gee,18.43,23.92,asr,80
+,cha nel,30.10,30.64,asr,24
+,cha nel mee geearree,34.78,36.79,asr,100
+,gee don't you want to eat,37.81,41.62,asr,54
+,nagh vel oo,43.81,45.07,asr,9
+,geearree gee moddee yindyssagh nagh vel oo geearree gee moddee,45.61,51.22,asr,100
+,chouds diu ayns y drink,53.02,55.09,asr,38
+,so do you want to drink oo drinking vel oo geearree goo yindyssagh vel oo geearree giu,55.87,62.53,asr,71
+,want to drink bobbyl ta,64.78,68.32,asr,0
+,ta mee geearree goo,69.58,73.21,asr,90
+,bob shen eh ta mee geearree giu bobbyl,73.93,77.47,asr,57
+,bee oo want to live in castletown vel oo,79.39,83.44,asr,24
+,geearree beaghey ayns balley cashtal feer vie vel oo geearree beaghey ayns balley chashtal,84.55,91.93,asr,100
+,now i want to live in st johns,93.73,96.46,asr,35
+,cha nel ta mee geearree,97.78,101.26,asr,100
+,beaghey ayns balley keeill eoin feer vie cha nel,103.09,108.64,asr,100
+,ta mee geearree beaghey ayns balley keeill eoin,109.21,112.09,asr,100
+,want to live in douglas so negative queshtan jiu ayns live in douglas,115.27,119.38,asr,45
+,nagh vel oo geearree,119.92,122.38,asr,100
+,beaghey ayns doolish feer vie nagh vel oo geearree beaghey ayns doolish,123.19,128.44,asr,100
+,want to live in willaston ta,130.63,132.82,asr,43
+,ta mee geearree beaghey ayns willaston shen eh ta,134.56,140.05,asr,93
+,ta mee geearree beaghey ayns willaston dooyrt eh,140.35,144.58,asr,88
+,ta play scoish vel ad,145.21,147.16,asr,41
+,geearree cloie shen eh vel ad geearree cloie,153.94,158.68,asr,100
+,foddee supply now t'eh want to play cammag,160.54,163.60,asr,49
+,jones cha nel,164.35,166.48,asr,62
+,v'eh want to play t'ad,170.29,172.24,asr,19
+,geearree cloie ayns,173.23,176.23,asr,83
+,cloie cammag ayns,177.52,180.85,asr,64
+,balley keeill eoin feer vie so cha nel t'ad geearree cloie cammag ayns balley keeill eoin,182.08,188.65,asr,100
+,iu as the work in port erin,193.03,196.84,asr,57
+,the work in port erin so the negative queshtion,197.74,201.04,asr,29
+,nagh vel shiu nagh vel shiu wanting,202.03,206.26,asr,70
+,geearree working gobbragh,206.77,209.92,asr,83
+,cur er ayns,210.61,212.44,asr,45
+,purt chiarn nagh vel shiu geearree gobbraghey ayns purt chiarn,213.13,216.58,asr,97
+,want to live in work in fuirreyder cha nel,219.31,223.90,asr,64
+,ta mee geearree,225.25,228.31,asr,42
+,beaghey as gobbragh ayns,229.90,233.68,asr,92
+,shen eh cha nel ta mee geearree beaghey as gobbragh ayns fuirreyder,234.49,239.68,asr,89
+,cha nel is with c'raad c'raad t'ou,241.87,246.19,asr,0
+,as chooie oo kys t'ou kys t'ou warree oo c'raad t'ou,247.54,252.61,asr,39
+,boggey feer vie again with c'raad t'ou beaghey c'raad t'ou beaghey good,253.84,259.36,asr,99
+,c'raad,264.79,265.48,asr,0
+,t'ou geearree beggey yindyssagh c'raad t'ou geearree beaghey,266.59,273.46,asr,87
+,foddey piece ta mee geearree beaghey ayns ellan,274.84,282.04,asr,67
+,feer vie ta mee geearree beaghey ayns ellan vannin,282.61,286.09,asr,100
+,ayns mannin ta mee geearree beaghey ayns ellan vannin ta mee geearree beaghey ayns mannin,287.26,292.90,asr,97
+,ass where do you want to eat wardoon tweet,294.61,297.91,asr,0
+,c'raad t'ou geearree gee shen eh c'raad t'ou geearree gee,299.23,304.93,asr,85
+,illiam tweet,305.59,307.81,asr,0
+,supply ta mee,310.45,313.21,asr,36
+,ayns laksaa er v'ou erbee illiam wanting laksey,314.29,317.80,asr,87
+,phossan ta mee geearree gee ayns laksaa feer vie ta mee geearree gee ayns laksaa wanting in laksey oo ayns mee,318.67,328.57,asr,82
+,er dys the work c'raad,331.90,334.66,asr,57
+,ta c'raad t'ee geearree,335.20,338.98,asr,36
+,gobbrag c'raad t'ee geearree gobbrag feer vie c'raad t'ee geearree gobbragh,340.06,345.19,asr,97
+,c'raad t'ee geearree gobbragh in shoprite,345.73,350.65,asr,76
+,gobbragh ayns shoprite shen eh t'ee geearree gobbragh ayns shoprite,354.25,359.02,asr,100
+,what are you using c'red t'ou gee c'red t'ou gee,361.87,367.36,asr,48
+,c'red t'ou geearree gee shen ec c'red t'ou geearree,373.27,376.93,asr,89
+,wanting reading c'red t'ou geearree gee,377.86,380.92,asr,26
+,bonnag ta mee geearree gee bonnag feer vie ta mee geearree gee bonnag,382.51,389.44,asr,91
+,dy play c'red t'ou dooyrt c'red t'ou toiggal,391.36,395.38,asr,41
+,tra t'ou geearree clea feer vie,396.01,399.97,asr,79
+,ayns c'red t'ou geearree cloie ec c'red t'ou geearree cloie warree wanting,401.20,407.83,asr,68
+,ta mee geearree cloie tustyr feer vie,409.96,416.89,asr,30
+,want to play trustyr c'raad t'ou,418.90,422.89,asr,25
+,queig c'raad t'ou geearree,427.78,430.15,asr,54
+,clea feer vie c'raad t'ou geearree cloie trustyr,430.87,436.75,asr,84
+,choud's in colby,437.44,439.66,asr,32
+,ta mee geearree cloie ayns colby shen eh ta mee geearree cloie ayns colby,442.18,448.51,asr,90

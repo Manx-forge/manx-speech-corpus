@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057596",
+  "name": "baaieagh cow house",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20country/baaieagh%20-%20cow%20house.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057596",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20country/baaieagh%20-%20cow%20house.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

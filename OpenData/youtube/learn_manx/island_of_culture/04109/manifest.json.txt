@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04109",
+  "name": "Nod oo fakin yn droghad?",
+  "source": "https://www.youtube.com/watch?v=AhoMidxeNhA",
+  "platform": "youtube",
+  "resource_id": "04109",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.27,
+  "deep_link": "https://www.youtube.com/watch?v=AhoMidxeNhA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

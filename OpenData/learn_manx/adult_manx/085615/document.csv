@@ -1,0 +1,275 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,2.11,5.38,asr,58
+,imnane lessoon jeh lesson ten,6.04,9.34,asr,83
+,cre'n oyr cre'n oyr,17.23,19.63,asr,100
+,tou gynsagh gaelg cre'n oyr t'ou gynsagh gaelg,35.41,40.09,asr,100
+,hie'n learning manx bee cosoylagh,43.69,46.39,asr,57
+,ta mee gynsagh gaelg son s'laik lhiam gaelg,55.18,58.54,asr,91
+,ta mee gynsagh gaelg son s'laik lhiam gaelg,59.35,61.48,asr,100
+,ooilley drinking cre'n,65.68,76.03,asr,0
+,tou giu cre'n oyr t'ou giu,76.51,80.02,asr,81
+,bee oo drinking ain broo cre'n,83.86,96.28,asr,12
+,cre'n oyr t'ou giu yn briw,96.04,98.68,asr,21
+,cre'n oyr t'ou giu yn broo drinking ain broo,100.24,107.20,asr,64
+,hie water giu,108.73,118.69,asr,0
+,yn broo son cha laik lhiam ushtey,118.93,121.36,asr,85
+,son cha laik lhiam ushtey working,123.37,129.55,asr,59
+,cre'n oyr t'ou gobbragh cre'n oyr t'ou gobbragh,137.65,142.21,asr,58
+,working today cre'n oyr,146.77,157.12,asr,0
+,tou gobbragh jiu cre'n oyr t'ou gobbragh jiu,157.21,161.38,asr,87
+,eh,168.31,168.40,asr,0
+,ta mee gobbragh jiu son ta mee gobbragh dagh laa,179.08,183.19,asr,93
+,ta mee gobbragh jiu son ta mee gobbragh dagh laa,184.24,186.73,asr,100
+,i'm working today beelzebub every day,191.05,193.54,asr,39
+,oh,194.65,194.71,asr,0
+,ta mee gobbragh jiu son ta mee gobbragh dagh laa,208.54,212.17,asr,93
+,agh cha laik lhiam gobbragh jedoonee,212.92,214.96,asr,66
+,ta mee gobbragh jiu son ta mee gobbragh dagh laa cha laik lhiam gobbragh jedoonee,215.98,220.69,asr,95
+,bee cre'n oyr t'eh gee,235.12,237.97,asr,0
+,bee craad,242.59,253.63,asr,0
+,ben oyr gee radio-oaylee,253.48,255.76,asr,30
+,oayllee chouds,258.31,260.89,asr,14
+,now cha nel fys aym,262.27,267.31,asr,73
+,cha nel fys aym radio-oaylee,268.00,273.76,asr,63
+,every day cha,274.72,289.81,asr,0
+,cha nel fys aym t'eh gee radio-oaylee ayns y voghrey dagh laa,289.60,293.98,asr,90
+,t'eh ayns y voghrey dagh laa,296.62,298.75,asr,60
+,bingey spotchal cre'n oyr t'eh kionnagh,303.94,316.51,asr,5
+,dys spotchal cre'n oyr t'eh chionnagh gys spotchal,316.57,320.56,asr,68
+,bingey spotchal kionnagh,327.49,341.26,asr,0
+,bacchal son s'laik lesh ghooghys spotchal ayns yn astyr,341.53,346.30,asr,61
+,t'eh kionnagh gys son s'laik lesh giu dys ayns yn astyr,347.80,351.49,asr,69
+,beeym dys spotchal bee like drinking gys,354.91,357.52,asr,57
+,afternoon on saturday kionnagh,358.27,375.52,asr,0
+,gys spotchal son s'laik lesh ghooghys,375.55,378.43,asr,36
+,jesarn t'eh kionnagh gys son s'laik lesh ghooghys ayns yn astyr jesarn,380.14,386.53,asr,80
+,watching harry posey cre'n,391.00,401.95,asr,0
+,ben oyr jeeaghyn er harry poltey,401.74,404.56,asr,62
+,cre'n oyr t'eh jeeaghyn er harry other,406.66,408.67,asr,100
+,watching harry posee like cassyl,413.11,416.59,asr,72
+,er harry other son s'laik lesh yn cashtal,427.03,430.24,asr,92
+,t'eh jeeaghyn er harry son s'laik lesh yn cashtal,431.17,433.78,asr,87
+,t'ee buy in brown braid cre'n,437.89,450.94,asr,0
+,ben oyr thie kionnagh arran dhone,450.73,453.37,asr,56
+,cre'n oyr t'ou kionnagh arran dhone brown braid bee coshee dys,454.78,462.25,asr,72
+,thie kionnagh arran dhoan son cha nel ee gee arran bane,476.41,480.49,asr,86
+,t'ou kionnagh arran oarn son cha nel eh gee arran bane,482.05,484.90,asr,78
+,choud's eh sheese bine brown braid,486.82,489.43,asr,67
+,dys yn white braid dys yn lhiettal,490.36,493.21,asr,0
+,thie kionnagh arran dhone son cha nel eh gee arran bane,504.25,508.48,asr,89
+,t'ou jannoo arran dhone son cha nel eh gee arran bane,512.44,515.41,asr,72
+,cre'n oyr thie ayns balley chashtal,529.48,532.09,asr,69
+,eh ayns balley chashtal castletown,533.95,539.47,asr,87
+,castletown now thie,541.51,555.25,asr,0
+,ayns balley chashtal son gobbragh ayns balley chashtal nish,555.28,559.99,asr,92
+,balley chashtal son t'eh gobbragh ayns balley chashtal nish,561.19,564.10,asr,80
+,cre'n oyr thie ayns doolish,578.44,580.72,asr,100
+,cre'n oyr t'ou ayns doolish sheese in douglas bee coshee,582.46,590.44,asr,72
+,bio ayns aghterbee thie,590.89,604.51,asr,0
+,hie ayns doolish son s'laik lhee shappal jesarn,604.33,608.26,asr,91
+,dys doolish son s'laik lhee shappal jesarn,609.31,611.62,asr,72
+,in port st mary cre'n,617.53,630.76,asr,0
+,fer yn oyr thie laccal beaghey ayns purt le moirrey,630.58,634.03,asr,72
+,cre'n oyr t'ou beaghey ayns purt le moirrey shee,635.41,642.22,asr,72
+,in port st mary work in port erin,643.24,646.90,asr,60
+,thie laccal beaghey ayns purt le moirrey,662.59,664.96,asr,100
+,son gobbragh ayns purt chiarn,665.62,667.84,asr,100
+,hie brown braid cre'n,672.13,686.02,asr,0
+,ben oyr ren oo kionnagh arran dhoan,685.81,688.54,asr,63
+,cre'n oyr ren oo kionnagh arran dhone brown braid,690.13,696.61,asr,75
+,bee,697.15,697.24,asr,0
+,ren mee kionnagh arran dooin son s'laik lhiam eh,710.08,713.74,asr,88
+,ren mee kionnagh arran oarn son s'laik lhiam eh gra,715.03,724.60,asr,60
+,cre'n oyr ren oo kionnagh eddyr-gree chionn,737.08,740.56,asr,77
+,dooinney kionnagh peddyr gra chionn eddyr,742.78,748.90,asr,40
+,yesterday cre'n,749.44,760.24,asr,0
+,ben oyr ren oo kionnagh eddyr goll-rish cheu jeh,760.03,763.45,asr,26
+,cre'n oyr ren eh kionnagh ren oo kionnagh,765.46,786.79,asr,53
+,bree chionn son ta'n moddey echey,787.15,789.82,asr,82
+,ren oo kionnagh son ta moddey echey,791.20,793.66,asr,65
+,ren oo kionnagh son ta moddey echey nish,810.52,814.84,asr,63
+,ren oo kionnagh son ta moddey echey nish,816.04,818.62,asr,67
+,boy,823.72,824.17,asr,0
+,breinnee kionnagh with scores kionnagh with,835.57,840.28,asr,47
+,son saturday cre'n oyr ren,844.96,857.65,asr,0
+,ren ee kionnagh whisky as jesarn,857.50,859.96,asr,67
+,cre'n oyr ren oo kionnagh whisky as jesarn,862.06,864.01,asr,95
+,bee coshee as ec ren,870.34,887.47,asr,0
+,kionnagh with scores son ta kayt dec nish,887.83,891.49,asr,57
+,ren ee kionnagh whiskey son ta kiart ec nish,892.27,894.43,asr,81
+,play music cre'n oyr ren oo cloie,900.52,914.29,asr,0
+,kiaull cre'n oyr ren oo cloie kiaull,914.35,917.95,asr,62
+,hie play music guitar now,921.07,924.88,asr,39
+,ren mee cloie kiaull son guitar aym nish,938.41,942.22,asr,83
+,the guitar aym nish mie,944.08,949.33,asr,30
+,yn folt aym yn folt aym,956.02,958.66,asr,58
+,hie mie s'laik lhiam yn,961.60,971.74,asr,0
+,va ny folt aym s'laik lhiam yn folt aym,971.62,974.20,asr,82
+,bee oo lhaih mie laik,977.35,988.48,asr,0
+,bac-lhiat yn folt aym choud's,988.39,994.15,asr,44
+,day laa,995.80,1005.04,asr,0
+,ta'n folt aym jiu laik lhiat,1005.79,1008.10,asr,100
+,jiu just say,1008.67,1012.63,asr,0
+,aye s'laik lhiam,1013.41,1023.79,asr,25
+,yn folt ayd s'laik lhiam yn folt ayd,1024.03,1027.42,asr,100
+,bunnys s'laik,1032.07,1045.03,asr,0
+,illiam yn folt ayd jiu,1045.18,1047.10,asr,0
+,s'laik lhiam yn folt ayd jiu hie,1048.00,1053.13,asr,78
+,the day its very good s'laik,1054.12,1065.04,asr,0
+,illiam yn folt ayd jiu t'eh feer vie,1065.19,1068.40,asr,83
+,ta jiu t'eh feer vie mie,1069.93,1074.64,asr,60
+,yn thie aym yn thieyn,1082.59,1084.81,asr,100
+,aye dont like mie choud's,1087.72,1089.97,asr,76
+,cha laik lhiam yn thie aym,1097.62,1100.05,asr,100
+,choud's eh like my,1104.25,1106.38,asr,65
+,cha laik lhiam yn thie aym son t'eh ayns doolish,1119.94,1123.63,asr,89
+,cha laik lhiam yn thieyn son t'eh ayns doolish hie,1125.01,1130.29,asr,40
+,veg mee house in douglas douglas cha laik lhiam,1130.74,1147.06,asr,0
+,yn thie aym son t'eh ayns doolish,1147.15,1150.03,asr,67
+,as cha laik lhiam doolish cha laik lhiam yn thieyn son t'eh ayns doolish as cha laik lhien doolish,1150.54,1157.65,asr,80
+,giu lhaih chouds laik lhiat yn,1161.55,1172.59,asr,0
+,ta'n thie aym laik lhiat yn thieyn,1172.41,1174.69,asr,83
+,s'laik lhiam yn thie ayd s'laik lhiam yn thie ayd,1185.37,1189.03,asr,100
+,s'laik lhiam yn thie ayd feer vie s'laik lhiam yn thie ayd t'eh feer vie,1205.83,1212.13,asr,96
+,mie house vel,1218.37,1231.21,asr,0
+,vel oo laccal kionnagh yn thie aym,1231.12,1233.55,asr,60
+,vel oo laccal kionnagh yn thieyn now,1234.48,1240.15,asr,59
+,cha nel cha nel,1243.09,1245.07,asr,100
+,cha nel cha nel mee laccal kionnagh yn thie ayd,1261.30,1264.93,asr,100
+,cha nel cha nel mee laccal kionnagh yn thie ayd,1265.80,1267.81,asr,93
+,now we do want to buy your house,1270.00,1272.34,asr,24
+,gys in ramsey cha,1272.70,1285.15,asr,0
+,cha nel cha nel mee laccal kionnagh yn thie ayd,1285.00,1288.99,asr,100
+,son te ayns rhumsaa cha nel cha nel mee laccal kionnagh yn toshiaght son t'eh ayns rhumsaa,1289.77,1295.71,asr,82
+,want to buy your house in ramsey,1299.73,1302.04,asr,21
+,castletown cha,1303.03,1327.18,asr,0
+,cha nel cha nel mee laccal kionnagh yn thie ayd,1327.00,1330.66,asr,100
+,son te ayns rhumsaa as ta mee gobbragh ayns balley chashtal,1331.26,1336.00,asr,97
+,cha nel cha nel mee laccal kionnagh yn thie ayd son t'eh ayns rhumsaa as ta mee gobbragh ayns balley chashtal,1337.92,1343.65,asr,95
+,in douglas ayns doolish,1347.67,1354.66,asr,53
+,ayns doolish ta,1355.23,1366.33,asr,27
+,va mee ayns doolish ta mee ayns doolish,1367.11,1370.11,asr,92
+,vel yn thie ayns doolish,1382.50,1385.08,asr,100
+,vel yn thie ayns doolish ta,1386.52,1403.20,asr,37
+,yn thie ayns doolish,1404.49,1406.53,asr,91
+,ta ta'n thie ayns doolish vel,1407.40,1424.35,asr,100
+,yn thie ayd ayns doolish,1424.47,1427.11,asr,83
+,hie eh dys doolish mie,1428.85,1433.53,asr,36
+,ta thie aym ayns doolish,1444.45,1448.14,asr,100
+,ta ta'n thie aym ayns doolish as,1448.92,1453.42,asr,77
+,yn,1465.54,1465.60,asr,0
+,yn thie ayd bane vel yn thie-bane,1465.51,1468.39,asr,39
+,now mie house,1471.72,1473.73,asr,77
+,walt cha nel,1474.24,1483.60,asr,0
+,cha nel yn thie aym bane,1484.26,1486.57,asr,74
+,cha nel cha nel yn thieyn bane mie,1487.35,1494.49,asr,91
+,hooar,1504.48,1504.69,asr,0
+,cha nel cha nel yn thieyn bane,1507.72,1511.02,asr,64
+,ta'n thieyn bwee cha nel cha nel yn thieyn bentyn thieyn bwee,1511.71,1516.60,asr,89
+,ta ram ren oo goll dys rhumsaa,1521.76,1531.57,asr,60
+,vel oo goll dys rhumsaa ramsey,1532.68,1539.01,asr,39
+,ren mee goll dys rhumsaa ren mee goll dys rhumsaa,1545.76,1549.90,asr,89
+,ramsey ren,1555.84,1567.27,asr,0
+,ren yn moddey goll dys rhumsaa,1567.09,1569.31,asr,70
+,foddey goll dys rhumsaa neesht dy dog went ramsey,1570.57,1576.72,asr,64
+,ren yn moddey goll dys rhumsaa,1587.22,1589.65,asr,100
+,ren yn moddey goll dys rhumsaa dog go to ramsey,1591.39,1599.61,asr,43
+,ren yn moddey goll dys rhumsaa,1613.68,1616.65,asr,88
+,goll dys rhumsaa dog,1618.51,1625.98,asr,65
+,ta ramsey ren yn moddey,1626.40,1636.87,asr,0
+,goll dys rhumsaa ren ren yn moddey goll dys rhumsaa,1637.14,1641.67,asr,77
+,but dog the fish ren,1646.17,1658.23,asr,0
+,ren yn moddey ayd gee yn eeast,1658.08,1660.84,asr,70
+,mie dog dinsh cha ren cha,1669.21,1682.77,asr,0
+,cha ren yn moddey aym gee yn eeast,1682.59,1685.38,asr,87
+,cha ren cha ren yn moddey aym gee yn dog,1686.19,1692.85,asr,71
+,ren yn moddey gee yn,1706.17,1708.54,asr,59
+,vel yn moddey er-giyn neesht aym neesht,1710.52,1715.71,asr,31
+,mie dog fish,1716.43,1718.65,asr,73
+,rheynn ren yn moddey aym gee yn eeast ayd,1729.12,1733.29,asr,100
+,ren yn moddey aym gee yn eeast ayd eh,1734.97,1739.65,asr,91
+,kiart yn kayt echey,1740.64,1749.04,asr,0
+,yn kayt echey kiart,1750.33,1755.67,asr,47
+,laik lhiat yn kayt echey,1763.41,1765.54,asr,100
+,laik lhiat yn kayt echey kiart,1766.05,1771.33,asr,61
+,cha laik lhiam yn kayt echey,1780.45,1782.79,asr,100
+,gimman kied echey kiart,1784.14,1789.60,asr,33
+,as it eats my fish cha laik lhiam,1790.71,1806.28,asr,0
+,yn kayt echey son ren eh gee yn eeasteyr,1806.49,1810.72,asr,82
+,gee yn eeast aym hie,1813.87,1818.31,asr,70
+,kiart bee cosoyt fish,1819.24,1822.57,asr,36
+,dog cha laik lhiam,1824.73,1840.48,asr,0
+,yn kayt echey son ren eh gee yn eeast aym,1840.63,1844.35,asr,85
+,share lhiam yn moddey echey ec a,1844.95,1849.15,asr,55
+,share lhiam yn moddey echey dog,1850.92,1858.99,asr,82
+,ta'n moddey echey ta'n moddey echey,1867.69,1871.62,asr,85
+,yn,1894.21,1894.39,asr,0
+,yn moddey echey yn kayt echey,1894.24,1897.33,asr,79
+,lhiat yn moddey echey yn kied echey share,1899.10,1915.21,asr,76
+,bare lhiam yn moddey echey share lhiam yn moddey echey,1915.00,1918.96,asr,86
+,as v'eh as kiart,1922.65,1925.14,asr,44
+,share lhiam yn moddey echey,1942.03,1944.16,asr,100
+,son ren yn kayt echey gee yn eeast aym,1944.82,1948.24,asr,100
+,share lhiam yn moddey echey son ren yn kayt echey gee yn eeast aym,1949.38,1952.50,asr,82
+,birdies dog bee as kiart myr fish yesterday,1955.59,1959.37,asr,74
+,yn moddey echey son ren yn kayt echey,1977.79,1981.00,asr,100
+,share lhiam yn moddey echey son,1983.67,1985.08,asr,91
+,eeast aym jeh c'raad te c'raad te,1986.31,1996.42,asr,64
+,the cat cre ta'n kayt,1999.63,2008.87,asr,0
+,c'raad ta'n kayt cat,2009.53,2014.99,asr,100
+,yn kayt echey c'raad ta'n kayt echey,2023.87,2026.15,asr,82
+,as kiart as in the house ten,2030.32,2042.74,asr,0
+,yn kayt echey ayns y thie,2042.65,2045.23,asr,86
+,ayns y thie is in his house,2047.90,2054.89,asr,59
+,ta thie echey ayns y thie echey,2071.27,2074.66,asr,60
+,ayns y thie echey gee,2095.06,2097.49,asr,76
+,bee yees dog,2101.06,2106.52,asr,36
+,vel moddey echey va moddey echey,2113.27,2115.85,asr,84
+,ta ta moddey echey ta moddey echey,2126.56,2129.74,asr,92
+,te,2144.74,2144.86,asr,0
+,yn moddey echey c'raad ta'n moddey echey,2144.86,2147.59,asr,90
+,cha nel fys aym cha nel fys aym,2155.45,2158.42,asr,100
+,cha nel fys aym agh cha nel eh ayns y thie echey,2176.15,2180.29,asr,100
+,lhieggey yn,2183.65,2195.20,asr,0
+,yn daa wheeyl eck yn derrey wheeyl eck,2195.11,2197.90,asr,72
+,hie want to buy laccal,2201.86,2215.42,asr,0
+,balt kionnagh yn daa eck,2215.24,2217.82,asr,54
+,ta mee laccal kionnagh yn daa-wheeyl eck dy,2218.72,2227.24,asr,67
+,vel oo laccal kionnagh yn thie,2236.87,2239.03,asr,100
+,vel oo laccal kionnagh yn thie house,2239.75,2247.04,asr,41
+,vel oo laccal kionnagh yn thie eck lurg jinnagh yn thie eck,2256.64,2260.78,asr,100
+,cha nel cha nel now,2268.82,2273.59,asr,86
+,cha nel agh ta mee laccal kionnagh yn daa-wheeyl eck,2286.31,2290.78,asr,87
+,ta mee laccal kionnagh yn daa-wheeyl eck ching,2292.34,2304.43,asr,79
+,balloo ching is the,2304.97,2308.42,asr,17
+,vel yn moddey ching moddey,2318.26,2320.87,asr,68
+,dog vel yn moddey eck ching,2324.23,2334.10,asr,70
+,vel yn moddey ching dog as,2334.91,2340.28,asr,40
+,cha nel yn moddey ec ching,2350.84,2353.15,asr,100
+,vel yn moddey ching bio,2354.05,2360.59,asr,30
+,its a little bit angry cha,2362.30,2375.29,asr,0
+,cha nel yn moddey eck agh,2375.14,2378.59,asr,50
+,red beg corree cha nel moddey ching agh t'eh red beg corree,2379.34,2383.99,asr,100
+,vel yn moddey doo,2399.17,2401.12,asr,85
+,vel yn moddey doo ta,2402.56,2419.45,asr,44
+,ta moddey doo ta ta moddey doo,2419.90,2422.93,asr,79
+,neesht ta,2425.15,2447.77,asr,0
+,ta'n moddey doo agh ta'n kayt eck dooanas bane,2448.40,2452.54,asr,89
+,ta moddey doo agh ta'n dooinney spain,2453.71,2456.23,asr,49
+,vel gys eck gys eck,2467.81,2470.60,asr,64
+,ta t'eh boayl braew eck,2483.05,2485.24,asr,25
+,ta t'eh boayl braew eck neesht,2485.78,2489.44,asr,65
+,queig ta,2490.88,2500.81,asr,0
+,t'eh boayl braew ayns jurby,2501.59,2503.93,asr,68
+,ta t'eh braew ec ayns jurby,2504.86,2506.90,asr,65
+,oh,2509.36,2509.54,asr,0
+,ren ee kionnagh yn gys eck,2532.61,2534.98,asr,73
+,kionnaghyn gys eck hie,2536.21,2540.53,asr,38
+,thebike in port erin cha,2542.93,2559.70,asr,0
+,cha nel fys aym agh ren ee kionnagh yn daa-wheeyl eck ayns purt chiarn,2559.52,2565.25,asr,100
+,v'ee kionnagh yn daa-wheeyl ec ayns purt chiarn cre'n oyr ren ee goll magh,2567.29,2587.69,asr,27
+,goll magh she went out bee shooyl dys ayns,2589.55,2596.36,asr,65
+,bee goll magh son cha laik lhee gee,2611.84,2614.87,asr,87
+,bee coshee dys like reading in her house,2619.97,2623.27,asr,45
+,bee goll magh son cha laik lhee gee ayns y thie eck,2636.14,2640.61,asr,82
+,va mee goll magh son cha laik lhee gee as y thie eck,2641.48,2643.94,asr,82

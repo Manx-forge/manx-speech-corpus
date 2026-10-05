@@ -1,0 +1,14 @@
+{
+  "ident": "speech-071395",
+  "name": "american_inheritance_final_copy_10",
+  "source": "https://www.learnmanx.com/media/American%20Inheritance/american%20inheritance%20final%20copy%2010.mp3",
+  "platform": "learn_manx",
+  "resource_id": "071395",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 139.44,
+  "deep_link": "https://www.learnmanx.com/media/American%20Inheritance/american%20inheritance%20final%20copy%2010.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

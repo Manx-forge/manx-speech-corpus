@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,dy,0.12,0.21,aligned
+0,1,beign,0.21,0.69,aligned
+0,2,ching,0.69,1.23,aligned

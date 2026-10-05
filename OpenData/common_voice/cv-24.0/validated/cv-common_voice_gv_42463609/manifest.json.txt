@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463609",
+  "name": "\"Yn reih red dy yannoo rish seaghynyn; dy yannoo ad ainjysagh er bannaghtyn.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463609",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.0,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

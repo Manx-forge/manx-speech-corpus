@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0152",
+  "name": "Text Reading",
+  "source": "https://clilstore.eu/wordlink/?navsize=1&sl=gv&url=https://clilstore.eu/clilstore/page.php?id=8670{and}hl=en",
+  "platform": "clilstore",
+  "resource_id": "0152",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 611.14,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

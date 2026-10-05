@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057875",
+  "name": "nannys pineapple",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/nannys%20-%20pineapple.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057875",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.02,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/nannys%20-%20pineapple.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

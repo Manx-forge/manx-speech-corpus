@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42464036",
+  "name": "Shen ny ta mee er reayll ry-hoi earish seaghyn, ry-hoi laa cragh as caggey?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42464036",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.388,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

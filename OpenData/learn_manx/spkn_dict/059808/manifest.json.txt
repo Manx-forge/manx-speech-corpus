@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059808",
+  "name": "traval trowel",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/traval%20-%20trowel.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059808",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.25,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/traval%20-%20trowel.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

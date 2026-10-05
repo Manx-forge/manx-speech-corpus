@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058098",
+  "name": "pabyr-aitt comic",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/pabyr-aitt%20-%20comic.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058098",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.28,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/pabyr-aitt%20-%20comic.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

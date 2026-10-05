@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42496113",
+  "name": "Tra nee oo my niartaghey: nee'm gimmeeaght ayns my hie lesh cree ynrick.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42496113",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.056,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

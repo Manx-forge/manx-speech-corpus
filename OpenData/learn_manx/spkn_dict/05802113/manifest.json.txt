@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05802113",
+  "name": "Bee ee ayns Rhumsaa",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05802113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.37,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

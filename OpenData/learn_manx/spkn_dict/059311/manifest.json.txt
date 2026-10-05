@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059311",
+  "name": "moogheyder-aile fire engine",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/moogheyder-aile%20-%20fire%20engine.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059311",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.57,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Transport/moogheyder-aile%20-%20fire%20engine.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

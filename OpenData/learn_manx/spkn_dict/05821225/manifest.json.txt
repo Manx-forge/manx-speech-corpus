@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05821225",
+  "name": "Ta mee cummal ayns Doolish I live in Douglas",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Ta%20mee%20cummal%20ayns%20Doolish.m4a",
+  "platform": "learn_manx",
+  "resource_id": "05821225",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.25,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Ta%20mee%20cummal%20ayns%20Doolish.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

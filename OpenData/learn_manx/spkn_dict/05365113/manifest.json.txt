@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05365113",
+  "name": "Row Michael Dunlop feer tappee?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05365113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.79,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

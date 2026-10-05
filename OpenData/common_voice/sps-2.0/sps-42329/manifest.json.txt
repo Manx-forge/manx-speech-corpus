@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42329",
+  "name": "Cre cho mennick's t'ou giu caffee?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42329",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 31.788,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

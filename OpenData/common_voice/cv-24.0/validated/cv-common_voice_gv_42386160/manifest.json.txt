@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386160",
+  "name": "As ver oo lhiat ny mec echey, as ver oo coamraghyn orroo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386160",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.516,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

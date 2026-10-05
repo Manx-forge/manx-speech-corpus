@@ -1,0 +1,14 @@
+{
+  "ident": "speech-010224",
+  "name": "A Gaelic Journey (Manx version)_ Benbecula to Ranafast",
+  "source": "https://www.youtube.com/watch?v=q70Hf8EsINg",
+  "platform": "youtube",
+  "resource_id": "010224",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 599.49,
+  "deep_link": "https://www.youtube.com/watch?v=q70Hf8EsINg&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

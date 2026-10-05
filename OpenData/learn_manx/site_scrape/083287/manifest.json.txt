@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083287",
+  "name": "intermediate_lesson_11",
+  "source": "https://www.learnmanx.com/media/Files/intermediate%20lesson%2011.mp3",
+  "platform": "learn_manx",
+  "resource_id": "083287",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 146.94,
+  "deep_link": "https://www.learnmanx.com/media/Files/intermediate%20lesson%2011.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

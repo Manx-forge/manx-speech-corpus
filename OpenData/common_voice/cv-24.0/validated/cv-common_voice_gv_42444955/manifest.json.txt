@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42444955",
+  "name": "Cur geill da m'accan: son dy injil ta mee er duittym.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42444955",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.516,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

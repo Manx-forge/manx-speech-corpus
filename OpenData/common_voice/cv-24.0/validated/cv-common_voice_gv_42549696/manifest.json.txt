@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42549696",
+  "name": "Reesht t'eh jannoo yn aasagh ny loghan ushtey: as geillyn jeh thalloo chirrym.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42549696",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.2,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42533920",
+  "name": "Veagh ee berçhagh dy liooar mannagh beagh ee baarail dagh ping t'ee cosney.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42533920",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.408,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

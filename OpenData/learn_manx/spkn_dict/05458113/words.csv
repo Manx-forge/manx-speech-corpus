@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,jean,0.12,0.30,aligned
+0,1,orry,0.33,0.60,aligned
+0,2,goll,0.63,0.81,aligned
+0,3,dy,0.81,0.93,aligned
+0,4,valley,0.93,1.38,aligned

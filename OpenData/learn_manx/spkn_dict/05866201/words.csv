@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,corp,0.63,1.17,aligned
+0,1,body,2.07,2.46,aligned
+0,2,corp,2.94,3.45,aligned

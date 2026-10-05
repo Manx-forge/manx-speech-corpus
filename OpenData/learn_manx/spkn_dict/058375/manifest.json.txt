@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058375",
+  "name": "jerdein thursday",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jerdein%20-%20thursday.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058375",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jerdein%20-%20thursday.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

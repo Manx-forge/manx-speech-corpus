@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42499359",
+  "name": "Cha vel ny smoo dy aggle aynyd na ta ayns clagh vane",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42499359",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.624,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

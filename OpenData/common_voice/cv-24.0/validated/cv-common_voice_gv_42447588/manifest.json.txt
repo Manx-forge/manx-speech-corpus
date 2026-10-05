@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447588",
+  "name": "Cha vel eh cheet jesh da moyrn dy yannoo red erbee ta laccal leshtal",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447588",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.812,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

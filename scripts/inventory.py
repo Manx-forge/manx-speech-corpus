@@ -19,9 +19,10 @@ FORVO = MR / "datasets/manx_source_comparison/gv.metadata.csv"
 SEGMENTS = MR / "datasets/all_utts/16khz/wavs"  # held-out Loayr test recordings exist only as cuts here: excluded (Chris)
 CACHE = Path("/store/store3/data/manx_speech_corpus/cache")
 YT_AUDIO = CACHE / "audio"  # YouTube audio fetched with yt-dlp, for alignment only (never published)
-LOAYR = CACHE / "loayr/recordings_metadata.csv"
-CORPUS = Path(__file__).resolve().parents[1] / "external/manx-search-data/OpenData"
-OUT = Path(__file__).resolve().parents[1] / "registers"
+REPO = Path(__file__).resolve().parents[1]
+LOAYR = REPO / "loayr/recordings_metadata.csv"  # Manx-forge/loayr, imported (D35)
+CORPUS = REPO / "external/manx-search-data/OpenData"
+OUT = REPO / "registers"
 
 COLS = ["id", "source", "collection", "title", "date", "domain", "style", "duration_s", "audio", "media_url", "transcript",
         "transcript_form", "url", "link_class", "video_id", "dup_of", "corpus_work", "in_master"]
@@ -70,6 +71,12 @@ def transcript_form(p):
     if not p:
         return ""
     return "raw" if re.search(r"[a-z]", p.read_text(encoding="utf-8", errors="replace")) else "normalised"
+
+
+def words(p):
+    p = Path(p)
+    rows = csv.DictReader(open(p, encoding="utf-8-sig")) if p.name == "document.csv" else [{"Manx": p.read_text(encoding="utf-8")}]
+    return sum(len(r["Manx"].split()) for r in rows)
 
 
 def corpus_works():
@@ -152,6 +159,8 @@ def main():
         v = YT_ID.search(r["url"])
         r["video_id"] = v.group(1) if v else ""
         r["corpus_work"] = works[r["video_id"]][0] if r["video_id"] in works else ""
+        if r["corpus_work"] and r.get("transcript_form") == "normalised" and words(works[r["video_id"]][3]) >= 0.9 * words(r["transcript"]):
+            r["transcript"], r["transcript_form"] = str(works[r["video_id"]][3]), "raw"  # cased, with English (D17)
         if r["video_id"]:
             r["dup_of"] = first_by_video.setdefault(r["video_id"], r["id"])
             if r["dup_of"] == r["id"]:

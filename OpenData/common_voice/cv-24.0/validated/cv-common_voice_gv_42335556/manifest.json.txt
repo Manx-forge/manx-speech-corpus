@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42335556",
+  "name": "Ta'n scornagh oc oaie foshlit: t'ad brynneraght lesh nyn jengey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42335556",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.632,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051360113",
+  "name": "Cha mie lhiam Marmite",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051360113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.7,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

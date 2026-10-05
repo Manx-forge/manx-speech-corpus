@@ -1,0 +1,14 @@
+{
+  "ident": "speech-028919",
+  "name": "How to use she & cha nee in Manx Gaelic",
+  "source": "https://www.youtube.com/watch?v=Zthow_1j7cw",
+  "platform": "youtube",
+  "resource_id": "028919",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 140.31,
+  "deep_link": "https://www.youtube.com/watch?v=Zthow_1j7cw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

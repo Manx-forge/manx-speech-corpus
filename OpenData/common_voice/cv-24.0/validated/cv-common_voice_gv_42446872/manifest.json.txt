@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446872",
+  "name": "\"Myr ushtey feayr da dooinney paagh; myr shen ta naight mie veih cheer foddey.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446872",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.828,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

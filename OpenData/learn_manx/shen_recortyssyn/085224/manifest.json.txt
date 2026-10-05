@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085224",
+  "name": "doug faragher prouncing the weather",
+  "source": "https://www.learnmanx.com/media/Pronouning%20Dictionary/doug%20faragher%20prouncing%20the%20weather.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085224",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 125.47,
+  "deep_link": "https://www.learnmanx.com/media/Pronouning%20Dictionary/doug%20faragher%20prouncing%20the%20weather.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

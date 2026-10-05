@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059132",
+  "name": "brattagh flag",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20town/brattagh%20-%20flag.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059132",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20town/brattagh%20-%20flag.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

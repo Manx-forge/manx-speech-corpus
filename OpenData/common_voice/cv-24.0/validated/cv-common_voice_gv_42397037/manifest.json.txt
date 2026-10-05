@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42397037",
+  "name": "Cur-my-ner, nish ta mee er vosley my veeal, ver my hengey magh my ghoan.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42397037",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.308,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

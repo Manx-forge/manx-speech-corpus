@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385892",
+  "name": "Cha vel Jee croie dy chlashtyn, ny croie dy choyrt.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385892",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.868,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,Ta,1.23,1.38,aligned
+0,1,lane,1.38,1.86,aligned
+0,2,caillit,1.86,2.61,aligned
+0,3,eddyr,2.70,3.03,aligned
+0,4,y,3.03,3.12,aligned
+0,5,laue,3.12,3.66,aligned
+0,6,as,3.81,4.05,aligned
+0,7,y,4.05,4.14,aligned
+0,8,veeal,4.14,4.56,aligned

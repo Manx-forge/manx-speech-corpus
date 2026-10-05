@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059014",
+  "name": "rugbee rugby",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/rugbee%20-%20rugby.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059014",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.81,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/rugbee%20-%20rugby.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

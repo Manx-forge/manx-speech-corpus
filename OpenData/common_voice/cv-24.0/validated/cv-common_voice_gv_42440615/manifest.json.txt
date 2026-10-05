@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42440615",
+  "name": "Eisht dooyrt eh roo, Nee ashoon girree-magh noi ashoon, as reeriaght noi reeriaght.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42440615",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.28,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

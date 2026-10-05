@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057323",
+  "name": "eean-guiy gosling",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/eean-guiy%20-%20gosling.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057323",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.2,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Birds/eean-guiy%20-%20gosling.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

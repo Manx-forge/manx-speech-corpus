@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,t'eh,6.42,6.60,aligned
+0,1,feayr,6.60,6.90,aligned
+0,2,agh,6.90,7.14,aligned
+0,3,cha,7.14,7.23,aligned
+0,4,nel,7.23,7.41,aligned
+0,5,eh,7.41,7.50,aligned
+0,6,rastagh,7.50,8.10,aligned
+0,7,t'eh,14.46,14.64,aligned
+0,8,feayr,14.64,14.94,aligned
+0,9,agh,14.94,15.18,aligned
+0,10,cha,15.18,15.27,aligned
+0,11,nel,15.27,15.45,aligned
+0,12,eh,15.45,15.54,aligned
+0,13,rastagh,15.54,16.14,aligned

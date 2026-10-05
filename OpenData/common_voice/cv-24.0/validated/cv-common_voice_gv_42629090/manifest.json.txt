@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42629090",
+  "name": "Yn chooish v'aym's ayns laue va shoh - yn chay noa t'ad troggal ayns Laksaa.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42629090",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.416,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

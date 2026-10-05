@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42629086",
+  "name": "Yiowmayd aashagh yn raad ta'n iudyr er ve.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42629086",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.076,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

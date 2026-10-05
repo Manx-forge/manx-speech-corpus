@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,mie,0.24,0.51,aligned
+0,1,lesh,0.51,0.78,aligned
+0,2,voirrey,0.78,1.08,aligned
+0,3,shocklaid,1.08,1.77,aligned

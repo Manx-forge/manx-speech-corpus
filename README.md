@@ -21,3 +21,5 @@ Status: under construction. See [docs/PLAN.md](docs/PLAN.md).
 | `registers/` | master recording inventory, link register |
 | `scripts/` | build pipeline (inventory, ASR, alignment, export, link checks) |
 | `reports/` | per-phase build reports |
+| `loayr/` | the Loayr Manx speech evaluation dataset (imported from `Manx-forge/loayr`) |
+| `automatic_transcriptions/` | earlier TDNN transcriptions of Abbyr Shen Reesht (imported from `Manx-forge/automatic_transcriptions`) |

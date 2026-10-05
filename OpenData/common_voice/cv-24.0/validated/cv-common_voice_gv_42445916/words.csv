@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,Cha,0.72,0.81,aligned
+0,1,vel,0.81,1.05,aligned
+0,2,mee,1.05,1.23,aligned
+0,3,er,1.23,1.32,aligned
+0,4,chur,1.32,1.59,aligned
+0,5,saynt,1.59,1.95,aligned
+0,6,da,1.95,2.07,aligned
+0,7,"argid,",2.13,2.58,aligned
+0,8,ny,2.64,2.79,aligned
+0,9,"airh,",2.82,3.12,aligned
+0,10,ny,3.18,3.33,aligned
+0,11,cooid,3.33,3.63,aligned
+0,12,ghooinney,3.63,4.02,aligned
+0,13,erbee.,4.02,4.29,aligned

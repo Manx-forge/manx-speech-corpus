@@ -1,0 +1,26 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,yeesey cooinee orrym,2.02,4.84,asr,95
+,tra hig oo gys dty reeriaght,6.16,9.13,asr,45
+,yeesey cooinee orrym,11.08,13.72,asr,95
+,tra hig oo gys dty reeriaght,14.86,17.71,asr,100
+,yeesey coonee,20.95,24.22,asr,0
+,tra hig oo gys yee,26.05,32.26,asr,32
+,tra hig oo gys veraaree agh yee,37.63,44.44,asr,0
+,cooinee orrym tra,46.51,49.81,asr,0
+,yeesey,54.91,55.90,asr,0
+,sunny orrym tra hig,58.00,61.42,asr,0
+,bannee yn chiarn my annym,70.69,73.78,asr,52
+,as ennym casherick yee,75.01,78.07,asr,87
+,bannee yn chiarn my annym,80.05,83.02,asr,100
+,ta leeideil mee gys y fea,84.16,87.19,asr,91
+,bannee yn chiarn my annym as annym casheric yee bannee,90.19,103.24,asr,0
+,ta leeideil mee ga sy vea bannee yn chiarn,108.37,117.61,asr,0
+,as ta,121.87,123.31,asr,60
+,ta mee gaase er ve,135.55,138.31,asr,0
+,gowjee arraneyn-moyllee,145.12,147.76,asr,81
+,arraneyn gys y chiarn,148.66,150.70,asr,86
+,arraneyn moddee arraneyn gys y chiarn,153.34,157.63,asr,88
+,bee arraneyn moyllee,162.34,164.14,asr,0
+,er y chiarn gow-jee,168.43,171.82,asr,0
+,chiarn gow-jee,178.54,181.66,asr,0
+,foddee arraneyn gys y chiarn gow-jee,184.36,191.47,asr,0

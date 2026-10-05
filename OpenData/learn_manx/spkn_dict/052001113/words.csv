@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,traa,0.00,0.45,aligned
+0,1,dy,0.45,0.54,aligned
+0,2,gholl,0.54,0.75,aligned
+0,3,dy,0.75,0.90,aligned
+0,4,valley,0.90,1.41,aligned

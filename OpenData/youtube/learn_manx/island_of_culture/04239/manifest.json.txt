@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04239",
+  "name": "Cha nel mee ayns Colby nish as cha row mee ayns Colby jea",
+  "source": "https://www.youtube.com/watch?v=bp8tbNJrUBI",
+  "platform": "youtube",
+  "resource_id": "04239",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.22,
+  "deep_link": "https://www.youtube.com/watch?v=bp8tbNJrUBI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

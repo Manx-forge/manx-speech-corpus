@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051433113",
+  "name": "C'raad ta'n moddey elley?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051433113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.39,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04245",
+  "name": "S'mie lhiam gobbraghey er y cheayn",
+  "source": "https://www.youtube.com/watch?v=4wiKikgi2Xk",
+  "platform": "youtube",
+  "resource_id": "04245",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.26,
+  "deep_link": "https://www.youtube.com/watch?v=4wiKikgi2Xk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

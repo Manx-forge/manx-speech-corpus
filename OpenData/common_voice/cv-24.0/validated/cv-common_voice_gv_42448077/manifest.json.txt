@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448077",
+  "name": "\"Ta jymmoose red eulyssagh, as corree mee-reiltagh; agh quoi oddys shassoo roish troo?\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448077",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.748,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

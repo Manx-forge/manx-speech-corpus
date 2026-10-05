@@ -1,0 +1,8 @@
+line,idx,word,start,end,status
+0,0,bee,0.00,0.24,aligned
+0,1,oo,0.24,0.33,aligned
+0,2,ec,0.33,0.51,aligned
+0,3,yn,0.51,0.63,aligned
+0,4,thie,0.63,1.05,aligned
+0,5,ayd,1.05,1.23,aligned
+0,6,mairagh,1.23,1.86,aligned

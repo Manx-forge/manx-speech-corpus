@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386241",
+  "name": "T'eh tilgey sniaghtey myr ollan: as skeayley yn lheeah-rio myr leoie.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386241",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.696,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385388",
+  "name": "Dy livrey oo veih raad y drogh-ghooinney, veih'n dooinney ta loayrt goan cluicagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385388",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.424,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

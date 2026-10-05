@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04171",
+  "name": "Jagh oo dys Crosby jea? Cha jagh",
+  "source": "https://www.youtube.com/watch?v=O0DMU50nFmA",
+  "platform": "youtube",
+  "resource_id": "04171",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.41,
+  "deep_link": "https://www.youtube.com/watch?v=O0DMU50nFmA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

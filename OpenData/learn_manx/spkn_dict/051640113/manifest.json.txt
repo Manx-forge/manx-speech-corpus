@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051640113",
+  "name": "Jinnagh oo gimman harrish y clieau feer tappee?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051640113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.93,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

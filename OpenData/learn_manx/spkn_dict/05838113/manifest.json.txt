@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05838113",
+  "name": "er y fa nagh vel Voirrey cummal ayns Doolish",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05838113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.81,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

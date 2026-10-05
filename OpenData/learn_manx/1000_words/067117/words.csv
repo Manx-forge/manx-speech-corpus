@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,Cloie,1.20,1.74,aligned
+0,1,Golf,2.43,2.73,aligned
+0,2,Feer,3.39,3.78,aligned
+0,3,vie,3.78,4.17,aligned
+0,4,Nod,4.77,4.92,aligned
+0,5,oo,4.92,5.01,aligned
+0,6,cloie,5.01,5.25,aligned
+0,7,golf,5.25,5.52,aligned
+0,8,feer,5.55,5.82,aligned
+0,9,vie?,5.82,6.15,aligned

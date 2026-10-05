@@ -1,0 +1,14 @@
+{
+  "ident": "speech-02871",
+  "name": "In Conversation with Claudia K�nig_ Free time",
+  "source": "https://www.youtube.com/watch?v=GPh08KhVLtU",
+  "platform": "youtube",
+  "resource_id": "02871",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 33.97,
+  "deep_link": "https://www.youtube.com/watch?v=GPh08KhVLtU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,18 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon feed lesson,0.37,2.68,asr,100
+,clag cre'n,4.51,7.06,asr,100
+,nane er y chlag nane,9.34,12.61,asr,67
+,jees tree,14.08,16.18,asr,0
+,kiare queig,17.47,19.54,asr,100
+,she ta nane er y chlag,21.04,24.76,asr,88
+,ta jees er y chlag t'eh tree er y chlag,25.93,29.23,asr,92
+,kiare er y chlag t'eh queig er y chlag,30.79,34.12,asr,87
+,shey er y chlag cre'n traa t'eh nish,35.62,40.12,asr,60
+,cha nel nane er y chlag foast cre'n traa v'eh ayns shoh er,42.46,48.04,asr,90
+,v'eh ayns shen ec shey er y chlag nagh row eh ayns shen,50.44,55.45,asr,100
+,ec queig er y chlag c'raad v'ou ec jees er y chlag jeu,56.08,60.97,asr,90
+,anmagh ram sleih,63.46,67.45,asr,100
+,lane hello arree ta ram jeu,68.44,72.76,asr,0
+,cre'n traa ta shey er y chlag,74.65,77.80,asr,90
+,scosoylagh sleih eh ve dy jarroo,79.63,84.46,asr,82
+,lane chiarn caine nish gura mie ayd,85.12,89.17,asr,67

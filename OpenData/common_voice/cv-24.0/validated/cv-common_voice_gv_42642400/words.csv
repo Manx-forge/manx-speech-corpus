@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,Ny,0.45,0.60,aligned
+0,1,veg,0.60,0.93,aligned
+0,2,roie,0.93,1.35,aligned
+0,3,"raait,",1.35,1.89,aligned
+0,4,"ee,",2.13,2.43,aligned
+0,5,sodjey,2.64,3.09,aligned
+0,6,twoaie,3.09,3.48,aligned
+0,7,dy,3.48,3.60,aligned
+0,8,bragh.,3.60,4.14,aligned

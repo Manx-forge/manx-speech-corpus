@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04266",
+  "name": "Ny keayrtyn, loayr ny bugganeyn ry-cheilley trooid towl sy clieau",
+  "source": "https://www.youtube.com/watch?v=Z-ZJ1GiN8MA",
+  "platform": "youtube",
+  "resource_id": "04266",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 45.91,
+  "deep_link": "https://www.youtube.com/watch?v=Z-ZJ1GiN8MA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

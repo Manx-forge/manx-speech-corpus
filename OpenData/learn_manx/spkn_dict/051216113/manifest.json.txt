@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051216113",
+  "name": "My",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051216113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.8,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

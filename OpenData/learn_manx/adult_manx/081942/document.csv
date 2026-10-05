@@ -1,0 +1,260 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon va keim kiare lessoon nuy,1.12,6.46,asr,67
+,choud's eh gow gial,8.41,14.32,asr,18
+,gow choud's eh,15.13,17.56,asr,0
+,the shop gow dys y chapp,18.46,25.27,asr,0
+,gow dys y chapp shop and,26.02,31.84,asr,59
+,chillies gow,32.74,43.30,asr,0
+,gow dys y chapp as jean kionnagh hoght cheleeyn,43.12,47.41,asr,83
+,goll dys y chapp as jean kionnagh hoght skillin,49.57,51.82,asr,83
+,go to the shop and buy in chellee as,54.64,57.43,asr,24
+,gow dys y chapp as jean kionnagh hoght skilleeyn jeig,66.79,71.53,asr,100
+,goll dys y chapp as jean kionnagh hoght skilleeyn jeig,72.52,75.10,asr,90
+,choud's eh go to the shop in,76.54,78.70,asr,90
+,gow dys y chapp as jean kionnagh hoght,87.61,91.00,asr,88
+,jeig as feed gow dys y chapp as jean kionnagh hoght guillyn jeig as feed,91.66,97.09,asr,88
+,go to the shop and buy chellee,99.94,102.64,asr,0
+,gow dys y chapp as jean kionnagh hoght cheead jeig as feed son aym,113.59,119.74,asr,94
+,gow dys y chapp as jean kionnagh hoght skillin jeig as feed son aym,120.49,123.73,asr,89
+,choud's eh shickyr mee,125.26,127.36,asr,29
+,agh shen,136.81,137.44,asr,25
+,oie chymleeyn lhisagh shin ve chellan,138.19,141.19,asr,63
+,shiu erbee eating chellee as yn lhied sweddyr,143.83,146.53,asr,27
+,lhisagh shin gee chellan ayns yn emshyr shoh,155.95,160.06,asr,74
+,lhisagh shin ve ayn as yn emshyr shoh,161.11,163.42,asr,78
+,yiass lhisagh,166.27,173.02,asr,0
+,lhissagh neesht,173.71,177.52,asr,24
+,lhisagh gaaue nish my sailt,186.34,189.82,asr,81
+,yinnagh gow nish my sailt choud's sea,190.96,195.28,asr,65
+,er gow magh ny gow magh,202.90,205.18,asr,0
+,bunnys ny gow magh jiu ny gow magh jiu,209.23,218.89,asr,26
+,ta daa,222.28,222.82,asr,0
+,jiu t'eh ro fliugh,232.78,235.36,asr,61
+,ny gow magh jiu t'eh ro fliugh,236.50,238.48,asr,0
+,watch shoh dwo lhissagh,242.11,254.29,asr,39
+,shin jannoo guilleydagh shin jannoo,254.38,257.38,asr,91
+,oddagh shin goaill arrane,274.78,276.97,asr,100
+,oddagh shin goaill arrane gow-jee sea,277.78,281.47,asr,52
+,ny gow arrane ny,290.83,293.05,asr,77
+,howl just say don't sing veih,295.15,297.67,asr,5
+,ny gow arrane ny single,310.06,314.98,asr,44
+,gow arrane,325.33,326.17,asr,0
+,ta my gunnagh ny gow arrane ta my gunnagh,327.28,331.72,asr,54
+,choud's eh goll erbee,333.52,335.83,asr,64
+,gow-jee dys y traie,346.99,349.30,asr,95
+,gowjee dys y traie dy bee,350.23,355.15,asr,61
+,yn cloie cammag gow-jee,355.84,368.98,asr,0
+,bee dys y traie as jean-jee cloie cammag,368.80,372.88,asr,89
+,gow-jee dys y traie as jean-jee cloie cammag,374.62,376.90,asr,98
+,dy bee shin cloie cammag va,380.44,382.36,asr,50
+,gow-jee dys y traie as jean-jee cloie cammag ayns shen,397.18,401.83,asr,96
+,gow-jee dys y traie as jean-jee cloie cammag,402.58,404.71,asr,83
+,mooie oddagh shin,408.04,418.12,asr,0
+,yn jannoo shen oddagh shin jannoo shen,417.97,420.49,asr,91
+,ow just say but we prefer play heear,422.17,426.94,asr,55
+,oddagh shin jannoo shen agh bare cloie ayns shoh,437.71,442.90,asr,84
+,oddagh shin jannoo shen agh bare lhiam cloieyn shoh,443.80,446.47,asr,88
+,t'ou just say but we prefer to play heear in the garden,448.15,452.98,asr,53
+,oddagh shin jannoo shen agh bare cloie ayns shoh ayns y gharey,466.09,472.27,asr,91
+,oddagh shin jannoo shen agh bare lhiam cloieyn shoh sy gharey,473.65,477.01,asr,88
+,ny gow-jee arrane,488.17,489.94,asr,47
+,ny gow-jee arrane single,490.63,496.45,asr,100
+,cha gowjee arrane my sailliu,510.04,512.50,asr,80
+,ny gow-jee arrane my sailliu gow-jee,513.55,517.03,asr,90
+,sing please my as ayns shoh,518.26,521.62,asr,53
+,ny gow-jee arrane my sailliu,539.92,542.47,asr,100
+,ta my ghleashtan gonnagh my sailliu,543.28,548.14,asr,58
+,ta my chleayshyn gonnagh gow-jee sea,548.71,552.61,asr,94
+,way as ayns shoh ny,555.13,565.45,asr,0
+,ny gow-jee arrane my sailliu,565.33,567.58,asr,88
+,ta my chleayshyn gonnagh moghrey jiu,568.33,570.64,asr,100
+,ny gow-jee arrane my sailliu ta my chleayshyn gonnagh moghrey jiu,571.54,574.81,asr,89
+,just say cum ta mie tar,576.70,586.90,asr,46
+,barr dys my hie tar dys my hie,586.69,589.78,asr,48
+,house this afternoon tar,593.20,603.67,asr,0
+,ardys my hie fastyr jiu,603.49,606.19,asr,90
+,tar dys my hie fastyr jiu this afternoon and we play,607.21,613.93,asr,57
+,tar dys my hie fastyr jiu,625.39,628.39,asr,100
+,as nee mayd cleiy tar dys my hie fastyr jiu as neemayd cloie,629.05,635.38,asr,88
+,choud's veih shen cummal this afternoon,638.41,641.92,asr,69
+,as cheet magh fastyr jiu,651.97,654.88,asr,86
+,bio cheet magh fastyr jiu this afternoon,655.99,661.78,asr,70
+,cha cheet magh fastyr jiu,671.71,674.53,asr,100
+,cha lhisin cheet magh fastyr jiu hie shin,675.94,680.95,asr,65
+,this afternoon bee as got lots of things dy doo,681.46,685.24,asr,50
+,cha lhisin cheet magh fastyr jiu,697.84,700.60,asr,100
+,ta ram reddyn dy yannoo,701.83,703.93,asr,85
+,cha lhisin cheet magh fastyr jiu ta ram reddyn dy yannoo,705.25,708.88,asr,84
+,hie shin this afternoon va,712.45,716.77,asr,31
+,cheet magh fastyr jiu ta ram reddyn dy yannoo sy gharey,731.50,737.59,asr,83
+,hellanyn cheet magh fastyr jiu ta ram reddyn dy yannoo ayns y gharey,738.79,742.81,asr,85
+,moghrey mairagh,746.38,755.41,asr,0
+,meanagh choud's,756.10,758.77,asr,0
+,dys yn moghrey house this afternoon,759.52,762.10,asr,37
+,mairagh as tar dys my hie fastyr jiu,772.18,776.50,asr,86
+,jinnagh mairagh as tar dys my hie fastyr jiu,777.58,780.13,asr,91
+,after feailley ny,783.97,798.64,asr,0
+,ny tar jee lurg queig ny tar-jee lurg queig,798.49,802.78,asr,92
+,how just say dooint come after,804.34,806.77,asr,25
+,v'eh cosney dod erbee ny,808.00,820.66,asr,0
+,ny tar jee lurg son bee my yishag ayns shoh,820.60,825.91,asr,80
+,ny tar-jee lurg queig son bee my yishag as shoh,826.93,829.84,asr,96
+,dy vie bee cost,832.99,834.37,asr,52
+,ny tar jee lurg queig,847.21,849.49,asr,76
+,son bee my yishag ayns shoh ec y traa shen,850.39,854.02,asr,91
+,ny tar-jee lurg queig son bee my yishag as ec y traa shen,855.10,858.19,asr,91
+,hie shin cur shilley er,861.01,870.85,asr,71
+,yinnin cur shilley er broddey,871.45,876.88,asr,31
+,cur shilley er my vraar,885.16,887.65,asr,100
+,geddyn cur shilley er my vraar tomorrow,888.49,894.16,asr,39
+,cur shilley er my vraar mairagh,903.07,906.19,asr,100
+,yinnin cur shilley er my vraar mairagh,907.27,909.28,asr,89
+,choud's eh cur,911.08,924.43,asr,0
+,cur shilley er un sy voghrey,924.22,927.01,asr,68
+,cur shilley er ayns y voghrey morning,928.06,933.37,asr,59
+,ren come to the beach cur,933.73,946.99,asr,0
+,boir shilley er un sy voghrey,946.78,949.39,asr,58
+,eisht tar dys y traie,950.08,952.24,asr,100
+,cur shilley er as y voghrey eisht tar dys y traie,953.11,955.96,asr,94
+,dys yn ny moanee da'n coontey dy bee jannoo afternoon,958.69,961.84,asr,64
+,cur shilley er un sy voghrey,973.36,975.88,asr,90
+,eisht tar dys y traie ayns syn astyr,976.54,979.57,asr,84
+,cur shilley er ayns y voghrey eisht tar dys y traie ayns yn astyr,980.53,984.01,asr,87
+,shen jee ny,997.75,999.25,asr,43
+,ny cur shen jee dooin,999.10,1002.85,asr,46
+,ayns focklyn ny,1005.07,1018.66,asr,0
+,shen jee ta soar breinn jeh,1018.93,1022.74,asr,74
+,ny cur shen jee ta soar breinn jeh,1023.49,1026.07,asr,100
+,don't give it smells foill,1029.22,1032.22,asr,64
+,she shen,1033.57,1049.71,asr,0
+,jee ta soar breinn jeh,1049.77,1052.92,asr,86
+,lhisagh oo cur red mie jee,1054.36,1057.87,asr,76
+,ny cur shen jee ta soar breinn jeh,1058.74,1060.93,asr,84
+,red ennagh mie jee choud's,1061.98,1065.55,asr,72
+,jee,1077.52,1078.00,asr,0
+,oie shilley orrym curjee shilley orroo,1077.82,1080.58,asr,80
+,howl just say visit mee tomorrow,1081.93,1084.72,asr,33
+,jee shilley orrym mairagh,1095.37,1097.65,asr,84
+,curjee shilley orrym mairagh tomorrow,1098.37,1104.04,asr,62
+,ayrjee shilley orrym mairagh,1116.79,1119.10,asr,88
+,as nee mayd loayrt curjee shilley orroo mairagh as neemayd loayrt,1119.70,1124.29,asr,65
+,tomorrow will speak about the cat,1127.59,1129.78,asr,14
+,ayrjee shilley orrym mairagh,1141.66,1144.00,asr,88
+,as nee mayd loayrt mysh y chayt,1144.57,1146.88,asr,85
+,cur-jee shilley orrin mairagh as neemayd loayrt mysh y chayt,1147.93,1150.75,asr,98
+,dont give him ny,1154.32,1167.79,asr,0
+,red erbee da ny cur-jee red erbee da,1169.53,1173.34,asr,97
+,choud's eh dooint give him anything,1174.72,1177.36,asr,0
+,ayrjee red erbee daa mooar dy liooar,1188.82,1193.17,asr,83
+,ny cur-jee red erbee da t'eh mooar dy liooar,1193.86,1196.77,asr,98
+,gow gial,1199.77,1204.09,asr,88
+,dow choud's eh,1204.90,1207.21,asr,0
+,gow dy akin nee dy akin ee,1216.06,1219.60,asr,70
+,choud's eh goll dys y howse,1221.16,1223.92,asr,64
+,dy akin ee ayns y thie eck,1233.61,1236.16,asr,75
+,gow dy akin ee ayns y thie eck gow-jee,1236.85,1240.39,asr,73
+,yinnin goll yinnin goll,1248.43,1250.59,asr,100
+,this is eh hie but don't know where shee,1251.82,1254.94,asr,6
+,goll agh cha nel fys aym c'raad t'ou beaghey,1266.88,1271.89,asr,100
+,yinnin goll agh cha nel fys aym c'raad t'ou beaghey,1273.12,1275.82,asr,86
+,goll,1291.45,1291.90,asr,42
+,agh cha nel fys aym c'raad t'ou beaghey nish yinnin goll agh cha nel fys aym c'raad t'ou beaghey nish,1292.35,1298.83,asr,100
+,howl just say oddagh,1300.27,1312.00,asr,0
+,briaght jeh paayl oddagh oo briaght jee paayl,1312.33,1316.08,asr,82
+,oddagh oo briaght jeh paayl c'raad t'ou beaghey,1328.98,1333.00,asr,100
+,oddagh oo briaght jeh c'raad t'ou beaghey,1333.69,1335.85,asr,100
+,open,1344.61,1345.06,asr,0
+,ow just say cooid broie shen,1347.55,1350.76,asr,6
+,oddin agh cha lhisin,1358.41,1360.93,asr,100
+,cho leeidyn chouds eh aye cooid brisht speakers is working,1362.64,1368.73,asr,41
+,oddin agh son gobbragh nish,1377.37,1382.44,asr,52
+,oddin cho leeidyn son t'eh gobbragh nish,1383.07,1385.59,asr,100
+,choud's eh cur shilley,1387.18,1395.25,asr,42
+,cur shilley er cur,1395.97,1409.41,asr,71
+,shilley er ny sanmee cur shilley er,1409.41,1412.26,asr,80
+,cur shilley er ny shenn,1423.93,1426.00,asr,79
+,as jean briaght jeh cur shilley er ny,1426.72,1430.20,asr,88
+,as jeh'n briaght jeh come,1430.50,1434.76,asr,39
+,tar jee tar jee,1445.02,1447.39,asr,100
+,tar-jee lurg shen tar-jee lurg shen,1460.71,1464.10,asr,97
+,cha nod mayd cha nod mayd,1473.61,1475.86,asr,100
+,cha nod mayd noght cha nod mayd,1484.68,1487.14,asr,52
+,noght bad,1487.17,1491.64,asr,27
+,s'treih shen s'treih shen,1496.65,1499.08,asr,78
+,cum,1502.95,1503.34,asr,0
+,yinnagh shin cheet yinnagh shin cheet,1509.19,1512.04,asr,100
+,choud's eh come,1513.06,1515.40,asr,32
+,pad thieyn yinnagh,1515.97,1526.26,asr,0
+,shin cheet dy beagh traa ain,1526.08,1529.20,asr,89
+,yinnagh shin cheet dy beagh eh,1530.07,1531.84,asr,78
+,come if we had time but we have to work,1535.32,1538.77,asr,50
+,yinnagh shin cheet dy beagh traa ain,1548.76,1551.58,asr,100
+,agh ta orrin gobbragh yinnagh shin cheet dy beagh,1552.33,1556.20,asr,94
+,agh ta orrin gobbragh choud's sea,1556.89,1560.85,asr,64
+,abbyr abbyr,1566.46,1569.07,asr,73
+,sea it was sunny grianagh,1572.28,1585.54,asr,56
+,abbyr dy beagh eh grianagh laxey,1586.26,1592.95,asr,57
+,dy beagh eh grianagh ayns laksaa,1603.87,1606.63,asr,69
+,abbyr dy beagh eh grianagh ayns laksey,1607.74,1609.81,asr,89
+,purt,1625.83,1626.10,asr,0
+,dy beagh eh grianagh ayns laksaa jiu,1626.22,1629.34,asr,100
+,paart dy beagh eh grianagh as laksaa jiu gowjys eh,1630.54,1635.22,asr,60
+,sea was sunny in laksey today,1635.88,1637.95,asr,0
+,dy beagh eh grianagh ayns laksaa jiu,1652.44,1656.04,asr,83
+,dy jinnagh oo cheet dy beagh eh grianagh ayns laksaa jiu jinnagh oo cheet,1656.76,1662.58,asr,96
+,yes yinnagh yinnagh,1664.65,1669.06,asr,81
+,yes yinnagh,1671.13,1680.19,asr,29
+,agh cha nel eh grianagh yinnagh agh cha nel eh grianagh,1680.73,1684.81,asr,100
+,not sunny yinnagh,1688.17,1699.72,asr,0
+,agh cha nel eh grianagh myr shen,1700.14,1703.41,asr,91
+,cha jeanym cheet yinnagh agh cha nel eh grianagh myr shen cha jeanym cheet,1703.77,1708.60,asr,84
+,howl just say say,1709.95,1712.56,asr,14
+,abbyr nagh beagh argid daa erbee ayd,1723.36,1726.96,asr,97
+,well nagh bee as argid erbee ayd nagh,1727.95,1749.46,asr,63
+,cha beagh argid daa erbee ayd,1749.28,1751.83,asr,79
+,cre yinnagh oo gee nagh beagh argid erbee ayd,1752.67,1757.05,asr,88
+,bee eh,1758.13,1761.64,asr,0
+,lig,1775.47,1775.77,asr,0
+,ny jannoo gee t'eh licklee dy jeanym gee praaseyn,1776.52,1781.32,asr,73
+,it probably potatoes t'eh,1785.40,1803.73,asr,22
+,licklee dy jinnin gee praaseyn,1803.76,1806.31,asr,71
+,ta mee gaase ad ayns y gharey aym,1807.27,1810.00,asr,100
+,t'eh licklee dy jeanym gee praaseyn ta mee gaase eddyr,1811.59,1814.68,asr,89
+,howl just say that,1817.35,1819.66,asr,25
+,berr shen nagh vel eh,1827.16,1832.68,asr,32
+,shen urree shen urree,1841.59,1844.44,asr,50
+,choud's eh she bee very angry,1845.85,1850.14,asr,97
+,berr shen rea feer chorree,1862.32,1866.10,asr,57
+,nabbyr shen ree feer chorree,1867.18,1869.46,asr,62
+,bleeantyn red erbee,1873.78,1882.60,asr,47
+,abbyr red erbee ennee,1883.98,1888.75,asr,49
+,yn daa erbee elley abbyr red erbee elley,1899.52,1903.03,asr,92
+,choud's eh red,1904.56,1906.42,asr,26
+,bee elley rish abbyr red erbee elley rish,1916.98,1920.64,asr,90
+,ta him but don't talk about as ee as,1924.57,1927.87,asr,56
+,red erbee elley rish hoght jean lord mysh ny cleayshyn echey,1943.26,1949.17,asr,87
+,red erbee elley rish agh ny jean loayrt mysh ny cleayshyn echey,1950.67,1954.00,asr,100
+,sea had ta moddey persoon,1959.58,1965.70,asr,41
+,abbyr jee dy beagh queig pronnagyn eu,1978.51,1983.40,asr,83
+,abbyr-jee dy beagh queig pronnagyn eu,1984.72,1986.94,asr,86
+,choud's eh had fifteen sausages,1988.68,1992.73,asr,62
+,berchee dy beagh queig pronnagyn jeig eu,2004.76,2008.51,asr,79
+,abbyr-jee dy beagh queig pronnagyn jeig,2009.56,2011.63,asr,90
+,ad fifteen years and say,2016.07,2020.00,asr,68
+,worth abbyr jee,2020.48,2035.78,asr,0
+,dy beagh queig pronnagyn jeig,2035.99,2038.42,asr,100
+,as abbyr jee dy jinnagh shiu gee tree,2040.16,2043.88,asr,100
+,abbyr-jee dy beagh queig pronnagyn jeig eu as abbyr-jee dy jinnagh shiu gee tree,2044.90,2049.46,asr,99
+,bio had fifteen years ayns,2052.94,2055.79,asr,39
+,tree how many sausages,2057.08,2059.81,asr,68
+,abbyr-jee dy beagh queig pronnagyn jeig eu,2073.52,2077.33,asr,98
+,as abbyr-jee dy jinnagh shiu gee tree,2078.53,2081.95,asr,95
+,quoid pronnag abbyr-jee dy beagh queig pronnagyn jeig eu as abbyr-jee dy jinnagh shiu gee tree,2083.27,2091.13,asr,91
+,quoid pronnag veagh eu veagh,2091.88,2104.78,asr,58
+,eh veagh ghaa-yeig,2109.19,2121.01,asr,0
+,as ta breeshey,2125.84,2129.29,asr,41
+,as jinnagh shiu cur nane daa breeshey,2138.53,2141.95,asr,97
+,as jinnagh shiu cur nane da breeshey probably not,2142.64,2148.22,asr,74
+,bee lhig nish jinnagh t'eh licklee nagh jinnagh,2155.90,2160.16,asr,80
+,probably not lik,2162.68,2173.87,asr,0
+,big clean nish jinnagh t'eh licklee nagh jinnagh,2173.48,2177.20,asr,86

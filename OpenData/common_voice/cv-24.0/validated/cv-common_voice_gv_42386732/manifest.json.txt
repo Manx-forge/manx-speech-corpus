@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386732",
+  "name": "Ta credjue sauaill shin agh ta shickerys jannoo shin magh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386732",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.796,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

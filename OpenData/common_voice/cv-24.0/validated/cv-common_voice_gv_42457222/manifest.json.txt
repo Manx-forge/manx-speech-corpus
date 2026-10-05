@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457222",
+  "name": "Goo Yee yn raad nagh jig naardey ta coyrt bea nagh jig naardey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457222",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.912,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

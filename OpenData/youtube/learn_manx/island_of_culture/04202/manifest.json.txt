@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04202",
+  "name": "T'eh grianagh as cheh jiu",
+  "source": "https://www.youtube.com/watch?v=9JoFoPdRNy4",
+  "platform": "youtube",
+  "resource_id": "04202",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.57,
+  "deep_link": "https://www.youtube.com/watch?v=9JoFoPdRNy4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

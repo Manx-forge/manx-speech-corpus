@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051371113",
+  "name": "C'red t'ou geearree giu?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051371113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.45,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

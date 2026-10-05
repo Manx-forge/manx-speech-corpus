@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04155",
+  "name": "Mannin aboo! Falkirk aboo!",
+  "source": "https://www.youtube.com/watch?v=cMqJ_zYv-0U",
+  "platform": "youtube",
+  "resource_id": "04155",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 17.95,
+  "deep_link": "https://www.youtube.com/watch?v=cMqJ_zYv-0U&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

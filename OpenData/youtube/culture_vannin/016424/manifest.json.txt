@@ -1,0 +1,14 @@
+{
+  "ident": "speech-016424",
+  "name": "Noo Perick as yn Jouyl",
+  "source": null,
+  "platform": "youtube",
+  "resource_id": "016424",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 84.52,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "channel URL, not the video"
+}

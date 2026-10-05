@@ -1,0 +1,14 @@
+{
+  "ident": "speech-081950",
+  "name": "Juan Kodhere",
+  "source": "https://www.learnmanx.com/media/Stories/Juan%20Kodhere.pdf",
+  "platform": "learn_manx",
+  "resource_id": "081950",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 295.52,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644730",
+  "name": "Cre t'ou toiggal liorish fardail y theihll?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644730",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.572,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

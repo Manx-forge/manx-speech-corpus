@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059128",
+  "name": "bink bench",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20town/bink%20-%20bench.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059128",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.97,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20town/bink%20-%20bench.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42620468",
+  "name": "My ta shin baghey ayns y spyrryd, lhig dooin myrgeddin gimmeeaght ayns y spyrryd.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42620468",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.3,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,Cha,0.96,1.08,aligned
+0,1,vod,1.08,1.35,aligned
+0,2,billey,1.35,1.68,aligned
+0,3,mie,1.68,2.07,aligned
+0,4,drogh-vess,2.07,2.76,aligned
+0,5,y,2.76,2.82,aligned
+0,6,chur,2.82,3.06,aligned
+0,7,magh:,3.06,3.60,aligned
+0,8,ny,3.75,3.90,aligned
+0,9,drogh-villey,3.90,4.56,aligned
+0,10,mess,4.56,4.86,aligned
+0,11,mie.,4.86,5.31,aligned

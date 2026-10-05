@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447688",
+  "name": "Haink fer ny jees elley, as va meaishyn dy scaddan oc.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447688",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.372,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,mwyllin,0.15,0.51,aligned
+0,1,doo,0.51,0.72,aligned
+0,2,aah,0.72,0.90,aligned

@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,row,0.00,0.21,aligned
+0,1,michael,0.21,0.57,aligned
+0,2,dunlop,0.57,0.96,aligned
+0,3,feer,0.96,1.26,aligned
+0,4,tappee,1.26,1.71,aligned

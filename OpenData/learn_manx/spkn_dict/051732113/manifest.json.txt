@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051732113",
+  "name": "C'raad t'ou er ve er y gerrid?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051732113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.41,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

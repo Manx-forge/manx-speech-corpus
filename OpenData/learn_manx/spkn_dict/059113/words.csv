@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,traen,0.12,0.57,aligned
+0,1,ny,0.57,0.69,aligned
+0,2,scaanyn,0.69,1.26,aligned

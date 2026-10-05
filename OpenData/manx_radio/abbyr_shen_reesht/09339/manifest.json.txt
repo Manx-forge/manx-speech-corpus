@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09339",
+  "name": "Abbyr Shen Reesht - Say That Again 8oo Mee Vayrt - 2026 - March 8th",
+  "createdCircaStart": "2026-03-08",
+  "createdCircaEnd": "2026-03-08",
+  "source": null,
+  "platform": "manx_radio",
+  "resource_id": "09339",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1609.0,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "no URL recorded"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051828113",
+  "name": "Hie mee dys Purt ny h-Inshey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051828113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.04,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

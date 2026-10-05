@@ -1,0 +1,14 @@
+{
+  "ident": "speech-089586",
+  "name": "ealish_annie",
+  "source": "https://www.learnmanx.com/media/Files/ealish%20annie.mp3",
+  "platform": "learn_manx",
+  "resource_id": "089586",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 164.49,
+  "deep_link": "https://www.learnmanx.com/media/Files/ealish%20annie.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

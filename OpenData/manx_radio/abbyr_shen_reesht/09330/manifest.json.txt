@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09330",
+  "name": "Abbyr Shen Reesht - Say That Again 21ed Mee ny Nollick - 2025 - December 21st",
+  "createdCircaStart": "2025-12-21",
+  "createdCircaEnd": "2025-12-21",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-21ed-mee-ny-nollick-2025-december-21st/",
+  "platform": "manx_radio",
+  "resource_id": "09330",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1589.0,
+  "deep_link": "https://episodes.captivate.fm/episode/488db596-1c6e-4f02-8c69-5a3b71be3a36.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

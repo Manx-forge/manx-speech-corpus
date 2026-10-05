@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457488",
+  "name": "As lhaih ad ee lesh boggey as gerjagh mooar.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457488",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.3,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

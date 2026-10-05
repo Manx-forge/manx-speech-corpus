@@ -1,0 +1,14 @@
+{
+  "ident": "speech-089718",
+  "name": "Cooishyn Gailckagh 5  - Oie Voaldyn",
+  "source": "https://www.youtube.com/watch?v=YKfkXVvoFSo",
+  "platform": "youtube",
+  "resource_id": "089718",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1049.93,
+  "deep_link": "https://www.youtube.com/watch?v=YKfkXVvoFSo&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,mie,0.09,0.36,aligned
+0,1,lhee,0.36,0.54,aligned
+0,2,marmite,0.54,1.17,aligned

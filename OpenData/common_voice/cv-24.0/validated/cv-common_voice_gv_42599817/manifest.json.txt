@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599817",
+  "name": "As reesht dob eh lesh loo, Cha nione dou yn dooinney.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599817",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.76,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

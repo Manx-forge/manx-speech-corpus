@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,cha,0.00,0.33,aligned
+0,1,beign,0.33,0.78,aligned
+0,2,anmagh,0.78,1.44,aligned

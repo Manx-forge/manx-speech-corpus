@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,y,0.03,0.09,aligned
+0,1,cheer,0.09,0.60,aligned
+0,2,thai,0.78,1.29,aligned

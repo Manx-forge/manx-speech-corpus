@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,quoi,0.21,0.45,aligned
+0,1,ta,0.45,0.63,aligned
+0,2,ching,0.63,1.14,aligned

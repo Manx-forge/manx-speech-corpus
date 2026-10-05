@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42462525",
+  "name": "O lhig da dty chleayshyn geill y choyrt: da coraa m'accan.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42462525",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.048,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

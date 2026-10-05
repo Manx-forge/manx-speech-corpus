@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04353",
+  "name": "She bochilley mish",
+  "source": "https://www.youtube.com/watch?v=vwspUY8n9ts",
+  "platform": "youtube",
+  "resource_id": "04353",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.06,
+  "deep_link": "https://www.youtube.com/watch?v=vwspUY8n9ts&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

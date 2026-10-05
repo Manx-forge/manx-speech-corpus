@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42664794",
+  "name": "Hoshiaght, ayns e irree seose reesht.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42664794",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 3.348,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

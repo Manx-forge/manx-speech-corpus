@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04417",
+  "name": "Mutations 01",
+  "source": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20track24.mp3",
+  "platform": "learn_manx",
+  "resource_id": "04417",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 65.23,
+  "deep_link": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20track24.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

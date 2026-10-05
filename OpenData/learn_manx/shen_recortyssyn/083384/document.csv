@@ -1,0 +1,31 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,good afternoon how are you good afternoon how are you,1.36,7.90,asr,42
+,fastyr mie kys t'ou fastyr mie kys t'ou,8.74,13.51,asr,95
+,ta mee braew gura mie ayd ta mee braew gura mie ayd,24.46,27.73,asr,100
+,hee'm oo hee'm oo,34.96,37.15,asr,100
+,am juan hooar you juan hooar you,38.35,45.13,asr,6
+,mish juan quoi uss mish juan quoi uss,46.09,50.29,asr,100
+,thie ayd thie ayd,52.39,57.91,asr,0
+,ta mee skee ta mee skee,58.78,61.57,asr,83
+,ta mee cummal ayns doolish ta mee cummal ayns doolish,69.43,72.70,asr,84
+,hie live in port st mary port st mary,74.11,79.99,asr,0
+,cha nel mee cummal ayns purt le moirrey,80.53,82.84,asr,100
+,cha nel mee cummal ayns purt le moirrey,83.53,85.72,asr,100
+,but there work in douglas ta mee cummal ayns purt ny hinshey agh ta mee gobbraghey ayns doolish,94.81,100.72,asr,86
+,ta mee cummal ayns purt ny hinshey agh ta mee gobbraghey ayns doolish,101.26,105.34,asr,100
+,bun dys yn live in castletown john dys yn live in castletown,107.59,115.39,asr,82
+,cha nel joan cummal ayns balley chashtal,116.20,118.75,asr,91
+,cha nel joan cummal ayns balley chashtal,119.53,122.05,asr,100
+,dys yn virrilyn posteyryn dys yn voirrilyn posteyryn,123.43,130.90,asr,86
+,nagh vel voirrey cummal ayns purt chiarn,131.62,133.75,asr,100
+,nagh vel voirrey cummal ayns purt chiarn,134.53,136.75,asr,83
+,vel oo cummal ayns kiondroghad vel oo cummal ayns kiondroghad,145.54,149.53,asr,100
+,ta mee cummal faggys da doolish,159.31,161.29,asr,58
+,ta mee cummal faggys da doolish,162.40,164.56,asr,100
+,dys shillabyn eh aile y mann vel ee cummal ayns mannin,173.38,177.46,asr,54
+,vel eh cummal ayns mannin dys,178.36,181.27,asr,97
+,dys,188.05,188.23,asr,0
+,nagh vel juan cummal ayns laksaa,190.45,192.40,asr,77
+,nagh vel juan cummal ayns laksaa,193.21,195.19,asr,100
+,c'raad t'ou cummal c'raad t'ou cummal,202.63,205.75,asr,100
+,c'raad ta voirrey cummal c'raad ta voirrey cummal,213.40,216.79,asr,98

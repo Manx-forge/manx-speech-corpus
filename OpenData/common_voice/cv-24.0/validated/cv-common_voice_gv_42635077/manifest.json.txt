@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42635077",
+  "name": "Ta shiu liorish shoh cur coyrle dou dy chur mee-hene seose dys mee-hreishteil.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42635077",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.84,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

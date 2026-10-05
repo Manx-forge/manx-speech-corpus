@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,jagh,6.15,6.36,aligned
+0,1,oo,6.36,6.42,aligned
+0,2,dys,6.42,6.60,aligned
+0,3,doolish,6.60,6.99,aligned
+0,4,jea,6.99,7.20,aligned
+0,5,hie,7.50,7.83,aligned
+0,6,jagh,15.99,16.20,aligned
+0,7,oo,16.20,16.26,aligned
+0,8,dys,16.26,16.44,aligned
+0,9,doolish,16.44,16.83,aligned
+0,10,jea,16.83,17.04,aligned
+0,11,hie,17.34,17.67,aligned

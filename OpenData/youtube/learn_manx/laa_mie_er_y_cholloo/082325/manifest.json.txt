@@ -1,0 +1,16 @@
+{
+  "ident": "speech-082325",
+  "name": "Laa Mie er y Cholloo",
+  "source": "https://www.youtube.com/watch?v=lR1gRsqT-VQ",
+  "platform": "youtube",
+  "resource_id": "082325",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 122.14,
+  "deep_link": "https://www.youtube.com/watch?v=lR1gRsqT-VQ&t={t}s",
+  "alt_urls": [
+    "https://www.youtube.com/watch?v=lR1gRsqT-VQ"
+  ],
+  "link_status": "ok"
+}

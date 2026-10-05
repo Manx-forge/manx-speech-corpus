@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,vel,0.09,0.24,aligned
+0,1,accyrys,0.27,0.75,aligned
+0,2,ort,0.75,1.17,aligned

@@ -1,0 +1,19 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,c'raad t'ou cummal c'raad t'ou cummal,0.21,6.12,asr,84
+,ta mee cummal ayns doolish,7.93,10.24,asr,100
+,in douglas ta mee cummal ayns doolish,11.98,15.82,asr,58
+,ta mee cummal ayns ellan vannin,17.71,20.29,asr,100
+,ta mee cummal ayns ellan vannin,23.65,25.63,asr,23
+,ta mee cummal ayns purt chiarn,27.85,30.19,asr,100
+,port erin purt chiarn,31.69,33.76,asr,62
+,purt le moirrey port st mary,34.99,37.69,asr,100
+,purt le moirrey purt ny hinshey,38.77,42.25,asr,97
+,purt ny hinshey balley chashtal,44.74,48.34,asr,97
+,castletown balley cashtal,49.60,52.30,asr,21
+,skylley maayl kirk michael,52.87,56.32,asr,100
+,skylley maayl rhumsaa,57.40,61.69,asr,35
+,ramsey rhumsaa,62.92,65.02,asr,100
+,kiondroghad onchan,67.03,69.76,asr,100
+,kiondroghad mwyllin doo aah,70.51,74.35,asr,100
+,union mills mwyllin doo aah,75.49,78.31,asr,100
+,laksaa laksey,79.78,82.63,asr,100

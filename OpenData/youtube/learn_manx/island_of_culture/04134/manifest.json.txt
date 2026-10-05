@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04134",
+  "name": "Vel shuyr ayd? Ta un shuyr ayms",
+  "source": "https://www.youtube.com/watch?v=C5qx-E_CSXE",
+  "platform": "youtube",
+  "resource_id": "04134",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.99,
+  "deep_link": "https://www.youtube.com/watch?v=C5qx-E_CSXE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

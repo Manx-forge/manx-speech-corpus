@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04117",
+  "name": "By vie lhiat spollag? By vie",
+  "source": "https://www.youtube.com/watch?v=qnBhXSJvSaM",
+  "platform": "youtube",
+  "resource_id": "04117",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.27,
+  "deep_link": "https://www.youtube.com/watch?v=qnBhXSJvSaM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

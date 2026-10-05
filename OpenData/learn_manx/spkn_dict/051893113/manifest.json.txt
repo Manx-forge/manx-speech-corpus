@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051893113",
+  "name": "Va mee ruggit er yn chiarroo laa Mee Averil",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051893113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.09,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

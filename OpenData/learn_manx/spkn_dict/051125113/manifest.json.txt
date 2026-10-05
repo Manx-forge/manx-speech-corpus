@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051125113",
+  "name": "Bare lesh goaill arrane?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051125113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.54,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

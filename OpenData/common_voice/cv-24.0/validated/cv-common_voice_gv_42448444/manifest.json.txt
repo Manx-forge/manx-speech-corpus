@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448444",
+  "name": "My oddys shiu jannoo mie jiu ny jean shiu liggey shaghey gys mairagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448444",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.588,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

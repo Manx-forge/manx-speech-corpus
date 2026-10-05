@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04190",
+  "name": "Mish Juan, shoh my inneen, Charlotte...ta mee braew",
+  "source": "https://www.youtube.com/watch?v=MjIYlFwPbBw",
+  "platform": "youtube",
+  "resource_id": "04190",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 29.58,
+  "deep_link": "https://www.youtube.com/watch?v=MjIYlFwPbBw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0493",
+  "name": "S'mie lhiam yn traie ayns Purt ny h-Inshey. Nagh vel eh yindyssagh?",
+  "source": "https://www.youtube.com/watch?v=CpwxAyP4BTk",
+  "platform": "youtube",
+  "resource_id": "0493",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.45,
+  "deep_link": "https://www.youtube.com/watch?v=CpwxAyP4BTk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

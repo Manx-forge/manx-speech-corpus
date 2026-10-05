@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04320",
+  "name": "Va mee ayns Purt ny h-Inshey jea as ta mee ayns Purt ny h-Inshey jiu gee berreen",
+  "source": "https://www.youtube.com/watch?v=FGLdq3MASfI",
+  "platform": "youtube",
+  "resource_id": "04320",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 30.14,
+  "deep_link": "https://www.youtube.com/watch?v=FGLdq3MASfI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

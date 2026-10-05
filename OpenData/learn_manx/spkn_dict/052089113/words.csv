@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,shegin,0.00,0.48,aligned
+0,1,dou,0.48,0.72,aligned
+0,2,gynsagh,0.75,1.26,aligned
+0,3,gaelg,1.26,1.71,aligned

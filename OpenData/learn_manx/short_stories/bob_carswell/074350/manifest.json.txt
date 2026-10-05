@@ -1,0 +1,14 @@
+{
+  "ident": "speech-074350",
+  "name": "lhiasagh_john_pilling_translated_by_bob_carswell",
+  "source": "https://www.learnmanx.com/media//Stories/Lhiasagh_John_Pilling.mp3",
+  "platform": "learn_manx",
+  "resource_id": "074350",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 479.07,
+  "deep_link": "https://www.learnmanx.com/media//Stories/Lhiasagh_John_Pilling.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

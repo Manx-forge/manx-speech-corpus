@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051912113",
+  "name": "Shiaght",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051912113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.72,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

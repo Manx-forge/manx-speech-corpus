@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,vel,0.09,0.27,aligned
+0,1,gleashtan,0.27,0.72,aligned
+0,2,tappee,0.72,1.23,aligned
+0,3,ayd,1.23,1.47,aligned

@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Cur-jee",0.54,1.11,aligned
+0,1,"geill,",1.11,1.56,aligned
+0,2,as,1.68,1.86,aligned
+0,3,eaisht-jee,1.89,2.46,aligned
+0,4,rish,2.46,2.73,aligned
+0,5,my,2.73,2.88,aligned
+0,6,choraa;,2.88,3.39,aligned
+0,7,"clasht-jee,",4.05,4.89,aligned
+0,8,as,5.28,5.49,aligned
+0,9,eaisht-jee,5.55,6.09,aligned
+0,10,rish,6.09,6.36,aligned
+0,11,my,6.36,6.54,aligned
+0,12,"ghlare.""",6.54,7.05,aligned

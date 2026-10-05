@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446947",
+  "name": "Gow-jee myrgeddin nyn mraar, as trog-jee erriu, gow-jee reesht gys y dooinney.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446947",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 10.152,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

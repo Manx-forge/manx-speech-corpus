@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,Cur-my-ner,1.29,2.04,aligned
+0,1,yn,2.04,2.16,aligned
+0,2,soie-sheese,2.16,2.88,aligned
+0,3,as,2.88,3.00,aligned
+0,4,yn,3.00,3.09,aligned
+0,5,irree-seose,3.09,3.75,aligned
+0,6,"oc,",3.75,3.99,aligned
+0,7,t'ad,4.35,4.50,aligned
+0,8,jannoo,4.50,4.86,aligned
+0,9,mish,4.86,5.16,aligned
+0,10,nyn,5.16,5.37,aligned
+0,11,ronneeaght.,5.37,6.06,aligned

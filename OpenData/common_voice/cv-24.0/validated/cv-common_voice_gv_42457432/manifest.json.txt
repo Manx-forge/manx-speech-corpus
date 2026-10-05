@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457432",
+  "name": "Ny cre nee dooinney y choyrt ayns coonrey son e annym?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457432",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.668,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

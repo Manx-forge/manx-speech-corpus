@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386510",
+  "name": "Dy vod oo shooyl ayns raad deiney mie, as freayll kesmadyn y vooinjer chairal.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386510",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.164,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

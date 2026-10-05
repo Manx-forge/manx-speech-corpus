@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599903",
+  "name": "Ver ish er dty chione yn attey dy ghrayse: crown gloyroil stowys ee ort.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599903",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.516,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

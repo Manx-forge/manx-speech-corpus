@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0466",
+  "name": "S'mie lhiam kay riojey Vanilla er y fa dy vel eh blasstal",
+  "source": "https://www.youtube.com/watch?v=MJpF3gEpVGs",
+  "platform": "youtube",
+  "resource_id": "0466",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.29,
+  "deep_link": "https://www.youtube.com/watch?v=MJpF3gEpVGs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

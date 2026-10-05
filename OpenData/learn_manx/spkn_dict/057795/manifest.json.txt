@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057795",
+  "name": "corran-bwee banana",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/corran-bwee%20-%20banana.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057795",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.25,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/corran-bwee%20-%20banana.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

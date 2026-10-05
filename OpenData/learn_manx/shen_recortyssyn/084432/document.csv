@@ -1,0 +1,25 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid nuy cre'n traa ta,0.37,3.07,asr,100
+,t'eh nane er y chlag t'eh jees er y chlag,4.48,7.69,asr,100
+,t'eh tree er y chlag t'eh nanejeig er y chlag,8.47,11.86,asr,100
+,t'eh munlaa t'eh t'eh kerroo lurg queig,12.55,17.59,asr,79
+,t'eh lieh lurg queig t'eh kerroo dys shiaght,18.58,22.09,asr,100
+,t'eh traa dy irree seose t'eh traa dy gholl dy lhie,23.44,27.58,asr,100
+,tra ta traa dy gholl dy valley,28.72,31.90,asr,57
+,cre'n traa t'ou girree seose ec shey er y chlag,33.43,37.09,asr,100
+,ec lieh lurg shiaght cre'n traa t'ou goll dy valley,37.93,42.52,asr,100
+,ec kiare er y chlag ec lieh lurg queig,43.42,46.39,asr,100
+,ec jeih minnid dys shey cre'n traa t'ou goll dy lhie,47.23,52.75,asr,96
+,ec daa yeig er y chlag ec queig minnid as feed lurg nuy,53.77,58.12,asr,98
+,ec kerroo dys shey er y chlag,59.32,63.85,asr,76
+,queig minnid lurg shey jeih minnid lurg shey,64.90,68.17,asr,100
+,kerroo lurg shey feed minnid lurg shey,69.28,72.19,asr,97
+,queig minnid as feed lurg shey lieh lurg shey,73.27,76.96,asr,100
+,queig minnid as feed dys shiaght kerroo dys shiaght,78.10,81.73,asr,92
+,jeih minnid dys shiaght queig minnid dys shiaght,82.75,86.05,asr,100
+,shiaght er y chlag ta mee cliaghtey girree ec kerroo dys hoght,86.86,91.66,asr,100
+,ta mee goaill anjeeal mysh lieh-oor lurg hoght,92.77,95.41,asr,100
+,ta mee goll dys obbyr ec lieh-oor lurg nuy,96.19,98.35,asr,98
+,ta mee cliaghtey giu caffee ec mysh nanejeig er y chlag as ta mee goaill kirbyl eddyr nane as jees,99.13,105.19,asr,100
+,ta mee goll dy valley ec kerroo dys shey as ta mee goaill jinnair mysh lieh-oor lurg shey,106.03,111.04,asr,100
+,ta mee cliaghtey goll dy lhie eddyr lieh-oor lurg daa-yeig as nane,112.48,116.44,asr,100

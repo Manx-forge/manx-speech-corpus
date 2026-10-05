@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866345",
+  "name": "carraneyn-thie slippers",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Slippers.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866345",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.56,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Slippers.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,vel,0.09,0.21,aligned
+0,1,oo,0.21,0.27,aligned
+0,2,er,0.27,0.33,aligned
+0,3,ve,0.33,0.54,aligned
+0,4,ching,0.54,0.87,aligned
+0,5,yn,0.87,0.99,aligned
+0,6,chiaghtin,0.99,1.44,aligned
+0,7,shoh,1.44,1.86,aligned

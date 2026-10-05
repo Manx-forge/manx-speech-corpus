@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446551",
+  "name": "As ny lurg shen cha by-lhoys daue question erbee sodjey y chur huggey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446551",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.344,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

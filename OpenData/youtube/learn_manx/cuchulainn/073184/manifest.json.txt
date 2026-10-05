@@ -1,0 +1,14 @@
+{
+  "ident": "speech-073184",
+  "name": "Cuchulainn 5 - Baase y Feniagh",
+  "source": "https://www.youtube.com/watch?v=lR5xJcVgMgA",
+  "platform": "youtube",
+  "resource_id": "073184",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 309.64,
+  "deep_link": "https://www.youtube.com/watch?v=lR5xJcVgMgA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

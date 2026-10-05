@@ -1,0 +1,14 @@
+{
+  "ident": "speech-024192",
+  "name": "How to use ren in Manx Gaelic",
+  "source": "https://www.youtube.com/watch?v=QldCqQ5r_rg",
+  "platform": "youtube",
+  "resource_id": "024192",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 157.76,
+  "deep_link": "https://www.youtube.com/watch?v=QldCqQ5r_rg&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

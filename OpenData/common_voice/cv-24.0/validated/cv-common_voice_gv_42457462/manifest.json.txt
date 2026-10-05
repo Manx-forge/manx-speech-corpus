@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457462",
+  "name": "Immee, as abbyr roo, Immee-jee reue reesht gys nyn gabbaneyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457462",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.424,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

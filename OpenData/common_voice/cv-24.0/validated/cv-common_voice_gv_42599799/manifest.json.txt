@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599799",
+  "name": "Quoi ad shen ta getlagh myr bodjal, as myr ny calmaneyn gys nyn dhuill?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599799",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

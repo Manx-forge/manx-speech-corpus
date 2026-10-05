@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0426",
+  "name": "Ta mee goll dys Rhumsaa nish agh cha nel mee goll er y traen",
+  "source": "https://www.youtube.com/watch?v=0JrLPp8c9Xw",
+  "platform": "youtube",
+  "resource_id": "0426",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.27,
+  "deep_link": "https://www.youtube.com/watch?v=0JrLPp8c9Xw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

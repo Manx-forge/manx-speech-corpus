@@ -1,0 +1,18 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon tree lessoon tree,0.73,3.43,asr,68
+,cha nel eh mooar,6.88,10.15,asr,100
+,aeg beg,11.86,14.77,asr,100
+,dy mie shenn,16.42,19.30,asr,75
+,ching t'eh mooar,20.68,24.52,asr,0
+,cha nel eh beg beg,25.12,28.57,asr,78
+,cha nel eh mooar te shenn,29.20,32.65,asr,92
+,cha nel eh aeg aeg,33.25,36.34,asr,78
+,cha nel eh shenn te dy mie,37.06,40.54,asr,96
+,cha nel eh ching t'eh ching,41.50,44.77,asr,57
+,cha nel eh dy mie t'eh feer vooar,45.73,50.17,asr,91
+,t'eh feer veg t'eh feer shenn,51.85,55.57,asr,97
+,t'eh feer aeg t'eh feer vie,57.04,60.34,asr,90
+,t'eh feer ching shen,61.69,65.59,asr,100
+,s'mie shen cha nel,72.25,76.66,asr,100
+,cha nel t'eh ching cha nel eh feer ching,79.36,83.41,asr,100
+,cha nel eh olk nish edyr s'mie shen,84.64,88.15,asr,65

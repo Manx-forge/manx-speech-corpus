@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42307",
+  "name": "C'red t'ou coontey jeh shappal er-linney?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42307",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 21.312,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

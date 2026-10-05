@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0440",
+  "name": "T'eh braew yindyssagh ayns Rhumsaa jiu",
+  "source": "https://www.youtube.com/watch?v=pEspdjBt57k",
+  "platform": "youtube",
+  "resource_id": "0440",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.11,
+  "deep_link": "https://www.youtube.com/watch?v=pEspdjBt57k&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

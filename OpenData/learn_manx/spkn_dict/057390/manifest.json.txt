@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057390",
+  "name": "braagyn shoes",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/braagyn%20-%20shoes.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057390",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/braagyn%20-%20shoes.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

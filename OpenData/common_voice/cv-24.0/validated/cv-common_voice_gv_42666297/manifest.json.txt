@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42666297",
+  "name": "Cha lhisagh persoon erbee ve marrit ec persoon elley.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42666297",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.58,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

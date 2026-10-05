@@ -1,0 +1,14 @@
+{
+  "ident": "speech-088006",
+  "name": "dougie__pronouncing_animals",
+  "source": "https://www.learnmanx.com/media/Files/dougie%20%20pronouncing%20animals.mp3",
+  "platform": "learn_manx",
+  "resource_id": "088006",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 102.32,
+  "deep_link": "https://www.learnmanx.com/media/Files/dougie%20%20pronouncing%20animals.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

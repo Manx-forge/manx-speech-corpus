@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085636",
+  "name": "Lessoon 13",
+  "source": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/Lessoon%2013.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085636",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 142.05,
+  "deep_link": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/Lessoon%2013.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

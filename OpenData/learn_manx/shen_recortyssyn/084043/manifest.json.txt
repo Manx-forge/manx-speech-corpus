@@ -1,0 +1,14 @@
+{
+  "ident": "speech-084043",
+  "name": "conversations 12 feshtyn",
+  "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2012%20feshtyn.mp3",
+  "platform": "learn_manx",
+  "resource_id": "084043",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 114.16,
+  "deep_link": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2012%20feshtyn.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

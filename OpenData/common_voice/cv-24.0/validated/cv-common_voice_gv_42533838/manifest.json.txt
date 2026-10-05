@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42533838",
+  "name": "Cur coontey jeh'n chiaull t'ou clashtyn er y radio.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42533838",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.392,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

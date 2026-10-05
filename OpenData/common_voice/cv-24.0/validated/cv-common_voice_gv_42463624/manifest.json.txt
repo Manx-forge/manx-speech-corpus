@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463624",
+  "name": "As ayns ooilley thalloo nyn eiraght, nee shiu lowal reamys-feaysley son y thalloo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463624",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.604,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

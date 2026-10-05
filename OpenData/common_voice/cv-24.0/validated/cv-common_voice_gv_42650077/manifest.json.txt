@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650077",
+  "name": "O ven, dooyrt eshyn, cha vel mish feeu dy heet stiagh fo dty chlea.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650077",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.94,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

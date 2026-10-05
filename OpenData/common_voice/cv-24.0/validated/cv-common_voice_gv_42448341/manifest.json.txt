@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448341",
+  "name": "Ta'n feeyn oc pyshoon dragonyn, as gah bassoil ard-nieughyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448341",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.336,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

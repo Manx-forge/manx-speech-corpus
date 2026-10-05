@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04370",
+  "name": "Conversation 06",
+  "source": "https://www.learnmanx.com/media//cowag/06%20Track%2006%209.m4a",
+  "platform": "learn_manx",
+  "resource_id": "04370",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 69.1,
+  "deep_link": "https://www.learnmanx.com/media//cowag/06%20Track%2006%209.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

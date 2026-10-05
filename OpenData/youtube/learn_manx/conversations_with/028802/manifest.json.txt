@@ -1,0 +1,14 @@
+{
+  "ident": "speech-028802",
+  "name": "Celtic Langanguages with Brian Stowell",
+  "source": "https://www.youtube.com/watch?v=Fo9N2qb2Rsk",
+  "platform": "youtube",
+  "resource_id": "028802",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 189.8,
+  "deep_link": "https://www.youtube.com/watch?v=Fo9N2qb2Rsk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

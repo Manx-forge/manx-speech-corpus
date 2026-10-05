@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867244",
+  "name": "y choobey cuba",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Cuba.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867244",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.3,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Cuba.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

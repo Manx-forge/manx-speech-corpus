@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,feed,0.09,0.45,aligned
+0,1,lurg,0.45,0.69,aligned
+0,2,shey,0.69,1.14,aligned

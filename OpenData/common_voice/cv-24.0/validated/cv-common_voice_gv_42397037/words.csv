@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"Cur-my-ner,",0.78,1.29,aligned
+0,1,nish,1.62,1.95,aligned
+0,2,ta,1.95,2.16,aligned
+0,3,mee,2.16,2.37,aligned
+0,4,er,2.46,2.67,aligned
+0,5,vosley,2.76,3.39,aligned
+0,6,my,3.48,3.69,aligned
+0,7,"veeal,",3.69,4.05,aligned
+0,8,ver,4.53,4.71,aligned
+0,9,my,4.71,4.92,aligned
+0,10,hengey,4.92,5.43,aligned
+0,11,magh,5.43,5.82,aligned
+0,12,my,5.91,6.06,aligned
+0,13,ghoan.,6.33,6.69,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457747",
+  "name": "Bee e voyn goit 'sy trap, as yiow'n roosteyr barriaght er.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457747",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.0,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054251",
+  "name": "feeaih deer",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/feeaih%20-%20deer.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054251",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.81,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/feeaih%20-%20deer.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

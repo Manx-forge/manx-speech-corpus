@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42615983",
+  "name": "Heese er y twoaie ta ram seshoonyn kiaullee er nyn gummal.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42615983",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.508,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

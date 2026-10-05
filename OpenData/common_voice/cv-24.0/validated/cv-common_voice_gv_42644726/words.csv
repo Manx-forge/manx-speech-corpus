@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,"""Moghrey",0.66,0.90,aligned
+0,1,mie,0.90,1.17,aligned
+0,2,"Juan.""",1.17,1.53,aligned
+0,3,dooyrt,1.83,2.07,aligned
+0,4,shin.,2.07,2.31,aligned

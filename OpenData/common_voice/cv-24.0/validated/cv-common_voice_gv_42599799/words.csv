@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,Quoi,0.54,0.78,aligned
+0,1,ad,0.78,0.93,aligned
+0,2,shen,0.93,1.26,aligned
+0,3,ta,1.26,1.38,aligned
+0,4,getlagh,1.38,1.92,aligned
+0,5,myr,1.92,2.13,aligned
+0,6,"bodjal,",2.13,2.67,aligned
+0,7,as,3.18,3.36,aligned
+0,8,myr,3.36,3.63,aligned
+0,9,ny,3.63,3.78,aligned
+0,10,calmaneyn,3.78,4.50,aligned
+0,11,gys,4.50,4.74,aligned
+0,12,nyn,4.74,4.95,aligned
+0,13,dhuill?,4.95,5.40,aligned

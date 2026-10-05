@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42643389",
+  "name": "Son ta mac y dooinney ny hiarn er y doonaght hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42643389",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.94,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

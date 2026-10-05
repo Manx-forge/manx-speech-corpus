@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385421",
+  "name": "As yn jymmoose veagh çheet nyn yeih.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385421",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.068,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

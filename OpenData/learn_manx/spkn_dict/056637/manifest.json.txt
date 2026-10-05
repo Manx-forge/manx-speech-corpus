@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056637",
+  "name": "feeackleyr dentist",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/feeackleyr%20-%20dentist.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056637",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.38,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/feeackleyr%20-%20dentist.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

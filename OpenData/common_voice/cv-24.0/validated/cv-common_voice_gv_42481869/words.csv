@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""As",0.39,0.63,aligned
+0,1,va,0.63,0.75,aligned
+0,2,paart,0.75,1.08,aligned
+0,3,jeu,1.08,1.41,aligned
+0,4,son,1.41,1.68,aligned
+0,5,goaill,1.68,2.07,aligned
+0,6,eh;,2.07,2.25,aligned
+0,7,agh,2.79,2.97,aligned
+0,8,cha,2.97,3.09,aligned
+0,9,dug,3.09,3.42,aligned
+0,10,dooinney,3.42,3.81,aligned
+0,11,jeu,3.81,4.17,aligned
+0,12,laue,4.17,4.62,aligned
+0,13,"er.""",4.62,4.98,aligned

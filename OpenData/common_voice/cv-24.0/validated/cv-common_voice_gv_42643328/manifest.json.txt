@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42643328",
+  "name": "As ny lhig dasyn t'ayns y vagher çhyndaa back, dy chur lesh e eaddagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42643328",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.956,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

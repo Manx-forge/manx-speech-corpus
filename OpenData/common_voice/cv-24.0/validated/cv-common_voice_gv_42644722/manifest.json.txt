@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644722",
+  "name": "Ayr ain, t'ayns niau; casherick dy row dt'ennym.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644722",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.832,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,smie,0.00,0.33,aligned
+0,1,lesh,0.33,0.57,aligned
+0,2,ram,0.57,0.96,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057747",
+  "name": "bee food",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/bee%20-%20food.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057747",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.71,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/bee%20-%20food.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

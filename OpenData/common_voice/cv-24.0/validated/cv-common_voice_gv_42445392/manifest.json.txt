@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445392",
+  "name": "Ta'n er-connyssagh cuirr anvea, as ta'n scammyltagh jannoo scarrey eddyr eer caarjyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445392",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.972,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

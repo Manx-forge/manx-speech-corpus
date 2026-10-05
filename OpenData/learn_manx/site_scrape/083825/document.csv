@@ -1,0 +1,16 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon nane lessoon,1.00,3.22,asr,36
+,ta feayr,4.99,6.97,asr,70
+,fliugh chirrym,9.76,12.22,asr,100
+,dorraghey te feayr,13.48,17.62,asr,100
+,t'eh cheh t'eh fliugh,18.73,21.43,asr,80
+,t'eh chirrym t'eh dorraghey,22.45,25.06,asr,100
+,t'eh gial t'eh feer feayr,26.11,29.44,asr,58
+,t'eh feer cheh t'eh feer fliugh,30.67,34.15,asr,100
+,te feer chirrym te feer dorraghey,35.44,38.95,asr,100
+,te feer gial jee,40.06,44.23,asr,100
+,bwooise da jee agh,46.57,49.57,asr,86
+,laa chirree,51.40,54.34,asr,100
+,mie laa mie,56.29,58.96,asr,85
+,laa mie ealish she feayr,63.58,66.25,asr,88
+,t'eh feer feayr agh t'eh chirrym,67.27,69.76,asr,81

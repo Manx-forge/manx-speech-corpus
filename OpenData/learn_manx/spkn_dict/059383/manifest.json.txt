@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059383",
+  "name": "traen cooid goods train",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Transport/traen%20cooid%20-%20goods%20train.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059383",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.41,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Transport/traen%20cooid%20-%20goods%20train.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

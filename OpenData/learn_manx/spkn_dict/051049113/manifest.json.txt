@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051049113",
+  "name": "Share lhiam Purt le Moirrey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051049113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.13,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

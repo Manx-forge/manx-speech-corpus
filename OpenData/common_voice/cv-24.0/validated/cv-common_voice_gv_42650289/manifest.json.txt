@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650289",
+  "name": "T'eh jannoo magh nyn veme, as cooney lhien ayns ooilley nyn seaghyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650289",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059442",
+  "name": "cur putting",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20verbs/cur%20-%20putting.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059442",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20verbs/cur%20-%20putting.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

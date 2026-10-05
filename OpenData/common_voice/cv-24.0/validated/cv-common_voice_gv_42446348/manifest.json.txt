@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446348",
+  "name": "As hug ee craitnyn ny mannanyn, er e laueyn, as er lhoamid e wannal.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446348",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 10.44,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

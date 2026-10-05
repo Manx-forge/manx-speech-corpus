@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052214113",
+  "name": "Laksaa",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052214113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.15,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

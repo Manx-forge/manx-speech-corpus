@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Pardoon",0.72,1.23,aligned
+0,1,shiu,1.23,1.47,aligned
+0,2,mee.,1.47,1.77,aligned
+0,3,dooyrt,1.95,2.13,aligned
+0,4,yn,2.13,2.22,aligned
+0,5,Emperor,2.22,2.67,aligned
+0,6,"""""lhig",3.18,3.36,aligned
+0,7,dou,3.36,3.57,aligned
+0,8,loayrt,3.57,3.84,aligned
+0,9,fockle,3.84,4.29,aligned
+0,10,elley,4.29,4.59,aligned
+0,11,my,4.59,4.77,aligned
+0,12,"salliu"""".""",4.77,5.19,aligned

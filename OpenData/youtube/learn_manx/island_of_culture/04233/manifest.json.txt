@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04233",
+  "name": "Ta shin goll dy valley nish",
+  "source": "https://www.youtube.com/watch?v=o-HOqFFtYZc",
+  "platform": "youtube",
+  "resource_id": "04233",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 33.09,
+  "deep_link": "https://www.youtube.com/watch?v=o-HOqFFtYZc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

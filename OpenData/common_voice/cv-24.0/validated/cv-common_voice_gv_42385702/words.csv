@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""Myr",0.87,1.14,aligned
+0,1,shen,1.17,1.53,aligned
+0,2,hig,1.71,1.92,aligned
+0,3,dty,1.92,2.07,aligned
+0,4,voghtynid,2.07,2.67,aligned
+0,5,ort,2.73,3.18,aligned
+0,6,myr,3.18,3.39,aligned
+0,7,troailtagh;,3.39,4.11,aligned
+0,8,as,4.65,4.86,aligned
+0,9,dty,4.86,4.98,aligned
+0,10,ymmyrch,5.04,5.52,aligned
+0,11,myr,5.61,5.82,aligned
+0,12,roosteyr,5.82,6.36,aligned
+0,13,"caggee.""",6.39,6.84,aligned

@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09045",
+  "name": "Abbyr Shen Reesht - Say That Again 12th April 2020",
+  "createdCircaStart": "2020-04-11",
+  "createdCircaEnd": "2020-04-11",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-12th-april-20201/",
+  "platform": "manx_radio",
+  "resource_id": "09045",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1025.88,
+  "deep_link": "https://podcasts.captivate.fm/media/15e8160b-9601-44d5-a62c-efebad57e162/2061-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

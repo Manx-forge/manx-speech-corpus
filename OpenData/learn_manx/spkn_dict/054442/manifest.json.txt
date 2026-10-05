@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054442",
+  "name": "naunt aunt",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/naunt%20-%20aunt.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054442",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/naunt%20-%20aunt.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

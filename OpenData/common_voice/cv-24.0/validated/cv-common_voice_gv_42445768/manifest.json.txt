@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445768",
+  "name": "Nee dooinney mee-chrauee reill y ymmyrkey harrish: as shassee Noid-ny-hanmey ee e laue yesh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445768",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05740113",
+  "name": "Well cha nee skeet mish as she toot agglagh mish",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05740113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 4.61,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

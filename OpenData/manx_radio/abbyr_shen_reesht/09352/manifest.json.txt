@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09352",
+  "name": "Abbyr Shen Reesht - Say That Again 7oo Mean Souree - 2026 - June 7th",
+  "createdCircaStart": "2026-06-07",
+  "createdCircaEnd": "2026-06-07",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-7oo-mean-souree-2026-june-7th/",
+  "platform": "manx_radio",
+  "resource_id": "09352",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 791.0,
+  "deep_link": "https://episodes.captivate.fm/episode/147c4116-6bc2-4fa1-8194-66bbe2133151.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

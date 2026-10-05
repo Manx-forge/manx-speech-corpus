@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09193",
+  "name": "Abbyr Shen Reesht - Say That Again 19th March 2023",
+  "createdCircaStart": "2023-03-19",
+  "createdCircaEnd": "2023-03-19",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-19th-march-20231/",
+  "platform": "manx_radio",
+  "resource_id": "09193",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1386.19,
+  "deep_link": "https://podcasts.captivate.fm/media/364bd975-ee05-4933-a763-e34b0d9224c1/6648.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

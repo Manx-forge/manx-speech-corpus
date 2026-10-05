@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42623377",
+  "name": "As ghow ooilley'n pobble yindys, as dooyrt ad, nagh nee shoh mac Ghavid?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42623377",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.056,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,vel,0.12,0.27,aligned
+0,1,oo,0.27,0.36,aligned
+0,2,geaishtagh,0.36,0.93,aligned
+0,3,rhym,0.93,1.26,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04203",
+  "name": "Shegin dou cloie kiaull nish",
+  "source": "https://www.youtube.com/watch?v=0hzCCqDNjD0",
+  "platform": "youtube",
+  "resource_id": "04203",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.05,
+  "deep_link": "https://www.youtube.com/watch?v=0hzCCqDNjD0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

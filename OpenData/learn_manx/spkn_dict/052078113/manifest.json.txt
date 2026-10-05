@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052078113",
+  "name": "C'raad yinnagh oo cummal dy beagh oo berçhagh?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052078113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.61,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

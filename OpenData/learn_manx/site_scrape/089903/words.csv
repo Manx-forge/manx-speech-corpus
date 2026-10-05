@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,mie,1.33,1.60,aligned
+0,1,lhiat,1.60,1.96,aligned
+0,2,aegey,7.36,7.87,aligned
+0,3,s'mie,8.53,8.95,aligned
+0,4,lhiam,8.95,9.37,aligned
+1,0,s'mie,11.62,12.22,aligned
+1,1,lhiam,12.22,12.58,aligned
+1,2,mish,14.95,15.40,aligned
+2,0,mee,16.69,16.90,aligned
+2,1,paag,20.77,21.13,aligned
+2,2,mish,21.13,21.55,aligned
+2,3,my,21.73,21.85,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867172",
+  "name": "lhie sheese lie down",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Lie%20Down.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867172",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.54,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20commands/Commands_Lie%20Down.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

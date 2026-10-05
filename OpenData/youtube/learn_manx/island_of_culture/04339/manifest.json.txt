@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04339",
+  "name": "Nee bleb uss ghooinney?",
+  "source": "https://www.youtube.com/watch?v=qpJT-rCS9hk",
+  "platform": "youtube",
+  "resource_id": "04339",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 33.95,
+  "deep_link": "https://www.youtube.com/watch?v=qpJT-rCS9hk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

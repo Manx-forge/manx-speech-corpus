@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42643331",
+  "name": "Foddee yn laa mairagh ve dty laa s'jerree.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42643331",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.824,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

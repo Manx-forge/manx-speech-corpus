@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056875",
+  "name": "garey garden",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/garey%20-%20garden.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056875",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.73,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20garden/garey%20-%20garden.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

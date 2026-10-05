@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085353",
+  "name": "chronicle 40-43c",
+  "source": "https://www.learnmanx.com/media/chronicles/chronicle%2040-43c.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085353",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 491.6,
+  "deep_link": "https://www.learnmanx.com/media/chronicles/chronicle%2040-43c.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085756",
+  "name": "ab_03_b",
+  "source": "https://www.learnmanx.com/media/annie%20and%20breesha/ab%2003%20b.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085756",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 62.35,
+  "deep_link": "https://www.learnmanx.com/media/annie%20and%20breesha/ab%2003%20b.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

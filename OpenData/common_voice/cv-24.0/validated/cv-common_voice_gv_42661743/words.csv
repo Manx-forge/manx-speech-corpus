@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,As,0.99,1.23,aligned
+0,1,three-feed,1.23,1.83,aligned
+0,2,as,1.83,2.07,aligned
+0,3,daa,2.07,2.34,aligned
+0,4,housane,2.34,2.85,aligned
+0,5,jeig,2.85,3.18,aligned
+0,6,dy,3.18,3.33,aligned
+0,7,ghew.,3.33,3.78,aligned

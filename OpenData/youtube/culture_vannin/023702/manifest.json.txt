@@ -1,0 +1,14 @@
+{
+  "ident": "speech-023702",
+  "name": "?Loshtit dy bollagh!?",
+  "source": "https://www.youtube.com/watch?v=pxw4mfP6nJE",
+  "platform": "youtube",
+  "resource_id": "023702",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 74.05,
+  "deep_link": "https://www.youtube.com/watch?v=pxw4mfP6nJE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

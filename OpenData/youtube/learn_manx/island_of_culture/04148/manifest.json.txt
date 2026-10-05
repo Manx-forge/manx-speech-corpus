@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04148",
+  "name": "S'mie lhiam Mannin",
+  "source": "https://www.youtube.com/watch?v=qytTz8eHuUE",
+  "platform": "youtube",
+  "resource_id": "04148",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.35,
+  "deep_link": "https://www.youtube.com/watch?v=qytTz8eHuUE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

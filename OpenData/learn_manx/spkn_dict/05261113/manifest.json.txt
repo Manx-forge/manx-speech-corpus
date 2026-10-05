@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05261113",
+  "name": "S'mie lhiam gee bonnag",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05261113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.59,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

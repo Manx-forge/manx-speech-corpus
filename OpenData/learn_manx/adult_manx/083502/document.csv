@@ -1,0 +1,20 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,yn kiare coloayrtys jees,0.85,3.58,asr,76
+,myr t'ou jeeaghyn my agglagh mishoon fuill er y chione ayd t'ad er jeet whooinney honnick mee ad,5.83,13.42,asr,84
+,cre honnick oo son mean,16.06,17.98,asr,22
+,ta doolish lane jeu t'ad roie mygeayrt ayns ny straidyn caggey as greimmey y cheilley ta orrin jamys sheean bee kiune ghooinney,18.61,27.37,asr,88
+,cha vaik oo son bee yn eddyr ta doolish myr shen dagh jerrey shiaghtin,27.88,32.41,asr,85
+,vel oo shickyr ghooinney v'ad ooilley jeeaghyn lheeah as marroo slane shickyr,33.01,38.14,asr,100
+,cha nee son bee yn honnick oo agh butty yn scooyrit,38.74,41.92,asr,92
+,agh va soar quaagh jeu magher bea laue,43.24,46.93,asr,89
+,shen my kibbin t'ou gee ooilley ta dy kinjagh soaral myr shen ec traa shoh nee,47.50,52.93,asr,83
+,feeu va mee smooinaghtyn dy row yn pobble,53.86,56.83,asr,88
+,ta ny cheet dagh oie jesarn er straidyn ghoolish,58.45,61.72,asr,100
+,veih shen ansherbee hie mish as breeshey dys yn thie-fillym dy yeeaghyn er yn illym noa shen as matt damon ayn v'eh feer vie between magh,63.43,72.40,asr,95
+,hie hug mee shilley er juan ayns delby,72.97,75.97,asr,100
+,s'mie shen,79.18,79.84,asr,0
+,cre shen vel oo clashtyn red erbee ayns y gharey,80.50,83.95,asr,100
+,ta she sheean quaagh t'ayn dyn dooyt,85.48,89.38,asr,92
+,nee'm jeeaghyn agh cha nee,90.25,93.43,asr,96
+,v'ou kiart ghooinney she son beeym tayn,93.97,96.64,asr,82
+,cha nee bwilleen scoorit edyr jean chea ghooinney,97.24,100.48,asr,88

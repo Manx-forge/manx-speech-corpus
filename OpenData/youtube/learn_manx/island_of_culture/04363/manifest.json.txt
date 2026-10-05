@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04363",
+  "name": "S'mie lhiam cloie dub",
+  "source": "https://www.youtube.com/watch?v=6sinlGiHFbc",
+  "platform": "youtube",
+  "resource_id": "04363",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 29.58,
+  "deep_link": "https://www.youtube.com/watch?v=6sinlGiHFbc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

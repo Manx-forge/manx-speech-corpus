@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,cha,0.27,0.39,aligned
+0,1,nee,0.39,0.72,aligned
+0,2,gobbag,0.75,1.11,aligned
+0,3,eshyn,1.11,1.53,aligned

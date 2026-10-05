@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085271",
+  "name": "02b",
+  "source": "https://mailchi.mp/c302b3e9e3ef/brastyl-lhaih-gaelg-advanced-reading-class-12632990",
+  "platform": "learn_manx",
+  "resource_id": "085271",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 107.44,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

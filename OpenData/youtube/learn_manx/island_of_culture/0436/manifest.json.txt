@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0436",
+  "name": "Vel eh feeu goll shappal ayns Rhumsaa?",
+  "source": "https://www.youtube.com/watch?v=ZlsawDb3hmU",
+  "platform": "youtube",
+  "resource_id": "0436",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.34,
+  "deep_link": "https://www.youtube.com/watch?v=ZlsawDb3hmU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

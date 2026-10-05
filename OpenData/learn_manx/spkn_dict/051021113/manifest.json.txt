@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051021113",
+  "name": "Cha nhare lhee Rhumsaa",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051021113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.29,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

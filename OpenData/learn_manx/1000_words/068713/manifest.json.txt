@@ -1,0 +1,14 @@
+{
+  "ident": "speech-068713",
+  "name": "1000words_entry_318137",
+  "source": "https://www.learnmanx.com/learning/1000words/1000words_entry_318137.html",
+  "platform": "learn_manx",
+  "resource_id": "068713",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 12.565,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

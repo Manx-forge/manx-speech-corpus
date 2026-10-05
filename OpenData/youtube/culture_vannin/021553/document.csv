@@ -1,0 +1,53 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,clasht rish my eam o yee,0.01,2.23,asr,67
+,eaisht rish my phadjer ayns y rullick shoh yn shenn,3.07,6.55,asr,0
+,shoh yn eie jeh yn arrymagh mooar,7.57,11.26,asr,94
+,eshyn ruggit sy vlein shiaght cheead jeig as queig,11.92,15.25,asr,98
+,as v'eh goll er ynsaghey rish traa liauyr ayns scoill grammeydys doolish,15.94,20.98,asr,99
+,as ec y traa shen v'eh gynsaghey,22.12,24.46,asr,93
+,saggyrt lurg da ve ec yn,25.36,28.78,asr,88
+,yn scoill grammeydys hie eh gys cooyrt yn aspick as ren yn aspick thomas wilson sessal eh as lurg shen gys yn scoill academagh,29.29,39.76,asr,60
+,ayns balley chashtal daa vlein roish goll erash gys cooyrt yn aspick as haink eh dy ve saggyrt dan aspick hene,39.82,48.13,asr,88
+,brasnit thomas wilson jeeaghyn dy yannoo chyndaays jeh yn vible chasherick sy ghaelg eshyn boirit nagh row ny gaelgeyryn ny manninee,49.69,60.10,asr,95
+,toiggal fockle jeh yn vible chasherick ayns y vaarle as myr shoh v'eh laccal cur eh ayns jannoo va toiggal,60.46,67.54,asr,81
+,agh cha daink eh lesh agh rish yn sushtal liorish y noo mian as va shen clouit sy vlein shiaght cheead jeig hoght as daeed,68.89,77.59,asr,95
+,agh v'eh lesh yn aspick hildesley dy daink eh dy ve speeideilagh ayns cosney ooilley yn argid va femoil,78.91,89.11,asr,84
+,son jannoo ayns shelloo shoh goaill ayns laue ayns shoh,89.41,92.59,asr,0
+,cha row eshyn hene abyl dy yannoo eh as v'eh currit magh,93.64,97.24,asr,100
+,ny saggyrtyn fo-syn va loayrt yn ghaelg,98.11,101.29,asr,66
+,as hoshiaght ren oo goaill toshiaght er yn conaant noa,102.04,105.13,asr,94
+,beg jeh'n vible chasherick ooilley cooidjagh,106.81,109.00,asr,0
+,reddyn shen as eisht ren ad goll gys un cheu ayns aght dy yannoo,110.11,115.63,asr,84
+,padjer as ren ad shen er-yn-oyr dy vel ayns y phadjer meeryn ass y vible dy ve lhaiht ayns kialteenyn,116.50,124.63,asr,65
+,car ny bleeaney as lurg shen,125.50,128.35,asr,93
+,ren ad goaill toshiaght er yn chenn conaant as shen yn traa haink yn arrymagh philip mooar dy ve,129.19,135.49,asr,98
+,jeh'n share lhee er-yn-oyr dy row lioaryn currit magh gys ny saggyrtyn ooilley mygeayrt yn ellan as haink ny jean dasyn va jeant oc stiagh gys,136.42,146.50,asr,89
+,gys philip mooar as ren eshyn femblal ooilley,146.35,149.35,asr,64
+,as ren philip mooar femblal ny lauescreeuyn shen,150.58,155.23,asr,29
+,va currit da ny er ve clouit as haink dy ve,155.89,160.30,asr,82
+,vible chasherick sy ghaelg orroo cur kione er yn obbyr dy tappee er-yn-oyr dy row yn aspick myr,161.56,169.33,asr,82
+,ayns raad y vaaish yn traa shen as haink ny duillagyn s'jerree jeh yn vible chashtick gys,170.38,177.04,asr,92
+,yn aspick just nuy laghyn roish da geddyn baase,177.76,181.45,asr,80
+,va'n bible chasherick clouit ayns son y chied cheayrt sy vlein shiaght cheead jeig tree feed as queig-jeig,182.71,188.71,asr,81
+,agh va shen son ymmyd jus ayns ny kialteenyn,189.37,191.86,asr,90
+,cha row eh clouit ayns un lioar-reestagh derrey yn vlein hoght cheead jeig as nuy jeig,192.85,197.65,asr,85
+,as shen jiu yn vible chasherick ta ry gheddyn sy lhing shoh as ve jeant ass y noa,198.46,205.09,asr,90
+,liorish sy vlein nuy cheead jeig tree feed as nuy-jeig,205.66,210.85,asr,100
+,as shoh yn lioar ta ry gheddyn nish as chouds ta shoh,211.33,214.48,asr,76
+,yn arrymagh philip mooar ayns aght shoh,215.59,219.22,asr,82
+,ayns cooinaghtyn jeh yn arrymagh philip mooar neesht,219.94,222.79,asr,100
+,dy row eshyn gobbraghey dy creoi as lesh veih dy chur magh yn clane vible chasherick sy ghaelg,223.81,230.11,asr,92
+,clasht rish my eam o yee,230.80,233.02,asr,67
+,eaisht rish my phadjer veih king y theihll nee'm geamagh ort tra ta my chree ayns,233.86,240.91,asr,85
+,hie mee seose er y chreg ta ny syrjey na,243.79,246.13,asr,0
+,son t'ou er ve my hreishteil,247.30,249.49,asr,100
+,as toor lajer dooys noi yn noid,250.30,253.03,asr,100
+,nee'm cummal ayns dty chabbane-agglish son dy braa,254.53,257.35,asr,96
+,as bee my hreishteil fo scaa dty skianyn,258.43,261.67,asr,100
+,son t'ou uss o hiarn er chlashtyn my yeearreeyn,263.26,266.83,asr,100
+,as er choyrt eiraght dauesyn ta goaill aggle roish,267.94,271.54,asr,100
+,ver oo da'n ree bea liauyr,273.82,276.16,asr,0
+,dy vod e vleeantyn farraghtyn trooid magh dy chooilley heeloghe,277.06,280.99,asr,100
+,fenish yee son dy bra o kiare dty vyghin ghraihagh as dt'irriney dy vod eh,283.42,291.10,asr,99
+,myr shen gione dy kinjagh arrane moylley gys,294.01,297.52,asr,70
+,dy voddym gagh laa my vreearaghyn y chooilleeney,299.05,302.62,asr,98

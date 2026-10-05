@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086289",
+  "name": "Laa Mie er y Cholloo? Ushagyn",
+  "source": "https://www.youtube.com/watch?v=hE_8L7AqOG0",
+  "platform": "youtube",
+  "resource_id": "086289",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 242.16,
+  "deep_link": "https://www.youtube.com/watch?v=hE_8L7AqOG0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386385",
+  "name": "Dy vel yn rioyn croie er stroie.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386385",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.572,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

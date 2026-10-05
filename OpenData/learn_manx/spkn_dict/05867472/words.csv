@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,runt,0.45,1.08,aligned
+0,1,round,1.71,2.46,aligned
+0,2,runt,3.15,3.75,aligned

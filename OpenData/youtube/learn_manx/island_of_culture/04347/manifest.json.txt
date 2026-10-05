@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04347",
+  "name": "C'raad ta Jishag y Nollick?",
+  "source": "https://www.youtube.com/watch?v=3T5p-V9DjDk",
+  "platform": "youtube",
+  "resource_id": "04347",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.82,
+  "deep_link": "https://www.youtube.com/watch?v=3T5p-V9DjDk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

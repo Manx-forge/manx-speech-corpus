@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,Cur,1.23,1.59,aligned
+0,1,dooin,1.59,2.04,aligned
+0,2,laa,2.04,2.49,aligned
+0,3,lurg,2.49,2.79,aligned
+0,4,laa,2.82,3.18,aligned
+0,5,nyn,3.36,3.66,aligned
+0,6,arran,3.78,4.23,aligned
+0,7,gagh,4.23,4.65,aligned
+0,8,laa.,4.65,5.04,aligned

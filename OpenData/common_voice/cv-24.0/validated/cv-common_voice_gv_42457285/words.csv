@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,Son,0.84,1.02,aligned
+0,1,t'eh,1.02,1.17,aligned
+0,2,"gra,",1.17,1.65,aligned
+0,3,Nagh,2.07,2.37,aligned
+0,4,vel,2.37,2.61,aligned
+0,5,my,2.61,2.82,aligned
+0,6,phrinceyn,2.82,3.51,aligned
+0,7,corrym,3.51,3.96,aligned
+0,8,rish,3.96,4.32,aligned
+0,9,reeaghyn?,4.32,4.77,aligned

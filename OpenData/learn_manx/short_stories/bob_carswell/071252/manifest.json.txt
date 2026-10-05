@@ -1,0 +1,14 @@
+{
+  "ident": "speech-071252",
+  "name": "quaail_john_pilling_translated_by_bob_carswell",
+  "source": "https://www.learnmanx.com/media//Stories/Quaail_John_Pilling.mp3",
+  "platform": "learn_manx",
+  "resource_id": "071252",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 513.37,
+  "deep_link": "https://www.learnmanx.com/media//Stories/Quaail_John_Pilling.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42333619",
+  "name": "Ta traa creenagh yn arroo, agh cha vel eh traaue ny magheryn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42333619",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.724,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

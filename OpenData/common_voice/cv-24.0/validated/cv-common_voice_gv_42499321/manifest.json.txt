@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42499321",
+  "name": "T'ou jeh onnor as niart smoo: na croink ny roosteyryn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42499321",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.676,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

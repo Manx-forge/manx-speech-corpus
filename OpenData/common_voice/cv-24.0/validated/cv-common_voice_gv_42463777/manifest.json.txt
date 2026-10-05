@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463777",
+  "name": "Bare lhieu yn vea ock dy vel ooilley soilshean greiney.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463777",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.652,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

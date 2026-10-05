@@ -1,0 +1,14 @@
+{
+  "ident": "speech-087641",
+  "name": "Yn Cholloo? Thie-eirinagh Carey",
+  "source": "https://www.youtube.com/watch?v=5_cK8ycBQfo",
+  "platform": "youtube",
+  "resource_id": "087641",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 163.05,
+  "deep_link": "https://www.youtube.com/watch?v=5_cK8ycBQfo&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

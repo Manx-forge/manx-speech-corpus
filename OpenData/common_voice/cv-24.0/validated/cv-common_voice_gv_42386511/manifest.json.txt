@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386511",
+  "name": "Agh eshyn syrjey ta nyn mast' eu, bee eh nyn shirveishagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386511",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716596",
+  "name": "Corp Chreest, v'er ny vrishey er nyn son eu  The Body of Christ, broken for you",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/The_body_of_Christ_broken_for_you.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716596",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 9.69,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/The_body_of_Christ_broken_for_you.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

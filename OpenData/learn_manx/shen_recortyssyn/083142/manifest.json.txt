@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083142",
+  "name": "conversations 16 by cha by vie",
+  "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2016%20by%20cha%20by%20vie.mp3",
+  "platform": "learn_manx",
+  "resource_id": "083142",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 115.88,
+  "deep_link": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2016%20by%20cha%20by%20vie.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

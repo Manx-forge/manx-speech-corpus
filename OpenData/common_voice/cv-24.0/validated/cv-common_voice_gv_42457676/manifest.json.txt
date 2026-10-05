@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457676",
+  "name": "As va folt oc goll-rish folt mraane, as va nyn veeacklyn goll-rish feeacklyn lionyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457676",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.668,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

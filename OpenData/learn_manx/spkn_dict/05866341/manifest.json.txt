@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866341",
+  "name": "carraneyn sandals",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Sandals.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866341",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 4.6,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Sandals.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

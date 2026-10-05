@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058815",
+  "name": "kishan-pabyr waste paper basket",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20school/kishan-pabyr%20-%20waste%20paper%20basket.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058815",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.41,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20school/kishan-pabyr%20-%20waste%20paper%20basket.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

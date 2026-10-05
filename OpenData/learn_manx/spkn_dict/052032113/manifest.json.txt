@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052032113",
+  "name": "Cren vee va Voirrey ruggit ayn?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052032113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.14,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

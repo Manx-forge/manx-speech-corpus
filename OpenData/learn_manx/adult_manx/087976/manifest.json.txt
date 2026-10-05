@@ -1,0 +1,14 @@
+{
+  "ident": "speech-087976",
+  "name": "K2 L12",
+  "source": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20K2%20sound%20files%20%282023%29/LG%20K2%20L12%20Lhaih%207.mp3",
+  "platform": "learn_manx",
+  "resource_id": "087976",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1506.3,
+  "deep_link": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20K2%20sound%20files%20%282023%29/LG%20K2%20L12%20Lhaih%207.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

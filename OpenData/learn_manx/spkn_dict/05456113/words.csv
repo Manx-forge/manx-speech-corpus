@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,jean,0.06,0.24,aligned
+0,1,eh,0.24,0.39,aligned
+0,2,loayrt,0.39,0.69,aligned
+0,3,gaelg,0.69,1.20,aligned

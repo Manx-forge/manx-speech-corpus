@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052125113",
+  "name": "Shooyl ny Skeeraghyn",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052125113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.42,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

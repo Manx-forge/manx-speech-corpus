@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42519",
+  "name": "Cre'n sorçh dy hie-tashtee share lhiat?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42519",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 11.988,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

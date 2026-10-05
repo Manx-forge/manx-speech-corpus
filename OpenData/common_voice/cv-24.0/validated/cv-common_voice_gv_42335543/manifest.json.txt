@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42335543",
+  "name": "Son raad ta nyn merchys, shen y raad vees y cree eu myrgeddin.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42335543",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.912,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

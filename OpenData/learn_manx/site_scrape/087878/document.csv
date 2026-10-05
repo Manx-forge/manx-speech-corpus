@@ -1,0 +1,22 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon queig-jeig as daeed,0.40,3.94,asr,70
+,jee cur,5.35,7.69,asr,0
+,ny cur t'eh cur eh,9.04,11.77,asr,8
+,nagh dug eh cha dug eh,17.92,20.44,asr,100
+,huggey yn argid,21.91,25.15,asr,87
+,yn fer yn check,26.71,29.26,asr,36
+,yn brishey yn coontey,30.43,33.10,asr,76
+,yn mail nagh dug eh yn argid jee,34.60,39.52,asr,91
+,nagh dug eh yn feill jee nagh dug eh yn check jee,41.14,46.06,asr,98
+,nagh dug eh yn brishey-jee nagh dug eh yn coontey-jee,47.65,52.30,asr,94
+,nagh dug eh yn mail jee cur argid da juan,54.01,60.64,asr,85
+,ny cur yn mail da foast ren eh magh yn coontey dou ish,66.70,72.94,asr,86
+,pooar brishey veih'n aash nagh ren,75.52,79.96,asr,62
+,rieau cheet veih juan hom,80.62,83.71,asr,100
+,cha nel oo er chur c'red t'ou gra,85.30,88.66,asr,61
+,yn argid thie t'ou laccal,90.22,93.52,asr,100
+,choud's geearree mee cha nel oo yn argid thie dou fo surree,96.79,102.34,asr,77
+,nagh dug mee eh dooyrt riyr nagh vel fys ayd nagh dug,103.99,108.58,asr,76
+,va mee shickyr dy dug shoh eh reesht,110.53,113.20,asr,84
+,reesht c'red t'ou gra t'eh ayd nish ansherbee,114.58,120.73,asr,73
+,ta brishey erbee cheet brishey t'ou laccal brishey,121.99,126.73,asr,90

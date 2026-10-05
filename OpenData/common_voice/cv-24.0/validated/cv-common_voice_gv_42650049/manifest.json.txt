@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650049",
+  "name": "Mychione credjue ny lomarcan, cre'n aght t'eh dy ve er ny hoiggal?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650049",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.76,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

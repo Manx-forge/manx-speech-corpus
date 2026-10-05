@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446476",
+  "name": "Dooys v'eh myr muc-awin ny lhie farkiaght, as myr lion cooyl-chlea.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446476",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.616,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,8 @@
+line,idx,word,start,end,status
+0,0,er,0.27,0.39,aligned
+0,1,y,0.39,0.42,aligned
+0,2,fa,0.42,0.75,aligned
+0,3,dy,0.75,0.84,aligned
+0,4,vel,0.84,1.05,aligned
+0,5,eh,1.05,1.17,aligned
+0,6,feayr,1.17,1.59,aligned

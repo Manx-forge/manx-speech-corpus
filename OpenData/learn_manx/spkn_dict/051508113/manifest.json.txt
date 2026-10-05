@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051508113",
+  "name": "Ta John McGuinness ny smoo tappee er y clieau",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051508113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.65,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

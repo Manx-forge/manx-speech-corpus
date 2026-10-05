@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05728113",
+  "name": "Cha jeanym shappal Jemayrt. Neeym shappal Jesarn.",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05728113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.42,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

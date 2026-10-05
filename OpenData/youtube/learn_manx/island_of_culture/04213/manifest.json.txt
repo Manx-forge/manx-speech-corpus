@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04213",
+  "name": "Bee oo ayns Purt le Moirrey mairagh? S'treisht lhiam dy beeym",
+  "source": "https://www.youtube.com/watch?v=uK2TLzTmINI",
+  "platform": "youtube",
+  "resource_id": "04213",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.17,
+  "deep_link": "https://www.youtube.com/watch?v=uK2TLzTmINI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

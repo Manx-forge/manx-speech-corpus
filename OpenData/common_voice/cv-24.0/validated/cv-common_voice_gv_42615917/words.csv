@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,Cooyl,0.51,0.81,aligned
+0,1,y,0.81,0.87,aligned
+0,2,"thie,",0.87,1.29,aligned
+0,3,cha,1.41,1.53,aligned
+0,4,row,1.53,1.71,aligned
+0,5,garey,1.71,2.19,aligned
+0,6,-,,,unaligned
+0,7,va,2.61,2.67,aligned
+0,8,ynrican,2.76,3.30,aligned
+0,9,orçh.,3.45,4.17,aligned

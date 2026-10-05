@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446933",
+  "name": "\"Shoh yn dreamal; as nee mayd soilshaghey yn bun echey, fenish y ree.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446933",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.488,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

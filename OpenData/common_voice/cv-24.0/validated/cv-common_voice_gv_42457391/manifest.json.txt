@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457391",
+  "name": "Agh ooilley'n maase, as cragh ny ard-valjyn, ghow shin son spooilley dooin hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457391",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.864,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

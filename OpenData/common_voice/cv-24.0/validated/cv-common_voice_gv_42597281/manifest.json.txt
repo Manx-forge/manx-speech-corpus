@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42597281",
+  "name": "Cur-jee twoaie jeh moddee, cur-jee twoaie jeh drogh-yantee, cur-jee twoaie jeh'n cowrey-foalley.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42597281",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.676,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

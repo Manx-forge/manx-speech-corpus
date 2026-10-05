@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42269",
+  "name": "Kys ta'n emshir er chaghlaa er y gherrid?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42269",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 17.568,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""My",0.66,0.87,aligned
+0,1,"vac,",0.87,1.35,aligned
+0,2,ny,1.68,1.80,aligned
+0,3,jarrood,1.80,2.25,aligned
+0,4,my,2.25,2.40,aligned
+0,5,leigh;,2.40,2.82,aligned
+0,6,agh,3.93,4.17,aligned
+0,7,lhig,4.20,4.53,aligned
+0,8,da,4.65,4.83,aligned
+0,9,dty,4.83,4.98,aligned
+0,10,chree,4.98,5.49,aligned
+0,11,freayll,5.58,6.00,aligned
+0,12,my,6.81,6.93,aligned
+0,13,"annaghyn.""",6.99,7.44,aligned

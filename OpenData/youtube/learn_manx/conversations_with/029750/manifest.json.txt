@@ -1,0 +1,14 @@
+{
+  "ident": "speech-029750",
+  "name": "Placenames of the Isle of Man",
+  "source": "https://www.youtube.com/watch?v=N6L5G3EB5b0",
+  "platform": "youtube",
+  "resource_id": "029750",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 272.97,
+  "deep_link": "https://www.youtube.com/watch?v=N6L5G3EB5b0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

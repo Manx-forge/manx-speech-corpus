@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04196",
+  "name": "T'eh yindyssagh goaill arrane ayns Gaelg",
+  "source": "https://www.youtube.com/watch?v=S1L_4cBQJW4",
+  "platform": "youtube",
+  "resource_id": "04196",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.78,
+  "deep_link": "https://www.youtube.com/watch?v=S1L_4cBQJW4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

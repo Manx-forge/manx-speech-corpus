@@ -1,0 +1,197 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,0.97,3.61,asr,53
+,lessoon queig-jeig,5.32,6.91,asr,88
+,hug mee queig praaseyn,21.67,23.92,asr,0
+,hug mee queig praaseyn da,25.54,26.98,asr,62
+,fifteen potatoes hug mee queig praaseyn,30.52,40.57,asr,80
+,da hug mee queig jeig da,41.20,44.32,asr,66
+,hie mee,47.71,58.48,asr,0
+,bee queig praaseyn jeig as daeed daa,58.33,61.90,asr,48
+,hug mee queig jeig as daeed daa,62.92,65.02,asr,74
+,hie giareyderyn,68.29,71.20,asr,32
+,hug mee queig praaseyn jeig as daeed daa vraar,81.31,86.59,asr,96
+,hug mee coip reddyn jeig as daeed da dty vraar,87.82,90.31,asr,78
+,how big were v'eh cha,94.36,104.68,asr,0
+,cha mooar as vad mooar as v'ad,104.59,108.49,asr,80
+,but as big as v'ad,112.75,121.12,asr,0
+,mooar as ooyllyn dy mooar as ooyllyn,121.69,125.89,asr,81
+,bush as big as vad mysh mooar as ooyllyn,129.04,139.45,asr,50
+,v'ad myr shoh mooar as ooyllyn as,140.74,144.94,asr,81
+,ren eh gee ad gee ayd,152.59,155.26,asr,64
+,ass as ren eh gee ad,157.75,168.01,asr,0
+,bio giat yn doodee,168.94,174.37,asr,26
+,as ren eh gee as ren eh gee ad,184.96,188.83,asr,100
+,bee yn chied frass ren oo gee yn chied frass,205.12,209.08,asr,89
+,the first potato dynsee oo dty fo,212.44,216.70,asr,0
+,gee yn chied frass agh cha ren eh gee yn kiare jeig elley,229.33,236.71,asr,88
+,ren eh gee yn chied cha ren eh gee yn kiare-jeig elley,238.09,241.48,asr,76
+,so ren,244.75,257.95,asr,17
+,ren eh gee yn chied frass,257.71,260.41,asr,56
+,agh erlhiam nagh ren eh gee yn kiare jeig elley,261.76,265.81,asr,92
+,gee yn chied vraar so er lhiam nagh ren oo gee yn kiare-jeig elley,266.86,270.31,asr,77
+,dys mary co-moirrey,274.09,281.08,asr,25
+,vac y moirrey yesterday,282.13,287.53,asr,50
+,but moghrey jea va moirrey jeh,295.06,297.79,asr,63
+,honnick honnick honnick,302.56,316.72,asr,85
+,hug mee shilley urree honnick mee shilley urree,317.74,321.25,asr,72
+,the very honnick,325.87,336.88,asr,0
+,hug mee shilley urree ayns purt le moirrey,337.57,340.36,asr,100
+,honnick mee shilley urree ayns purt le moirrey,341.23,343.30,asr,100
+,dug oo pronnag,356.20,357.49,asr,0
+,agh jee dug oo pronnag jee,357.37,359.74,asr,57
+,dug,374.35,374.65,asr,0
+,goo yn phronnag shen jee,374.59,376.84,asr,83
+,hug oo yn phronnag shen jee va,377.56,381.73,asr,48
+,hug mee jees jee hug mee jees jee,389.77,393.67,asr,38
+,choud's eh geabey too,394.93,396.94,asr,43
+,hug mee jees jee agh cha ren ee gee ad,405.91,410.29,asr,97
+,hug mee jees jee y chellee nee ad,411.22,413.41,asr,61
+,the first,424.96,425.71,asr,20
+,sushtal beg va'n chied phronnag,425.83,436.81,asr,0
+,ro vooar va'n chied phronnag ro vooar,436.87,440.47,asr,75
+,the first was too big for,442.75,444.94,asr,64
+,phronnag ro vooar son eck,454.90,456.91,asr,67
+,kied phronnag ro vooar son eck choud's,457.51,460.96,asr,48
+,the big and the second was too sweet,462.13,466.30,asr,31
+,with ronnag ro vooar son eck,479.14,481.75,asr,62
+,as va'n nah phronnag ro villish,482.71,485.71,asr,84
+,va'n chied phronnag ro vooar son eck as va'n nah phronnag ro villish,486.61,490.39,asr,97
+,neeym cur lhiam neeym cur lhiam yn,505.87,510.28,asr,67
+,neeym,528.91,529.36,asr,0
+,cur lhiam o ren mee kionnagh,529.42,532.66,asr,69
+,neeym cur lhiam yn ooyl ren mee kionnagh house,533.35,541.09,asr,55
+,neeym corlheim ren mee kionnagh dys dty hie,551.92,556.66,asr,77
+,neeym cur lhiam yn ooyl ren mee kionnagh dys dty hie,557.32,559.99,asr,98
+,aye,567.52,567.82,asr,67
+,hug mee lhiam yn traa shen,578.47,581.29,asr,100
+,hug mee lhiam yn traa shen shoh,582.22,589.03,asr,48
+,hug mee lhiam yn traa shen honnick oo,599.32,602.65,asr,100
+,hug mee lhiam yn traa shen honnick oo goll,603.43,609.73,asr,65
+,hug mee lhiam yn traa shen honnick oo dys y chamyr-aarlee,624.43,628.87,asr,100
+,hug mee lhiam yn traa shen honnick oo dys y chamyr-aarlee,629.80,632.62,asr,100
+,goll,648.19,648.49,asr,0
+,red erbee red erbee,649.03,651.43,asr,50
+,dug,667.39,667.75,asr,0
+,red erbee dy oie red erbee dy oie,668.29,671.95,asr,52
+,yiass hie,673.93,683.35,asr,6
+,two sausages hug,684.19,695.35,asr,0
+,hug mee lhiam daa phronnag hug hug mee lhiam daa phronnag,696.19,700.81,asr,100
+,yes hie boghtoo sodor as yn tree,703.12,705.94,asr,45
+,hug hug mee lhiam daa phronnag as three praaseyn,715.03,720.19,asr,98
+,hug hug mee lhiam daa phronnag as three praaseyn,721.27,723.91,asr,100
+,how just say hee wood bring yinnagh,726.19,739.66,asr,0
+,eh cur lesh yinnagh eh cur lesh yn kayt,739.45,745.09,asr,71
+,keead bring as kiart yinnagh,748.18,759.52,asr,0
+,yn cur lesh yinnagh oo cur lesh yn kayt echey,759.43,765.13,asr,70
+,bing as caffee house yinnagh,768.55,783.16,asr,0
+,the cur lesh yn kayt echey dys dty hoie,782.98,787.06,asr,68
+,yinnagh eh cur lesh yn kayt echey dys dty hie,788.14,790.54,asr,91
+,eh bring as caffee house,794.53,796.51,asr,52
+,yinnagh eh cur lesh shin,810.46,812.47,asr,55
+,dys dty hie mannagh beagh eh cho mooar,813.61,817.81,asr,92
+,yinnagh eh cur lesh yn kayt echey dys dty hie mannagh beagh eh mooar,818.98,822.46,asr,91
+,with cre cha mooar as te,826.54,835.03,asr,55
+,cre'n mooar as te now,835.99,840.37,asr,47
+,cre cho mooar as te nish,848.29,850.72,asr,96
+,cre'n mooar as t'eh nish its as big as y pig,851.53,857.68,asr,69
+,teh cho mooar as muc t'eh oor as muc,865.51,869.50,asr,82
+,its about as big as y pig mooar,872.32,882.40,asr,59
+,as muc t'eh mysh y mooar as muc,882.22,885.58,asr,68
+,ask dy,888.46,890.83,asr,15
+,oh,892.21,892.33,asr,0
+,boo red erbee hom red erbee hom,903.37,908.08,asr,60
+,dug,921.55,921.94,asr,0
+,berbee foast,922.54,924.79,asr,46
+,dug oo red erbee hym ayns y foays gyn ny post this week,925.78,933.13,asr,47
+,dug oo red erbee sy,944.26,946.33,asr,85
+,yn chiaghtin shoh red erbee hym's y foast yn chiaghtin shoh,947.71,952.30,asr,68
+,hug hug hug,956.38,962.89,asr,28
+,hug hug mee red ennagh hood,972.46,975.64,asr,100
+,hug mee red ennagh hood neesht,976.72,981.16,asr,67
+,chengey son big hug,981.67,993.28,asr,0
+,hug mee red ennagh mooar,994.09,996.19,asr,59
+,hug mee red ennagh mooar hood beg,997.93,1004.23,asr,44
+,habbit in a day hug,1005.34,1019.08,asr,0
+,hug mee red ennagh mooar hood,1019.95,1022.50,asr,100
+,lhisagh eh ve ayd ayns laa,1023.70,1026.79,asr,69
+,hug mee red ennagh mooar hood ghavid as laa,1028.08,1031.68,asr,70
+,hug hug mee red ennagh mooar hood,1049.50,1053.07,asr,100
+,lhisagh eh ve ayd ayns laa ny jees,1053.85,1056.85,asr,81
+,hug mee red ennagh mooar hood lhisagh y ve ayd as laa ny jees,1057.60,1061.56,asr,90
+,dy yannoo vel fys ayd vel fys ayd,1064.74,1069.84,asr,57
+,vel fys ayd c'raad,1080.22,1082.05,asr,83
+,hie breeshey vel fys ayd c'raad breeshey,1082.11,1085.59,asr,90
+,cha nel cha nel,1089.76,1091.86,asr,100
+,cha nel cha nel agh foddym goll,1106.80,1113.28,asr,59
+,how,1128.91,1129.15,asr,0
+,cha nel cur text sic my t'ou laccal,1128.88,1133.56,asr,68
+,cha nel agh foddym cur text ec my t'ou laccal,1134.37,1136.62,asr,89
+,cha nel fo'n eck,1146.10,1147.48,asr,79
+,cha nel fo'n eck she has got foill at the moment,1148.05,1152.07,asr,61
+,cha nel fo yn eck ec y traa t'ayn,1160.23,1163.05,asr,83
+,cha nel ec y traa t'ayn shen,1163.74,1168.09,asr,57
+,ben juan y text cha,1169.98,1182.34,asr,0
+,cha nel fo yn eck ec y traa t'ayn,1182.25,1185.40,asr,0
+,nee'm cur text dys juan,1186.21,1188.94,asr,100
+,cha nel ec y traa t'ayn nee'm cur text as juan,1190.26,1193.32,asr,85
+,huggey,1206.31,1206.64,asr,45
+,ny cur text huggey dooin,1207.30,1210.93,asr,52
+,cur text huggey dou dys yn thie echey,1223.71,1227.58,asr,92
+,ny gow dys y thie echey,1228.27,1230.37,asr,59
+,but textyn go to his house,1233.13,1235.35,asr,12
+,oh,1249.75,1249.84,asr,0
+,ny cur text huggey dou dys yn thie echey,1249.57,1253.56,asr,82
+,t'eh beaghey faggys da shoh,1254.49,1256.50,asr,100
+,ny gow dys y thie echey t'eh beaghey faggys da shoh,1257.58,1261.24,asr,75
+,don't go to as howse,1264.48,1266.91,asr,42
+,ny cur text hug eh dou dys y thie echey,1280.26,1285.00,asr,100
+,t'eh beaghey faggys daa shoh nagh vel,1286.02,1289.02,asr,97
+,ny gow dys y thie echey t'eh beaghey faggys da shoh nagh vel,1289.77,1294.00,asr,79
+,sy yiass ta,1295.86,1299.25,asr,0
+,ta ta,1300.33,1315.03,asr,100
+,agh va fo goll magh,1315.54,1317.61,asr,62
+,ta goll magh lhig,1318.21,1323.73,asr,29
+,ta goll magh tra honnick mee eh,1340.08,1344.49,asr,76
+,ta goll magh tra honnick mee eh,1345.78,1348.03,asr,100
+,eh ta,1353.91,1366.39,asr,0
+,va fo goll magh tra honnick,1367.23,1369.69,asr,71
+,bea moghrey jiu ta goll magh tra honnick mee eh moghrey jiu,1370.05,1374.79,asr,78
+,ow just say cur text,1376.95,1388.32,asr,0
+,huggey eisht eisht,1388.41,1391.20,asr,48
+,houses daa,1397.44,1410.70,asr,0
+,wheeyl dys my hie,1410.73,1412.86,asr,82
+,cur lhiat yn daa wheeyl dys my hie,1414.03,1416.04,asr,90
+,bring us,1418.98,1420.84,asr,0
+,boddey lhiat daa wheeyl dys my hie,1434.73,1437.97,asr,54
+,as cur eh jee cur lhiat yn daa wheeyl dys my hie as nee'm cur y jee,1438.75,1444.03,asr,80
+,he was bring the bicycle to mie howse yn,1445.74,1449.58,asr,27
+,daa wheeyl dys my hie,1463.68,1465.78,asr,76
+,as cur eh cur lhiat daa wheeyl dys my hie as neeym hig,1466.59,1472.92,asr,65
+,just say bring dy mie house,1474.69,1477.96,asr,4
+,daa wheeyl dys my hie,1493.95,1495.99,asr,76
+,as cur eh hig ny,1497.07,1499.20,asr,57
+,yn daa wheeyl dys my hie as neeym goll-rish ec ny sanmee,1501.00,1503.76,asr,76
+,ve broad hug,1507.48,1518.01,asr,0
+,shen hug mee lhiam yn traa shen,1519.51,1522.06,asr,87
+,just say that sheese,1523.92,1527.40,asr,0
+,hug mee lhiam yn traa shen,1539.10,1541.68,asr,56
+,hug ee un hug mee lhiam yn traa shen hug ee aym,1542.28,1545.76,asr,74
+,she mish hug eh hood she mish,1559.98,1562.95,asr,67
+,she mish hug eh she mish huggey,1576.93,1580.95,asr,78
+,diu,1585.84,1586.17,asr,0
+,bee yn red jiarg dy bee yn red jiarg,1596.01,1599.64,asr,80
+,yn red shen dy lhean red jart shen,1614.34,1617.79,asr,63
+,choud's hug,1618.96,1622.56,asr,91
+,hug yiass,1623.88,1628.14,asr,75
+,shooyl giverit ta breeshey hug,1628.83,1642.99,asr,0
+,bee da bree shen ny sanmee hug,1644.40,1648.63,asr,76
+,the breeshey ayns shoh,1662.07,1663.87,asr,58
+,cha bee breeshey ayns shoh choud's,1664.83,1668.19,asr,59
+,breeshey will be here shoh dys shen,1668.70,1671.40,asr,43
+,cha bee breeshey ayns shoh,1683.79,1686.34,asr,100
+,bee urree cur cha bee breeshey,1687.21,1691.44,asr,91
+,hig eh,1692.64,1695.28,asr,0
+,she has toor ny post,1697.26,1699.30,asr,54
+,cha bee breeshey ayns shoh,1709.56,1711.93,asr,100
+,bee urree cur eh ayns y foays,1712.71,1716.07,asr,88
+,cha bee breeshey ayns shoh bee urree goll dys y foays,1717.42,1720.21,asr,55

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-081762",
+  "name": "JamysJeheiney 16 mee ny nollick",
+  "source": "https://www.learnmanx.com/media/jamys%20jeheiney/JamysJeheiney%2016%20mee%20ny%20nollick.mp3",
+  "platform": "learn_manx",
+  "resource_id": "081762",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 3233.91,
+  "deep_link": "https://www.learnmanx.com/media/jamys%20jeheiney/JamysJeheiney%2016%20mee%20ny%20nollick.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

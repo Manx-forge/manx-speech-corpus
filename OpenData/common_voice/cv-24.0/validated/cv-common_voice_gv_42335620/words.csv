@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""Roish",1.20,1.62,aligned
+0,1,my,1.62,1.80,aligned
+0,2,row,1.80,2.07,aligned
+0,3,ny,2.07,2.22,aligned
+0,4,sleityn,2.22,2.91,aligned
+0,5,troggit;,2.91,3.60,aligned
+0,6,roish,4.11,4.62,aligned
+0,7,ny,4.62,4.77,aligned
+0,8,croink,4.77,5.40,aligned
+0,9,va,5.67,5.88,aligned
+0,10,mee,5.88,6.18,aligned
+0,11,er,6.27,6.57,aligned
+0,12,my,6.57,6.78,aligned
+0,13,"ymmyrkey.""",6.78,7.32,aligned

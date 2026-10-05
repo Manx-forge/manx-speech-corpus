@@ -1,0 +1,3 @@
+line,idx,word,start,end,status
+0,0,my,0.24,0.39,aligned
+0,1,pherkin,0.39,0.99,aligned

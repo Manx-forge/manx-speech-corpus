@@ -1,0 +1,21 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lesson lessoon nuy-jeig as feed,0.37,3.82,asr,100
+,jea huggey jea,5.11,7.45,asr,86
+,cheau eh jeh e vraagyn,8.86,11.83,asr,100
+,e pherree hood mooar,16.84,19.72,asr,50
+,hug eh jeh e vraagyn huggey jeh,24.22,27.70,asr,100
+,hug eh jeh hug eh jeh e cooat mooar,29.89,34.33,asr,79
+,hug eh jeh e pherree huggey jeh,35.62,38.89,asr,100
+,nagh dug yn dooinney jeh cheau juan jeh e vayrn eisht,42.55,48.64,asr,95
+,cha dug peiagh erbee jeh e chooat mooar,49.99,52.45,asr,100
+,hug dy chooilley ghooinney jeh e ayd ceau yn saggyrt jeh e chooat mooar as,54.37,60.82,asr,86
+,hug eh jeh un vraag as hug eh fer elley,62.92,66.40,asr,95
+,jeed baiht cur jeed,72.13,75.88,asr,0
+,ad orrym,77.23,79.33,asr,40
+,cre mysh soie,80.38,82.54,asr,100
+,ec yn aile wet-claddeynt,83.77,87.70,asr,0
+,hello warree t'ou fliugh baiht te,90.22,93.25,asr,88
+,ta ny braagyn shoh fliugh ansherbee cur jeed ad,93.97,97.48,asr,100
+,as cur jee dty oashyryn neesht ard-myr oashyryn kiart dy liooar,98.26,102.79,asr,81
+,cre mysh dty pherree va cooat mooar orrym,103.90,108.52,asr,69
+,s'mie shen ec yn aile nish,109.42,111.94,asr,59

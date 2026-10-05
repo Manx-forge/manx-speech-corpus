@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04258",
+  "name": "Ta mee feayr jiu agh ta mee maynrey",
+  "source": "https://www.youtube.com/watch?v=Vd_3nteCE6I",
+  "platform": "youtube",
+  "resource_id": "04258",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.22,
+  "deep_link": "https://www.youtube.com/watch?v=Vd_3nteCE6I&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

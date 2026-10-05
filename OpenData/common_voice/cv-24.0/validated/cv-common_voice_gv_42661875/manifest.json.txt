@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42661875",
+  "name": "As ayns e hilley ta reeriaght breneen.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42661875",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.86,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

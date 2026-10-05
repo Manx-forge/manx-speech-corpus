@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054359",
+  "name": "stroin eairkagh rhinoceros",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/stroin%20eairkagh%20-%20rhinoceros.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054359",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.41,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/stroin%20eairkagh%20-%20rhinoceros.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

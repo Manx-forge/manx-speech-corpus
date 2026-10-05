@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42304",
+  "name": "Kys ta peiagh reih cre by vie lhieu gynsagh ec yn ollooscoill?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42304",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 25.236,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

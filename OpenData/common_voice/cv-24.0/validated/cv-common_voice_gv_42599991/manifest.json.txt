@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599991",
+  "name": "As bannit ta eshyn nagh jean beg y hoiaghey jeem's.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599991",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.86,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

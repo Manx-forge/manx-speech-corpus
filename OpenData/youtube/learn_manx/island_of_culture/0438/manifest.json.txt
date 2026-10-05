@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0438",
+  "name": "Cha nel eh feer tarroogh ayns Rhumsaa jiu agh t'eh tarroogh dy liooar",
+  "source": "https://www.youtube.com/watch?v=BHE8CRU8Hfc",
+  "platform": "youtube",
+  "resource_id": "0438",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.15,
+  "deep_link": "https://www.youtube.com/watch?v=BHE8CRU8Hfc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

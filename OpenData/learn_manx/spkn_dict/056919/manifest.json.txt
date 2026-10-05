@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056919",
+  "name": "pioban hose pipe",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/pioban%20-%20hose%20pipe.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056919",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20garden/pioban%20-%20hose%20pipe.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

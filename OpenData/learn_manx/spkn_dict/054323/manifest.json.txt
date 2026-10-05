@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054323",
+  "name": "praddag caterpillar",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/praddag%20-%20caterpillar.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054323",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/praddag%20-%20caterpillar.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

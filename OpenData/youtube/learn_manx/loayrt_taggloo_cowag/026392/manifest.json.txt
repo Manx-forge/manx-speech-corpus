@@ -1,0 +1,14 @@
+{
+  "ident": "speech-026392",
+  "name": "Loayrt, Taggloo, Cowag 02",
+  "source": "https://www.youtube.com/watch?v=Va8E_lD1C-M",
+  "platform": "youtube",
+  "resource_id": "026392",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 252.69,
+  "deep_link": "https://www.youtube.com/watch?v=Va8E_lD1C-M&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

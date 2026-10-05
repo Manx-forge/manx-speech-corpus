@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054378",
+  "name": "ben woman",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/ben%20-%20woman.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054378",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.63,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/ben%20-%20woman.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

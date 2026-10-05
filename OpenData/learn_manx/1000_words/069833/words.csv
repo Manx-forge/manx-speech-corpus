@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,Yindyssagh,1.17,1.98,aligned
+0,1,Wonderful,1.98,2.25,aligned
+0,2,Quaagh,2.25,2.91,aligned
+0,3,Strange,2.91,3.12,aligned
+0,4,/,,,unaligned
+0,5,weird,3.12,3.27,aligned
+0,6,Vel?,3.48,3.87,aligned
+0,7,Is/are?,4.65,4.80,aligned
+0,8,OO,4.80,4.86,aligned
+0,9,You,4.86,4.95,aligned
+0,10,Vel,5.76,5.94,aligned
+0,11,oo,5.94,6.03,aligned
+0,12,quaagh?,6.03,6.60,aligned

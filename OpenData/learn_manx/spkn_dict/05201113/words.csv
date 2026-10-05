@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,row,0.15,0.42,aligned
+0,1,mee,0.42,0.54,aligned
+0,2,ayns,0.54,0.72,aligned
+0,3,colby,0.72,1.32,aligned

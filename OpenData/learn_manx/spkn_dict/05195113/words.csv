@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,va,0.09,0.18,aligned
+0,1,juan,0.18,0.60,aligned
+0,2,braew,0.60,1.11,aligned

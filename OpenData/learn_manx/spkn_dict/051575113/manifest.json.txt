@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051575113",
+  "name": "Cha beagh ee skee",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051575113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.74,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083159",
+  "name": "01b",
+  "source": "https://www.learnmanx.com/thumbnails/news%20pictures/News%202023/2023-07-19_SophiaMorrisonAward-01b_2448x1837__________wi800he600moletterboxbgwhite.jpg",
+  "platform": "learn_manx",
+  "resource_id": "083159",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 124.53,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

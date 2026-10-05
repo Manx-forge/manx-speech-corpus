@@ -1,0 +1,14 @@
+{
+  "ident": "speech-027164",
+  "name": "Straid Chalse, Lhoan Orree, Straid y Ven-rein as Straid y Vargee, Purt ny Hinshey",
+  "source": null,
+  "platform": "youtube",
+  "resource_id": "027164",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 130.53,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "channel URL, not the video"
+}

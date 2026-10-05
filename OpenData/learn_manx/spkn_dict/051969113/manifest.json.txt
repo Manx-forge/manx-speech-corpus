@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051969113",
+  "name": "Yn trass laa",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051969113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.05,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

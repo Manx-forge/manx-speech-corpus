@@ -1,0 +1,24 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon kiare as daeed lesson foddee,1.66,4.93,asr,36
+,dys yn scoill dys yn chabbal,9.16,11.80,asr,82
+,dys yn valley dys yn thie,13.21,15.82,asr,100
+,dys yn stashoon dys yn chapp,17.05,20.08,asr,100
+,dys yn cheeill jagh ad,20.80,23.50,asr,100
+,nagh jagh ad hie ad,24.52,27.22,asr,100
+,cha jagh ad nagh jagh ad dys yn scoill,28.51,32.68,asr,100
+,hie nagh jagh ad dys yn chabbal,33.52,36.01,asr,100
+,hie nagh jagh ad dys yn valley,36.85,39.46,asr,97
+,hie nagh jagh ad dys yn thie hie,40.09,43.66,asr,100
+,nagh jagh ad dys yn stashoon hie,44.59,46.87,asr,100
+,nagh jagh ad dys yn chapp hie,47.86,50.02,asr,100
+,hie ny paitchyn dys yn chabbal jagh peiagh erbee dys yn chapp,52.12,57.25,asr,98
+,cha jagh yn meoir-shee dys yn thie t'ad goll dys scoill nish,58.54,64.39,asr,100
+,honnick mee ad goll dys yn cheeill ta mee toiggal,66.01,70.39,asr,98
+,kishtey kishtey mooar,72.10,74.80,asr,100
+,nish eisht,76.12,78.31,asr,100
+,by vie lhiat cheet dys yn valley by vie lhiam dy jarroo,82.72,87.01,asr,73
+,nish ta mee goll dys y stashoon,88.36,90.55,asr,97
+,quoi ta cheet er y traen cha nel peiagh erbee cheet,91.57,94.84,asr,100
+,cre'n fa t'ou goll dys shen nish ta,96.22,98.95,asr,91
+,shen dou as by vie lhiam geddyn eh,99.70,101.89,asr,85
+,well ta mee toiggal by vie lhiam goll mayrt,102.91,105.13,asr,80

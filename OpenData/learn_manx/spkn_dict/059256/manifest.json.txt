@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059256",
+  "name": "thie-lheihys hospital",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20town/thie-lheihys%20-%20hospital.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059256",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.07,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20town/thie-lheihys%20-%20hospital.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

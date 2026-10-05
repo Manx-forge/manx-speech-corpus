@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42628748",
+  "name": "T'eh shassoo ayns padjer, lhaih, as smooinaghtyn dy dowin er goo as obbraghyn Yee.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42628748",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.56,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

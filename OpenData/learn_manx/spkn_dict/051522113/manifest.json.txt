@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051522113",
+  "name": "Craad share lhiat: Doolish ny Colby?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051522113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.55,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Ny",1.14,1.32,aligned
+0,1,lhig,1.32,1.65,aligned
+0,2,da,1.65,2.01,aligned
+0,3,eh-hene,2.01,2.55,aligned
+0,4,y,2.55,2.61,aligned
+0,5,volley,2.61,3.03,aligned
+0,6,lesh,3.03,3.39,aligned
+0,7,fardalys;,3.39,4.35,aligned
+0,8,son,4.86,5.13,aligned
+0,9,bee,5.13,5.31,aligned
+0,10,fardalys,5.31,6.18,aligned
+0,11,e,6.18,6.27,aligned
+0,12,"leagh.""",6.27,6.84,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42662291",
+  "name": "Cre t'ou toiggal liorish gra dy jagh Creest seose gys niau?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42662291",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.796,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

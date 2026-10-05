@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457780",
+  "name": "\"Yinnin's earroo my chesmadyn y hoilshaghey da; myr prince harrin er-gerrey da.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457780",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.064,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

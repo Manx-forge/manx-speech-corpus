@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42587229",
+  "name": "Bee shiu giastylagh ayns coyrt son ta shiu cloan da jee giastylagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42587229",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.868,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

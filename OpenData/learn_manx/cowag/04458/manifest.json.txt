@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04458",
+  "name": "Skeeal 11a",
+  "source": "https://www.learnmanx.com/media//cowag_1/cowag_3/skeeal%2011%2001%20a.mp3",
+  "platform": "learn_manx",
+  "resource_id": "04458",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 82.95,
+  "deep_link": "https://www.learnmanx.com/media//cowag_1/cowag_3/skeeal%2011%2001%20a.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

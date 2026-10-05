@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,cha,0.21,0.30,aligned
+0,1,ren,0.30,0.45,aligned
+0,2,eh,0.45,0.54,aligned
+0,3,gynsagh,0.54,0.87,aligned
+0,4,cha,0.87,0.96,aligned
+0,5,ren,0.96,1.05,aligned
+0,6,ee,1.05,1.11,aligned
+0,7,gobbragh,1.11,1.35,aligned

@@ -1,0 +1,72 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,roish y caggey goaill toshiaght,0.61,2.77,asr,91
+,dy hroggal yn aerphurt ayns jurby jurby as,4.09,8.62,asr,100
+,va ram ram sleih cheet as ram,10.06,14.41,asr,93
+,as tayrn ad er lheh,15.88,18.88,asr,5
+,back ooilley y lheid foddee tra va ennagh,19.69,26.05,asr,47
+,ny hroggal va keeadyn dy leih cheet dy veaghey ayns shen,29.56,38.14,asr,91
+,as ram ta mee sheein dy row ram etlanyn goll harrish,38.86,45.82,asr,93
+,oh va'n feiy'n laa foddee,47.29,51.40,asr,11
+,bunnys eh shen yn lheid agh v'ad,52.57,64.15,asr,0
+,jannoo ymmyd jeh ayns,65.35,70.06,asr,69
+,shen nagh row mie ynsit,71.14,73.96,asr,83
+,cre hene ny caarjyn va jannoo,74.53,77.77,asr,57
+,shen yn oyr dy row caggey ayn as cha row caa,78.85,81.97,asr,100
+,yn nyn obbraghyn wooinney v'ad just traenal,90.88,94.54,asr,84
+,ayns shen va gynsagh gynsagh,95.17,98.47,asr,72
+,agh v'ad jannoo,99.88,103.09,asr,100
+,v'ad getlagh trooid,104.11,105.46,asr,64
+,emshir er yn oyr nagh row yn cullee ayn,106.78,111.67,asr,52
+,v'eh jannoo red erbee elley as cha,112.30,116.11,asr,65
+,row drogh haghyrt erbee ayn,116.74,119.05,asr,100
+,droghhaghyrt va fer er-gerrey dou,120.13,124.12,asr,85
+,just thie ny cooilee,124.99,135.25,asr,48
+,sourey feer chirrym ayn as va mee ec y scoill,142.63,146.41,asr,91
+,as va,147.34,149.11,asr,0
+,ny red ennagh,153.37,154.33,asr,42
+,as hug ad ooilley dooinyn,155.08,159.37,asr,89
+,goll dy valley ree stiagh mannagh vel shin,161.59,165.64,asr,88
+,goaill rish doghan shen,166.42,168.73,asr,79
+,hie mee sheese gys va'n ayr myrgeddin,171.73,174.25,asr,72
+,erbee dy chur da ny eeastyn,175.39,177.55,asr,12
+,lhien ayns ec balley chorree er ad,178.33,181.03,asr,8
+,red erbee va dub eeast,181.60,184.84,asr,43
+,va ayns y gharey as row shiu gee eeast shen,186.61,191.62,asr,86
+,well cha row shin gee ard-raad jus da red ennagh dy yeeaghyn orroo ayns y gharey ta mish toiggal dy kinjagh ram shoh,195.34,205.78,asr,91
+,ansherbee vooar ec yn toilshey yn thieyn cooie,207.28,212.29,asr,79
+,va mee cheet erash as,214.12,217.24,asr,0
+,honnick mee cheet voish,219.88,222.91,asr,86
+,clou sleih raad va paart elley,223.39,226.24,asr,62
+,as v'ad lhiggey ooilley,227.11,229.33,asr,72
+,ny possanyn ayns shen ny droghyn,230.65,233.08,asr,48
+,fer shoh cheet,235.69,237.43,asr,79
+,lane er my skyn agh scuirr yn,239.08,243.07,asr,0
+,jeshaght echey as,243.58,245.77,asr,79
+,gowee hie eh,246.85,248.89,asr,100
+,dy injil red beg as,250.00,252.91,asr,9
+,cha haink eh lane as,254.50,257.77,asr,12
+,foast cha row yn jeshaght gobbragh,259.54,261.79,asr,100
+,erskyn ec sleih gys y,265.75,268.39,asr,81
+,jus ergerrey dou as,269.23,271.51,asr,0
+,lheim lheim mee erskyn y traie,272.59,275.14,asr,16
+,bwooise da jee nagh row ayn,277.30,279.58,asr,84
+,er yn oyr dy row eh jeshaght mooghit,280.18,283.51,asr,95
+,bunnys lieh minnid ny red ennagh as va shen dy liooar,284.02,287.80,asr,61
+,as va shenn ven cheet magh ass,290.71,293.53,asr,100
+,thie enmyssit thie ny cooilee,294.13,296.65,asr,82
+,yn polt tra hooill eh,298.45,301.30,asr,15
+,yn ny foddey asherbee,303.28,307.96,asr,84
+,ghow mee dooinney magh ass yn etlan,309.37,312.25,asr,100
+,agh hie mee magh ass,313.09,315.64,asr,53
+,as gyn ourys erbee ve lane,323.80,326.44,asr,100
+,marroo as ansherbee,327.01,331.93,asr,100
+,t'eh foast fo taggloo as cha dod mee,338.68,341.98,asr,71
+,roshtyn eh as va'n dooinney,342.52,348.01,asr,61
+,hooar mee magh ass yn etlan ve yn parish,349.06,356.68,asr,41
+,er ve foshlit as,359.80,362.26,asr,64
+,hug mee yn parish shuit erskyn y chorp,363.19,366.01,asr,45
+,as eisht hie mee er ash dy valley reesht,366.94,370.51,asr,100
+,agh va orrym goll lesh yn phurt ayns jurby,371.65,375.25,asr,92
+,cur feanish,376.03,378.04,asr,0
+,yn drogh-haghyrt shen yn oyr dy vel,379.06,385.00,asr,91
+,s'atchimagh shen va kuse jeu er y twoaie,386.98,392.77,asr,81

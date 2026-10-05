@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04208",
+  "name": "Nagh vel ny berreenyn jeeaghyn yindyssagh?",
+  "source": "https://www.youtube.com/watch?v=H_6sXUc1Un8",
+  "platform": "youtube",
+  "resource_id": "04208",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.15,
+  "deep_link": "https://www.youtube.com/watch?v=H_6sXUc1Un8&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

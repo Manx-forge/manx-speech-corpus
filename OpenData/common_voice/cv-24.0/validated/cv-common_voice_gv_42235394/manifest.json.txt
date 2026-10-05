@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42235394",
+  "name": "\"Haink yn ven thie kione feanish, \"\"Vel red erbee eu foddym lhaih?\"\" dooyrt ee.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42235394",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

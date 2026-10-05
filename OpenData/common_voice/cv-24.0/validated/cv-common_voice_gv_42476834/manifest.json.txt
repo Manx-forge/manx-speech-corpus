@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42476834",
+  "name": "Ollick ghennal ort, as Blein Vie Noa.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42476834",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.212,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

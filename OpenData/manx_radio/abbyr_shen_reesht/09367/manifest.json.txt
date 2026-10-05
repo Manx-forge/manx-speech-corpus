@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09367",
+  "name": "Abbyr Shen Reesht - Say That Again 20oo Mean Fouyir - 2026 - September 20th",
+  "createdCircaStart": "2026-09-20",
+  "createdCircaEnd": "2026-09-20",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-20oo-mean-fouyir-2026-september-20th/",
+  "platform": "manx_radio",
+  "resource_id": "09367",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1900.0,
+  "deep_link": "https://episodes.captivate.fm/episode/a2d439a5-4fdf-40b1-aa8b-e394cf96f555.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448511",
+  "name": "Cha nee tra ta'n cheyrrey gee yn ouw te cheet r'ee",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448511",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.876,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

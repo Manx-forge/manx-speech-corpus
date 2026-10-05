@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42387023",
+  "name": "Nee oo raad lhean dy liooar foym dy immeeaght: nagh skyrr my chesmadyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42387023",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.308,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

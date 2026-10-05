@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,kys,0.15,0.39,aligned
+0,1,haink,0.39,0.66,aligned
+0,2,oo,0.66,0.75,aligned
+0,3,thie,0.75,1.29,aligned

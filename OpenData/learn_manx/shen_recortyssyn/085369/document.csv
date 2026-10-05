@@ -1,0 +1,25 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,yn chorp dy boddee,2.02,4.36,asr,78
+,yn chorp dy moddee head kione,5.17,11.89,asr,57
+,hed roie,12.49,15.13,asr,62
+,roie ayrn,17.02,18.79,asr,86
+,lhieg lhongey lhieg,21.67,23.95,asr,64
+,laue hand laue hand,26.35,29.89,asr,25
+,cass foot cass,32.62,35.71,asr,44
+,foot mwannal nick mwannal nick,36.52,42.52,asr,0
+,uillin elbow uillin,45.13,47.71,asr,100
+,elbow glion,48.37,52.00,asr,0
+,glioon nee abane,53.53,57.55,asr,22
+,abane ankle bouin heel bouin,59.53,65.56,asr,50
+,jeeill mair,66.28,69.19,asr,0
+,finger mair finger,69.61,72.13,asr,100
+,ordaig from ordaig from,74.47,78.52,asr,25
+,sooill,83.32,83.89,asr,50
+,aye stroin,84.67,87.91,asr,80
+,nose stroin beeoil mouth,88.48,95.50,asr,81
+,cleaysh eer,99.85,101.98,asr,100
+,eer smeggyl ching smeggyl,103.96,109.72,asr,73
+,shin cleeau,110.53,112.87,asr,91
+,cleeau chris dreeym,114.55,118.90,asr,78
+,back dreeym back,119.80,122.59,asr,67
+,folt hair folt,123.49,126.55,asr,100

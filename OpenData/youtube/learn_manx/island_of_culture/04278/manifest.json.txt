@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04278",
+  "name": "Y keayrt shoh ren en brebbal clagh vooar ass towse jus dy yannoo caghlaa",
+  "source": "https://www.youtube.com/watch?v=MVn4sgvFovE",
+  "platform": "youtube",
+  "resource_id": "04278",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 33.62,
+  "deep_link": "https://www.youtube.com/watch?v=MVn4sgvFovE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

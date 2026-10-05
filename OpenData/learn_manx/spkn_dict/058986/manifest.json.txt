@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058986",
+  "name": "maghercloie playing field",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/maghercloie%20-%20playing%20field.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058986",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.49,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/maghercloie%20-%20playing%20field.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

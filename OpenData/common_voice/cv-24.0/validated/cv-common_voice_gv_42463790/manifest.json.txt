@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463790",
+  "name": "As geddyn tushtey ayns dty ghoo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463790",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.176,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

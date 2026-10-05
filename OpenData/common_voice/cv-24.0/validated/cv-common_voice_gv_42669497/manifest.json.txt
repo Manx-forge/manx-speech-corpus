@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42669497",
+  "name": "As quoi-erbee ver lesh oo er niart un veeley, gow mârish jees.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42669497",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.336,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

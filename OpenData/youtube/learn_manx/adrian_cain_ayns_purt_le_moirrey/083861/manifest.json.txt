@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083861",
+  "name": "Turrys mygeayrt Purt le Moirrey - Part 3",
+  "source": "https://www.youtube.com/watch?v=7-f-Sk37hDk",
+  "platform": "youtube",
+  "resource_id": "083861",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 33.02,
+  "deep_link": "https://www.youtube.com/watch?v=7-f-Sk37hDk&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42328",
+  "name": "By vie lhiat goll dys spoar? C'ren fa?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42328",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 36.936,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457675",
+  "name": "Cairys as corymid ta stoyl-reeoil dty ynnyd-vaghee: hed myghin as firrinys roish dt'eddin.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457675",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 11.124,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

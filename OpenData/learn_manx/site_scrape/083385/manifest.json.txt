@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083385",
+  "name": "brian_starting_to_learn_manx",
+  "source": "https://www.learnmanx.com/media/Files/brian%20starting%20to%20learn%20manx.mp3",
+  "platform": "learn_manx",
+  "resource_id": "083385",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 135.37,
+  "deep_link": "https://www.learnmanx.com/media/Files/brian%20starting%20to%20learn%20manx.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

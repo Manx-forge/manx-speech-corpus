@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09315",
+  "name": "Abbyr Shen Reesht - Say That Again 7oo Mean Fouyir - 2025 - September 7th",
+  "createdCircaStart": "2025-09-07",
+  "createdCircaEnd": "2025-09-07",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-7oo-mean-fouyir-2025-september-7th/",
+  "platform": "manx_radio",
+  "resource_id": "09315",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1606.0,
+  "deep_link": "https://episodes.captivate.fm/episode/1e3f0545-4615-41ee-aef8-135da8a9d7f0.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

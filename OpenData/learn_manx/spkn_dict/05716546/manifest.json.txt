@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716546",
+  "name": "Hiarn jean myghin orrin, Chreest jean myghin orrin Hiarn jean myghin orrin Lord have mercy, Christ have mercy, Lord have mercy",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/Christ_have_mercy_Lord_have_mercy_Christ_have_mercy.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716546",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 16.12,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/Christ_have_mercy_Lord_have_mercy_Christ_have_mercy.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

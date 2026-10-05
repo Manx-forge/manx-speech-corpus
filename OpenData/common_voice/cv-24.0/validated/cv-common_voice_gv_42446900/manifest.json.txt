@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446900",
+  "name": "As tra va'n fastyr er jeet, hie eh magh ass yn ard-valley.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446900",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.344,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

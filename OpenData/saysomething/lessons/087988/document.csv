@@ -1,0 +1,161 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,piyr ny manninee chionn for level three yn jesarn,3.52,12.58,asr,33
+,akin as mnr neusthul feer as possible if we dooin blaa sy vlass,16.00,19.84,asr,14
+,hug ayns y traieyn dooyrt nish tayrn sleih,20.44,28.42,asr,35
+,sleih sleih,29.80,36.13,asr,17
+,sleih people sleih,44.29,53.68,asr,17
+,fly elley sleih anchasley,55.54,64.12,asr,33
+,hie anchasley honnick,65.77,74.44,asr,38
+,honnick mee sleih riyr noddym geddyn sleih,76.93,87.22,asr,76
+,dy loayrt rish noddym geddyn sleih dy loayrt rish,87.25,91.39,asr,88
+,ta mee goll dy loayrt rish sleih anchasley,100.51,103.06,asr,100
+,ta mee goll dy loayrt rish dy loayrt rish,104.47,113.53,asr,72
+,dy loayrt rish braew,114.88,123.49,asr,74
+,braew dy liooar,125.50,135.28,asr,100
+,er y fa dy vel mee smooinaghtyn er y fa dy vel mee,149.20,156.13,asr,60
+,v'eh jannoo marranyn ny,157.84,161.77,asr,47
+,by vie lhiam by vie lesh briaght jee yn un red,168.19,174.07,asr,55
+,cha ren mee cha ren mee monney,183.79,188.53,asr,50
+,erlhiam dy mie lhiam's dy gaelg,201.94,205.18,asr,46
+,erlhiam dy mie lesh dy chooilley pheiagh,206.56,209.02,asr,98
+,the gaelg as yn pobble,209.41,216.16,asr,42
+,nagh nhione dou nagh nhione dou,219.22,222.58,asr,100
+,nagh nhione dou nagh nhione dou,228.79,232.30,asr,48
+,words now focklyn nagh nhione dou,233.53,240.64,asr,57
+,focklyn nagh nhione dou erlhiam nagh,242.08,252.34,asr,80
+,cha nhione dou eh erlhiam nagh nhione dou eh,252.16,256.21,asr,70
+,fly nagh nhione dou,263.14,267.37,asr,40
+,hie adsyn nagh nhione dou sleih adsyn nagh nhione dou,275.98,280.66,asr,77
+,sleih elley nagh nhione dou sleih,291.76,301.87,asr,63
+,hie nagh nhione dou sleih nagh nhione dou,301.69,305.83,asr,77
+,v'eh dy loayrt rish shugyr,317.35,321.31,asr,41
+,bee eh nane jeu gyn shugyr coffee,330.76,334.42,asr,60
+,yn caffee ayd ta'n caffee,339.85,343.30,asr,66
+,as bag as poagey,347.41,350.41,asr,0
+,ayns bag poagey,354.76,359.14,asr,0
+,ainst back shen boggey,363.94,372.22,asr,0
+,barran s'mie lhiam,374.59,380.47,asr,67
+,by vie lhiat,391.42,392.35,asr,0
+,by vie lhiat poagey yein anchasley,394.39,405.49,asr,62
+,blein anchasley jones,407.74,410.35,asr,41
+,yindyssagh yindyssagh,417.19,420.97,asr,38
+,bee as watching jones bag jeeaghyn,422.41,433.45,asr,38
+,nagh nhione dou,440.89,441.97,asr,65
+,nagh nhione dou sleih nagh nhione dou,443.32,452.77,asr,77
+,sleih nagh nhione dou nagh nhione dou,454.15,463.93,asr,41
+,focklyn nagh nhione dou gless,465.37,468.46,asr,64
+,ushtey sleih,476.44,483.70,asr,0
+,ta'n cooinaghtyn foddym cooinaghtyn,493.63,497.08,asr,69
+,mie lhiat ta,504.04,518.23,asr,28
+,ta mee prowal dy ynsagh dy loayrt gaelg,518.05,521.20,asr,91
+,ta mee prowal dy ynsagh kys dy loayrt gaelg,522.58,525.16,asr,100
+,ta yindys orrym dy ren oo goaill toshiaght shiaghtin ta yindys orrym dy ren oo goaill toshiaght shiaghtin,536.59,544.48,asr,87
+,dy re shen dy re shen,553.72,556.81,asr,62
+,shen dy re shen,563.44,566.23,asr,73
+,ny milk dooyrt,568.39,579.01,asr,36
+,pleateil dy re shen bainney erlhiam,578.86,589.93,asr,41
+,dy re shen beggan anchasley shen cappan,593.77,606.73,asr,53
+,cappan dy chaffee erlhiam dy re shen cappan dy chaffee,606.55,610.78,asr,85
+,ta mee geearree,612.28,622.78,asr,0
+,ta ushtey dooyrt eh rhym dy re shen gless mooar dy ushtey,625.24,630.01,asr,93
+,hie pene as erlhiam dy ve shen,631.24,641.08,asr,69
+,erlhiam dy re shen dooyrt,643.36,655.33,asr,76
+,beayr-tom dy row shen cha,658.87,670.87,asr,20
+,cha nel mee dy loayrt cha nel mee dy loayrt rish sleih nagh nhione dou foast,682.18,690.94,asr,62
+,ayns gaelg kuse dy ockleyn ayns gaelg,700.03,703.54,asr,92
+,feer vie t'ou er n'yannoo feer vie,711.55,715.12,asr,55
+,craide craide,721.33,723.82,asr,85
+,craad c'raad t'ou,730.99,737.95,asr,36
+,c'raad t'ou goll,739.36,747.70,asr,100
+,c'raad t'ou goll c'raad t'ou,749.08,757.12,asr,57
+,c'raad t'ou er ve nane jeu,759.01,768.07,asr,100
+,c'raad ta nane jeu c'raad,769.48,781.48,asr,56
+,c'raad t'ou goll nish,789.64,791.20,asr,10
+,c'raad t'ou goll nish shegin,792.55,800.95,asr,83
+,dy re shen milk,802.33,806.38,asr,62
+,yn bainney dooyrt ee dy re shen bainney,813.37,817.45,asr,61
+,er lhiam dy re shen erlhiam dy re shen,827.14,831.97,asr,95
+,agh ta loayrt rish sleih nagh t'eh aashagh dy loayrt rish sleih nagh nhione dou,843.67,849.52,asr,76
+,ushtey gless dy ushtey,857.32,860.53,asr,86
+,v'eh dy liooar dooyrt,868.93,880.45,asr,23
+,eh rhym dy row eh geearree lhaih eh jiu,884.71,887.08,asr,88
+,agh v'eh feer jesh goaill fea rish tammylt,896.86,899.56,asr,100
+,agh v'eh feer jesh goaill fea rish tammylt,900.94,903.52,asr,100
+,feer vie poagey eh feer vie,931.00,934.81,asr,61
+,baghey as gra ta'n poagey yindyssagh,936.40,944.26,asr,0
+,huggey yindyssagh ta'n,945.94,956.20,asr,38
+,ta'n poagey ta'n poagey eh feer symoil,955.96,960.97,asr,56
+,ta'n poagey yindyssagh,969.28,971.59,asr,71
+,foast yindyssagh bag,973.96,977.02,asr,44
+,ta'n poagey eck bag,985.09,988.15,asr,10
+,bannee c'raad ta'n,994.48,997.54,asr,0
+,ec nish c'raad,997.93,1004.38,asr,0
+,c'raad t'ee braew,1005.79,1014.73,asr,0
+,bee braew as ayd nagh nhione dou,1017.10,1026.88,asr,55
+,focklyn nagh nhione dou dooyrt,1028.29,1042.45,asr,69
+,dy re shen bainney shugyr,1042.60,1047.16,asr,88
+,s'mie lhiam eh lesh bainney shugyr,1053.88,1057.12,asr,81
+,s'mie lhiam eh lesh bainney shugyr,1058.47,1060.78,asr,83
+,vel oo geearree cappan dy chaffee ny,1069.96,1072.00,asr,95
+,vel oo geearree cappan dy chaffee ny tey,1073.92,1075.78,asr,98
+,by vie lhiam,1084.48,1085.14,asr,12
+,abyl loayrt gaelg by vie lhiam,1085.53,1088.38,asr,62
+,but gaelg gura,1089.04,1100.23,asr,0
+,gura mie mooar ayd ta tooilley gura mie mooar ayd ta tooilley aym's dy ynsaghey,1100.05,1106.95,asr,76
+,dy rea eh dy rea,1113.34,1116.28,asr,79
+,dy rea eh dy rea,1125.04,1134.91,asr,0
+,yn poagey where is er bag,1141.78,1147.60,asr,38
+,ta'n poagey eck feer vie,1155.70,1165.69,asr,74
+,ta'n poagey eh feer vie anchasley,1167.04,1178.56,asr,50
+,anchasley ta,1181.02,1183.45,asr,17
+,ta nane jeu ta mee goll dy loayrt rish,1191.40,1201.51,asr,76
+,ta mee goll dy loayrt rish noddym,1202.86,1213.87,asr,67
+,foddym geddyn red ennagh dy iu my sailt ta,1217.77,1221.94,asr,51
+,yn yindyssagh ta my sailt veagh shen yindyssagh,1231.03,1235.92,asr,93
+,ny now the way to say red wan as in red wan fer,1237.66,1244.59,asr,34
+,fer-jeig by,1255.27,1263.49,asr,0
+,by vie lhiat by vie lhiat,1263.43,1266.91,asr,73
+,mie lhiat mie lhiat yn fer jiarg,1275.25,1279.63,asr,73
+,s'mie lhiam yn fer jeu s'mie lhiam yn fer jiarg,1287.10,1291.54,asr,96
+,hie ta mee geearree fer jiarg,1292.83,1300.60,asr,61
+,ta mee geearree jiarg er,1301.95,1312.54,asr,51
+,bare lhiam erlhiam dy re eh yn,1312.36,1317.34,asr,50
+,yn fer jiarg,1328.92,1329.85,asr,44
+,dooyrt ee dy row eh foddym,1331.23,1352.47,asr,54
+,foddym cooinaghtyn foddym cooinaghtyn c'raad ta'n poagey eck,1352.26,1358.41,asr,64
+,sleih nagh nhione dou foast sleih nagh nhione dou foast,1366.36,1371.25,asr,44
+,ny milk bainney,1373.44,1382.26,asr,71
+,dooyrt ee dy re shen bainney ayns,1383.76,1387.42,asr,81
+,cha nel mee geearree cha nel mee geearree,1393.84,1397.86,asr,75
+,quickly dys yn t'eh,1400.92,1407.55,asr,0
+,toiggal tappee dy liooar nagh vel,1410.76,1412.77,asr,83
+,ansherbee,1427.50,1428.19,asr,0
+,eh gobbragh marish ansherbee ren mee meeteil,1429.99,1435.03,asr,80
+,beg jeh gobbragh marish now fo,1435.39,1439.68,asr,62
+,er y lioar shoh,1459.39,1462.75,asr,77
+,my fillym noddym geddyn er yn fillym,1464.64,1471.90,asr,67
+,noddym geddyn er yn fillym shen ta,1473.82,1483.93,asr,52
+,ta mee er ve er yn fer jiarg red one,1487.23,1491.97,asr,71
+,noddym geddyn noddym geddyn er yn fer jiarg,1497.04,1502.11,asr,66
+,ta mee smooinaghtyn dy row,1512.37,1514.02,asr,0
+,fer-jeig ta mee smooinaghtyn dy row eh,1514.68,1518.79,asr,79
+,agh ta loayrt rish sleih nagh t'eh aashit dy loayrt rish sleih nagh nhione dou,1538.02,1543.87,asr,74
+,erlhiam dy erlhiam dy,1552.99,1557.37,asr,64
+,hie oo c'raad t'ou,1560.37,1565.14,asr,36
+,c'raad t'ou ayns gaelg,1566.55,1576.96,asr,61
+,kuse dy ockleyn ayns gaelg shen,1578.34,1587.46,asr,54
+,shen yn caa shen,1589.20,1599.28,asr,0
+,by vie lhiam shen by vie lesh,1607.14,1610.86,asr,63
+,shen watching,1611.19,1613.56,asr,0
+,jeeaghyn er y caa shen by vie lhiam,1622.68,1632.04,asr,100
+,by vie lhiam shen erlhiam,1634.38,1645.99,asr,53
+,bannee shen erlhiam dy re,1646.77,1650.01,asr,62
+,shen er y,1650.67,1658.02,asr,0
+,er y caa shen t'ee,1660.27,1669.00,asr,83
+,nish dy liooar nagh vel james bag,1691.32,1695.19,asr,46
+,as er bag,1704.70,1705.48,asr,11
+,ta'n poagey eck by vie lhiat fa,1713.58,1722.97,asr,61
+,by vie lhiat fer jiarg ushtey,1724.89,1734.16,asr,35
+,bless dy ushtey cha nel,1735.54,1738.57,asr,33
+,cha nel cha nel cha nel gura mie ayd cha nel paays orrym,1746.16,1752.31,asr,69
+,gennaghtyn kys t'ou gennaghtyn ec y traa t'ayn,1761.67,1766.86,asr,68

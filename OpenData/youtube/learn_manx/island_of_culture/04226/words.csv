@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,insh,5.64,5.85,aligned
+0,1,dou,5.85,6.09,aligned
+0,2,dty,6.09,6.21,aligned
+0,3,ennym,6.21,6.51,aligned
+0,4,my,6.51,6.63,aligned
+0,5,sailt,6.63,7.20,aligned
+0,6,insh,8.10,8.37,aligned
+0,7,dou,8.37,8.49,aligned
+0,8,dty,8.49,8.76,aligned
+0,9,ennym,15.63,15.84,aligned
+0,10,my,15.84,15.93,aligned
+0,11,sailt,15.93,16.53,aligned

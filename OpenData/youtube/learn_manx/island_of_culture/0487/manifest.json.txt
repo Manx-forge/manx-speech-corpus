@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0487",
+  "name": "S'mie lhiam snaue agh cha nel mee geearree snaue nish",
+  "source": "https://www.youtube.com/watch?v=K876TRJrHVI",
+  "platform": "youtube",
+  "resource_id": "0487",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.54,
+  "deep_link": "https://www.youtube.com/watch?v=K876TRJrHVI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

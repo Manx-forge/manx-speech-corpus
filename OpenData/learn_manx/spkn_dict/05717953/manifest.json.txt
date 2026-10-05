@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05717953",
+  "name": "Quoi shoh? Who is this?",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Quoi%20shoh.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05717953",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.38,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20pocket%20guide%20to%20the%20Manx%20language/Quoi%20shoh.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

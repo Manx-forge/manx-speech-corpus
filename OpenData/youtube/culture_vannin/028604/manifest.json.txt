@@ -1,0 +1,14 @@
+{
+  "ident": "speech-028604",
+  "name": "Yn skeeal jeh Bollan Bane",
+  "source": "https://www.youtube.com/watch?v=pPl8manFS1U",
+  "platform": "youtube",
+  "resource_id": "028604",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 330.54,
+  "deep_link": "https://www.youtube.com/watch?v=pPl8manFS1U&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

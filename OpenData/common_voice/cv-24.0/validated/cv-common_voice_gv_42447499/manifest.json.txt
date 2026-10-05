@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447499",
+  "name": "Ta beeal ommydan e hoyrt-mow, as ta e veillyn ribbey e annym.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447499",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.948,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,7 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,moghrey mie good morning,0.28,3.22,asr,100
+,moghrey mie fastyr mie,4.51,8.38,asr,100
+,good afternoon good evening,9.34,11.56,asr,0
+,fastyr mie failt ort,12.55,16.57,asr,50
+,bannaghtyn blessing,21.97,24.82,asr,79
+,greetings bannaghtyn,25.45,27.64,asr,100

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866397",
+  "name": "fainey ring",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Ring.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866397",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.2,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Ring.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

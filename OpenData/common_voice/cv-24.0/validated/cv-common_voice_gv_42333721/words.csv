@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""Cha",0.51,0.66,aligned
+0,1,jean,0.66,0.87,aligned
+0,2,oo,0.87,0.99,aligned
+0,3,gee,0.99,1.35,aligned
+0,4,eh;,1.35,1.56,aligned
+0,5,nee,2.34,2.49,aligned
+0,6,oo,2.49,2.55,aligned
+0,7,deayrtey,2.55,3.03,aligned
+0,8,eh,3.09,3.33,aligned
+0,9,er,3.33,3.48,aligned
+0,10,y,3.48,3.54,aligned
+0,11,thalloo,3.54,3.93,aligned
+0,12,myr,3.93,4.17,aligned
+0,13,"ushtey.""",4.17,4.59,aligned

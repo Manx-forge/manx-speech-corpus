@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644519",
+  "name": "Agh t'ad çheet woish jeeanid dty chied graih.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644519",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.256,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

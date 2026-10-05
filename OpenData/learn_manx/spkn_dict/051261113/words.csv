@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,fastyr,0.30,0.66,aligned
+0,1,mie,0.66,1.02,aligned
+0,2,vooinjer,1.02,1.44,aligned
+0,3,veggey,1.44,2.01,aligned

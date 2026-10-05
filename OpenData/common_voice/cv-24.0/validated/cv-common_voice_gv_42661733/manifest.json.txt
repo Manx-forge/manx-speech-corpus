@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42661733",
+  "name": "As tra v'ad er n'gholl er-board y lhong, huitt yn gheay.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42661733",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.508,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

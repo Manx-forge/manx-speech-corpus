@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42498624",
+  "name": "Son va ny ostyllyn er n'gholl gys y valley dy chionnaghey beaghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42498624",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.588,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

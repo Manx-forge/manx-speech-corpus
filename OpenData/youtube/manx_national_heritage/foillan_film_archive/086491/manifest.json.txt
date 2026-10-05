@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086491",
+  "name": "Faagmayd nyn Mannaght Ec Lerpoyl - Foillan Films (Manx Language Film - We'll say farewell to L'pool)",
+  "source": "https://www.youtube.com/watch?v=_KfYHAu4V2Y",
+  "platform": "youtube",
+  "resource_id": "086491",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 1056.84,
+  "deep_link": "https://www.youtube.com/watch?v=_KfYHAu4V2Y&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

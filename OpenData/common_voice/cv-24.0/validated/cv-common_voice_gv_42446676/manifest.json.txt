@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446676",
+  "name": "Lhig dou gobbragh dy jeshagh lesh my ghaa laue, ta beaynid tayrn er gerrey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446676",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.856,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

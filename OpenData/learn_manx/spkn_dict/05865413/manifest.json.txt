@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05865413",
+  "name": "lettys lettuce",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Lettuce_Lettys.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05865413",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 6.06,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/Food%20and%20Drink_Lettuce_Lettys.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

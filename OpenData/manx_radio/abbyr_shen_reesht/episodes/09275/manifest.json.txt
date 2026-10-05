@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09275",
+  "name": "Abbyr Shen Reesht 1st December 2024",
+  "createdCircaStart": "2024-12-01",
+  "createdCircaEnd": "2024-12-01",
+  "source": "https://www.manxradio.com/player/podcasts/episodes/abbyr-shen-reesht-1st-december-2024/",
+  "platform": "manx_radio",
+  "resource_id": "09275",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2028.56,
+  "deep_link": "https://podcasts.captivate.fm/media/f9ef1bec-1354-441f-a132-ce889ea38dc7/Abbyr-Shen-Reesht-2024-12-01-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

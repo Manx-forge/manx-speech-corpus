@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,nhare,0.15,0.36,aligned
+0,1,lhiam,0.36,0.69,aligned
+0,2,loayrt,0.69,1.26,aligned

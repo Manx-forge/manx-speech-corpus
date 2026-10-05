@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056633",
+  "name": "fer y phost postman",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/fer%20y%20phost%20-%20postman.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056633",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.18,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/fer%20y%20phost%20-%20postman.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

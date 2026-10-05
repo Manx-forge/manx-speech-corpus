@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,the,6.99,7.14,aligned
+0,1,months,7.20,7.38,aligned
+0,2,of,7.24,7.36,aligned
+0,3,the,7.60,7.69,aligned
+0,4,year,13.42,13.60,aligned
+0,5,in,13.60,13.69,aligned
+0,6,manx,13.72,13.84,aligned
+0,7,the,13.84,13.93,aligned
+0,8,months,13.93,14.11,aligned
+0,9,of,23.23,23.38,aligned
+0,10,the,29.09,29.18,aligned
+0,11,year,29.42,29.63,aligned
+0,12,in,29.63,29.69,aligned
+0,13,manx,30.29,30.41,aligned

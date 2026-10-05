@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,tt,6.36,6.42,aligned
+0,1,aboo,8.62,9.04,aligned
+0,2,tt,10.18,10.27,aligned
+0,3,aboo,19.63,20.02,aligned

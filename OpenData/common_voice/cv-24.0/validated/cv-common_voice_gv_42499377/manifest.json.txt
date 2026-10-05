@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42499377",
+  "name": "T'er n'osley giattyn phargys reesht.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42499377",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.688,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

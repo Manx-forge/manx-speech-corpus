@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051603113",
+  "name": "Veign feer vaynrey ayns Regaby",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051603113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.5,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

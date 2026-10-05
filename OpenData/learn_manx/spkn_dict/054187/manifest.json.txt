@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054187",
+  "name": "apag monkey",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/apag%20-%20monkey%20.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054187",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/apag%20-%20monkey%20.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

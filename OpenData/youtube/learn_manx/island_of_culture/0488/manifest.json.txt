@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0488",
+  "name": "S'mie lhiam Colby agh share lhiam Purt ny h-Inshey er y fa dy vel eh feer aalin",
+  "source": "https://www.youtube.com/watch?v=YP0Brp_twUU",
+  "platform": "youtube",
+  "resource_id": "0488",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.1,
+  "deep_link": "https://www.youtube.com/watch?v=YP0Brp_twUU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

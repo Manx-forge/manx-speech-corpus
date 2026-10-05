@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,bee,0.12,0.27,aligned
+0,1,illiam,0.33,0.63,aligned
+0,2,ayns,0.63,0.84,aligned
+0,3,shoh,0.84,1.23,aligned

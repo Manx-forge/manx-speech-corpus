@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42482011",
+  "name": "Ta my hooill seaghney my chree, son ooilley inneenyn my ard-valley.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42482011",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,223 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,2.77,5.59,asr,46
+,jees lessoon jees lesson to,6.37,8.86,asr,48
+,jiask where will you bee,11.02,13.57,asr,7
+,craad vees oo c'raad vees oo,18.55,21.28,asr,97
+,tomorrow c'raad vees oo mairagh,25.87,34.00,asr,59
+,c'raad vees oo mairagh moghrey morning,34.69,40.42,asr,84
+,c'raad vees oo moghrey mairagh c'raad vees oo moghrey mairagh,47.14,50.92,asr,100
+,obbeeyn house beeym ayns y thie,53.86,61.54,asr,0
+,bee'm ayns y thie house,62.02,66.25,asr,65
+,beeym ayns y thie aym bee'm ayns yn thieyn,72.67,75.22,asr,100
+,beeym house tomorrow morning beeym ayns y thie aym moghrey mairagh,77.62,87.73,asr,67
+,bee'm ayns y thie aym moghrey mairagh juan bee,88.33,93.94,asr,57
+,craad vees juan c'raad vees juan,99.34,101.80,asr,100
+,vel juan bee un c'raad vees juan jeheiney,104.80,114.58,asr,80
+,c'raad vees juan jeheiney juan bee on friday afternoon,115.27,121.27,asr,87
+,craad vees juan fastyr jeheiney,129.22,131.80,asr,97
+,c'raad vees juan fastyr jeheiney heear bee'n my house,132.67,139.24,asr,96
+,sy thie bee ayns y thie,145.69,147.94,asr,85
+,as howse bee eh,151.30,163.00,asr,0
+,ayns y thie echey ayns y thie echey,163.00,165.85,asr,64
+,choud's eh hie sinkal pian as howse,167.17,169.93,asr,94
+,er lhiam dy bee eh ayns y thie echey,178.30,180.46,asr,94
+,erlhiam dy bee ayns y thie echey sister bee,181.48,188.11,asr,78
+,cre vees yn shuyr ayd c'raad vees yn shuyr ayd,195.22,198.85,asr,67
+,tomorrow morning c'raad vees yn,203.02,213.10,asr,0
+,ta'n shuyr ayd moghrey mairagh cre vees yn shuyr ayd moghrey mairagh,212.98,217.27,asr,92
+,cha nel fys aym cha nel fys aym,228.79,231.01,asr,100
+,choud's eh now but she will be ynnyd,231.97,235.39,asr,49
+,cha nel fys aym agh cha bee ee ayns as,245.38,248.65,asr,88
+,cha nel fys aym agh erbee ayns eh,250.06,251.62,asr,66
+,cha nel fys aym agh erbee ayns aght,267.88,270.67,asr,88
+,eck cha nel fys aym moghrey bee as uss eck,271.03,274.69,asr,65
+,choud's eh cha row red obbee yn ec y,276.85,280.96,asr,42
+,cha nel fys aym agh erlhiam nagh bee ynsaghey,291.10,294.73,asr,98
+,eck cha nel fys aym agh erlhiam nagh bee as ayns eck,295.03,299.23,asr,77
+,choud's eh now but lhig,301.33,304.93,asr,37
+,cha nel,319.60,319.90,asr,0
+,cha nel fys aym nagh bee,319.51,322.81,asr,65
+,son v'eh fliugh agglagh jeh,324.43,326.44,asr,87
+,cha nel fys aym agh erlhiam nagh bee as ayns eeboil ec son v'eh fliugh agglagh jeh,327.58,331.84,asr,86
+,bee yn dooghys,335.62,336.70,asr,13
+,cuin vees oo ayns doolish cuin vees oo ayns doolish,342.61,346.24,asr,100
+,cha nel fys aym cha nel fys aym,352.84,355.45,asr,81
+,choud's eh now but bee tomorrow,356.50,359.80,asr,50
+,cha nel fys aym agh cha bee'm ayns shen mairagh,370.57,374.05,asr,100
+,cha nel fys aym agh cha bee'm ayns shen mairagh,375.10,377.08,asr,100
+,tomorrow shopping in douglas on saturday,382.00,385.24,asr,44
+,cha nel fys aym agh cha bee'm ayns shen mairagh son cha laik lhiam shappal ayns doolish jesarn,397.90,404.38,asr,100
+,cha nel fys aym agh cha bee'm ayns shen mairagh son cha laik lhiam shappal ayns doolish jesarn,405.43,409.69,asr,97
+,juan bee in ramsey cuin vees,413.80,424.09,asr,82
+,juan ayns rhumsaa cuin vees juan ayns rhumsaa,424.18,427.90,asr,89
+,he wants to buy bread t'eh laccal kionnagh arran,431.71,441.25,asr,45
+,t'eh laccal kionnagh arran choud's eh hee-ym ayns braaid so,442.09,447.61,asr,84
+,t'eh laccal kionnagh arran myr shen,459.04,461.65,asr,100
+,bee eh ayns shen jiu t'eh laccal kionnagh arran,462.43,465.88,asr,94
+,shen jiu hee oo ayns braaid,466.99,471.58,asr,34
+,t'eh laccal kionnagh arran myr shen,482.74,485.38,asr,100
+,er lhiam dy bee eh ayns shen jiu,486.10,488.08,asr,97
+,t'eh laccal kionnagh arran myr shen erlhiam dy,489.76,492.04,asr,90
+,vel fys ayd vel fys ayd cuin,501.16,511.48,asr,70
+,va fys ayd cuin bee yn dunverys,512.17,518.32,asr,63
+,vel fys ayd cuin vees bree ayns doolish,526.75,529.81,asr,91
+,cuin vees breeshey ayns doolish cha,531.52,542.20,asr,54
+,cha nel cha nel cha nel cha nel fys aym,541.96,546.16,asr,85
+,choud's eh now but she dys y shopping ayns,547.21,551.71,asr,76
+,cha nel cha nel fys aym,561.70,563.77,asr,86
+,agh cha laik lhee shappal jeheiney,564.49,566.50,asr,97
+,cha nel cha nel fys aym agh cha laik lhee shappal jeheiney,567.70,570.55,asr,100
+,choud's eh now now but she dys y shopping on friday so,571.87,577.54,asr,76
+,obbyr today cha,577.87,591.52,asr,0
+,cha nel cha nel agh cha laik lhee shappal jeheiney,591.37,596.44,asr,91
+,myr shen cha bee ayns shen jiu,597.19,599.50,asr,100
+,cha nel cha nel fys aym agh cha laik lhee shappal jeheiney myr shen cha bee aynshen jiu,600.91,605.83,asr,100
+,now now,610.60,612.70,asr,56
+,bushit as y shopping on friday so,613.57,616.39,asr,33
+,cha nel cha nel fys aym,631.48,633.64,asr,100
+,cha laik lhee shappal jeheiney myr shen,634.69,637.63,asr,85
+,er lhiam nagh bee ayns shen jiu,638.20,640.21,asr,100
+,cha nel cha nel fys aym agh cha laik lhee shappal jeheiney myr shen er lhiam nagh bee aynshen jiu,643.12,649.21,asr,96
+,cre'n oyr,657.01,657.85,asr,0
+,cre'n oyr angry,659.02,663.91,asr,65
+,corree corree,671.89,674.65,asr,14
+,bee angry bee coshee dys yn lhag corree,678.91,689.74,asr,32
+,son cha laik lesh gobbragh son cha laik lesh gobbragh,690.19,695.29,asr,79
+,cre'n oyr cre'n oyr,702.73,705.25,asr,100
+,choud's bee yn keeill tomorrow,706.51,709.69,asr,53
+,cre'n oyr vees oo ayns purt ny hinshey mairagh,719.14,722.14,asr,100
+,vees oo ayns purt ny hinshey mairagh tomorrow,723.76,730.45,asr,49
+,aye,732.25,732.40,asr,0
+,bee'm ayns purt ny hinshey mairagh son share lhiam ayns shoprite ayns shen,744.70,749.47,asr,91
+,purt ny hinshey mairagh son share lhiam ayns shoprite ayns shen,751.12,753.70,asr,64
+,da bee'n as howse cre'n,758.56,770.95,asr,0
+,yn shuyr echey ayns y thie echey,771.64,773.71,asr,84
+,cre'n oyr vees yn shuyr echey ayns y thie echey bee coshee dys yn,775.42,784.42,asr,86
+,bee ayns shen son cha laik lhee gee,795.70,798.64,asr,83
+,bee ayns shen son cha laik lhee gee eh,800.53,804.40,asr,71
+,shilby coshee dys y lhag bee,804.97,820.54,asr,39
+,bio ayns shen son cha laik lhee gee ayns sauchys eck,820.51,823.96,asr,48
+,bee ayns shen son cha laik lhee gee as ayns eck,825.25,827.80,asr,55
+,foddey bee coshee dys yn,831.01,832.30,asr,57
+,when it's wet bee ayns shen,833.89,848.62,asr,0
+,son cha laik lhee gee ayns y chryssey eck tra t'eh fliugh,848.86,853.12,asr,100
+,bio son cha laik lhee gee ayns y tra t'eh fliugh,854.89,858.40,asr,73
+,yesterday row eh fliugh jeh,862.09,869.92,asr,85
+,jeh ayns y jiass va,871.21,876.40,asr,13
+,va choud's eh yiass,877.45,880.15,asr,0
+,yesterday daa t'eh fliugh jeh,881.05,887.59,asr,64
+,v'eh fliugh jeh yn,888.97,894.31,asr,29
+,day daa,894.82,902.44,asr,0
+,ve fliugh jeh as t'eh fliugh jiu,903.04,906.13,asr,94
+,er ve fliugh jeh as t'eh fliugh jiu choud's eh,907.48,911.80,asr,68
+,it was with yesterday its with today and it will be with tomorrow,913.66,918.31,asr,62
+,ve fliugh jeh t'eh fliugh jiu,930.10,933.40,asr,74
+,as bee eh fliugh mairagh va v'eh fliugh jeh t'eh fliugh jiu as bee eh fliugh mairagh,933.94,941.29,asr,91
+,chouds sunny in port st mary yesterday,943.75,947.38,asr,62
+,cha row eh grianagh ayns purt le moirrey jea,956.59,959.20,asr,95
+,grianagh ayns purt le moirrey jea and,960.52,964.87,asr,88
+,now it's sunny in port st mary yesterday,965.53,968.98,asr,92
+,cha row cha row eh grianagh ayns purt le moirrey jea,976.48,980.68,asr,100
+,cha row cha row eh grianagh ayns purt le moirrey jea,981.73,984.58,asr,100
+,choud's eh now it's sunny in port st mary yesterday,986.41,991.27,asr,92
+,and it's not sunny in port st mary cha,991.81,1004.14,asr,0
+,cha row cha row eh grianagh ayns purt le moirrey jea as cha nel eh grianagh ayns purt le moirrey jiu,1003.93,1010.77,asr,96
+,cha row cha row eh grianagh ayns purt le moirrey jea as cha nel eh grianagh ayns purt le moirrey jiu,1012.00,1017.04,asr,100
+,choud's eh now it's sunny in port st mary yesterday its not sunny in port st mary today,1019.05,1026.40,asr,66
+,tomorrow cha,1028.71,1042.39,asr,0
+,cha row cha row eh grianagh ayns purt le moirrey jea,1042.18,1046.17,asr,100
+,cha nel eh grianagh ayns purt le moirrey jiu as cha bee eh grianagh ayns purt le moirrey mairagh,1046.77,1052.14,asr,100
+,cha row cha row eh grianagh ayns purt le moirrey jea cha nel eh grianagh ayns purt le moirrey jiu as cha bee eh grianagh ayns purt le moirrey mairagh,1053.22,1060.93,asr,100
+,jedo cre ren oo,1065.34,1074.61,asr,50
+,chouds ren oo ec,1076.59,1086.70,asr,50
+,ec y jerrey shiaghtin cre ren oo ec y jerrey shiaghtin,1086.46,1090.84,asr,93
+,was very angry mee feer accryssagh,1094.53,1102.84,asr,27
+,va mee feer accryssagh was very hungry ayns aght,1103.59,1108.27,asr,88
+,mee feer accryssagh moghrey jesarn,1115.86,1118.17,asr,87
+,ta mee feer accryssagh moghrey jesarn choud's eh,1119.28,1122.88,asr,98
+,hie was very hungry ayns soie eh,1123.54,1126.69,asr,49
+,ren mee feer accryssagh moghrey jesarn,1138.93,1141.18,asr,92
+,myr shen ren mee gee cobbyr,1141.96,1144.15,asr,100
+,ta mee feer accryssagh moghrey jesarn my shen ren mee gee cubbon,1145.38,1149.28,asr,86
+,choud's eh was very hungry ayns aghterbee morning so hie eh,1151.62,1156.24,asr,93
+,well,1158.55,1158.73,asr,0
+,ren mee feer accryssagh moghrey jesarn myr shen ren mee gee,1171.66,1176.37,asr,84
+,as eisht ren mee cloie va mee feer accryssagh moghrey jesarn myr shen ren mee gee,1177.51,1184.32,asr,89
+,as eisht ren mee cloie parkman hungry ayns aght t'eh morning,1185.25,1191.64,asr,69
+,and then i play with my friends,1193.77,1196.17,asr,18
+,ta mee feer accryssagh moghrey jesarn,1210.24,1212.43,asr,91
+,myr shen ren mee gee as eisht ren mee cloie,1213.57,1217.62,asr,81
+,marish yn charrey aym ren mee feer accryssagh moghrey jesarn,1218.58,1222.93,asr,95
+,ren mee gee coggyl pottyn as eisht ren mee cloie,1223.62,1225.87,asr,79
+,marish yn charrey aym bee,1226.38,1231.72,asr,43
+,vel oo laccal ve fliugh v'eh fliugh,1239.31,1242.70,asr,71
+,cha nel cha nel choud's eh now,1247.68,1251.61,asr,100
+,wet cha nel,1253.11,1261.78,asr,0
+,cha laik lhiam feer fliugh cha nel cha laik lhiam ve fliugh,1262.38,1266.91,asr,100
+,but as we prefer to be with oardreih,1269.01,1272.16,asr,0
+,t'eh fliugh ny chirrym fliugh ny chirrym,1281.07,1284.19,asr,75
+,cha nel fys aym cha nel fys aym,1291.93,1294.15,asr,100
+,choud's eh now is probably prefer,1295.11,1298.62,asr,64
+,cha nel fys aym t'eh licklee dy bare lhiam ve fliugh,1310.17,1314.37,asr,98
+,cha nel fys aym t'eh licklee dy bare lhiam ve fliugh,1315.45,1318.39,asr,56
+,now probably prefer to be with with as,1322.20,1325.20,asr,39
+,cha nel fys aym t'eh licklee dy bare lhiam ve fliugh son cha laik lhiam v'eh chirrym,1339.48,1345.69,asr,100
+,dy bare lhiam ve fliugh son cha laik lhiam v'eh chirrym,1347.97,1350.73,asr,91
+,hie curree laik lhiat curree,1354.18,1360.06,asr,53
+,ny curree curree,1361.23,1365.52,asr,40
+,windy s'laik lhiam curree,1367.29,1376.38,asr,76
+,boght cha laik lhiam s'laik lhiam curree agh cha laik lhiam ve geayagh,1376.92,1382.56,asr,77
+,windy so we dont ee corree ny moanee,1387.18,1389.76,asr,65
+,s'laik lhiam curree agh cha laik lhiam ve geayagh,1400.41,1404.22,asr,100
+,myr shen cha nel mee gee curree ayns y voghrey,1404.85,1407.46,asr,93
+,s'laik lhiam curree agh cha laik lhiam ve geayagh,1409.56,1412.23,asr,100
+,son cha nel mee gee curree as y voghrey curree,1412.65,1419.31,asr,62
+,vel urree gee curree vel urree gee curree,1425.16,1428.04,asr,31
+,curree yn mie house urree,1432.06,1442.53,asr,0
+,bee gee curree ayns y thieyn gee curree as yn thieyn,1442.38,1446.82,asr,77
+,howse urree,1452.01,1463.53,asr,0
+,bee gee curree ayns y thie ayd cha nel urree gee curree as yn thieyn,1463.38,1468.09,asr,61
+,er lhiam's eh she dys yn twoaie corree yn oor howse,1470.55,1473.31,asr,49
+,dyn corree cha,1475.11,1487.98,asr,0
+,cha nel urree gee curree ayns y thie er,1487.77,1490.02,asr,100
+,gee curree cha nel urree gee curree as yn thieyn,1492.00,1495.15,asr,50
+,gee curree dy,1496.35,1499.77,asr,54
+,vel fys ayd vel fys ayd,1503.13,1505.08,asr,100
+,vel fys ayd quoi va ayns y thie,1520.59,1522.84,asr,100
+,va fys ayd quoi v'ayns y thie vel,1524.25,1541.89,asr,0
+,vel fys ayd quoi va ayns y thie aym,1541.71,1544.08,asr,48
+,vel fys ayd quoi vees yn thie aym er,1545.19,1565.20,asr,77
+,bare lhiam dy row er lhiam dy row,1565.02,1569.61,asr,60
+,ayns y thie ayd curree,1570.27,1575.61,asr,50
+,quoi ta gee curree quoi ta gee curree,1580.80,1583.86,asr,78
+,curree mie howse cooie ta gee curree ayns yn ellan,1587.52,1597.75,asr,88
+,quoi ta gee curree as yn thieyn choud's eh,1598.80,1602.97,asr,53
+,hie goll dy lots as curree dy,1603.78,1619.20,asr,0
+,dy vel goaldee skee curree ayns y thie ayd,1619.11,1621.87,asr,80
+,er lhiam dy vel goaldee oc skee corree ayns y thie ayd,1622.89,1625.62,asr,100
+,quoi vees,1639.42,1640.08,asr,0
+,geayagh mairagh quoi vees geayagh mairagh,1640.20,1643.11,asr,100
+,choud's goll dy,1645.06,1647.73,asr,40
+,windy tomorrow erlhiam dy bee,1648.42,1658.59,asr,0
+,bee goaldee lockerskeeagh mairagh erlhiam dy bee goaldee lockerskeeagh mairagh,1658.50,1663.81,asr,88
+,boayl bee yn dooghys on friday quoi vees,1668.61,1680.82,asr,0
+,ayns doolish jeheiney cooieys ayns doolish jeheiney,1680.82,1684.66,asr,83
+,choud's eh as haink mee bee in douglas on friday,1689.10,1692.94,asr,41
+,er lhiam dy bee yn carrey aym ayns doolish jeheiney,1704.73,1708.30,asr,100
+,erlhiam dy bee yn carrey aym ayns doolish jeheiney,1709.38,1711.63,asr,98
+,chouds eh my friend erbee in douglas on friday be working,1713.73,1719.46,asr,63
+,er lhiam dy bee yn carrey aym ayns doolish jeheiney,1729.93,1733.11,asr,98
+,son cha bee eh gobbragh erlhiam dy bee yn carrey aym ayns doolish jeheiney son cha bee eh gobbragh,1733.65,1739.95,asr,100
+,howse eh as t'eh my be in douglas on friday,1741.51,1745.26,asr,64
+,dy bee yn carrey aym ayns doolish jeheiney,1763.80,1766.20,asr,90
+,son cha bee eh gobbragh ec y jerrey shiaghtin,1766.80,1769.35,asr,100
+,er lhiam dy bee yn carrey aym ayns doolish jeheiney,1771.06,1773.19,asr,98
+,son erbee er gobbragh ec y jerrey shiaghtin,1773.76,1775.74,asr,96
+,now bee yn mie house,1779.67,1781.92,asr,40
+,vel fys ayd quoi is ayns y,1795.51,1800.52,asr,38
+,v'ee da,1806.49,1807.03,asr,19
+,erlhiam dy bee goaldee loayrt ayns shen,1811.62,1814.47,asr,78
+,erlhiam dy bee eh,1815.67,1819.51,asr,68
+,goaldee with your fish,1820.56,1823.08,asr,17
+,er lhiam dy bee goaldee loayrt ayns shen marish yn eeast ayd,1832.26,1836.37,asr,91
+,er lhiam dy bee goaldee marish yn eeast ayd,1837.60,1840.18,asr,78

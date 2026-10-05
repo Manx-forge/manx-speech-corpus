@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051977113",
+  "name": "Laa",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051977113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.88,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

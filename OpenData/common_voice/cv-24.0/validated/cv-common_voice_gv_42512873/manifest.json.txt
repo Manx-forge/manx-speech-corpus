@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42512873",
+  "name": "As huitt paart mastey drineyn: as daase ny drineyn seose as phloogh ad eh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42512873",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.416,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

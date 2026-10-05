@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09298",
+  "name": "Abbyr Shen Reesht - Say That Again 18oo Mee Voaldyn - 2025 - May 18th",
+  "createdCircaStart": "2025-05-18",
+  "createdCircaEnd": "2025-05-18",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-18oo-mee-voaldyn-2025-may-18th/",
+  "platform": "manx_radio",
+  "resource_id": "09298",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1632.63,
+  "deep_link": "https://episodes.captivate.fm/episode/af4e9c93-2c49-42ec-b7d9-2aac7e1e24ce.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

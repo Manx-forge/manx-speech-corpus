@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0232",
+  "name": "Conversational Interview",
+  "source": "https://youtube.com/watch?v=cMFmQft6n60",
+  "platform": "youtube",
+  "resource_id": "0232",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 367.78,
+  "deep_link": "https://www.youtube.com/watch?v=cMFmQft6n60&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

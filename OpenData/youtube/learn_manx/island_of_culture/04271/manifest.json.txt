@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04271",
+  "name": "Deam eh trooid y towl. She blebbin uss! Dooist oo, ta'n oie goll ersooyl",
+  "source": "https://www.youtube.com/watch?v=ydPvaKU3Pxc",
+  "platform": "youtube",
+  "resource_id": "04271",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 51.57,
+  "deep_link": "https://www.youtube.com/watch?v=ydPvaKU3Pxc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

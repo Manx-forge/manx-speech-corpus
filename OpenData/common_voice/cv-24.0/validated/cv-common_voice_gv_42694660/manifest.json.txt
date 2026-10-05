@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42694660",
+  "name": "Nee niau as thalloo çherraghtyn, agh my ghoan's cha jean çherraghtyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42694660",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.084,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

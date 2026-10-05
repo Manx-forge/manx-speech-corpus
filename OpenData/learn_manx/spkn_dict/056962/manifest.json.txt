@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056962",
+  "name": "aalin beautiful",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/aalin%20-%20beautiful.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056962",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.84,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/aalin%20-%20beautiful.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

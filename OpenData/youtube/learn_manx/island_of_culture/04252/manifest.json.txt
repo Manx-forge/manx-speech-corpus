@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04252",
+  "name": "Shoh my charrey Davy",
+  "source": "https://www.youtube.com/watch?v=NyK8UWQFpK4",
+  "platform": "youtube",
+  "resource_id": "04252",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 35.62,
+  "deep_link": "https://www.youtube.com/watch?v=NyK8UWQFpK4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

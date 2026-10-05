@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09325",
+  "name": "Abbyr Shen Reesht - Say That Again 16oo Mee Houney - 2025 - November 16th",
+  "createdCircaStart": "2025-11-16",
+  "createdCircaEnd": "2025-11-16",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-16oo-mee-houney-2025-november-16th/",
+  "platform": "manx_radio",
+  "resource_id": "09325",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2075.0,
+  "deep_link": "https://episodes.captivate.fm/episode/9e8ba76a-e229-44a0-8c17-02974beda905.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

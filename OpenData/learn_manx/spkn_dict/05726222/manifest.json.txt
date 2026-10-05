@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05726222",
+  "name": "bee Iddaalagh Italian food",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/Bee%20Iddaalagh.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05726222",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.2,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/Bee%20Iddaalagh.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

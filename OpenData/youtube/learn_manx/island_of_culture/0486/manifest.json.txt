@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0486",
+  "name": "Ta Purt ny h-Inshey feer aalin",
+  "source": "https://www.youtube.com/watch?v=60aKGF_PWnE",
+  "platform": "youtube",
+  "resource_id": "0486",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.22,
+  "deep_link": "https://www.youtube.com/watch?v=60aKGF_PWnE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

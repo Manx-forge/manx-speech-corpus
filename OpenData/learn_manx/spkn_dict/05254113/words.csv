@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,s'mie,0.00,0.48,aligned
+0,1,lhiam,0.48,0.66,aligned
+0,2,conor,0.66,0.99,aligned
+0,3,cummins,0.99,1.62,aligned

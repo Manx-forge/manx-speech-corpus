@@ -1,0 +1,205 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,0.97,3.22,asr,60
+,kiare lessoon shey ta,4.06,15.13,asr,63
+,ta,27.64,27.85,asr,15
+,ta daa ta daa,27.61,30.25,asr,0
+,hie,33.76,33.97,asr,0
+,daa aym agh ta mee laccal nane elley,45.76,49.87,asr,85
+,ta daa lane agh ta mee laccal nane elley,51.07,53.68,asr,84
+,hie chouds ta,56.80,68.20,asr,0
+,ta daa ta daa,67.96,71.26,asr,25
+,daa yeig aym agh ta mee laccal nane elley,88.45,93.16,asr,87
+,ta daa yeig aym agh ta mee laccal nane elley,94.39,97.03,asr,92
+,nuy,109.69,110.35,asr,0
+,yn jeig yn jeig,110.89,113.38,asr,54
+,if we had to,116.53,128.05,asr,0
+,dy beagh ooylyn jeig aym,127.96,130.54,asr,62
+,dy beagh yn jeig aym choud's eh,131.41,135.82,asr,32
+,dy beagh oie ooilley'n jeig aym,152.47,155.05,asr,64
+,laccal nane elley dy beagh,156.61,159.67,asr,77
+,cha bee laccal nane elley as,161.20,165.28,asr,81
+,dy iu cre'n eash t'ou,166.51,174.19,asr,77
+,cre'n eash t'ou nish,186.40,188.14,asr,85
+,cre'n eash t'ou nish breeshey,188.83,194.83,asr,50
+,cre'n eash t'ou nish vreeshey,204.19,206.62,asr,100
+,cre'n eash t'ou mish breeshey tree,207.07,221.92,asr,100
+,feed ta mee tree feed,221.95,224.56,asr,20
+,tree feed as,236.62,237.37,asr,25
+,dys nane tree feed as nane,237.31,239.83,asr,75
+,now,243.94,244.42,asr,0
+,tree feed as nane jeig nish ta mee tree feed as nane-jeig nish,253.33,258.43,asr,97
+,boayl dy iu cre'n eash t'ou,261.67,272.02,asr,16
+,t'ou uss cre'n eash ta uss,271.81,274.09,asr,0
+,folder you james cre'n,277.87,288.73,asr,0
+,cre'n eash t'ou uss yamys cre'n eash t'ou uss yamys,288.55,292.87,asr,64
+,ta mish hoght-jeig hoght-jeig,304.93,307.81,asr,72
+,hoght-jeig as feed ta mish hoght-jeig as feed,321.28,324.88,asr,100
+,ow just say ta mish,326.38,336.58,asr,50
+,hoght-jeig as feed nish ta mee hoght-jeig as feed nish,336.52,340.81,asr,83
+,dy beagh tree feed ayd,360.85,363.61,asr,92
+,dy beagh three feed ooill ayd sic,364.33,370.24,asr,69
+,and if you were to eat dy,373.27,385.90,asr,0
+,dy beagh three feed ayd,385.81,387.97,asr,85
+,as dy jinnagh oo gee nane,388.87,390.97,asr,100
+,dy beagh three feed as dy jinnagh oo gee nane,392.17,395.14,asr,80
+,had sic and,399.79,402.52,asr,64
+,dy,420.13,420.25,asr,0
+,dy beagh tree feed ayd,420.13,422.71,asr,75
+,as dy jinnagh oo gee nane,423.64,425.65,asr,100
+,veagh ayd dy beagh three-feedoo ayd as dy jinnagh oo gee nane,427.75,433.12,asr,85
+,the said veih ad,433.99,438.31,asr,50
+,dy beagh three feed dy beagh tree feed,446.56,450.73,asr,82
+,if we had and if,453.88,456.67,asr,30
+,dy beagh tree feed as dy jeanym gee nane,468.82,474.07,asr,98
+,dy beagh three feed as dy jeanym gee nane,475.24,477.91,asr,98
+,veih had and if,480.91,483.40,asr,17
+,hie with house dy,485.62,502.81,asr,0
+,dy beagh tree feed as dy jeanym gee nane,502.69,508.03,asr,71
+,un jeig as daeed aym dy beagh three feed,510.85,515.32,asr,89
+,as dy jeanym gee nane veagh nuyoo lhing jeig as daeed aym,515.80,519.37,asr,79
+,how many houses thie,523.33,530.56,asr,65
+,the thie house how many houses orrin ballabeg,531.34,537.52,asr,38
+,the thie ta ayns balley beg,546.70,549.55,asr,83
+,ve dys balley beg how,551.47,558.37,asr,26
+,tie ta ayns balley beg nish,567.61,570.64,asr,86
+,dys balley beg nish cha,572.29,575.65,asr,29
+,haink eh houses,578.62,581.38,asr,67
+,er lhiam dy vel kiare feed thie,593.29,596.32,asr,100
+,erlhiam dy vel kiare feed as da,597.16,604.03,asr,46
+,er lhiam dy vel kiare feed thie ayns shen,614.32,617.77,asr,100
+,erlhiam dy vel kiare feed as how just say,618.55,623.05,asr,83
+,er lhiam dy vel kiare feed,641.53,644.14,asr,100
+,as queig jeig ayns shen er lhiam dy vel kiare feed as queig-jeig ayns shen,644.71,649.63,asr,90
+,er lhiam dy vel kiare feed,671.41,673.84,asr,100
+,as queig jeig ayns shen nish,674.35,676.48,asr,86
+,agh cha nel mee shickyr erlhiam dy vel kiare feed as queig-jeig ayns shen nish agh cha nel mee shickyr,677.08,683.44,asr,94
+,bee eh cheet ghoo kiark,688.60,699.28,asr,0
+,just say,702.79,703.39,asr,0
+,bee eh shickyn in the garden,704.56,707.08,asr,35
+,kiark tra v'ou ayns y gharey,715.30,718.00,asr,86
+,oo kiart tra v'ou ayns y gharey guinniu,719.53,725.44,asr,41
+,goo kiark tra v'ou ayns y gharey eck,736.21,739.21,asr,88
+,vel oo kiart tra v'ou ayns y gharey eck,740.05,742.00,asr,100
+,supply yiass honnick,743.68,749.17,asr,9
+,honnick eh neesht,750.28,754.93,asr,42
+,hie shoh honnick honnick,755.77,769.57,asr,0
+,un chiark jeig honnick honnick mee un jeig,770.02,774.64,asr,67
+,yiass chicken's,777.10,779.80,asr,33
+,honnick honnick mee un chiark jeig as feed,791.56,795.37,asr,100
+,honnick honnick mee ayns shiaght-jeig as feed,796.15,798.43,asr,87
+,yiass is,800.89,803.62,asr,31
+,honnick honnick mee,816.85,818.77,asr,100
+,jeig as feed tra va mee ayns shen,819.97,822.82,asr,94
+,honnick honnick mee un chiark jeig as feed tra,824.14,826.51,asr,76
+,eu,831.97,832.36,asr,0
+,dys doolish,844.09,845.38,asr,81
+,jagh shiu dys doolish as,846.13,849.85,asr,70
+,bee,852.07,852.25,asr,0
+,shooyl dys traie ghoolish jagh oo dys traie ghoolish,863.98,868.63,asr,77
+,sy yiass hie,870.82,875.71,asr,12
+,hie eh,876.61,879.94,asr,0
+,aye,893.38,893.59,asr,0
+,shin ayns shen son three ooryn,894.76,897.34,asr,87
+,hie va shin ayns shen son three ooryn,898.21,900.46,asr,51
+,baase hie,903.40,919.06,asr,0
+,va shin ayns shen son three ooryn as feed,920.29,923.86,asr,89
+,hie shin ayns shen son three ooryn as feed,924.73,926.95,asr,100
+,cha vel,930.25,943.39,asr,0
+,belloo er nakin dy vraar,943.21,945.73,asr,0
+,vel oo er nakin dty vraar this week,946.93,952.57,asr,52
+,vel oo er nakin yn chiaghtin shoh,964.39,968.26,asr,75
+,vel oo er nakin dty vraar yn chiaghtin shoh,969.43,971.65,asr,100
+,cha vel,975.10,989.89,asr,0
+,vel oo er nakin yn chiaghtin shoh eddyr,989.80,993.16,asr,64
+,fakin dty vraar yn chiaghtin shoh edyr cha nel,994.51,1002.82,asr,85
+,cha nel eh,1003.90,1007.47,asr,100
+,now cha,1008.28,1009.93,asr,0
+,cha nel cha nel mee er nakin,1025.83,1029.34,asr,100
+,son kiare feed laa cha nel,1029.91,1033.33,asr,100
+,cha nel mee er nakin eh son kiare feed laa,1033.96,1036.24,asr,100
+,cha nel cha nel mee er nakin,1055.44,1058.56,asr,100
+,son kiare feed as nane-jeig,1059.31,1062.28,asr,100
+,cha nel cha nel mee er nakin eh son kiare feed as nane-jeig,1063.48,1066.90,asr,86
+,had twenty,1070.83,1072.57,asr,84
+,dy beagh feme echey,1084.51,1086.58,asr,54
+,dy beagh echey v'ee,1087.54,1092.37,asr,43
+,purt,1095.40,1095.52,asr,0
+,dy beagh feme echey,1110.52,1112.62,asr,50
+,yinnagh eh kionnagh hoght praaseyn,1113.43,1116.16,asr,100
+,dy beagh echey yinnagh oo kionnagh hoght praaseyn,1117.30,1120.51,asr,78
+,dy beagh echey,1136.68,1138.78,asr,67
+,yinnagh eh kionnagh hoght praaseyn jeig,1139.44,1142.44,asr,100
+,dy beagh echey yinnagh oo kionnagh hoght praaseyn jeig,1143.76,1147.15,asr,81
+,twenty,1150.66,1151.23,asr,0
+,dy beagh feme echey yinnagh oo kionnagh hoght,1166.98,1172.17,asr,71
+,jeig as feed dy beagh,1172.95,1175.65,asr,76
+,yinnagh oo kionnagh hoght praaseyn jeig as feed,1176.31,1178.68,asr,85
+,keead buy da,1183.87,1199.41,asr,0
+,dy beagh feme echey yinnagh oo kionnagh hoght praaseyn jeig as feed son ain,1199.29,1206.13,asr,85
+,dy beagh yinnagh oo kionnagh hoght praaseyn jeig as feed son ain,1207.15,1211.14,asr,82
+,cho pronnag,1212.82,1222.48,asr,0
+,quoid pronnag how many,1222.99,1227.28,asr,32
+,dy cheet pronnag,1228.06,1237.12,asr,0
+,nee gee quoid pronnag ren ee gee,1237.66,1240.15,asr,11
+,with how many sausages dys shee this morning,1242.13,1245.37,asr,27
+,pronnag ren ee gee moghrey jiu,1255.54,1258.09,asr,83
+,but pronnag ren ee gee moghrey jiu cha nel fys aym,1259.59,1269.79,asr,69
+,choud's eh cha,1272.43,1285.87,asr,60
+,cha nel fys aym veagh orrym briaght,1285.66,1289.53,asr,100
+,cha s'aym feer ghorrym briaght cha,1290.55,1312.93,asr,44
+,cha nel fys aym veagh orrym briaght jeh my huyr,1312.72,1317.61,asr,100
+,cha beagh orrym briaght jeh my huyr,1318.66,1321.09,asr,74
+,bee gee tree feed pronnag,1343.80,1346.41,asr,53
+,tree feed pronnag cho just say,1348.75,1353.04,asr,87
+,about the seven sostyn as er,1355.23,1371.70,asr,0
+,er lhiam dy ren ee gee mysh tree feed,1371.52,1375.66,asr,50
+,as shiaght-jeig erlhiam dy ren ee gee mysh three feed pronnaghey shiaght-jeig,1376.50,1381.78,asr,72
+,feed fish,1387.30,1388.38,asr,0
+,ta orrym gee jees bee orrym gee yees,1399.21,1403.83,asr,5
+,feed fish beagh,1408.03,1421.32,asr,0
+,orrym gee eeast dy jinnin goll,1421.41,1423.93,asr,90
+,beagh orrym gee eeast dy jinnin goll dy,1424.83,1430.02,asr,67
+,beagh orrym gee eeast dy jinnin goll dys y thie-bee,1445.17,1448.89,asr,92
+,gee eeast dy jean oo goll dys y thie-bee,1450.12,1452.13,asr,72
+,oh,1470.04,1470.16,asr,0
+,as gee un cheayrt dy ee ta latin fish,1470.37,1479.37,asr,37
+,gee un eeast jeig dy jinnagh oo goll,1493.89,1496.98,asr,83
+,beg dy jinnagh oo goll gow-jee sea,1499.11,1502.65,asr,52
+,cha jeanym goll lesh cha jeanym goll lesh,1512.70,1516.54,asr,93
+,cha,1532.92,1533.16,asr,0
+,cha jeanym goll eisht son shey gyn mee,1532.92,1536.58,asr,83
+,cha jeanym goll eisht son she choud's,1537.54,1541.62,asr,66
+,beelzebub as shen,1543.99,1546.33,asr,34
+,cha jeanym goll eisht son she beaynidyn mee,1559.05,1562.47,asr,75
+,as cha laik lhiam eeast ansherbee cha jeanym goll eisht son she,1563.04,1568.29,asr,93
+,as cha laik lhiam eeast ansherbee cha,1569.58,1574.38,asr,88
+,dug oo shilley er dug oo shilley er,1583.56,1586.38,asr,74
+,dys oo,1589.26,1589.53,asr,21
+,goo shilley er dty yishag dy yishig,1599.19,1602.70,asr,43
+,double,1606.21,1606.60,asr,0
+,goo shilley er dty yishag jeheiney,1616.59,1619.08,asr,81
+,dug oo shilley er dty yishag jeheiney yiass,1619.83,1623.97,asr,67
+,hug hug,1626.70,1628.80,asr,100
+,va mee ayns shen son three feed minnid,1648.12,1650.67,asr,91
+,hug mee son three feed minnid dys,1651.54,1657.51,asr,53
+,bite minnid hug,1659.34,1669.54,asr,0
+,va mee ayns shen son three feed minnid as queig jeig,1670.59,1675.03,asr,82
+,hug mee son three feed minnid as queig-jeig,1675.90,1678.42,asr,90
+,but sheese honnick ee,1682.56,1691.68,asr,79
+,honnick ee chouds,1692.70,1694.98,asr,88
+,park cre,1696.78,1707.91,asr,0
+,honnick ee ayns y phairk kionnaghey ayns y phairk,1707.76,1711.75,asr,78
+,honnick,1725.13,1725.43,asr,0
+,yn daa ushag honnick ee daa ushag,1725.61,1728.28,asr,87
+,she shoh birds,1730.71,1732.36,asr,58
+,daa ushag as shey roddanyn,1744.18,1747.21,asr,85
+,honnick ee daa ushag as shey sheese,1748.08,1753.03,asr,65
+,boo birds yn honnick ee daa,1753.45,1770.94,asr,0
+,er ushag as shey,1770.79,1773.19,asr,77
+,yn jeig as daeed honnick ee daa ushag eh shey roddanyn jeig as daeed,1773.70,1778.95,asr,92
+,dys shee like ringoil as laik lhee roddanyn laik lhee roddanyn,1782.10,1791.13,asr,54
+,now cha laik,1793.92,1798.99,asr,0
+,cha laik now,1799.89,1804.00,asr,64
+,she said that she would go to that park again cha,1804.54,1821.91,asr,0
+,cha laik ren ee gra nagh jinnagh ee goll dys y phairk shen reesht,1821.76,1829.35,asr,84
+,cha laik ren ee gra nagh jinnagh ee goll dys y phairk shen reesht,1830.19,1833.88,asr,86

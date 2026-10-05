@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448335",
+  "name": "Jean ad y chasherickey son dty irriney: dty ghoo she firrinys eh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448335",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.496,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

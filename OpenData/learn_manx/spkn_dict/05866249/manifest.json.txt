@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866249",
+  "name": "meir-coshey toes",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Toes.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866249",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Toes.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

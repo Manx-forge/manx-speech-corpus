@@ -1,0 +1,14 @@
+{
+  "ident": "speech-077978",
+  "name": "cochianglys_john_pilling_translated_by_bob_carswell",
+  "source": "https://www.learnmanx.com/media//Stories/Cochianglys_Folley_John_Pilling.mp3",
+  "platform": "learn_manx",
+  "resource_id": "077978",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 537.74,
+  "deep_link": "https://www.learnmanx.com/media//Stories/Cochianglys_Folley_John_Pilling.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

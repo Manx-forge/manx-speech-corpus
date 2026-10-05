@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04244",
+  "name": "She eeasteyr mish",
+  "source": "https://www.youtube.com/watch?v=1ttp0w3iDoA",
+  "platform": "youtube",
+  "resource_id": "04244",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 31.9,
+  "deep_link": "https://www.youtube.com/watch?v=1ttp0w3iDoA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,cha,0.27,0.39,aligned
+0,1,nel,0.39,0.75,aligned
+0,2,agh,1.02,1.32,aligned
+0,3,ta,1.32,1.44,aligned
+0,4,purt,1.44,1.74,aligned
+0,5,le,1.74,1.83,aligned
+0,6,moirrey,1.83,2.10,aligned
+0,7,na,2.10,2.22,aligned
+0,8,smoo,2.22,2.49,aligned
+0,9,aalin,2.49,2.82,aligned
+0,10,na,2.82,2.91,aligned
+0,11,laksaa,2.91,3.54,aligned

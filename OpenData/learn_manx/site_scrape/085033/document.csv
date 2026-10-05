@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon nane-jeig as daeed illiam,1.15,4.60,asr,100
+,cha nel eh cheet er-lhiam nagh vel eh cheet,5.71,9.22,asr,100
+,ta mee clashtyn ta mee gra,11.17,14.20,asr,100
+,cheet goll,16.06,18.16,asr,100
+,tannaghtyn geaishtagh,19.27,22.51,asr,100
+,gobbraghey jeeaghyn,23.89,26.29,asr,100
+,er lhiam nagh vel eh cheet er lhiam nagh vel eh goll,28.27,32.44,asr,96
+,er lhiam nagh vel eh tannaghtyn er lhiam nagh vel eh geaishtagh,33.85,38.62,asr,98
+,er lhiam nagh vel eh gobbraghey er lhiam nagh vel eh jeeaghyn,40.15,44.17,asr,87
+,ta mee clashtyn nagh vel ad shen cheet,46.60,49.21,asr,84
+,ta mee gra nagh vel oo geaishtagh ta mee clashtyn nagh vel dty ayr gobbraghey er chor erbee,50.80,57.43,asr,94
+,erlhiam nagh nhione fer post ersooyl foast,59.17,61.66,asr,74
+,ta mee credjal nagh vel peiagh erbee elley tannaghtyn,63.49,66.43,asr,100
+,nagh vel oo credjal dy vel yn meoir-shee cheet,67.39,69.67,asr,81
+,cha nel mee er nakin rish tammylt foddey,72.55,76.36,asr,100
+,ny laghyn shoh ny lhie,78.07,81.28,asr,100
+,mughane sy lhiabbee,82.78,85.63,asr,100
+,cha nel mee er nakin peddyr rish tammylt foddey,90.22,92.71,asr,77
+,va mughane echey shiaghtin er dy henney as v'eh ny lhie,94.57,98.14,asr,94
+,ta mee clashtyn nagh vel eh gobbraghey ny laghyn shoh,99.58,102.43,asr,89
+,ellan mccane ersooyl s'cosoylagh row eh,104.35,109.36,asr,71
+,agh s'mie lesh sy lhiabbee erlhiam dy vel oo kiart,112.69,117.34,asr,86

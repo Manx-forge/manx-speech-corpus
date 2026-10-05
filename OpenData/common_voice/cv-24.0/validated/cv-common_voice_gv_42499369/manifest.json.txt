@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42499369",
+  "name": "Eisht hrog mee seose my hooillyn, as honnick mee, as cur-my-ner kiare eairkyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42499369",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.9,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

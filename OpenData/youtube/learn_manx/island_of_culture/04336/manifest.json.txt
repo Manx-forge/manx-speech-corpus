@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04336",
+  "name": "Cha nee toot mish",
+  "source": "https://www.youtube.com/watch?v=qRGAhPeOvS0",
+  "platform": "youtube",
+  "resource_id": "04336",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.75,
+  "deep_link": "https://www.youtube.com/watch?v=qRGAhPeOvS0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

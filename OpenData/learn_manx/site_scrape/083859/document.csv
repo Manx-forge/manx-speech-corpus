@@ -1,0 +1,19 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon tree-jeig as feed,0.73,4.30,asr,100
+,foddee tree hug,6.22,10.63,asr,40
+,oashyryn e vraagyn,26.47,29.71,asr,79
+,hroosyn e chooid,31.90,34.81,asr,100
+,e vayn hug eh er er lheiney,36.49,41.92,asr,57
+,hug eh er e vraagyn,43.99,50.65,asr,89
+,er e chooid hug eh er e,57.22,61.36,asr,33
+,daag eh e vayrn juan,65.11,69.79,asr,100
+,e chooid mooar cha dug jishag,70.60,75.07,asr,74
+,er lheiney veih cheau eh er,76.27,80.62,asr,33
+,er lheiney as er braagyn sy halley,81.13,88.66,asr,78
+,cha daag eh e vraagyn,90.58,93.25,asr,60
+,quoi s'lesh,98.47,99.37,asr,100
+,cha s'aym ansherbee,101.41,104.62,asr,100
+,s'lesh juan eh quoi,106.45,110.77,asr,90
+,s'lesh juan eh dy aeg eh er yn boayrd eh as nagh vel cooat er nish,113.20,120.64,asr,78
+,ta hug eh er y chooid noa,121.75,124.24,asr,0
+,cha s'aym cha dooyrt eh cha dug eh,127.66,131.56,asr,100

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04247",
+  "name": "V'eh yindyssagh er y cheayn jiu",
+  "source": "https://www.youtube.com/watch?v=e7fxP_eQQwI",
+  "platform": "youtube",
+  "resource_id": "04247",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.7,
+  "deep_link": "https://www.youtube.com/watch?v=e7fxP_eQQwI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

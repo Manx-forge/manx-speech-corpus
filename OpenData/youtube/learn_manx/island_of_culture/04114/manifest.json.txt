@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04114",
+  "name": "Foddym snaue gollrish perkin",
+  "source": "https://www.youtube.com/watch?v=X03Lui3C4fw",
+  "platform": "youtube",
+  "resource_id": "04114",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.9,
+  "deep_link": "https://www.youtube.com/watch?v=X03Lui3C4fw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

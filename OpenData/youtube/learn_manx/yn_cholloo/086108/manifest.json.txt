@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086108",
+  "name": "Yn Cholloo? Yn 'Clan MacMaster'",
+  "source": "https://www.youtube.com/watch?v=ETLS8cx5k34",
+  "platform": "youtube",
+  "resource_id": "086108",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 192.04,
+  "deep_link": "https://www.youtube.com/watch?v=ETLS8cx5k34&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

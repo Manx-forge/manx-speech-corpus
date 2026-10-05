@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,lane,0.42,1.05,aligned
+0,1,full,2.19,2.64,aligned
+0,2,lane,3.69,4.26,aligned

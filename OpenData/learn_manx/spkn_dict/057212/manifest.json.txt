@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057212",
+  "name": "cass foot",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/cass%20-%20foot.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057212",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/cass%20-%20foot.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

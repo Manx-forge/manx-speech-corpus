@@ -1,0 +1,175 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,1.06,3.85,asr,54
+,three lessoon queig jeig,4.78,6.82,asr,83
+,fifteen choud's eh vees,8.11,11.92,asr,28
+,yn sourey yn sourey,17.32,19.84,asr,100
+,the summer s'laik lhiam yn sourey,22.90,32.38,asr,0
+,bunnysowrey summer bee as,33.40,38.62,asr,54
+,hot s'laik,39.34,49.75,asr,0
+,yn sourey son s'laik lhiam ve cheh,50.23,53.35,asr,79
+,yn sourey son s'laik lhiam ve cheh,54.49,56.47,asr,100
+,hie like aile mayrn s'laik,59.41,69.82,asr,0
+,mannin s'laik lhiam mannin,70.21,72.31,asr,16
+,v'eh like mannin as s'laik,74.29,87.46,asr,0
+,illiam mannin sy tourey,87.64,89.65,asr,78
+,s'laik lhiam mannin ayns y tourey hot,90.58,97.90,asr,47
+,s'laik lhiam ayns y tourey,108.64,111.10,asr,100
+,son s'laik lhiam mannin ayns y tourey son,111.73,115.99,asr,100
+,well,133.00,133.24,asr,0
+,vel mannin as joe vel mannin as,133.09,137.14,asr,57
+,the manx in morocco in the summer,140.98,142.93,asr,28
+,vel mannin as joe ny morocco ayns yn tourey,153.43,157.12,asr,21
+,vel mannin as joe ny morocco ayns y tourey,158.05,160.18,asr,21
+,cha nel cha nel,166.15,168.34,asr,81
+,choud's eh now it's not as hot as,169.81,173.38,asr,60
+,cha nel cha nel ee cha cheh as,187.42,191.53,asr,100
+,bun sy tourey cha nel cha nel eh er chea as morocco ayns y tourey,192.37,197.38,asr,90
+,cha nel cha cheh as morocco ayns y tourey,217.00,222.19,asr,79
+,hoght dy liooar cha nel cha nel eh er-chea as morocco ayns y tourey agh toig-jee dy liooar,223.15,230.38,asr,85
+,the winter geurey,233.02,239.77,asr,0
+,winter geurey t'ayn she yn geurey,244.84,255.22,asr,97
+,tayn its winter,255.22,259.78,asr,62
+,as ceau sniaghtey,273.94,276.01,asr,77
+,boirit ayn as t'eh ceau sniaghtey cha,277.42,280.87,asr,36
+,cha laik lhiam purt ny hinshey cha laik lhiam purt ny hinshey,291.34,295.48,asr,91
+,glare peayll yn winter cha,298.27,311.20,asr,0
+,cha laik lhiam purt ny hinshey ayns y yeurey,311.17,314.77,asr,90
+,cha laik lhiam purt ny hinshey ayns y yeurey,315.79,317.83,asr,100
+,winter cha,322.27,338.23,asr,0
+,cha laik lhiam purt ny hinshey ayns y yeurey,338.08,341.02,asr,100
+,lhig dooin goll dys purt ny hinshey ayns y yeurey lhig dooin goll dys thie,342.07,348.88,asr,70
+,nhare lhiat yn sourey,361.21,362.89,asr,14
+,nhare lhiat yn sourey winter,363.67,368.95,asr,74
+,yn geurey nhare lhiat yn sarey nyn geurey,383.17,386.53,asr,62
+,balley mannin as share,390.55,405.79,asr,0
+,sy tourey share lhiam mannin as y tourey,406.93,410.35,asr,81
+,pollag mannin summer yn thie-l and in the winter,413.41,416.41,asr,56
+,share lhiam sy tourey as,431.83,435.04,asr,77
+,share lhiam mannin as y tourey as thieyn dys y yeurey,437.83,440.65,asr,81
+,yn fouyr yn fouyr,450.28,452.62,asr,100
+,fouyr aalin vel yn fouyr aalin,467.26,470.29,asr,66
+,vel y mann fouyr,473.89,489.19,asr,0
+,vel yn fouyr aalin ayns mannin cha nel fys aym,491.89,501.43,asr,91
+,now,505.36,505.84,asr,33
+,cha nel fys aym ta mee goll dys jurby,521.11,523.96,asr,86
+,syn ouyr as,524.59,526.90,asr,12
+,ta mee goll dys japan ayns yn ouyr japan,527.95,534.22,asr,59
+,vel oo mannin as too cloudy cha,536.20,550.87,asr,0
+,cha nel fys aym ta mee goll dys japan syn ouyr,550.69,555.07,asr,100
+,son ta'n mannin ro vodjallagh,555.88,558.25,asr,100
+,ta mee goll dys cheet ayns yn ouyr son ta mannin ro vodjallagh,560.44,563.71,asr,100
+,oh,581.71,581.77,asr,0
+,vel mannin as bodjal ee ny japan,581.41,584.35,asr,72
+,mannin ny spotchal eh ny japan yiass,585.34,591.07,asr,42
+,eh ta,594.85,609.16,asr,0
+,thie ny spotchal ee un syn ouyr ansherbee,610.90,614.23,asr,93
+,ta hie ny ayns yn ouyr ansherbee,615.19,617.83,asr,64
+,ny winter t'ou,621.94,637.06,asr,0
+,goll dys japan nee ayns y yeurey t'ou goll dys japan,637.09,641.20,asr,75
+,cha nee cha nee cha,645.64,661.51,asr,77
+,cha nee she syn ouyr ta mee goll,661.30,664.75,asr,73
+,ta mee goll spring,666.97,671.83,asr,56
+,yn yiarragh yn yiarragh,677.35,679.84,asr,0
+,ta soar millish jeh,695.02,697.24,asr,100
+,ta soar millish jeh it smells sweet in the spring,697.96,704.44,asr,92
+,ta soar millish ta soar millish jeh ayns yn arragh,715.93,721.18,asr,69
+,oh,741.37,741.61,asr,0
+,millish jeh yn gharey echey syn niarragh,741.76,745.21,asr,75
+,ta soar millish jeh'n gharey echey ayns yn niarragh,746.08,748.54,asr,96
+,the mountain you,751.54,756.85,asr,87
+,slieau with juan,757.75,762.31,asr,31
+,craad ta juan c'raad ta juan,766.45,769.06,asr,100
+,as juan c'raad ta,772.12,782.32,asr,0
+,ta juan c'raad ta juan goll,782.11,785.35,asr,59
+,son dy vel eh goll dys y clieau,790.69,804.94,asr,61
+,erlhiam dy gholl dys y clieau mountain,806.05,812.32,asr,38
+,er lhiam dy vel eh dys y clieau,825.40,828.73,asr,76
+,gyn carrey erlhiam dy vel eh goll dys y clieau dy akin,829.42,833.53,asr,81
+,ayr,854.14,854.44,asr,0
+,er lhiam dy vel eh goll dys y clieau dy akin carrey ta beaghey ayns shen,854.26,860.44,asr,76
+,er lhiam dy vel eh goll dys y clieau dy akin carrey dy beaghey ayns shen,862.48,866.20,asr,93
+,the mountain to see a,870.46,871.45,asr,28
+,er lhiam dy vel eh goll dys y clieau dy akin,885.25,889.30,asr,100
+,va beaghey ayns shen nish erlhiam dy vel eh goll dys y clieau dy akin carrey ta beaghey ayns shen nish,890.05,897.13,asr,95
+,yn cabbyl yn cabbyl,906.07,908.38,asr,100
+,just say have you given it to him,911.11,913.93,asr,0
+,balloo da,924.25,926.80,asr,27
+,vel oo er choyrt da da,927.94,946.45,asr,60
+,er yn cabbyl vel oo er choyrt,946.36,950.41,asr,65
+,gy da'n chabbyl foast vel oo y choyrey da'n chabbyl foast,968.14,973.30,asr,59
+,ta ta gavid juan as,978.10,984.13,asr,46
+,ta ren mee cur eh daa moghrey jiu,992.65,996.61,asr,79
+,ta ren mee cur y daa moghrey jiu,997.57,999.88,asr,90
+,yn moddey yn moddey,1007.74,1009.99,asr,100
+,hoilshee spoke to him loayrt rish vel,1012.84,1023.25,asr,77
+,vel ee er loayrt rish as,1023.10,1026.79,asr,0
+,er loayrt rishyn voddey loayrt rishyn voddey,1040.59,1044.76,asr,53
+,the dog at loayrt rishyn,1047.67,1061.89,asr,8
+,ta'n voddey foast loayrt rish yn voddey,1061.71,1065.40,asr,68
+,cha nel cha nel,1072.99,1075.12,asr,100
+,cha nel son te jannoo ching j'ee,1089.40,1093.15,asr,90
+,cha nel son t'eh jannoo ching jee dy howse,1094.02,1098.91,asr,66
+,yn thie yn thie,1102.90,1105.21,asr,100
+,dy vel daa hie ayd,1118.47,1121.56,asr,28
+,cha nel cha nel cha,1127.98,1133.56,asr,73
+,cha nel cha nel logh nane aym cha nel cha nel agh,1144.45,1149.43,asr,60
+,cha vel,1152.94,1166.92,asr,0
+,vel shiu er chlashtyn yn ushag vel shiu er chlashtyn yn ushag,1166.77,1171.24,asr,95
+,the bird is the house vel shiu,1175.44,1185.64,asr,0
+,stoo er chlashtyn yn ushag ayns thie,1185.52,1188.31,asr,79
+,va shiu er chlashtyn yn ushag ayns y thie,1189.39,1191.31,asr,83
+,cha vel,1195.51,1207.78,asr,0
+,ta shiu er chlashtyn yn ushag ayns y thie foast,1207.63,1211.23,asr,79
+,vel shiu er chlashtyn yn ushag ayns y thie foast,1212.37,1214.59,asr,98
+,dys,1219.33,1219.51,asr,18
+,ren shin clashtyn moghrey jiu,1231.24,1233.91,asr,80
+,ren shin clashtyn ee moghrey jiu va kiart,1234.60,1239.55,asr,82
+,yn yn kayt,1245.70,1248.43,asr,67
+,daa,1268.29,1268.65,asr,0
+,gyn chayt vel daa,1269.46,1294.21,asr,0
+,bwoaillig eh shen daa,1294.48,1297.30,asr,17
+,shen cha nel,1298.08,1304.14,asr,33
+,cha nel cha,1304.95,1310.77,asr,41
+,cha nel cha nel agh un sooill echey,1324.18,1327.90,asr,100
+,cha nel cha nel agh un sooill echey cho just say,1328.65,1334.89,asr,100
+,hass ee eddyr roie as,1336.48,1339.60,asr,0
+,cha nel cha nel logh un sooill echey,1356.31,1359.64,asr,94
+,cha nel fys aym c'raad ta'n twoaie,1360.60,1362.70,asr,88
+,cha nel cha nel agh un sooill echey cha nel fys aym c'raad,1363.54,1366.90,asr,92
+,the teacher when talking about a mail,1371.31,1374.04,asr,66
+,yn fer-ynsee yn fer-ynsee,1378.42,1381.30,asr,100
+,just say,1382.92,1383.43,asr,0
+,lesh peetsey s'laik lesh peetsey,1394.44,1396.84,asr,66
+,s'laik lesh yn er-ynsee peetsey,1410.10,1412.95,asr,65
+,cheet,1426.90,1427.38,asr,44
+,ny jean cheet gow-jee sea,1427.95,1430.65,asr,100
+,winter ny jean,1431.49,1441.39,asr,0
+,cheet ayns y yeurey ny jean cheet ayns y yeurey,1441.57,1444.81,asr,88
+,windsor,1447.09,1447.54,asr,0
+,dyn cheet ayns y yeurey ny s'grianee ayns y tourey,1462.03,1466.35,asr,86
+,ny jean cheet ayns y yeurey t'eh ny s'grianee ayns y tourey,1467.58,1470.10,asr,95
+,just say it will bee eh ny,1472.47,1486.90,asr,0
+,as bee eh ny,1486.90,1489.24,asr,24
+,ny s'fliughey cheet syn ouyr,1510.78,1514.08,asr,59
+,feer ny s'fliughey na cheet syn ouyr,1515.04,1517.14,asr,69
+,yn garey yn garey,1524.97,1527.28,asr,100
+,yn barroose yn barroose,1534.24,1537.06,asr,100
+,row peiagh ennagh ayns y gharey,1552.63,1554.94,asr,100
+,peiagh ennagh ayns y gharey garden,1556.08,1561.24,asr,56
+,row peiagh ennagh ayns y gharey echey,1571.86,1573.99,asr,100
+,beagh ayns y gharey echey and,1575.55,1578.70,asr,47
+,now cha nel fys aym er shen,1579.54,1585.84,asr,20
+,ow just say son,1586.95,1590.07,asr,38
+,cha nel fys aym son va mee er y varroose,1601.20,1604.53,asr,100
+,son ta mee er y varroose docter,1606.06,1612.33,asr,68
+,mail yn fer lhee yn fer lhee,1613.92,1623.16,asr,75
+,ny jean briagh ny jean briaght,1634.47,1637.77,asr,76
+,ny jean briaght jeh ny jean briaght jeh,1650.46,1653.82,asr,92
+,the docter ny jean,1657.57,1669.00,asr,0
+,briaght jeh ny jean briaght jeh'n er lhee,1669.15,1674.01,asr,59
+,now,1678.87,1679.23,asr,56
+,cha bee fys aym cha bee fys aym,1689.64,1693.69,asr,71
+,agh cha bee fys aym vel mee mie dy liooar,1713.31,1716.34,asr,89
+,ghow mee mie dy liooar kay,1718.20,1725.22,asr,26
+,boght cha bee fys aym vel mee mie dy liooar mannagh jeanym briaght jee,1740.13,1745.89,asr,88
+,cha bee fys aym vel mee mie dy liooar mannagh jean-ym briaght jee,1747.15,1750.12,asr,95

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,nee,0.30,0.48,aligned
+0,1,bleb,0.48,0.75,aligned
+0,2,ish,0.75,1.11,aligned

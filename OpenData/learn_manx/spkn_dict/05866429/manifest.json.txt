@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866429",
+  "name": "laueanyn gloves",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Gloves.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866429",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/Clothes_Gloves.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

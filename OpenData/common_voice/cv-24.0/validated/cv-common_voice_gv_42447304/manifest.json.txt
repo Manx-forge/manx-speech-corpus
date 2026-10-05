@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447304",
+  "name": "Ec yn traa shen haink dooinney va er vakin ad voish yn toshiaght.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447304",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.336,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

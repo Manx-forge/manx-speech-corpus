@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42465210",
+  "name": "Fow-jee aarloo yn scape as yn eilley-caggee, as tayrn-jee magh gys y chaggey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42465210",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.876,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

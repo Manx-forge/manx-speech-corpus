@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057640",
+  "name": "druight dew",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20country/druight%20-%20dew.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057640",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.91,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20country/druight%20-%20dew.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

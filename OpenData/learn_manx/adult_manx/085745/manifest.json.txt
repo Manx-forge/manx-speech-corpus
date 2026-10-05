@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085745",
+  "name": "LG K4 L20 CLIAGHTEY",
+  "source": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20K4%20sound%20files/LG%20K4%20L20%20CLIAGHTEY.m4a",
+  "platform": "learn_manx",
+  "resource_id": "085745",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1700.07,
+  "deep_link": "https://www.learnmanx.com/media//Loayr%20Gaelg%20%282019%20JOM%29/Loayr%20Gaelg%20K4%20sound%20files/LG%20K4%20L20%20CLIAGHTEY.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,cha,0.00,0.15,aligned
+0,1,nee,0.15,0.36,aligned
+0,2,bretnagh,0.36,1.02,aligned
+0,3,ish,1.02,1.47,aligned

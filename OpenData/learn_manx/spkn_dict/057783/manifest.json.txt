@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057783",
+  "name": "caayl cabbage",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/caayl%20-%20cabbage.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057783",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.04,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/caayl%20-%20cabbage.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

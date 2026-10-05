@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051331113",
+  "name": "T'eh er mullagh y clieau",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051331113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.85,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

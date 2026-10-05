@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42650001",
+  "name": "Lhig dooin dy arryltagh goaill yn gioot costal shoh jeh nyn Ayr flaunyssagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42650001",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42664941",
+  "name": "Ny-yeih t'ad geam dy vel eh rouyr.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42664941",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.148,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

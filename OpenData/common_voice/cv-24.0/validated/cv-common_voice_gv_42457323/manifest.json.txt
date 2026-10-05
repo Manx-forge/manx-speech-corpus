@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457323",
+  "name": "Son ta my whing aashagh, as my errey eddrym.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457323",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.372,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

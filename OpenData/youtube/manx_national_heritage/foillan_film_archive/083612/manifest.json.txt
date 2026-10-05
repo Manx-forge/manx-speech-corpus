@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083612",
+  "name": "LG K1 L13 Cliaghtey",
+  "source": "https://www.youtube.com/watch?v=RN4vsCycr9g",
+  "platform": "youtube",
+  "resource_id": "083612",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 1349.88,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "wrong video (LG. PRODUTORA VIDEO band clip) [P2 2026-10-01]"
+}

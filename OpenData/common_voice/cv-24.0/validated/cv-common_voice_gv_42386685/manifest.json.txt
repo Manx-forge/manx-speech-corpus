@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386685",
+  "name": "Cha smooinee rieau er yn olk nagh ren",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386685",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.248,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

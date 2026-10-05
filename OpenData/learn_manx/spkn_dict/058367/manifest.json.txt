@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058367",
+  "name": "jemayrt tuesday",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jemayrt%20-%20wedesday.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058367",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.84,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/jemayrt%20-%20wedesday.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

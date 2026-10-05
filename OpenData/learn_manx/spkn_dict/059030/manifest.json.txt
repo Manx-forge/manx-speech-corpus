@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059030",
+  "name": "skibbyltys gymnastics",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skibbyltys%20-%20gymnastics.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059030",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skibbyltys%20-%20gymnastics.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

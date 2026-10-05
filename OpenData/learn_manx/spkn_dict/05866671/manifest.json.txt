@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866671",
+  "name": "ta three braaraghyn aym i have three brothers",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20three%20brothers.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866671",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.82,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/Family%20Members_I%20have%20three%20brothers.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

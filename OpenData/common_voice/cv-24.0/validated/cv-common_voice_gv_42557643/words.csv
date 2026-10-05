@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,"""Dooyrt",0.81,1.02,aligned
+0,1,eshyn;,1.02,1.47,aligned
+0,2,"""""Tar",1.89,2.13,aligned
+0,3,shiu,2.13,2.43,aligned
+0,4,as,2.49,2.67,aligned
+0,5,nee,2.67,2.85,aligned
+0,6,shiu,2.85,3.06,aligned
+0,7,"fakin.""",3.06,3.66,aligned

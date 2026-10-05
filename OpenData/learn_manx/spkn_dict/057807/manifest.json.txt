@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057807",
+  "name": "eeym butter",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/eeym%20-%20butter.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057807",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.65,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/eeym%20-%20butter.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

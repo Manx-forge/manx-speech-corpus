@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457257",
+  "name": "Share diu goaill coyrle as arrys ayns traa.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457257",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.292,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

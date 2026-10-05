@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054223",
+  "name": "crammag snail",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/crammag%20-%20snail.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054223",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.86,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/crammag%20-%20snail.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

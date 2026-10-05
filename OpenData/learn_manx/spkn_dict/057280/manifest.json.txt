@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057280",
+  "name": "ordaag thumb",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/ordaag%20-%20thumb.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057280",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.2,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/ordaag%20-%20thumb.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

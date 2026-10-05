@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04257",
+  "name": "Cha nel eh ro-olk ayns Purt ny h-Inshey jiu",
+  "source": "https://www.youtube.com/watch?v=WJCZTu8PbsU",
+  "platform": "youtube",
+  "resource_id": "04257",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.03,
+  "deep_link": "https://www.youtube.com/watch?v=WJCZTu8PbsU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

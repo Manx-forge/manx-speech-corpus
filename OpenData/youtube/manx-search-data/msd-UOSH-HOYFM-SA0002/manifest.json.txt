@@ -1,0 +1,19 @@
+{
+  "ident": "speech-msd-UOSH-HOYFM-SA0002",
+  "name": "🎥 UOSH SA0002: Interview with Ned Maddrell about Cregneash and Douglas Fargher singing and talking about Manx Gaelic with others",
+  "createdCircaStart": "1953-01-01",
+  "createdCircaEnd": "1953-12-31",
+  "author": "Ned Maddrell, WR, Douglas Fargher, Brian Stowell",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "source": "https://www.youtube.com/watch?v=0uV6TTr3d3E",
+  "platform": "youtube",
+  "resource_id": "msd-UOSH-HOYFM-SA0002",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 1857.71,
+  "deep_link": "https://www.youtube.com/watch?v=0uV6TTr3d3E&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok",
+  "corpus_work": "UOSH-HOYFM-SA0002"
+}

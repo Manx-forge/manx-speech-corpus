@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086718",
+  "name": "ayrn_09",
+  "source": "https://www.learnmanx.com/media/Vampire%20murders/ayrn%2009.mp3",
+  "platform": "learn_manx",
+  "resource_id": "086718",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 61.41,
+  "deep_link": "https://www.learnmanx.com/media/Vampire%20murders/ayrn%2009.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

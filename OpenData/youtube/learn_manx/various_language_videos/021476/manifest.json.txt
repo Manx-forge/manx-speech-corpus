@@ -1,0 +1,14 @@
+{
+  "ident": "speech-021476",
+  "name": "What did you do at Christmas_",
+  "source": "https://www.youtube.com/watch?v=vbuU9lF0Wn4",
+  "platform": "youtube",
+  "resource_id": "021476",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 248.11,
+  "deep_link": "https://www.youtube.com/watch?v=vbuU9lF0Wn4&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

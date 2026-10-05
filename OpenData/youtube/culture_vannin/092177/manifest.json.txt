@@ -1,0 +1,14 @@
+{
+  "ident": "speech-092177",
+  "name": "Geay Jeh'n Aer? A traditional Manx song performed on Manx Radio",
+  "source": "https://www.youtube.com/watch?v=bjT_J37nkoo",
+  "platform": "youtube",
+  "resource_id": "092177",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 66.11,
+  "deep_link": "https://www.youtube.com/watch?v=bjT_J37nkoo&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

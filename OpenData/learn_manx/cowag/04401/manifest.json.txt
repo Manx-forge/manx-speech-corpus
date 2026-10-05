@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04401",
+  "name": "Conversation 08",
+  "source": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20track08.mp3",
+  "platform": "learn_manx",
+  "resource_id": "04401",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 80.01,
+  "deep_link": "https://www.learnmanx.com/media//cowag/cowag_2/cowag2_%20track08.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-023209",
+  "name": "Sauit ass yn aile - Juan y Crellin",
+  "source": "https://www.youtube.com/watch?v=KBAWeNxwevs",
+  "platform": "youtube",
+  "resource_id": "023209",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 144.49,
+  "deep_link": "https://www.youtube.com/watch?v=KBAWeNxwevs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

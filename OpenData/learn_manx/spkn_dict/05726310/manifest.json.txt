@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05726310",
+  "name": "moddee dogs",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/Moddee.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05726310",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.94,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/Moddee.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

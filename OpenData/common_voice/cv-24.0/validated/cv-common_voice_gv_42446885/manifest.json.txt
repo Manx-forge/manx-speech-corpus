@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446885",
+  "name": "\"Cur-my-ner ny niaughyn, as jeeagh; as cur-my-ner ny bodjallyn, ta ny syrjey na uss.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446885",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.344,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

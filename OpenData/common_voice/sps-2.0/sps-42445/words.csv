@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,s'laik,1.21,1.54,aligned
+0,1,lhiam,1.54,1.96,aligned
+0,2,cloie,2.17,2.62,aligned
+0,3,gamman,3.22,3.58,aligned
+1,0,as,4.36,4.99,aligned
+1,1,neesht,5.62,6.16,aligned
+1,2,s'laik,6.34,6.70,aligned
+1,3,lhiam,6.70,6.91,aligned
+1,4,geaishtagh,6.91,7.63,aligned
+1,5,rish,7.81,8.47,aligned
+2,0,kiaull,9.10,9.70,aligned
+2,1,ny,10.09,10.24,aligned
+2,2,drammaghyn,11.83,12.55,aligned
+2,3,radio,12.70,13.24,aligned

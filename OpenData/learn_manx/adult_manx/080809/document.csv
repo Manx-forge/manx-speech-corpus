@@ -1,0 +1,275 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,1.03,3.88,asr,49
+,queig lesson neeym goonlagh,5.53,17.50,asr,44
+,neeym goonlagh tomorrow,18.19,23.20,asr,51
+,neeym goonlagh mairagh,28.00,30.10,asr,100
+,mairagh tomorrow morning,31.51,36.40,asr,45
+,neeym goonlagh moghrey mairagh,42.28,44.38,asr,100
+,neeym goonlagh moghrey mairagh gow-jee,45.10,48.37,asr,90
+,cha jeanym goonlagh cha jeanym goonlagh,56.68,60.73,asr,80
+,choud's eh cha jeanym,62.02,72.31,asr,50
+,goonlagh jiu cha jeanym goonlagh jiu,72.40,75.73,asr,100
+,cha jeanym,88.12,88.87,asr,0
+,jiu cha jean oo goonlagh fastyr jiu,90.13,93.10,asr,78
+,hie this afternoon,96.79,98.77,asr,78
+,tomorrow morning cha,100.00,110.53,asr,0
+,cha jeanym goonlagh fastyr jiu,110.32,112.57,asr,81
+,neeym goonlagh moghrey mairagh cha jeanym goonlagh fastyr jiu neeym goonlagh moghrey mairagh,113.08,119.08,asr,98
+,just say this afternoon,120.88,123.73,asr,78
+,moghrey morning gys yn thie,125.05,127.12,asr,8
+,cha jean oo goonlagh fastyr jiu neeym goonlagh moghrey mairagh son ta mee skee agglagh,136.66,143.23,asr,100
+,cha jeanym geulagh fastyr jiu neeym goonlagh moghrey mairagh son ta mee skee agglagh,144.22,149.38,asr,94
+,cha jean oo goonlagh,152.32,162.73,asr,75
+,jannoo goonlagh tomorrow morning,163.45,169.15,asr,50
+,jean oo goonlagh moghrey mairagh,175.75,177.88,asr,100
+,jannoo goonlagh moghrey mairagh gow-jee,178.48,181.48,asr,95
+,cha jean cha jean,186.70,189.01,asr,100
+,ooilley'n bea as moghrey morning cha,192.58,203.77,asr,0
+,cha jean cha jeanym goonlagh moghrey mairagh,203.59,206.80,asr,84
+,cha jean cha jean oo goonlagh moghrey mairagh,207.52,209.68,asr,93
+,now orroo morning,212.14,214.63,asr,74
+,cha,226.15,226.33,asr,0
+,cha jean cha jeanym goonlagh moghrey mairagh son share lhiam cadley ayns y voghrey,226.12,232.00,asr,91
+,cha jean cha jean oo goonlagh moghrey mairagh son share lhiam cadley as y varrey,233.14,237.40,asr,94
+,doo,241.12,241.24,asr,0
+,nagh vel ort goll nagh,251.20,253.60,asr,45
+,to douglas tomorrow nagh,258.40,269.47,asr,0
+,vel oo goll dys doolish mairagh,269.53,272.20,asr,84
+,goll dys doolish mairagh ta,273.49,281.05,asr,70
+,ta ta,281.62,298.09,asr,0
+,agh neeym goll un syn astyr,298.63,300.91,asr,89
+,ta agh neeym goll as yn astyr afternoon gys,301.69,308.47,asr,61
+,the morning ta,309.73,321.97,asr,0
+,agh neeym goll ayns yn astyr,322.81,324.82,asr,86
+,son cha laik lhiam girree ayns y voghrey,325.39,327.67,asr,92
+,ta agh neeym goll ayns yn astyr son cha laik lhien girree ayns y voghrey,328.69,332.65,asr,82
+,chouds will you buy bread,334.99,337.81,asr,52
+,jannoo kionnagh arran jannoo kionnagh arran,345.55,348.76,asr,77
+,in shoprite jannoo kionnagh arran,352.06,361.96,asr,64
+,ayns shoprite jannoo kionnaghey arran ayns shoprite,361.75,365.32,asr,88
+,cha jean cha jean,371.62,373.93,asr,100
+,cha jean neeym kionnagh tey,386.98,389.77,asr,100
+,cha jean kionnagh tey bread,390.58,399.58,asr,42
+,cha jean nee'm kionnagh tey s'laik lhiam arran agh share lhiam tey,412.36,418.90,asr,98
+,neeym kionnagh tey s'laik lhiam arran agh share lhiam kay,420.46,424.48,asr,80
+,but have you kys t'ou kys t'ou,427.42,433.00,asr,75
+,hungry ta mee accryssagh agglagh ta mee accryssagh,436.09,446.23,asr,53
+,t'agh agglagh as,446.02,449.50,asr,0
+,obbyr peetsey nagh vel peetsey,450.55,461.08,asr,0
+,ard ny cho peetsey ayd,461.11,463.12,asr,59
+,yesterday cha,468.79,478.90,asr,0
+,cha nel ren mee gee jeh,478.72,481.75,asr,39
+,cha nel ren mee gee jeh,482.71,484.84,asr,88
+,yesterday harry kiart,488.86,491.86,asr,48
+,cha nel ren mee gee jeh,503.14,506.29,asr,88
+,boght ta kayt aym cha nel,506.83,509.71,asr,18
+,ta kied aym cart,511.30,517.63,asr,38
+,cha jean oo gee yn kayt,525.37,527.41,asr,100
+,cha jean oo gee yn kayt cat,528.52,534.73,asr,59
+,cha jean oo gee yn kayt ayd,545.26,547.27,asr,88
+,cha jean oo gee yn kayt ayd kiart,548.02,554.68,asr,65
+,cha jean oo gee yn jiu,564.55,567.31,asr,78
+,cha jean oo gee yn eddin hungry,568.09,575.80,asr,38
+,foddee ta mee feer accryssagh,583.00,585.94,asr,100
+,play jean breeshey cloie,591.04,600.43,asr,46
+,cloie breeshey play,602.05,608.59,asr,37
+,jean breeshey cloie jean breeshey cloie hockee,615.61,619.42,asr,85
+,wheesh supply hoght jean,622.54,633.49,asr,11
+,dyn breeshey quoi hug ee ec y jerrey shiaghtin,633.40,636.28,asr,77
+,breeshey cloie hug ee ec y jerrey shiaghtin,637.48,639.52,asr,72
+,cha jean cha jean eh,646.78,650.05,asr,62
+,now shiu bee'n ramsey cha jean,650.71,660.52,asr,90
+,bee ayns rhumsaa cha jean bee ayns rhumsaa,661.33,665.11,asr,100
+,bee'n ramsey coshee as dy buird,669.01,671.47,asr,50
+,cha jean ee ayns rhumsaa son ta urree gobbragh,683.38,688.51,asr,98
+,cha jean bee ayns rhumsaa son ta urree gobbragh,689.53,692.47,asr,100
+,boo shooyl bee in ramsey bee coshee,695.11,697.60,asr,59
+,cha jean ee ayns rhumsaa,711.13,714.13,asr,96
+,son ta urree gobbragh ec y jerrey shiaghtin,714.70,717.34,asr,100
+,cha jean bee ayns rhumsaa son duirree gobbragh ec y jerrey shiaghtin,718.27,721.81,asr,96
+,jean yn braar ayd doostey jean yn braar ayd doostey,736.99,740.59,asr,77
+,ooilley broddey wake up in the morning jeh,743.35,754.75,asr,0
+,jean yn braar ayd doostey ayns y voghrey,754.63,756.88,asr,86
+,ayns y voghrey cha jean,758.80,764.56,asr,42
+,oh,768.91,769.06,asr,0
+,cha jean cha jean eh doostey ayns y voghrey,782.89,785.89,asr,93
+,cha jean cha jean eh doostey ayns y voghrey now will wade ny moanee was very thie ayd,786.79,793.69,asr,65
+,cha jean cha jean eh doostey ayns y voghrey son v'eh feer skee,802.99,807.76,asr,100
+,cha jean cha jean eh doostey ayns y voghrey son v'eh,808.63,811.15,asr,80
+,ceau fliaghey jannoo ceau fliaghey,827.77,830.89,asr,88
+,bullad rain on monday jannoo,834.22,849.13,asr,0
+,nee ceau fliaghey jelhein nuy,849.07,860.32,asr,36
+,nuy choud's eh neesht,861.16,864.73,asr,100
+,monday tuesday nuy,865.90,877.45,asr,15
+,nee eh ceau fliaghey jelhein,878.23,880.78,asr,100
+,jemayrt as jecrean,881.35,883.54,asr,100
+,nee nee eh ceau fliaghey jelhein jemayrt jecrean,884.56,888.37,asr,94
+,bee eh fliugh fliugh choud's,895.93,898.87,asr,58
+,bee bee choud's eh yiass,902.92,906.88,asr,24
+,bee bee eh fliugh agglagh,918.01,920.56,asr,92
+,fliugh agglagh v'eh,921.88,927.52,asr,39
+,t'eh fliugh agglagh son nee eh ceau fliaghey,939.22,942.70,asr,90
+,bee eh fliugh agglagh son nee eh ceau,944.11,946.21,asr,92
+,sniaghtey jannoo ceau sniaghtey,960.61,963.49,asr,0
+,jean eh,974.68,975.10,asr,0
+,bee ceau sniaghtey jardain jean eh ceau sniaghtey jardain,974.95,979.75,asr,92
+,choud's cha nel fys aym,980.98,989.08,asr,47
+,cha nel fys aym cha,990.19,1007.95,asr,73
+,cha nel fys aym foddee dy jean eh ceau sniaghtey,1007.77,1011.82,asr,100
+,cha nel fys aym foddee dy jean eh ceau sniaghtey,1012.87,1015.54,asr,100
+,cha nel,1034.47,1034.77,asr,0
+,cha nel fys aym foddee dy jean eh ceau sniaghtey,1034.38,1038.16,asr,100
+,son bee eh feer feayr cha nel fys aym foddee dy jean eh ceau sniaghtey son bee eh feer feayr,1038.73,1045.03,asr,92
+,yn shuyr ayd cadley,1049.77,1061.53,asr,0
+,well ayns y thie jinnin,1061.44,1063.72,asr,50
+,ayns y thie ooilley,1064.50,1068.37,asr,0
+,sleep in the house cadley,1068.91,1079.89,asr,0
+,bio ayns y thie eck jinnin shuyr ayd cadley ayns y thie eck,1079.74,1084.03,asr,81
+,cadley,1101.64,1102.09,asr,0
+,ayns y thie ec noght jannoo shuyr ayd cadley as y thie ec noght,1102.15,1106.80,asr,56
+,cha jean cha jean,1114.78,1117.42,asr,100
+,now hie dooint goll sleih howse da'n ailt,1120.51,1124.50,asr,44
+,cha jean erlhiam nagh jeanym cadley ayns y thie ec noght,1133.80,1139.23,asr,86
+,cha jean erlhiam nagh jean oo cadley ayns y thie ec noght,1140.85,1144.12,asr,89
+,choud's eh now,1145.17,1148.32,asr,25
+,bee coshee as y carrey va'n in jurby nish,1151.38,1154.20,asr,76
+,cha jean erlhiam nagh jean ee cadley ayns y thie eck noght,1168.33,1173.64,asr,95
+,son ta carrey va'n ayns jurby nish,1174.33,1177.36,asr,100
+,cha jean erlhien nagh jeanym cadley as y toieag noght son ta cavan eck ayns jurby nish,1178.86,1183.87,asr,82
+,bee yn,1188.55,1188.97,asr,0
+,shuyr ayd ayns jurby jurby jurby,1197.70,1201.84,asr,72
+,ooilley sister bee yn jurby jurby ayns,1205.02,1217.14,asr,26
+,jurby mairagh bee'n jerrey dys jurby mairagh,1217.20,1221.46,asr,80
+,bee bee,1227.46,1229.53,asr,56
+,yes,1231.60,1232.14,asr,0
+,bee mee cadley ayns shen,1241.68,1244.74,asr,88
+,bee mee cadley as choud's eh,1245.67,1249.75,asr,0
+,bee mee cadley ayns shen nagh,1261.54,1264.99,asr,100
+,bee mee cadley nagh,1265.68,1267.81,asr,71
+,as sheese in my,1270.24,1272.73,asr,0
+,nagh jean oo cadley ayns y thie,1281.16,1283.74,asr,94
+,nagh jean oo cadley ayns y thie house,1284.76,1290.55,asr,45
+,nagh jean oo cadley ayns y thie eck,1297.75,1300.09,asr,100
+,bio nagh jean oo cadley,1306.18,1315.69,asr,0
+,ayns y thie ec noght nagh jean oo,1315.78,1318.36,asr,73
+,noght cha jean cha jean,1319.26,1328.74,asr,71
+,bee coshee dys ny caravaan,1331.41,1333.36,asr,23
+,cha jean son s'laik lhee cadley ayns e charrey,1342.48,1346.20,asr,92
+,cha jean son s'laik lhee cadley as e charrey,1347.43,1349.65,asr,100
+,now bee coshee like sleeping in a carrey,1352.68,1355.77,asr,80
+,cha jean son s'laik lhee cadley ayns e charrey va'n ec jedoonee,1369.39,1374.64,asr,97
+,cha jean son s'laik lhee cadley as y charvaant jedoonee,1376.02,1378.72,asr,79
+,will you bee fo atchim ayns bee oo geayagh,1382.71,1392.64,asr,41
+,geayagh will be focklyn ta,1393.96,1398.25,asr,31
+,bee oo geayagh noght bee oo geayagh noght,1407.01,1410.10,asr,100
+,cha bee cha bee oo,1415.62,1421.56,asr,100
+,but cha bee,1422.61,1432.72,asr,0
+,neeym gee ny jees,1433.53,1435.57,asr,100
+,bob ny jees too,1438.18,1444.27,asr,15
+,neeym gee ny jees cha bee'm geayagh,1461.82,1465.57,asr,74
+,cho geayagh will it,1468.57,1473.01,asr,21
+,jean eh ceau fliaghey jannoo ceau fliaghey,1480.45,1483.72,asr,100
+,dy jean eh ceau fliaghey mairagh,1486.96,1495.39,asr,63
+,jean eh ceau fliaghey mairagh chouds,1496.56,1499.86,asr,76
+,nuy nuy choud's eh neesht,1504.12,1508.29,asr,68
+,every day nuy,1509.64,1518.31,asr,11
+,nee eh ceau fliaghey dagh laa,1518.97,1521.52,asr,100
+,nuy nee eh ceau fliaghey dagh laa,1522.27,1524.85,asr,88
+,dy jean eh ceau sniaghtey,1527.22,1536.16,asr,64
+,jean eh ceau sniaghtey,1536.94,1538.11,asr,100
+,jean eh ceau sniaghtey nagh jean eh ceau sniaghtey noght,1550.02,1553.71,asr,96
+,just say yesterday,1555.06,1557.46,asr,24
+,bee ceau sniaghtey jeh well ren eh ceau sniaghtey jeh,1565.95,1571.14,asr,74
+,yesterday ren eh ceau,1575.04,1588.48,asr,0
+,cheau sniaghtey jeh as t'eh ceau sniaghtey jiu,1588.27,1592.29,asr,85
+,bentyn da jeh as t'eh ceau sniaghtey jiu,1594.66,1596.88,asr,67
+,eh well its yesterday,1601.83,1606.33,asr,0
+,and it's not so probably,1606.96,1610.50,asr,50
+,bee ceau sniaghtey jeh as,1624.39,1626.85,asr,58
+,jiu myr shen t'eh licklee dy jean eh ceau sniaghtey noght,1627.84,1632.94,asr,89
+,ren eh ceau sniaghtey jeh as t'eh ceau sniaghtey jiu myr shen t'eh licklee dy jean eh ceau sniaghtey noght,1634.26,1640.29,asr,90
+,bee eh feayr bee eh feayr,1649.56,1651.93,asr,100
+,bee eh feayr ayns rhumsaa,1663.81,1665.61,asr,16
+,fer noght feer feayr ayns rhumsaa noght,1665.52,1668.82,asr,75
+,bee eh feayr agglagh,1679.59,1681.15,asr,79
+,bee eh feayr agglagh chouds,1681.69,1684.96,asr,70
+,hie snow bee,1687.78,1698.67,asr,0
+,bee eh feayr agglagh erlhiam dy jean eh ceau sniaghtey,1698.52,1703.47,asr,83
+,feayr agglagh erlhiam dy jean eh ceau sniaghtey,1704.91,1708.24,asr,98
+,bee eh fliugh,1720.87,1721.95,asr,0
+,feer fliugh fliugh,1722.64,1733.38,asr,34
+,boght jesarn fliugh jesarn,1733.17,1735.66,asr,70
+,yesterday well ve fliugh jeh,1740.10,1748.17,asr,35
+,well v'eh fliugh jea day,1749.22,1755.31,asr,29
+,vel ve fluigh jeh as t'eh fliugh jiu,1763.77,1766.71,asr,79
+,soit yesterday,1768.69,1770.85,asr,0
+,hennys day so probably be with ayns attnee,1771.54,1775.83,asr,60
+,t'eh fliugh jeh as t'eh fliugh jiu,1789.48,1792.84,asr,83
+,myr shen t'eh licklee dy bee eh fliugh jesarn,1793.71,1796.92,asr,100
+,agh jeh as t'eh fliugh jiu t'eh licklee dy beagh jesarn,1799.68,1803.88,asr,78
+,halley will it be sunny on sunday,1806.28,1809.73,asr,13
+,bee eh grianagh jedoonee grianagh jedoonee,1817.41,1821.28,asr,86
+,yesterday well cha row eh grianagh jeh,1826.11,1834.66,asr,84
+,well cha row eh grianagh jea yesterday,1835.29,1840.90,asr,100
+,and it's not sunny today well,1841.59,1852.69,asr,0
+,cha row eh grianagh jeh as cha nel eh grianagh jiu,1852.75,1856.80,asr,92
+,well cha row eh grianagh jeh as cha nel eh grianagh jiu,1858.12,1860.91,asr,96
+,choud's eh well it was sunny yesterday,1863.04,1866.22,asr,0
+,monney slaynt day so,1866.82,1869.61,asr,50
+,hug mee sunny on sunday well,1870.96,1886.44,asr,0
+,well cha row eh grianagh jeh as cha nel eh grianagh jiu,1886.26,1890.88,asr,90
+,myr shen er lhiam nagh bee eh grianagh jedoonee,1891.54,1895.41,asr,98
+,well cha row eh grianagh jeh as cha nel eh grianagh jiu myr shen er lhiam nagh bee eh grianagh jedoonee,1896.58,1902.07,asr,99
+,t'eh ayd,1906.57,1914.16,asr,0
+,vel te ayd cha nel,1914.97,1922.59,asr,0
+,cha nel cha,1923.37,1943.29,asr,73
+,cha nel agh nee'm kionnagh tey bane ayns laksaa mairagh,1943.11,1948.00,asr,85
+,cha nel agh nee'm kionnagh t'eh bane ayns laksaa mairagh,1949.14,1952.68,asr,96
+,laik lhiat,1965.73,1966.12,asr,0
+,blaik lhiat spinnit ayns y yiass,1965.73,1968.49,asr,0
+,s'laik s'laik neesht,1970.98,1974.61,asr,100
+,s'laik as s'laik lhiam ve geayagh,1985.23,1988.47,asr,90
+,s'laik as s'laik lhiam ve geayagh yiass been focklyn ayns,1989.19,1995.97,asr,60
+,spinnaghyn in douglas tomorrow s'laik,1997.20,2011.21,asr,0
+,as s'laik lhiam ve geayagh erlhiam dy jeanym kionnagh speeinit ayns doolish mairagh,2011.99,2018.26,asr,98
+,s'laik as s'laik lhiam ve geayagh erlhiam dy jeanym kionnagh speeinit ayns doolish mairagh,2019.25,2023.93,asr,97
+,watch,2028.70,2029.21,asr,38
+,jannoo jeeaghyn er top gun jannoo jeeaghyn er,2037.31,2040.61,asr,96
+,jannoo jeeaghyn er top jannoo jeeaghyn er,2055.76,2059.54,asr,73
+,vanmig choud's ayns y yiass,2060.23,2062.66,asr,0
+,nuy nuy,2065.99,2068.00,asr,43
+,choud's eh yes but juan my watchit,2069.38,2072.65,asr,76
+,agh cha jean juan jeeaghyn er,2083.21,2085.22,asr,100
+,nuy agh cha jean juan jeeaghyn er choud's eh,2086.24,2090.68,asr,98
+,but juan watch as bee coshee dys yn tom,2091.34,2094.01,asr,58
+,agh cha jean juan jeeaghyn er son cha laik lesh tom,2105.53,2109.22,asr,94
+,nee agh cha jean juan jeeaghyn er son cha laik lesh,2110.84,2113.39,asr,76
+,ooilley jannoo gobbragh,2117.44,2127.64,asr,0
+,jelune jannoo gobbragh,2127.67,2129.86,asr,65
+,cha jean cha jean eh,2137.69,2140.81,asr,100
+,ritchie as cha jean son ta mee,2142.04,2151.67,asr,64
+,cha jean son ta mee my haaue,2153.17,2154.58,asr,100
+,cha jean,2166.13,2166.64,asr,0
+,son ta mee my haaue nish cha jean son ta mee my haaue nish,2166.76,2171.26,asr,84
+,douglas jannoo goll dys doolish goll dys doolish,2176.21,2185.84,asr,72
+,but t'ou jannoo goll dys doolish jemayrt,2189.62,2199.61,asr,83
+,jannoo goll dys doolish jemayrt yiass,2201.02,2205.76,asr,75
+,nuy nuy,2208.76,2211.01,asr,100
+,choud's v'eh cosoylagh docter,2212.12,2215.99,asr,47
+,mee son ta mee my ayr yee,2225.05,2227.75,asr,92
+,son ta mee my erlhee docter,2229.43,2234.83,asr,36
+,son,2251.27,2251.66,asr,0
+,bun ta mee my ayr yee as ta mee gobbragh ec nobles,2251.48,2255.53,asr,81
+,nuy son ta mee my yee as ta mee gobbragh ec nobles,2256.76,2260.30,asr,85
+,yiass bee cosoyl my docter yn e work at nobles so hath,2262.85,2266.72,asr,61
+,nuy son ta mee my ayr,2281.81,2284.06,asr,76
+,as ta mee gobbragh ec myr shen,2284.93,2288.29,asr,81
+,ta orrym goll dys doolish dagh laa,2288.89,2291.14,asr,100
+,bee son ta mee my ayr yee as ta mee gobbragh ec nobles myr ta orrym goll dys doolish dagh laa,2292.28,2297.89,asr,78
+,like being a docter if,2301.70,2304.16,asr,31
+,laik lhiat ve dty yee,2315.35,2317.51,asr,75
+,yes s'laik s'laik,2321.83,2326.57,asr,57
+,choud's eh yes bride,2327.53,2330.02,asr,15
+,bee,2330.56,2330.74,asr,0
+,agh bare lhiam ve my haaue,2342.41,2344.42,asr,100
+,s'laik agh bare lhiam ve my haaue,2345.62,2347.45,asr,100

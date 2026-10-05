@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04360",
+  "name": "S'mie lhiam goll Shelg y Drean",
+  "source": "https://www.youtube.com/watch?v=xvdGRLeiZcs",
+  "platform": "youtube",
+  "resource_id": "04360",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.5,
+  "deep_link": "https://www.youtube.com/watch?v=xvdGRLeiZcs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

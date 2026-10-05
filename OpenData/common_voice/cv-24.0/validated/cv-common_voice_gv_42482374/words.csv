@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,Immee-jee,1.86,2.31,aligned
+0,1,eisht:,2.31,2.76,aligned
+0,2,cur-jee,3.39,3.75,aligned
+0,3,"my-ner,",3.75,4.20,aligned
+0,4,ta,4.68,4.80,aligned
+0,5,mish,4.80,5.07,aligned
+0,6,dyn,5.07,5.28,aligned
+0,7,goyrt,5.28,5.64,aligned
+0,8,shiu,5.64,5.85,aligned
+0,9,magh,5.85,6.30,aligned
+0,10,myr,6.30,6.48,aligned
+0,11,eayin,6.60,7.05,aligned
+0,12,mastey,7.11,7.56,aligned
+0,13,moddee-oaldey.,7.56,8.55,aligned

@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,Te,1.11,1.26,aligned
+0,1,mie,1.26,1.65,aligned
+0,2,dy,1.65,1.74,aligned
+0,3,ve,1.74,1.98,aligned
+0,4,"toiggalagh,",1.98,2.61,aligned
+0,5,agh,2.85,3.03,aligned
+0,6,te,3.03,3.15,aligned
+0,7,ny,3.15,3.30,aligned
+0,8,share,3.30,3.78,aligned
+0,9,dy,3.78,3.90,aligned
+0,10,ve,3.90,4.17,aligned
+0,11,graihagh.,4.17,4.92,aligned

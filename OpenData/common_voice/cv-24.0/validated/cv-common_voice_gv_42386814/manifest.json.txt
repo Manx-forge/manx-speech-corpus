@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386814",
+  "name": "O livrey mee veih my hranlaasee: son t'ad ro lajer er my hon.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386814",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.372,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

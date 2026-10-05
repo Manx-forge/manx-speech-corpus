@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051163113",
+  "name": "Cred shegin dhyt jannoo?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051163113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.43,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

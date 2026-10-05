@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04270",
+  "name": "Va'n buggane elley boirit syn aght cheddin as s'olk va'n cadley echey",
+  "source": "https://www.youtube.com/watch?v=IH59-u-TYDs",
+  "platform": "youtube",
+  "resource_id": "04270",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 54.54,
+  "deep_link": "https://www.youtube.com/watch?v=IH59-u-TYDs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

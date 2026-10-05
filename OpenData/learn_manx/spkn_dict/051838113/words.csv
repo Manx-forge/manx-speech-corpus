@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,quoi,0.09,0.39,aligned
+0,1,honnick,0.42,0.75,aligned
+0,2,oo,0.75,0.87,aligned
+0,3,jea,0.87,1.29,aligned

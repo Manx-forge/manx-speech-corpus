@@ -1,0 +1,24 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou mie dy liooar gura mie ayd vel oo shappal jea,0.09,3.33,asr,92
+,c'raad ren oo shappal ayns doolish vel oo shappal ayns,4.36,7.81,asr,67
+,ren as uss hene ren oo shappal ayns jea,8.59,11.47,asr,100
+,ren mee shappal fastyr jea kys t'ou feer vie gura mie ayd ren oo gee anjeeal jea ren as uss hene cha ren mee nagh ren oo ren,12.61,23.02,asr,86
+,cha ren mee giu caffee son anjeeal ren mee giu caffee as ren mee gee anjeeal s'mie shen,22.81,28.24,asr,90
+,kys t'ou braew braew gura mie ayd,30.67,32.92,asr,100
+,vel oo jeeaghyn er y chellveeish riyr cha ren mee geaishtagh rish yn radio,33.43,37.21,asr,81
+,vel oo geaishtagh rish radio vannin nagh ren cha ren ren mee geaishtagh rish radio kiare,37.81,43.33,asr,78
+,kys t'ou goll as gaccan gura mie ayd ren oo gimman dys doolish jea ren ren juan gimman jeh,45.01,51.04,asr,97
+,juan gimman jea gimman dys shoprite ren,51.79,55.00,asr,76
+,ren mee gimman moghrey jea agh cha ren mee gimman dy valley,55.57,58.33,asr,100
+,kys t'ou casherick ren oo shooyl er y traie jea cha ren mee shooyl er ny crink,60.64,66.97,asr,97
+,c'raad ren oo shooyl er ny crink ren mee shooyl ayns maayl s'mie shen,67.69,71.68,asr,100
+,ren mee shooyl moghrey jea agh ren mee shooyl riyr,72.52,75.19,asr,100
+,kys t'ou braew gura mie ayd ren oo shappal jea ren c'raad ren oo shappal,76.87,82.21,asr,100
+,ren mee shappal ayns purt chiarn ren oo shappal ayns shoprite ren as uss hene ren oo shappal ayns shoprite jea cha ren ren mee shappal ayns y cho-opriyr,82.81,91.51,asr,88
+,kys t'ou castreycair gura mie ayd,94.15,96.40,asr,100
+,ren oo gobbragh jea ren as uss hene,97.03,99.46,asr,100
+,ren mee gobbragh moghrey jea agh cha ren mee gobbragh riyr nagh ren oo gobbraghey,100.09,104.05,asr,94
+,cha ren mish noadyr kys t'ou mie dy liooar gura mie ayd,104.68,110.05,asr,100
+,ren oo loayrt rish juan jea ren as uss hene cha ren mee,110.74,114.64,asr,95
+,ren mee loayrt rish juan riyr s'mie shen nagh ren oo loayrt rish juan moghrey jea cha ren,115.30,121.21,asr,88
+,cha ren mee loayrt rish juan jea,121.75,123.34,asr,100

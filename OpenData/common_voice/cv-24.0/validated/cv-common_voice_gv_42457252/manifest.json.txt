@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457252",
+  "name": "As hasht ee seose e gharmad lioree derrey haink y chiarn echey thie.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457252",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.38,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

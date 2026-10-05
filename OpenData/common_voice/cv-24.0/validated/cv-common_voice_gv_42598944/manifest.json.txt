@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42598944",
+  "name": "\"Foddee dy chooilley ghooinney goaill baght jeu; foddee dooinney ad y chronnaghey foddey jeh.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42598944",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.416,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

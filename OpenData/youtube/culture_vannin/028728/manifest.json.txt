@@ -1,0 +1,14 @@
+{
+  "ident": "speech-028728",
+  "name": "Cur Shilley er Gef, Scaan Ghelbee",
+  "source": "https://www.youtube.com/watch?v=Ywa6O-2-jcs",
+  "platform": "youtube",
+  "resource_id": "028728",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 106.88,
+  "deep_link": "https://www.youtube.com/watch?v=Ywa6O-2-jcs&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

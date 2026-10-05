@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05837113",
+  "name": "er y fa nagh vel eh gobbragh ayns Purt Çhiarn",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05837113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.5,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

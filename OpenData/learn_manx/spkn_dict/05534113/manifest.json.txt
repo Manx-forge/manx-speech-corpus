@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05534113",
+  "name": "Cha beeym agh bee Breeshey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05534113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.14,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

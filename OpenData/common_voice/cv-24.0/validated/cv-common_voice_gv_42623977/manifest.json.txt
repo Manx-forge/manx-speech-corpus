@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42623977",
+  "name": "Kys t'ou prowal shoh liorish Scriptyr?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42623977",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.968,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054402",
+  "name": "babban baby",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/babban%20-%20baby.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054402",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.12,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/babban%20-%20baby.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

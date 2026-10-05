@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04197",
+  "name": "S'mie lhiam kiaull Manninagh",
+  "source": "https://www.youtube.com/watch?v=7pyZi_n2JCY",
+  "platform": "youtube",
+  "resource_id": "04197",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.78,
+  "deep_link": "https://www.youtube.com/watch?v=7pyZi_n2JCY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

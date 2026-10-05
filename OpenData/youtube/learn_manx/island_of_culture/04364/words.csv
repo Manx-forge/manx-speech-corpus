@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,cha,5.91,6.09,aligned
+0,1,nel,6.09,6.27,aligned
+0,2,mee,6.27,6.39,aligned
+0,3,feer,6.39,6.69,aligned
+0,4,vie,6.69,6.93,aligned
+0,5,ec,6.93,7.11,aligned
+0,6,dub,7.11,7.29,aligned
+0,7,cha,14.55,14.73,aligned
+0,8,nel,14.73,14.91,aligned
+0,9,mee,14.91,15.03,aligned
+0,10,feer,15.03,15.33,aligned
+0,11,vie,15.33,15.60,aligned
+0,12,ec,15.60,15.75,aligned
+0,13,dub,15.75,15.93,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42623275",
+  "name": "Ta mee treishteil dy vel mish er ghoaill arrys neesht.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42623275",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.896,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

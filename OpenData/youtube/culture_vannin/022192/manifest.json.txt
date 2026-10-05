@@ -1,0 +1,16 @@
+{
+  "ident": "speech-022192",
+  "name": "Shenn Stashoon ny Meoiryn Shee",
+  "source": "https://www.youtube.com/watch?v=JJW_RpBtkQM",
+  "platform": "youtube",
+  "resource_id": "022192",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 51.46,
+  "deep_link": "https://www.youtube.com/watch?v=JJW_RpBtkQM&t={t}s",
+  "alt_urls": [
+    "https://www.youtube.com/watch?v=JJW_RpBtkQM"
+  ],
+  "link_status": "ok"
+}

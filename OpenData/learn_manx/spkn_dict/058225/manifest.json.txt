@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058225",
+  "name": "smie lhiam I Like",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/smie%20lhiam%20-%20I%20Like.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058225",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.68,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20how%20are%20you/smie%20lhiam%20-%20I%20Like.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

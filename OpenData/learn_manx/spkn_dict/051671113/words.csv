@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,mannagh,0.33,0.63,aligned
+0,1,nee,0.63,0.87,aligned
+0,2,dooinney,0.87,1.23,aligned
+0,3,eshyn,1.23,1.65,aligned

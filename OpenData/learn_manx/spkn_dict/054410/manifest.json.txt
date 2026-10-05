@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054410",
+  "name": "dooinney-poosee bridgroom",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/dooinney-poosee%20-%20bridgroom.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054410",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.18,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/dooinney-poosee%20-%20bridgroom.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

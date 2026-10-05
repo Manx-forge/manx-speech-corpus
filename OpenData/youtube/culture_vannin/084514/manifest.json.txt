@@ -1,0 +1,14 @@
+{
+  "ident": "speech-084514",
+  "name": "Oie'll Vreeshey ec Earyween? Skeeal voish Ned Beg Hom Ruy",
+  "source": "https://www.youtube.com/watch?v=vnN044a_Erg",
+  "platform": "youtube",
+  "resource_id": "084514",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 218.01,
+  "deep_link": "https://www.youtube.com/watch?v=vnN044a_Erg&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

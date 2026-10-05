@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447204",
+  "name": "As dooyrt eh myrgeddin rishyn, Gow uss yn reill neesht er queig ard-valjyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447204",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.396,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

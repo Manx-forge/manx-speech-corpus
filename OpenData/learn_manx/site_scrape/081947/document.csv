@@ -1,0 +1,18 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon hoght lessoon,0.40,3.58,asr,74
+,erbee quaagh,5.53,8.35,asr,0
+,peiagh erbee red,9.94,13.33,asr,36
+,red erbee sy varroose,15.43,19.15,asr,100
+,sy traen sy gleashtan sy stashoon,20.83,27.25,asr,35
+,sy vaatey sy kishtey,29.11,32.80,asr,74
+,vel red erbee sy varroose vel red erbee sy ghleashtan,35.74,41.20,asr,100
+,vel red erbee sy vaatey vel red erbee sy traen,43.48,48.79,asr,90
+,vel red erbee sy stashoon vel red erbee sy kishtey,50.98,57.07,asr,100
+,va peiagh erbee sy stashoon nish,59.77,62.56,asr,94
+,ta dooinney sy ghleashtan cha nel peiagh erbee sy varroose,64.84,71.17,asr,100
+,vel red erbee sy kishtey cha nel red erbee sy ghleashtan,73.93,79.81,asr,100
+,ta juan sy thie phaitchyn,82.21,87.58,asr,78
+,ujee ta'n transtas stashoon,92.80,95.68,asr,32
+,agh c'raad ta jishag jees shen eh,97.84,101.68,asr,91
+,laa mie phaitchyn c'raad ta mummig as yn gleashtan,102.46,106.18,asr,100
+,t'ee ayns shen sy stashoon traa mie dy liooar,109.48,115.33,asr,88

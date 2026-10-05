@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,Y,0.33,0.39,aligned
+0,1,Vrasil,0.39,0.90,aligned
+0,2,kiare,0.90,1.53,aligned
+0,3,-,,,unaligned
+0,4,Cameroon,2.16,2.82,aligned
+0,5,neu-nhee,2.82,3.51,aligned
+0,6,Y,4.95,5.01,aligned
+0,7,Ghermaan,5.01,5.52,aligned
+0,8,jees,5.52,6.09,aligned
+0,9,-,,,unaligned
+0,10,y,6.48,6.54,aligned
+0,11,Ghaaney,6.54,7.02,aligned
+0,12,jees,7.02,7.71,aligned

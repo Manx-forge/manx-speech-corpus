@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42503652",
+  "name": "Ta'n lhiannoo mie ersooyl gys e obbyr reesht lesh y vastag.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42503652",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.22,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083112",
+  "name": "Cregeen 04? Averil",
+  "source": "https://www.youtube.com/watch?v=DQDuJtdJr1E",
+  "platform": "youtube",
+  "resource_id": "083112",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 121.35,
+  "deep_link": "https://www.youtube.com/watch?v=DQDuJtdJr1E&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

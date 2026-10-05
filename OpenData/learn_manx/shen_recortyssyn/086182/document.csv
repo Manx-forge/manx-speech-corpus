@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,row uss doolish jea va mee,0.97,2.98,asr,80
+,vel oo gimman dys doolish ren gimman dys scoill cha ren cha row mee ayns,3.43,8.11,asr,79
+,nagh row cha row agh va mee ayns ms cha row mee ayns doolish jea cha ren mee shappal,8.83,15.19,asr,100
+,row oo scooyrit riyr va mee scooyrit agglagh,18.40,21.49,asr,89
+,cha row c'raad v'ou riyr ren mee tannaghtyn sthie shen quaagh,22.96,27.49,asr,93
+,ren mee tannaghtyn sthie as ren mee giu jee as,28.09,30.94,asr,82
+,cha ren mee tannaghtyn sthie va mee ayns y thie-bane,31.93,35.02,asr,98
+,vel oo shooyl er y traie jea ren,36.79,38.98,asr,72
+,v'ou er y traie ayns maayl cha row c'raad v'ou va mee er y traie ayns doolish gimman dys doolish ren s'mie shen va mee er y traie ayns maayl,39.76,49.96,asr,100
+,row uss langlish jea va mee,51.19,53.02,asr,70
+,vel oo loayrt rish jeremy cha ren mee agh ren juan ren juan loayrt rish jeremy ren,53.59,59.80,asr,91
+,brou juan ayns langlish jea va as ren oo loayrt rish jeremy jee bannee mee,60.34,65.35,asr,77
+,gobbragh jea ren c'raad ren oo gobbragh ayns purt ny hinshey,68.29,72.91,asr,88
+,nagh row oo ayns doolish jea cha row ren mee gobbragh ayns rhumsaa jea,73.45,77.74,asr,100
+,cha row mee ayns rhumsaa jea ren mee gobbraghey ayns purt ny hinshey,78.43,81.97,asr,100
+,vel oo jeeaghyn er y chellveeish jea cha ren,85.03,87.37,asr,96
+,row oo sthie jea va mee sthie ren oo geaishtagh rish yn radio ren as uss hene cha ren mee geaishtagh rish yn radio jeh row uss sthie va mee,88.03,98.47,asr,72
+,vannee agh va mee skee purt le moirrey jea va mee,98.14,104.98,asr,50
+,cha row eh ren oo goll dys yn albert ren mee,106.45,109.51,asr,74
+,scooyrit cha row mee scooyrit cha ren mee giu monney,110.11,113.80,asr,90
+,ren oo cur shilley er juan jea cha ren cha row mee ayns doolish,115.27,118.75,asr,97
+,ren mee cur shilley er juan ren raad noght v'eh ching row eh v'eh ching agglagh atreih,119.38,126.34,asr,92

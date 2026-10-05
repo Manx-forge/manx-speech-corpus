@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457206",
+  "name": "Cha jean oo traaue lesh dow as assyl cooidjagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457206",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.364,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

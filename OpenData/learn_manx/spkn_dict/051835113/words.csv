@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,vaik,0.12,0.39,aligned
+0,1,oo,0.39,0.48,aligned
+0,2,yn,0.48,0.63,aligned
+0,3,fillym,0.63,1.08,aligned

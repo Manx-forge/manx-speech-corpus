@@ -1,0 +1,14 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,dunveryssyn yn tooder folley nane-jeig,0.88,4.24,asr,97
+,v'ee er chlashtyn nagh row feailley yn chamyr-lhionney ayns shen costal monney,5.32,9.94,asr,97
+,as va reamys pairkal dy liooar ayn s'quaagh ny reddyn v'ayn,11.11,15.37,asr,100
+,lurg oor ny ghaa ayns stashoon ny meoiryn shee va benainshtyr quilleash cheet dy ve feer skee,16.66,21.82,asr,46
+,as reesht as reeshtagh ren mee slane shickyr nagh row enney eck er yn dooinney marroo,23.68,29.17,asr,95
+,as quoi va'n ven aeg va marish cha row ny meoiryn-shee jeant bwooiagh tra v'ee freggyrt benainshtyr jones car y traa,29.92,37.78,asr,96
+,as c'raad va'n ven aeg nish cuin ren ee goll magh ass y thie-goaldee,38.92,43.33,asr,99
+,mean oie jees er y chlag tree er y chlag,44.05,47.02,asr,87
+,cre hon nagh dod ny meoiryn-shee credjal dy dooyrt ee nagh row fys erbee eck,48.04,52.36,asr,96
+,as row sheeanyn erbee ry-chlashtyn veih shamyr ny goaldee gaueagh,53.38,56.80,asr,98
+,cre'n sorch dy heaghyn vrie bnr quilleash,58.18,60.79,asr,76
+,y cronneyder va feyshtey ee yeeagh eh urree as hie-jee eh dy surransagh dy row ee shirrey son fys,61.96,67.90,asr,70
+,sheean erbee va cheet veih'n chamyr dreggyr bnr quilleash dy row ee ny cadley fud ny hoie as nagh row ee cliaghtey ve ny speeikear,68.29,77.71,asr,92

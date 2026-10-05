@@ -1,0 +1,13 @@
+line,idx,word,start,end,status
+0,0,As,0.57,0.75,aligned
+0,1,"nish,",0.75,1.23,aligned
+0,2,"cur-my-ner,",1.44,2.16,aligned
+0,3,ta,2.76,2.94,aligned
+0,4,m'eanish,2.94,3.54,aligned
+0,5,ayns,3.54,3.75,aligned
+0,6,"niau,",3.75,4.29,aligned
+0,7,as,4.74,4.92,aligned
+0,8,my,4.92,5.04,aligned
+0,9,recortys,5.04,5.76,aligned
+0,10,'syn,5.88,6.09,aligned
+0,11,yrjid.,6.09,6.54,aligned

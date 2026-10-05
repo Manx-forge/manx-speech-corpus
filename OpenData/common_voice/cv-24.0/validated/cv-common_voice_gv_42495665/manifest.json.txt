@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42495665",
+  "name": "\"Agh cha vel shiuish agh cooiney breagyn; ta shiu ooilley fir-lhee gyn-foaynoo.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42495665",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.876,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

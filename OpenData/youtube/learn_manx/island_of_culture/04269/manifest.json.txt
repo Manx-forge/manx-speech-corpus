@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04269",
+  "name": "Ny cur ommidan orryms, toot mooar as uss, er nonney bee corree ayms ort!",
+  "source": "https://www.youtube.com/watch?v=bwo15rX3Rqw",
+  "platform": "youtube",
+  "resource_id": "04269",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 56.1,
+  "deep_link": "https://www.youtube.com/watch?v=bwo15rX3Rqw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

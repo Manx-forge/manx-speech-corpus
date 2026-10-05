@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457250",
+  "name": "Bee e hooillyn jiarg lesh feeyn, as ny feeacklyn echey bane lesh bainney.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457250",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.992,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

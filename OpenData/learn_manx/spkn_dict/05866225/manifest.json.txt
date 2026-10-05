@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05866225",
+  "name": "yngin fingernail",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Fingernail.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05866225",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 3.55,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/Body_Fingernail.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

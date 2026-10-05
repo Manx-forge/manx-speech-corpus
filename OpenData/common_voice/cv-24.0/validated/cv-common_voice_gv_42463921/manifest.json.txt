@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463921",
+  "name": "Myrgeddin lheead eddin y thie, as yn chlose er-lheh lesh y niar, keead cubit.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463921",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 10.08,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

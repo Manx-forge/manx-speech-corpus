@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04232",
+  "name": "Shegin dooin goll nish",
+  "source": "https://www.youtube.com/watch?v=BKjdyNdDmXE",
+  "platform": "youtube",
+  "resource_id": "04232",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.89,
+  "deep_link": "https://www.youtube.com/watch?v=BKjdyNdDmXE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

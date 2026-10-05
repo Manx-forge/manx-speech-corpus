@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09319",
+  "name": "Abbyr Shen Reesht - Say That Again 5oo Jerrey Fouyir - 2025 - October 5th",
+  "createdCircaStart": "2025-10-05",
+  "createdCircaEnd": "2025-10-05",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-5oo-jerrey-fouyir-2025-october-5th/",
+  "platform": "manx_radio",
+  "resource_id": "09319",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 691.0,
+  "deep_link": "https://episodes.captivate.fm/episode/c11bbd33-5fba-4866-bc68-ac7fa17ee358.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

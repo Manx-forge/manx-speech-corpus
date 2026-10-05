@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04158",
+  "name": "The months of the year in Manx",
+  "source": "https://www.youtube.com/watch?v=fsyczeWL-vU",
+  "platform": "youtube",
+  "resource_id": "04158",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 36.66,
+  "deep_link": "https://www.youtube.com/watch?v=fsyczeWL-vU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

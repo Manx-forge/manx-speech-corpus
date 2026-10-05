@@ -1,0 +1,14 @@
+{
+  "ident": "speech-086469",
+  "name": "bunneydys_27",
+  "source": "https://www.learnmanx.com/media/bunneydys/bunneydys%2027.mp3",
+  "platform": "learn_manx",
+  "resource_id": "086469",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 139.47,
+  "deep_link": "https://www.learnmanx.com/media/bunneydys/bunneydys%2027.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

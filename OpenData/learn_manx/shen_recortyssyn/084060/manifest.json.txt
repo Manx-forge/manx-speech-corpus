@@ -1,0 +1,14 @@
+{
+  "ident": "speech-084060",
+  "name": "Doug Faragher 11",
+  "source": "https://www.learnmanx.com/media/Manx%20Radio%20News/Doug%20Faragher%2011.mp3",
+  "platform": "learn_manx",
+  "resource_id": "084060",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 26.23,
+  "deep_link": "https://www.learnmanx.com/media/Manx%20Radio%20News/Doug%20Faragher%2011.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

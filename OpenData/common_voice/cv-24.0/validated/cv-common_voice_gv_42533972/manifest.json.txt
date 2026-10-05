@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42533972",
+  "name": "ren eh screeu colloo son pabyr-niaght son shiartanse dy vleantyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42533972",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.336,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

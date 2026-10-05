@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42661404",
+  "name": "Myr rosh shin dys y Vungaloo, va shin braew skee, son v'eh çheh agglagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42661404",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.876,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

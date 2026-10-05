@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0482",
+  "name": "Vel yn jiass ny share na'n twoaie?",
+  "source": "https://www.youtube.com/watch?v=79Dok_6X3HA",
+  "platform": "youtube",
+  "resource_id": "0482",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.78,
+  "deep_link": "https://www.youtube.com/watch?v=79Dok_6X3HA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

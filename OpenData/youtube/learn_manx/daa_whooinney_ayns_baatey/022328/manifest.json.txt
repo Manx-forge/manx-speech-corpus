@@ -1,0 +1,14 @@
+{
+  "ident": "speech-022328",
+  "name": "Daa whooinney ayns baatey? 03",
+  "source": "https://www.youtube.com/watch?v=5RPLz2rnPW0",
+  "platform": "youtube",
+  "resource_id": "022328",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 75.42,
+  "deep_link": "https://www.youtube.com/watch?v=5RPLz2rnPW0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

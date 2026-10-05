@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0419",
+  "name": "Ta mee maynrey cummal ayns Purt ny h-Inshey as ta mee feer vaynrey cummal ayns Mannin",
+  "source": "https://www.youtube.com/watch?v=ZB-isyFFaK0",
+  "platform": "youtube",
+  "resource_id": "0419",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.31,
+  "deep_link": "https://www.youtube.com/watch?v=ZB-isyFFaK0&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

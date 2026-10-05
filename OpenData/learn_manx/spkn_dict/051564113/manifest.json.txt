@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051564113",
+  "name": "Feer çheh",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051564113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.02,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

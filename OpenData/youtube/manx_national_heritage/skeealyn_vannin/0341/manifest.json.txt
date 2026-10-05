@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0341",
+  "name": "Manx language and dialect archive recordings",
+  "source": "https://youtube.com/watch?v=yia7iWeajZc",
+  "platform": "youtube",
+  "resource_id": "0341",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 146.15,
+  "deep_link": "https://www.youtube.com/watch?v=yia7iWeajZc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

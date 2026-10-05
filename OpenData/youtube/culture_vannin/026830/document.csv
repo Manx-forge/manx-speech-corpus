@@ -1,0 +1,31 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,yes,10.39,10.72,asr,22
+,gaelgagh ymmydoil gollrish,23.56,31.45,asr,47
+,gollrish sleih elley,33.13,40.33,asr,91
+,feer vie so vel oo meeteil rish ram sleih,43.12,45.88,asr,39
+,vel ad toiggal c'red t'ou,72.76,74.77,asr,100
+,toiggal ny,75.46,85.21,asr,18
+,as plannyn as cha row fys aym mychione,85.75,89.11,asr,57
+,mychione daunsey c'raad,94.06,96.19,asr,0
+,cre'n fa er y fa t'eh,100.33,103.63,asr,0
+,as cha nel eh,111.22,118.42,asr,0
+,feer vie cre mychione yn aght,133.78,136.39,asr,0
+,t'ou jannoo daunsin bee eh,137.23,152.80,asr,19
+,feer vie as goaill taitnys jannoo shen,152.59,157.12,asr,0
+,share lhiat,162.07,162.79,asr,0
+,c'red t'ou jannoo ayns shoh s'mie,165.67,169.15,asr,60
+,well s'mie lhiam,181.27,184.30,asr,9
+,well s'mie lhiam goll,189.88,192.94,asr,0
+,ec shen nagh vel cre'n fa,203.83,207.01,asr,14
+,dy vel eh ymmydoil vel oo goll dy bra reesht,208.42,210.76,asr,43
+,as cre mynyngione va cre t'ou goaill taitnys,223.39,227.32,asr,12
+,tra t'ou daunsey c'red t'ou s'mie lhiam ooilley ny kerroo smoo jeh tra nagh row ny tree treeyn son ta s'mie,228.40,240.16,asr,0
+,mie lhiam yn fer ta jannoo,239.83,242.83,asr,0
+,er y fa ta ram dy yannoo as goll jeh,264.49,269.02,asr,0
+,as foddee jiu ta shin goll dys yn claareeyn as t'eh feer,272.80,278.83,asr,0
+,ayns shoh ec y villey shoh,280.99,291.04,asr,10
+,eisht ginsh cre mychione y cheer,296.26,300.55,asr,0
+,adsyn mie ta shin,304.81,308.59,asr,90
+,quoi t'ou meeteil rish hannah orrym,311.29,314.11,asr,0
+,feer vie vel oo,327.13,328.06,asr,0
+,vel oo gynsagh yn jiu feer vie ayns,336.40,342.97,asr,0

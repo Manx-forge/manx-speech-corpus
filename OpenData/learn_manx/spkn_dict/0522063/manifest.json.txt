@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0522063",
+  "name": "Lhongaghyn ships",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sea/lhongaghyn%20-%20ships.mp3",
+  "platform": "learn_manx",
+  "resource_id": "0522063",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.94,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sea/lhongaghyn%20-%20ships.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

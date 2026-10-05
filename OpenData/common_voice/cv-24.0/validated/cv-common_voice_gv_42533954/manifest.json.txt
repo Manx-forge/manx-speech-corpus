@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42533954",
+  "name": "Va lorg 'sy laue echey, as eshyn ro henn dy hooyl n'egooish.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42533954",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.976,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

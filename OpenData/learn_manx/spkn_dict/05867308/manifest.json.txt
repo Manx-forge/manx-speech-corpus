@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867308",
+  "name": "ellan vannin the isle of man",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Isle%20of%20Man.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867308",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 5.54,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20countries/Countries_Isle%20of%20Man.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

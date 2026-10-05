@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42533747",
+  "name": "Va dagh kynney dy lus ayns y gharey eck.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42533747",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 4.644,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

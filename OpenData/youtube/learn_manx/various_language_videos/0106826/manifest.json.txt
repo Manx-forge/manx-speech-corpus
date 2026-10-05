@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0106826",
+  "name": "Manx Gaelic Christmas Service",
+  "source": "https://www.youtube.com/watch?v=vY9VF_bkZsw",
+  "platform": "youtube",
+  "resource_id": "0106826",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 226.42,
+  "deep_link": "https://www.youtube.com/watch?v=vY9VF_bkZsw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

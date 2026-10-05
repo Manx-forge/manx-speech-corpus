@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0418",
+  "name": "Ta mee cummal ayns Mannin as ta Mannin yindyssagh",
+  "source": "https://www.youtube.com/watch?v=PIFF8vLRDsE",
+  "platform": "youtube",
+  "resource_id": "0418",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.43,
+  "deep_link": "https://www.youtube.com/watch?v=PIFF8vLRDsE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,17 @@
+line,idx,word,start,end,status
+0,0,C'raad,0.75,1.08,aligned
+0,1,t'ou,1.08,1.26,aligned
+0,2,gee,1.26,1.47,aligned
+0,3,bonnag?,1.47,1.89,aligned
+0,4,Thie,3.00,3.48,aligned
+0,5,house,3.48,3.63,aligned
+0,6,Bee,4.44,4.80,aligned
+0,7,food,4.80,4.92,aligned
+0,8,Thie-bee,5.58,6.39,aligned
+0,9,restaurant,7.35,7.65,aligned
+0,10,Ta,7.80,7.89,aligned
+0,11,mee,7.89,8.04,aligned
+0,12,gee,8.04,8.31,aligned
+0,13,bonnag,8.31,8.82,aligned
+0,14,ayns,8.91,9.21,aligned
+0,15,thie-bee,9.21,9.99,aligned

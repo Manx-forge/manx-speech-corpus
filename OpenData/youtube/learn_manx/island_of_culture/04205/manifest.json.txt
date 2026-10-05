@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04205",
+  "name": "C'raad ta ny berreenyn?",
+  "source": "https://www.youtube.com/watch?v=LipKLLy-2eg",
+  "platform": "youtube",
+  "resource_id": "04205",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.34,
+  "deep_link": "https://www.youtube.com/watch?v=LipKLLy-2eg&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

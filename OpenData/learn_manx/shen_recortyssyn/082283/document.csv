@@ -1,0 +1,15 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,no comparison between gaase operations,0.43,3.37,asr,47
+,dyn cosoylagh eddyr colughtyn gaase,3.97,6.49,asr,100
+,prowal dy chosoylaghey priosyn gass vannin roosyn echey cholught bree,7.45,12.67,asr,94
+,t'eh dy bollagh neuphersoonagh reirey stiureyder as reireyder-jeshaghtys dan cholught manninagh,13.81,20.92,asr,96
+,robert ec jerrey yn chiaghtin shoh chaie dooyrt lughtee,21.49,26.50,asr,87
+,dy beagh ad giarrey coontys gass cliaghtagh son custom-marym thieoil sy reeriaght unnaneysit liorish queig sy cheead,27.22,35.68,asr,92
+,veih'n chiaghtoo laa toshiaght arree ny lurg tuittym mooar ayns priosyn gass slane eck kyndagh rish yn emshyr vlaa,36.37,44.53,asr,92
+,ta loayrt gass vannin gra nagh vod ad giarrey ny priosyn oc ec y traa t'ayn,45.67,50.62,asr,91
+,er-yn-oyr dy vel ad kionnaghey gass laccal son y gheurey,51.28,54.55,asr,98
+,dy phrowal stiurey bishaghey'n preis as shickyraghey costyssyn son ymmydeyryn-gass,55.24,61.33,asr,95
+,ta mainshter gra dy hrog gass vannin y treisht jeh gass na dooragh liorish jees queig sy cheead,62.56,70.54,asr,92
+,as y treisht-jee gass ushlagh liorish hoght cheead mee luanistyn shoh chaie,71.23,76.99,asr,88
+,tra hie priosyn meanagh seose liorish queig jeig sy cheead sy reeriaght unnaneysit,77.74,83.23,asr,96
+,as t'ee gra nagh vel eh resoonagh dy chosoylaghey price son y daa cholught cheu ry heu,84.01,90.70,asr,99

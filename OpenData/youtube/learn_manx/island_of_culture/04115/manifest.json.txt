@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04115",
+  "name": "Foddym snaue gollrish perkin as foddym loayrt boghtynid",
+  "source": "https://www.youtube.com/watch?v=wvBovq6HIfc",
+  "platform": "youtube",
+  "resource_id": "04115",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 27.1,
+  "deep_link": "https://www.youtube.com/watch?v=wvBovq6HIfc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

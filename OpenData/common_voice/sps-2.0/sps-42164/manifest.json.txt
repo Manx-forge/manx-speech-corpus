@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42164",
+  "name": "Cre t'ou jannoo dy ghoaill aash?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42164",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 32.076,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

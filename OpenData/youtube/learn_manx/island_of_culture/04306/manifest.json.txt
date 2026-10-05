@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04306",
+  "name": "Dy beign berchagh yinnin cummal ayns Rhumsaa",
+  "source": "https://www.youtube.com/watch?v=SkYGH_5rZGQ",
+  "platform": "youtube",
+  "resource_id": "04306",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.43,
+  "deep_link": "https://www.youtube.com/watch?v=SkYGH_5rZGQ&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

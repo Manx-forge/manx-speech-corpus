@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051262113",
+  "name": "Moghrey mie Vooinjer Veggey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051262113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

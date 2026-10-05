@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42481940",
+  "name": "Dooyrt yn bogane ny cur eaie orryms as cha derryms eaie ort.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42481940",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.66,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

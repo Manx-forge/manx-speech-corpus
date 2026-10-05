@@ -1,0 +1,14 @@
+{
+  "ident": "speech-022627",
+  "name": "How to use Vel oo er nakin? in Manx Gaelic.",
+  "source": "https://www.youtube.com/watch?v=i7_JEhAJWIU",
+  "platform": "youtube",
+  "resource_id": "022627",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 141.2,
+  "deep_link": "https://www.youtube.com/watch?v=i7_JEhAJWIU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

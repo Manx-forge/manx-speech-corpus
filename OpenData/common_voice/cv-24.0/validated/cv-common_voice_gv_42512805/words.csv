@@ -1,0 +1,6 @@
+line,idx,word,start,end,status
+0,0,Son,0.57,0.84,aligned
+0,1,"ain,",0.84,1.26,aligned
+0,2,va,1.26,1.44,aligned
+0,3,noidyn,1.44,1.92,aligned
+0,4,da.,1.92,2.37,aligned

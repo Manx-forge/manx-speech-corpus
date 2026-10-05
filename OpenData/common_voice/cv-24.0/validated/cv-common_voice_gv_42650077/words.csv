@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,O,0.57,0.72,aligned
+0,1,"ven,",0.72,1.11,aligned
+0,2,dooyrt,1.29,1.53,aligned
+0,3,"eshyn,",1.53,1.86,aligned
+0,4,cha,2.49,2.61,aligned
+0,5,vel,2.61,2.82,aligned
+0,6,mish,2.82,3.09,aligned
+0,7,feeu,3.09,3.36,aligned
+0,8,dy,3.36,3.54,aligned
+0,9,heet,3.54,3.81,aligned
+0,10,stiagh,3.81,4.26,aligned
+0,11,fo,4.26,4.44,aligned
+0,12,dty,4.44,4.59,aligned
+0,13,chlea.,4.59,5.01,aligned

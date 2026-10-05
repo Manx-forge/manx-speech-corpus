@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457812",
+  "name": "Tra ta ny hoirryn cha chiu, cha nyrrys da'n mean ve cha thanney",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457812",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.532,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

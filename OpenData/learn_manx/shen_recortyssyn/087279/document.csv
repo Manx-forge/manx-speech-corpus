@@ -1,0 +1,19 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,quoi uss mish david ayns doolish jea,0.21,2.97,asr,80
+,shoprite cha row mee nagh row ayns aym's as cha row mee ayns rhumsaa as va mee ayns doolish jea agh cha row mee ayns shoprite,4.18,12.28,asr,86
+,kys t'ou feer vie gura mie ayd row juan ayns doolish jea cha row,14.20,18.76,asr,84
+,v'eh ayns colby nagh row eh ayns doolish cha row agh v'eh ayns colby shen quaagh,20.47,26.08,asr,100
+,kys t'ou mie dy liooar gura mie ayd,28.15,30.16,asr,100
+,cha row agh va mee skee row oo skee moghrey jea cha row,32.11,36.43,asr,84
+,row oo skee riyr va mee skee agglagh riyr as mish va mee skee riyr,37.15,42.25,asr,88
+,quoi uss mish voirrey row oo,44.56,46.75,asr,55
+,va mee scooyrit agglagh row ayns y thie-bane cha row,47.98,51.94,asr,70
+,cha row mee ayns y tourey as cha row mee scooyrit,54.22,56.83,asr,76
+,kys t'ou castreycair gura mie ayd,59.53,61.72,asr,100
+,row oo maynrey jea va mee maynrey jeih r'ou tarroogh va mee tarroogh agglagh,62.29,67.42,asr,85
+,nagh row oo skee riyr va mee tarroogh jea agh cha row mee skee riyr,67.99,72.25,asr,100
+,cha row jamys maynrey jeh nagh row cha row v'eh corree,73.48,77.59,asr,100
+,oo corree cha row mee corree agh va jamys corree row jamys tarroogh jea v'eh tarroogh agglagh as uss hene,78.07,85.18,asr,94
+,va mee beggan tarroogh va ayns purt le moirrey jea va mee ro bog cha row eh,86.44,93.07,asr,92
+,cha row mee chrauee cha row ee ayns purt chiarn moghrey jea cha row eh ayns purt le moirrey,94.27,99.64,asr,89
+,hie jea cha row mee voghree v'ee juan cha row juan tarroogh jea atreih nagh row er y traie moghrey jea agh cha row mee fastyr,101.17,111.67,asr,83

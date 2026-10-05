@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42425712",
+  "name": "Ta bodjallyn as dorraghys mygeayrt-y-mysh: ta cairys as briwnys coamrey e stoyl-reeoil.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42425712",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.136,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

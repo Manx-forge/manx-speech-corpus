@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457897",
+  "name": "Ny lurgaghyn echey dy yiarn, e chassyn ayrn jeu yiarn, as ayrn cray.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457897",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.36,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

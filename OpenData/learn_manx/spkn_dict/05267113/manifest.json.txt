@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05267113",
+  "name": "ny Ratçhyn TT",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05267113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.45,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

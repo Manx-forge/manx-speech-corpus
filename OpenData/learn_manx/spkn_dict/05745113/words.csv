@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,smie,0.00,0.39,aligned
+0,1,lhiam,0.39,0.57,aligned
+0,2,goll,0.57,0.78,aligned
+0,3,shooyl,0.78,1.41,aligned

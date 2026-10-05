@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04342",
+  "name": "Cha nel mee rieau er nakin Buggane",
+  "source": "https://www.youtube.com/watch?v=5efoN_Ibfxo",
+  "platform": "youtube",
+  "resource_id": "04342",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 32.9,
+  "deep_link": "https://www.youtube.com/watch?v=5efoN_Ibfxo&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

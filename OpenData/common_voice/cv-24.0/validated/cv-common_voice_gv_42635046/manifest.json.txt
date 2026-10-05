@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42635046",
+  "name": "Agh vainshter, mannagh vel mee jannoo rour daanys, voddym fenagh cre'n ennym t'erriu?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42635046",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.236,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

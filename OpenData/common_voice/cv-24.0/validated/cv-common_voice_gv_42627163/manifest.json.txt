@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42627163",
+  "name": "Shen-y-fa cha vel ad ny sodjey jees, agh un 'eill.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42627163",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.156,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

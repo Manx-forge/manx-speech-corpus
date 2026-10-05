@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04238",
+  "name": "Ta mee ayns Purt ny h-Inshey jiu agh va mee ayns Purt le Moirrey jea",
+  "source": "https://www.youtube.com/watch?v=XkBEvH-3hTc",
+  "platform": "youtube",
+  "resource_id": "04238",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 26.33,
+  "deep_link": "https://www.youtube.com/watch?v=XkBEvH-3hTc&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

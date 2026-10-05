@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42643375",
+  "name": "Ta mish gra riu, ny loo-jee er aght erbee.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42643375",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.688,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

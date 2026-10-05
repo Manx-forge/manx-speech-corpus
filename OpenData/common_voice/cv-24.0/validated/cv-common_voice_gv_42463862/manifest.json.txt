@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463862",
+  "name": "Vod peccagh shooyl er smarageyn jiarg, as gyn e chassyn ve losht?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463862",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.94,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

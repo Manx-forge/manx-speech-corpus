@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09109",
+  "name": "Abbyr Shen Reesht 27th June 2021",
+  "createdCircaStart": "2021-06-26",
+  "createdCircaEnd": "2021-06-26",
+  "source": "https://www.manxradio.com/player/podcasts/episodes/abbyr-shen-reesht-27th-june-20211/",
+  "platform": "manx_radio",
+  "resource_id": "09109",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2076.71,
+  "deep_link": "https://podcasts.captivate.fm/media/1cee75c2-789a-4a25-a7c4-459f470f4fcf/3877.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

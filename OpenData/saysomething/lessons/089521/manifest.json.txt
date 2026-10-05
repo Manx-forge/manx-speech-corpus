@@ -1,0 +1,14 @@
+{
+  "ident": "speech-089521",
+  "name": "Manx-L2-C03",
+  "source": null,
+  "platform": "saysomething",
+  "resource_id": "089521",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1775.12,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "removed by publisher"
+}

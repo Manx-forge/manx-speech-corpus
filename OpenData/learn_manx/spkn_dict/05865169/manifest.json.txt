@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05865169",
+  "name": "troggeyder builder",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Builder.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05865169",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 6.56,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20occupations/Occupations_Builder.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

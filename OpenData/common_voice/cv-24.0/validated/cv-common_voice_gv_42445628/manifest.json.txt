@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445628",
+  "name": "Ayns ooilley dty raaidyn gow rishyn, as nee eh leeideil dty chesmadyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445628",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

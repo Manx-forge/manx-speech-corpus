@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,Goll,0.60,0.87,aligned
+0,1,er,0.87,0.99,aligned
+0,2,y,0.99,1.05,aligned
+0,3,scooyr!,1.05,1.65,aligned

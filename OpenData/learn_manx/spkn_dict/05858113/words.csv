@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,kione,0.18,0.51,aligned
+0,1,ny,0.51,0.60,aligned
+0,2,hayrey,0.60,1.02,aligned

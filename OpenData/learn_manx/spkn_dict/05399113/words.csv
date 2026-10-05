@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,she,0.00,0.45,aligned
+0,1,toot,0.57,0.87,aligned
+0,2,uss,0.87,1.17,aligned

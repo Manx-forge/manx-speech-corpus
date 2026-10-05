@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051414113",
+  "name": "Ta shen braew agh share lhiam baatey Yonee",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051414113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.9,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

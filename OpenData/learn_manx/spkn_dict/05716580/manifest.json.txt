@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05716580",
+  "name": "Eayn Yee, ta goaill ersooyl peccaghyn y theihll, jean myghin orrin Lamb of God, who takes away the sins of the world, have mercy upon us",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/O_lamb_of_god_that_takes_away_the_sins_of_the_world_have_mercy_upon_us.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05716580",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 12.41,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/O_lamb_of_god_that_takes_away_the_sins_of_the_world_have_mercy_upon_us.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

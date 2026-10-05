@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051741113",
+  "name": "Vel oo rieau er nakin yn Taj Mahal",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051741113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.41,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

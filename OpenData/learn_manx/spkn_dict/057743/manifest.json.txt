@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057743",
+  "name": "bainney milk",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/bainney%20-%20milk.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057743",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.07,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/bainney%20-%20milk.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

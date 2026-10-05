@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059034",
+  "name": "skirraghtyn skating",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skirraghtyn%20-%20skating.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059034",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.04,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/skirraghtyn%20-%20skating.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

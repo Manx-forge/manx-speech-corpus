@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,shoh,0.36,0.66,aligned
+0,1,conor,0.66,0.96,aligned
+0,2,cummins,0.96,1.50,aligned

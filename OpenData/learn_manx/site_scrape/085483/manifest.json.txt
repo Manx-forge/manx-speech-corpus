@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085483",
+  "name": "oaesir_gaelgagh",
+  "source": "https://www.learnmanx.com/media/Files/oaesir%20gaelgagh.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085483",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 78.94,
+  "deep_link": "https://www.learnmanx.com/media/Files/oaesir%20gaelgagh.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

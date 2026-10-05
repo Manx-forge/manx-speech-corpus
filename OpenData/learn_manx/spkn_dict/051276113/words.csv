@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,t'eh,0.27,0.48,aligned
+0,1,ny,0.48,0.60,aligned
+0,2,vretnagh,0.60,1.32,aligned

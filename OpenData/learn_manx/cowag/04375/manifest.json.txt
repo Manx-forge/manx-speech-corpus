@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04375",
+  "name": "Conversation 11",
+  "source": "https://www.learnmanx.com/media//cowag/11%20Track%2011%209.m4a",
+  "platform": "learn_manx",
+  "resource_id": "04375",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 90.12,
+  "deep_link": "https://www.learnmanx.com/media//cowag/11%20Track%2011%209.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

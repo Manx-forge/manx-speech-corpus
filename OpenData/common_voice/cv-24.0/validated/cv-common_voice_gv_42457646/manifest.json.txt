@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457646",
+  "name": "Va mee ec reamys marrey reesht, as va'n aggle aym harrish son tammylt beg.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457646",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.784,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

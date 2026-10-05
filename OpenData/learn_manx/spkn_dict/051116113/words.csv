@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,bare,0.00,0.33,aligned
+0,1,lhee,0.33,0.57,aligned
+0,2,caashey,0.57,1.17,aligned

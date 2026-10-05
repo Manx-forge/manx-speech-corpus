@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,Cha,0.42,0.54,aligned
+0,1,jean,0.54,0.78,aligned
+0,2,feanish,0.78,1.29,aligned
+0,3,firrinagh,1.29,1.86,aligned
+0,4,breg,1.86,2.25,aligned
+0,5,y,2.25,2.31,aligned
+0,6,insh:,2.34,2.82,aligned
+0,7,agh,3.57,3.84,aligned
+0,8,nee,3.84,3.99,aligned
+0,9,feanish,3.99,4.47,aligned
+0,10,foalsey,4.47,5.01,aligned
+0,11,fockley-magh,5.40,6.12,aligned
+0,12,breagyn.,6.12,6.54,aligned

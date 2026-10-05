@@ -1,0 +1,37 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid queig beeym ayns stondane,0.55,3.76,asr,100
+,bee oo braew bee eh ayns forsdal,4.63,7.30,asr,100
+,bee marish kerrin beemayd mie dy liooar,7.99,11.14,asr,95
+,bee shiu ayns kiondroghad bee ad ayns thie vanannan,11.98,15.40,asr,100
+,bee kerrin scoorit bee yn thie feayr,16.12,19.24,asr,87
+,bee'm aarloo bee oo er y chronk,21.01,23.44,asr,100
+,bee er chea bee marish karran,24.19,26.95,asr,76
+,beemayd mie dy liooar bee shiu ayns kiondroghad,27.70,30.64,asr,100
+,bee ad ayns thie vanannan bee kerrin scoorit bee yn thie feayr,31.30,35.80,asr,97
+,cha bee'm ayns y vagher cha bee oo chea,36.85,39.88,asr,95
+,cha bee eh mie cha bee scooyrit,40.57,43.21,asr,100
+,cha beemayd skee cha bee shiu tarroogh,43.75,46.21,asr,89
+,cha bee ad cheh dy liooar cha bee karran skee cha bee yn heese ayns y vaatey,46.75,51.34,asr,100
+,nagh bee'm feayr nagh bee oo skee,53.44,56.41,asr,100
+,nagh bee eh aitt nagh bee shin,57.22,60.34,asr,100
+,nagh beemayd tarroogh nagh bee shiu feer scooyrit,61.21,64.81,asr,100
+,nagh bee ad mie dy liooar nagh bee aarloo nagh bee yn moddey ayns shen,65.47,70.57,asr,94
+,nee'm gee yn bonnag mairagh nee oo giu yn ushtey-vea ayns y voghrey,72.97,78.04,asr,96
+,nee eh cheet er y vaatey nee shooyl dys poolvash,80.29,84.22,asr,98
+,neemayd gynsaghey gaelg jecrean nee shiu fakin yn voir ayns y vagher,85.51,90.55,asr,94
+,nee ad cur shilley er y chabbyl jiu,91.93,94.03,asr,100
+,nee'n ven kionnaghey berreen elley jiu,95.20,97.39,asr,95
+,jeanym fakin yn vuc jannoo cloie bluckan-coshey,99.22,102.79,asr,100
+,jean eh fakin shen jean ee goll dys forsdal,103.87,106.96,asr,88
+,jeanmayd goll dys yn ablet noght jean shiu giu bainney ny baa doo,107.71,111.82,asr,100
+,ren ad gee ayns y thie jean juan bonnag,112.48,115.51,asr,100
+,jean yn moddey ushtey cha jeanym geaishtagh rish yn radio,116.20,121.57,asr,93
+,cha jean oo gobbragh er y chronk cha jean eh jeeaghyn feer vie,122.62,126.64,asr,100
+,cha jean oo clashtyn yn keayn ayns texas,127.42,129.61,asr,100
+,cha jean mayd bonnag cha jean shiu shooyl dys purt chiarn,130.66,134.41,asr,98
+,cha jean ad goll dys y chronk cha jean,135.13,137.50,asr,100
+,yn bonnag cha jeanym ven giu yn ushtey,138.13,141.04,asr,74
+,nagh jeanym shooyl dys y thie nagh jean oo goll dys y traie noght,142.57,146.62,asr,100
+,nagh jean eh tannaghtyn ayns shoh nagh jean oo gee caashey,147.40,151.12,asr,97
+,nagh jean mayd goll mairagh nagh jean shiu gobbraghey mairagh,151.93,156.07,asr,100
+,nagh jean ad shooyl dys doolish nagh jean kerron cummal ayns forsdal,156.73,160.69,asr,99

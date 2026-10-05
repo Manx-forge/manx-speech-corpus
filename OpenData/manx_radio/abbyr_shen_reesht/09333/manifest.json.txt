@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09333",
+  "name": "Abbyr Shen Reesht - Say That Again 18oo Jerrey Geuree - 2026 - January 18th",
+  "createdCircaStart": "2026-01-18",
+  "createdCircaEnd": "2026-01-18",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-18oo-jerrey-geuree-2026-january-18th/",
+  "platform": "manx_radio",
+  "resource_id": "09333",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1501.0,
+  "deep_link": "https://episodes.captivate.fm/episode/d72acd9c-124d-482e-afe6-97076939ee94.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

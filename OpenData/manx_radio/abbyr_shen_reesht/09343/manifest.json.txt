@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09343",
+  "name": "Abbyr Shen Reesht - Say That Again 5oo Mee Averil - 2026 - April 5th",
+  "createdCircaStart": "2026-04-05",
+  "createdCircaEnd": "2026-04-05",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-5oo-mee-averil-2026-april-5th/",
+  "platform": "manx_radio",
+  "resource_id": "09343",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1196.0,
+  "deep_link": "https://episodes.captivate.fm/episode/e2805614-8f9a-4623-a65d-c5339c7f3dbd.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

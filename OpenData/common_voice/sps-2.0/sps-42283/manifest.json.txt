@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42283",
+  "name": "Kys yinnagh oo caghlaa y thie ayd dy beagh argid neuyerrinagh ayd?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42283",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 27.864,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

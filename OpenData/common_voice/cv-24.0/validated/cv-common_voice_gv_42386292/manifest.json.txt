@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386292",
+  "name": "As un ghoayr son oural-peccah, dy yannoo lhiasaghey er nyn son.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386292",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.12,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

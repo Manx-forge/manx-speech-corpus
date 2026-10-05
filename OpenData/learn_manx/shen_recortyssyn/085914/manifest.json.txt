@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085914",
+  "name": "conversations 13 cheayll haink",
+  "source": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2013%20cheayll%20haink.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085914",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 108.04,
+  "deep_link": "https://www.learnmanx.com/media/saase%20jeeragh%20conversations/conversations%2013%20cheayll%20haink.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

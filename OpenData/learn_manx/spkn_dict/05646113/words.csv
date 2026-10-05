@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,vel,0.24,0.45,aligned
+0,1,voirrey,0.45,0.87,aligned
+0,2,beggan,0.96,1.32,aligned
+0,3,skee,1.32,1.86,aligned

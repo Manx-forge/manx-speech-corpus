@@ -1,0 +1,14 @@
+{
+  "ident": "speech-076948",
+  "name": "skeeal_zen_1_doillee_hard_version",
+  "source": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%201%20(doillee).mp3",
+  "platform": "learn_manx",
+  "resource_id": "076948",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 144.06,
+  "deep_link": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%201%20(doillee).mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

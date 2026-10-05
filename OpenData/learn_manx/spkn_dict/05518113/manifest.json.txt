@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05518113",
+  "name": "Bee oo ec yn thie ayd mairagh?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05518113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.3,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

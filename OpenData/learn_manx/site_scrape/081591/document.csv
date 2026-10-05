@@ -1,0 +1,20 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon shiaght-jeig as feed vod oo,2.02,5.56,asr,100
+,nagh vod oo gra,7.00,9.94,asr,100
+,jannoo geddyn fakin,11.74,16.09,asr,31
+,yee you nagh vod oo gra,17.74,24.28,asr,91
+,nagh vod oo jannoo eh nagh vod oo geddyn eh,26.11,29.92,asr,100
+,nagh vod oo fakin eh nagh vod oo,31.51,35.05,asr,100
+,nagh vod oo iu eh,37.27,38.38,asr,59
+,cha noddym feddyn yn pabyr fod oo jannoo yn tey,39.55,43.84,asr,100
+,cha noddym geddyn mayd nagh vod oo iu bainney,45.22,49.51,asr,100
+,fod oo fakin peiagh erbee fod oo oie shen,51.10,56.08,asr,72
+,cuin keayrt,58.90,61.42,asr,0
+,s'jerree yn cheayrt s'jerree,62.68,65.71,asr,79
+,cha nel mee er ve monney,66.97,70.84,asr,100
+,rish blein kys t'ou,72.34,75.04,asr,100
+,keayrt dy row va jarroo,76.42,84.85,asr,23
+,cuin honnick mee oo yn keayrt s'jerree cha nel mee er ve mooie monney rish blein nish,86.29,92.98,asr,96
+,hie dy jarroo kys t'ou nish,94.81,97.21,asr,83
+,ta mee dy mie nish bwooise da jee honnick mee oo ec y cheeill keayrt dy row,98.50,103.81,asr,94
+,agh cha row mee loayrt rhyt she foddym goll gys yn cheeill nish,104.35,108.64,asr,100

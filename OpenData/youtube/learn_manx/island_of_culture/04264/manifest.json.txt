@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04264",
+  "name": "Shoh skeeal mychione daa vuggane",
+  "source": "https://www.youtube.com/watch?v=xCeVZexksUE",
+  "platform": "youtube",
+  "resource_id": "04264",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 28.14,
+  "deep_link": "https://www.youtube.com/watch?v=xCeVZexksUE&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05683113",
+  "name": "Row Orry ayns Purt le Moirrey Jedoonee?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05683113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.45,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

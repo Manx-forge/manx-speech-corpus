@@ -1,0 +1,14 @@
+{
+  "ident": "speech-082636",
+  "name": "Adrian Cain ayns Purt le Moirrey - part 4",
+  "source": "https://www.youtube.com/watch?v=3GL5rzY_QoA",
+  "platform": "youtube",
+  "resource_id": "082636",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 50.83,
+  "deep_link": "https://www.youtube.com/watch?v=3GL5rzY_QoA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

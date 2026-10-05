@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09079",
+  "name": "Abbyr Shen Reesht - Say That Again 7th December 2020",
+  "createdCircaStart": "2020-12-07",
+  "createdCircaEnd": "2020-12-07",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-7th-december-20201/",
+  "platform": "manx_radio",
+  "resource_id": "09079",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 2804.27,
+  "deep_link": "https://podcasts.captivate.fm/media/e3b8aba9-8ffb-4646-b28f-3dc362e024a8/3106.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

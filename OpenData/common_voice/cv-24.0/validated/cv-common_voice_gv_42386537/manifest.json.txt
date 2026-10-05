@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386537",
+  "name": "Ta my ghraih lhiam's, as mish leshyn: t'eh beaghey mastey ny lileeyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386537",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.264,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

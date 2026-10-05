@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051124113",
+  "name": "Bare lhiat clashtyn kiaull?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051124113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.4,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,19 @@
+{
+  "ident": "speech-msd-UOSH-HOYFM-SA0011",
+  "name": "🎥 UOSH SA0011: Conversation with Ned Maddrell of Glen Chass",
+  "createdCircaStart": "1952-01-01",
+  "createdCircaEnd": "1952-12-31",
+  "author": "Ned Maddrell, John William ('Bill') Radcliffe, Walter Clarke, Douglas Faragher",
+  "translated": "Paul Rogers, Christopher Lewin",
+  "source": "https://www.youtube.com/watch?v=rdLv_DTXqAQ",
+  "platform": "youtube",
+  "resource_id": "msd-UOSH-HOYFM-SA0011",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 1869.91,
+  "deep_link": "https://www.youtube.com/watch?v=rdLv_DTXqAQ&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok",
+  "corpus_work": "UOSH-HOYFM-SA0011"
+}

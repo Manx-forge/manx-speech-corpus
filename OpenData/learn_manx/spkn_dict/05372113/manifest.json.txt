@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05372113",
+  "name": "Quoi ta ratçhal feer tappee?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05372113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.07,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

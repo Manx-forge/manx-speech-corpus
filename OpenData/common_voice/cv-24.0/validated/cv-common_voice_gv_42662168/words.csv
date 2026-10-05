@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,"""Aw,",1.20,1.59,aligned
+0,1,boy,1.59,1.86,aligned
+0,2,"beg,""",1.89,2.25,aligned
+0,3,dooyrt,2.25,2.49,aligned
+0,4,"mish,",2.49,3.15,aligned
+0,5,"""cha",3.30,3.42,aligned
+0,6,row,3.42,3.69,aligned
+0,7,rieau,3.69,4.05,aligned
+0,8,scoill,4.05,4.50,aligned
+0,9,Baarlagh,4.50,5.10,aligned
+0,10,ec,5.10,5.22,aligned
+0,11,ny,5.22,5.37,aligned
+0,12,h-ushagyn,5.37,5.85,aligned
+0,13,"boghtey.""",5.85,6.45,aligned

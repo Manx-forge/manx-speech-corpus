@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Ta",1.44,1.59,aligned
+0,1,creenaght,1.59,2.19,aligned
+0,2,erskyn,2.19,2.61,aligned
+0,3,roshtyn,2.61,3.18,aligned
+0,4,ommydan;,3.18,3.69,aligned
+0,5,cha,4.26,4.41,aligned
+0,6,vel,4.41,4.68,aligned
+0,7,eh,4.68,4.77,aligned
+0,8,fosley,4.77,5.31,aligned
+0,9,e,5.31,5.34,aligned
+0,10,veeal,5.34,5.67,aligned
+0,11,'sy,5.67,5.88,aligned
+0,12,"whaiyll.""",5.91,6.39,aligned

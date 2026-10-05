@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42482313",
+  "name": "\"Yn voghtnid smoo; dy ve ayns aggle jeh boghtnid yn annym.\"",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42482313",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.408,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-026877",
+  "name": "Cooinaghtyn Manninagh? Co-loayrtys marish Juan y Crellin",
+  "source": "https://www.youtube.com/watch?v=JYZmJp8Rz40",
+  "platform": "youtube",
+  "resource_id": "026877",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 4778.33,
+  "deep_link": "https://www.youtube.com/watch?v=JYZmJp8Rz40&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

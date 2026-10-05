@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057371",
+  "name": "urley eagle",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/urley%20-%20eagle.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057371",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.97,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Birds/urley%20-%20eagle.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

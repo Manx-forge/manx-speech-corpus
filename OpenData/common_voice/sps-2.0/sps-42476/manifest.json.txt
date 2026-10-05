@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42476",
+  "name": "Cre t'ou jannoo tra t'ou gennaghtyn granganagh?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42476",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 14.112,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""My",0.81,0.87,aligned
+0,1,ta,0.87,1.05,aligned
+0,2,toiggal,1.05,1.50,aligned
+0,3,ayd,1.62,1.89,aligned
+0,4,"nish,",1.89,2.46,aligned
+0,5,clasht,2.91,3.27,aligned
+0,6,rish,3.27,3.45,aligned
+0,7,shoh;,3.45,3.93,aligned
+0,8,eaisht,4.77,5.10,aligned
+0,9,rish,5.10,5.28,aligned
+0,10,coraa,5.28,5.79,aligned
+0,11,my,5.79,5.97,aligned
+0,12,"ghoan.""",5.97,6.36,aligned

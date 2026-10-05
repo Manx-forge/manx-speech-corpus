@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,"""Va",0.75,0.93,aligned
+0,1,mac,0.93,1.35,aligned
+0,2,aeg,1.44,1.77,aligned
+0,3,echey;,1.77,2.16,aligned
+0,4,guilley,2.70,3.03,aligned
+0,5,beg,3.03,3.33,aligned
+0,6,feer,3.33,3.69,aligned
+0,7,"tastagh.""",3.69,4.44,aligned

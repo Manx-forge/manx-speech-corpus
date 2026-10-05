@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42448533",
+  "name": "Tra ta Yeesey çheet lesh pardoon t'eh cur lesh ooilley ny grayseyn marish.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42448533",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.984,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

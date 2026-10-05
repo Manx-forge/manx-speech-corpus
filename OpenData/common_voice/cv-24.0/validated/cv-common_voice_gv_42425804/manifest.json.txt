@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42425804",
+  "name": "Fegooish coyrle ta kiarailyn deiney cheet gys veg: agh ayns ymmodee fir-choyrlee ta shickyrys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42425804",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.82,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

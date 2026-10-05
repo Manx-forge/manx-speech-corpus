@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457653",
+  "name": "Ta obbraghyn e laueyn ynrickys as briwnys: ta ooilley e annaghyn firrinagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457653",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.784,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

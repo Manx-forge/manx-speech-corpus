@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04296",
+  "name": "Ta mee ayns Balley Chashtal agh shegin dou goll dys Colby nish",
+  "source": "https://www.youtube.com/watch?v=oB80bB2MfaA",
+  "platform": "youtube",
+  "resource_id": "04296",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 24.82,
+  "deep_link": "https://www.youtube.com/watch?v=oB80bB2MfaA&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

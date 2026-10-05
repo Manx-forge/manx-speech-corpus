@@ -1,0 +1,14 @@
+line,idx,word,start,end,status
+0,0,"""Ta",0.81,0.93,aligned
+0,1,shiuish,0.93,1.38,aligned
+0,2,briwnys,1.50,2.04,aligned
+0,3,lurg,2.40,2.70,aligned
+0,4,briwnys,2.70,3.27,aligned
+0,5,ny,3.27,3.39,aligned
+0,6,foalley;,3.39,3.96,aligned
+0,7,cha,4.74,4.89,aligned
+0,8,vel,4.89,5.13,aligned
+0,9,mish,5.13,5.46,aligned
+0,10,briwnys,5.46,6.06,aligned
+0,11,dooinney,6.15,6.51,aligned
+0,12,"erbee.""",6.57,7.11,aligned

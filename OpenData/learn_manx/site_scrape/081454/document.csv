@@ -1,0 +1,21 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon nuy lessoon ain,1.66,4.00,asr,100
+,beg ec yn dorrys,4.99,8.08,asr,81
+,ec yn chapp ec yn aile,9.52,12.52,asr,100
+,ec scoill ec yn thie,14.11,17.41,asr,100
+,ec yn cheeill yn meoir-shee,18.67,22.30,asr,31
+,yn fer-ynsee ta'n meoir-shee ec yn dorrys,24.01,29.11,asr,98
+,ta'n meoir-shee ec yn aile ta'n meoir-shee thie,31.15,36.46,asr,89
+,ta'n meoir-shee ec yn chapp ta'n meoir-shee eddin scoill,38.14,43.21,asr,100
+,ta'n meoir-shee ec yn cheeill ta'n guilley ching ec yn aile,44.77,51.28,asr,100
+,vel inneen shenn ec yn chapp,52.93,55.24,asr,79
+,cha nel yn fer-ynsee ec yn scoill,57.01,59.29,asr,97
+,cha nel peiagh erbee ec yn dorrys,60.85,62.86,asr,100
+,yn red shen ec y thie ta'n ven shen shen ec yn cheeill,64.87,70.48,asr,94
+,hene eisht,72.07,74.29,asr,78
+,agh elley,75.52,77.65,asr,100
+,hoght laa mie yuan,78.82,84.16,asr,63
+,c'raad ta mummig t'ee bunnys ec yn cheeill,85.09,88.45,asr,86
+,as c'red ta moghrey t'ee mooie neesht t'ee heese ec yn chapp,89.56,94.18,asr,59
+,cha nel peiagh erbee sy thie agh,95.80,98.35,asr,84
+,cha nel peiagh erbee elley ayn,99.13,101.08,asr,100

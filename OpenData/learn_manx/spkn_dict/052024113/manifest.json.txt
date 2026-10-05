@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052024113",
+  "name": "Vanilla",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052024113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.98,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42593187",
+  "name": "Nee eh soo pyshoon ny ard-nieughyn: nee chengey yn viper eshyn y varroo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42593187",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.588,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04273",
+  "name": "Lhiggey boght vock bouyran roauyr myr t'ou, deam y chied vuggane",
+  "source": "https://www.youtube.com/watch?v=bBHXvZLQt-A",
+  "platform": "youtube",
+  "resource_id": "04273",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 44.54,
+  "deep_link": "https://www.youtube.com/watch?v=bBHXvZLQt-A&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

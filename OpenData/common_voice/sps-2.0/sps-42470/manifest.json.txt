@@ -1,0 +1,14 @@
+{
+  "ident": "speech-sps-42470",
+  "name": "Dy jinnagh oo feddyn plannad noa, cre'n ennym verragh oo er as cre'n fa?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "sps-42470",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 23.688,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

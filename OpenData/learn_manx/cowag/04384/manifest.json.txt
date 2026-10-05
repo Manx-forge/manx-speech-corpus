@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04384",
+  "name": "Conversation 20",
+  "source": "https://www.learnmanx.com/media//cowag/20%20Track%2020%205.m4a",
+  "platform": "learn_manx",
+  "resource_id": "04384",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 63.76,
+  "deep_link": "https://www.learnmanx.com/media//cowag/20%20Track%2020%205.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

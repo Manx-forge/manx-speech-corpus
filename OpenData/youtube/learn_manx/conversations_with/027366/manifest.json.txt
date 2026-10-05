@@ -1,0 +1,14 @@
+{
+  "ident": "speech-027366",
+  "name": "How to use Craad smie lhiat? in Manx Gaelic",
+  "source": "https://www.youtube.com/watch?v=mUXAw3AjxWQ",
+  "platform": "youtube",
+  "resource_id": "027366",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 69.01,
+  "deep_link": "https://www.youtube.com/watch?v=mUXAw3AjxWQ&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

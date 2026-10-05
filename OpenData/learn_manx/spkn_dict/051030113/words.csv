@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,nagh,0.15,0.42,aligned
+0,1,nhare,0.42,0.69,aligned
+0,2,lesh,0.69,0.99,aligned
+0,3,bainney,0.99,1.59,aligned

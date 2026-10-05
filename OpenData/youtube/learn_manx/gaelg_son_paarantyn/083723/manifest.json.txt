@@ -1,0 +1,14 @@
+{
+  "ident": "speech-083723",
+  "name": "Gaelg son paarantyn? What would you want?",
+  "source": "https://www.youtube.com/watch?v=WzDpdwQ3-vY",
+  "platform": "youtube",
+  "resource_id": "083723",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 217.2,
+  "deep_link": "https://www.youtube.com/watch?v=WzDpdwQ3-vY&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386213",
+  "name": "Cha row Jee rieau kiarail dy beagh creesteeyn seaghnagh as goll mygeayrt groamagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386213",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.316,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

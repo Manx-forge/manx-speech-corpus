@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04212",
+  "name": "Craad bare lhiat shappal: Yn Cholloo ny Paris?",
+  "source": "https://www.youtube.com/watch?v=xRq5YsVf79Q",
+  "platform": "youtube",
+  "resource_id": "04212",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.66,
+  "deep_link": "https://www.youtube.com/watch?v=xRq5YsVf79Q&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42642402",
+  "name": "Dy ve er ny ghoaill liorish Caarjyn Phobble Israel, ayns nyn badjeryn lught-thie.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42642402",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.668,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

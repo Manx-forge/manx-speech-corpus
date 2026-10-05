@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,droghad,0.24,0.57,aligned
+0,1,valley,0.57,0.99,aligned
+0,2,ny,0.99,1.08,aligned
+0,3,loghey,1.08,1.29,aligned

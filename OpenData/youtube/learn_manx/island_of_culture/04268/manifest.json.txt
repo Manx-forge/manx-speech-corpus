@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04268",
+  "name": "She ommidan uss! Deam yn nah vuggane erash",
+  "source": "https://www.youtube.com/watch?v=etxtUvy6sqM",
+  "platform": "youtube",
+  "resource_id": "04268",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 52.27,
+  "deep_link": "https://www.youtube.com/watch?v=etxtUvy6sqM&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

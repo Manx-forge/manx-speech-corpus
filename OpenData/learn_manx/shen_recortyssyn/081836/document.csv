@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou mie dy liooar gura mie ayd,0.21,2.43,asr,100
+,jannoo neeym c'raad nee oo shappal nee'm shappal ayns doolish jannoo,3.01,8.14,asr,44
+,neeym as uss hene jannoo shappal ayns,9.55,11.77,asr,89
+,cha jean nee'm shappal fastyr mairagh,12.76,15.70,asr,76
+,kys t'ou feer vie gura mie ayd jannoo gee anjeeal mairagh neeym as uss hene cha jeanym nagh jiu nee'm giu caffee son anjeeal,17.86,26.17,asr,96
+,nee yn goo caffee as nee'm gee anjeeal s'mie shen,26.83,29.95,asr,90
+,kys t'ou braew braew gura mie ayd jannoo jeeaghyn er y chellveeish oie ny vairagh cha jin neem geaishtagh rish yn radio,31.72,38.41,asr,92
+,jannoo geaishtagh rish radio vannin cha jin nagh jean cha jin neem geaishtagh rish radio kiare,39.25,45.28,asr,96
+,kys t'ou goll as gaccan gura mie ayd,46.99,49.15,asr,100
+,gimman dys doolish mairagh nee,49.93,51.76,asr,77
+,juan mairagh cha jean juan gimman mairagh jannoo gimman dys shoprite,52.60,56.86,asr,92
+,nee'm gimman moghrey mairagh agh cha jeanym gimman dy valley,58.18,60.82,asr,100
+,kys t'ou castreycair gura mie ayd,62.59,64.63,asr,100
+,jannoo shooyl er y traie mairagh cha jin neem shooyl er ny crink,65.32,69.10,asr,98
+,c'raad nee oo shooyl er ny crink nee'm shooyl ayns mannin well s'mie shen nee'm shooyl moghrey mairagh agh cha jeanym shooyl oie ny vairagh,69.85,77.65,asr,98
+,kys t'ou mie dy liooar gura mie ayd cre nee oo mairagh,79.45,83.35,asr,100
+,cre nee oo jesarn nee'm shappal ayns doolish cre nee oo jedoonee neeym goll dys doolish mie dy liooar,84.82,91.48,asr,94
+,kys t'ou castreycair gura mie ayd,93.73,95.80,asr,100
+,jean oo gobbragh mairagh neeym as uss hene,96.55,99.22,asr,95
+,neeym gobbragh moghrey mairagh agh cha jeanym gobbragh oie ny vairagh nagh jean oo gobbraghey,99.73,104.08,asr,87
+,cha jeanym mish noadyr kys t'ou mie dy liooar gura mie ayd,104.77,110.47,asr,88
+,jean oo loayrt rish juan mairagh neeym as uss hene cha jeanym nee'm loayrt rish juan mairagh s'mie shen jean oo loayrt rish juan jesarn cha jeanym,111.10,120.19,asr,90

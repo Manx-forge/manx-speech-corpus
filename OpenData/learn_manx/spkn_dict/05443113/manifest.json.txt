@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05443113",
+  "name": "Neeym",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05443113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.64,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

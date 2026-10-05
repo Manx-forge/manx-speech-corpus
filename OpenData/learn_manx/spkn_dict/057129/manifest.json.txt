@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057129",
+  "name": "dhull plug",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/dhull%20-%20plug.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057129",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.04,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20bed%20room/dhull%20-%20plug.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

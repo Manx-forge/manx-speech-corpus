@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057422",
+  "name": "cooat coat",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20clothes/cooat%20-%20coat.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057422",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.5,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20clothes/cooat%20-%20coat.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

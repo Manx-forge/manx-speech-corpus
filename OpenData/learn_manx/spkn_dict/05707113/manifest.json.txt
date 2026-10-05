@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05707113",
+  "name": "Cren fa smie lhiat cummal ayns Doolish?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05707113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.87,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

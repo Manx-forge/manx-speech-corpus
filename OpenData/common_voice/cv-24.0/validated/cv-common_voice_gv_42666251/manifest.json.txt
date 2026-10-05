@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42666251",
+  "name": "T'eh faitagh dy streeu dy gheddyn rea rish dy chooilley nhee nagh vel taitnysagh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42666251",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.236,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

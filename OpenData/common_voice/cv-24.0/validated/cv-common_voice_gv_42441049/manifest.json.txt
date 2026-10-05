@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42441049",
+  "name": "As v'eh ayns seaghyn mooar mygeayrt-y-mysh.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42441049",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.076,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

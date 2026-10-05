@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054291",
+  "name": "lugh mouse",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/lugh%20-%20mouse.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054291",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.63,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/lugh%20-%20mouse.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

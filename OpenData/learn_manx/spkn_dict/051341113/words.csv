@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,ta,0.30,0.42,aligned
+0,1,mee,0.42,0.60,aligned
+0,2,credjal,0.60,1.29,aligned

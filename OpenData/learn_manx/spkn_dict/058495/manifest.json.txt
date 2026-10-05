@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058495",
+  "name": "oie night",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/oie%20-%20night.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058495",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.68,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/oie%20-%20night.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

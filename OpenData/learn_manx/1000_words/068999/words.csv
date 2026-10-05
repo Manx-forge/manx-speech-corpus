@@ -1,0 +1,10 @@
+line,idx,word,start,end,status
+0,0,S'liklee,1.35,2.04,aligned
+0,1,/,,,unaligned
+0,2,Mooar,2.61,3.09,aligned
+0,3,/,,,unaligned
+0,4,Beg,3.75,4.14,aligned
+0,5,/,,,unaligned
+0,6,Jiass,13.14,13.71,aligned
+0,7,/,,,unaligned
+0,8,twoaie,14.82,15.27,aligned

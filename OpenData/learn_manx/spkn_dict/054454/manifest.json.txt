@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054454",
+  "name": "paitchey child",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20family/paitchey%20-%20child.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054454",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.89,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20family/paitchey%20-%20child.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

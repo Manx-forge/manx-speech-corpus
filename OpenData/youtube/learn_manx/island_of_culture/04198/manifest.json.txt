@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04198",
+  "name": "Nagh mie lhiat kiaull Manninagh?",
+  "source": "https://www.youtube.com/watch?v=ElBns5PJjhU",
+  "platform": "youtube",
+  "resource_id": "04198",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 25.45,
+  "deep_link": "https://www.youtube.com/watch?v=ElBns5PJjhU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

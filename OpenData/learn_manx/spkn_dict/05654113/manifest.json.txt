@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05654113",
+  "name": "Cha nel eh skee agh teh beggan çhing",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05654113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.77,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

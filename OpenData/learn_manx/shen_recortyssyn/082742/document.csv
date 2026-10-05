@@ -1,0 +1,36 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid shey-jeig c'red by vie lhiat,0.70,4.09,asr,100
+,by vie lhiam jough by vie lhiat goll,6.01,9.55,asr,100
+,by vie lesh bee by vie lhee bainney,10.48,13.87,asr,100
+,cheet by vie lhiu gynsaghey,15.55,18.13,asr,86
+,by vie lhieu bonnag by vie lesh cart ushtey bea,19.12,23.38,asr,100
+,by vie lhiam jough by vie lhiat goll,24.94,28.06,asr,100
+,lesh bee by vie lhee bainney,29.50,32.47,asr,86
+,cheet by vie lhieu gynsaghey,34.12,36.76,asr,86
+,bonnag by vie lesh africa caashey,38.26,41.17,asr,56
+,cha by vie lhiam jough cha by vie lhiat goll,42.07,45.49,asr,100
+,cha by vie lesh bee cha by vie lhee bainney,46.30,49.75,asr,100
+,cha by vie cheet cha by vie lhiu gynsaghey,50.44,54.01,asr,100
+,cha by vie lhieu bonnag cha by vie lesh cart ushtey bea,54.97,59.17,asr,100
+,nagh by vie lhiam jough nagh by vie lhiat goll,61.45,65.17,asr,100
+,nagh by vie lesh bee nagh by vie lhee bainney,66.13,69.82,asr,100
+,nagh by vie lhien cheet nagh by vie lhieu gynsaghey,70.63,74.38,asr,100
+,nagh by vie lhieu bonnag agh by vie lesh africa caashey,75.34,79.42,asr,98
+,bare lhiat ushtey,83.47,84.49,asr,82
+,bare lesh gimman bare lhee spollagyn,85.57,88.93,asr,97
+,bare lhien shooyl bare lhieu roie,90.01,93.16,asr,87
+,bare lhieu cadley bare lesh moirrey caayl,93.97,97.39,asr,63
+,bare lhiam ushtey bare lhiat caffee,98.62,101.59,asr,100
+,bare lesh gimman bare lhee spollagyn,102.67,105.52,asr,84
+,bare lhien shooyl bare lhieu cloie cammag,106.42,109.39,asr,93
+,bare lhieu cadley bare lesh moirrey feill vart,110.32,113.77,asr,88
+,bare lesh yn moddey conneeyn cha bare lhiam ushtey,114.82,118.48,asr,87
+,cha bare lhiat caffee cha bare lesh gimman,119.35,122.80,asr,100
+,cha bare lhee spollagyn cha bare lhien shooyl,123.79,127.27,asr,100
+,cha bare lhieu cloie keayrtyn cha bare lhieu cadley cha bare lesh moirrey feill vuc,127.99,134.08,asr,91
+,cha bare lesh yn moddey conneeyn nagh bare lhiam oo,135.19,140.68,asr,94
+,nagh bare lhiat caffee nagh bare lesh eeym,141.97,145.48,asr,100
+,nagh bare lhee spollagyn nagh bare lhien shooyl,146.14,149.50,asr,100
+,nagh bailliu cloie stubbin nagh bare lhieu cadley,150.67,154.54,asr,90
+,nagh bare lesh moirrey feill vart,155.41,157.42,asr,100
+,nagh bare lesh yn moddey bagoon,158.29,160.12,asr,100

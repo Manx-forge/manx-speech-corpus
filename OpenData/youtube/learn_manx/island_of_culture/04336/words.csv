@@ -1,0 +1,9 @@
+line,idx,word,start,end,status
+0,0,cha,5.91,6.09,aligned
+0,1,nee,6.09,6.39,aligned
+0,2,toot,6.39,6.72,aligned
+0,3,mish,6.72,7.20,aligned
+0,4,cha,15.06,15.21,aligned
+0,5,nee,15.21,15.60,aligned
+0,6,toot,15.60,15.93,aligned
+0,7,mish,15.93,16.32,aligned

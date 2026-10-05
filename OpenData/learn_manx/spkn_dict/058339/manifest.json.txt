@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058339",
+  "name": "fastyr afternoon",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/fastyr%20-%20afternoon.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058339",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.69,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20months%20and%20time/fastyr%20-%20afternoon.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

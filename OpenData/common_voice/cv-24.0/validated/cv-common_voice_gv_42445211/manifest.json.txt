@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445211",
+  "name": "Nagh vel mie as sie cheet magh ass beeal yn er-syrjey?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445211",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.704,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

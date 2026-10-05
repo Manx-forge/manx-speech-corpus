@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059006",
+  "name": "ratchal-roar cycle racing",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/ratchal-roar%20-%20cycle%20racing.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059006",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.44,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20sport%20and%20games/ratchal-roar%20-%20cycle%20racing.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05736113",
+  "name": "She. Ass Uss? Nee Butty uss?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "05736113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.52,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

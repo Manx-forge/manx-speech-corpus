@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057367",
+  "name": "thunnag duck",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Birds/thunnag%20-%20duck.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057367",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.86,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Birds/thunnag%20-%20duck.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

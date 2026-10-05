@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42447424",
+  "name": "Cha vel ny deiney coyrt geill da ny shenn chliaghtaghyn, myr v'ad keayrt.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42447424",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.596,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

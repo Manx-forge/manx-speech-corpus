@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457201",
+  "name": "Shiuish leeideilee doal, ta sheeley veue yn char-chuilag, agh sluggee shiu camel.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457201",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.108,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

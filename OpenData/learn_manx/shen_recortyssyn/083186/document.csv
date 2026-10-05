@@ -1,0 +1,58 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,bee yn dooghys tomorrow bee yn dooghys tomorrow,0.55,6.61,asr,0
+,bee oo ayns doolish mairagh bee oo ayns doolish mairagh,7.75,11.44,asr,100
+,ansherbee beeym maynrey mairagh,14.47,24.94,asr,63
+,bee'm maynrey mairagh bee ayns saturday,25.18,28.54,asr,83
+,well bee ayns jesarn c'raad vees oo jesarn,33.73,38.95,asr,58
+,beeym colby colby cuin vees oo ayns colby cuin vees oo ayns colby,40.15,50.50,asr,92
+,bea ayns,61.48,62.05,asr,35
+,ayns doolish ny sanmee bee eh ayns doolish ny sanmee,61.84,65.26,asr,85
+,in douglas tonight in douglas,68.47,75.67,asr,6
+,cha bee'm ayns doolish noght cha bee'm ayns doolish noght,76.60,80.14,asr,100
+,hie shin watch the,82.24,83.02,asr,12
+,neeym jeeaghyn er yn chellveeish ny sanmee neeym jeeaghyn er y chellveeish ny sanmee,91.54,96.40,asr,94
+,cha jeanym tannaghtyn,106.30,107.29,asr,68
+,sthie cha jeanym tannaghtyn sthie,107.20,110.17,asr,67
+,jeu nee eh geaishtagh rish yn radio nee eh geaishtagh rish yn radio,119.11,124.06,asr,96
+,we shall not watch the t'v we shall not watch,124.72,133.69,asr,0
+,cha jean mayd jeeaghyn er y chellveeish cha jean mayd jeeaghyn er y chellveeish,134.86,139.03,asr,99
+,hie shialgow to douglas on friday hem dys doolish jeheiney,140.08,150.46,asr,43
+,hem dys doolish jeheiney,151.36,152.92,asr,79
+,colby as,154.57,160.99,asr,0
+,colby cha jem dys colby cha jem dys colby,161.80,165.43,asr,100
+,go to ramsey on monday ramsey on monday,167.23,175.12,asr,0
+,dys rhumsaa jelune dys rhumsaa jelune,175.54,178.99,asr,73
+,nagh jean oo dy valley nagh jean oo dy valley,187.66,190.33,asr,84
+,higym dy valley,200.26,201.07,asr,0
+,tree hig-ym dy valley ec tree,201.22,203.95,asr,72
+,cha jigym dy valley noght cha jigym dy valley noght,214.33,217.45,asr,61
+,jig oo dy valley noght jig oo dy valley noght,225.70,228.46,asr,76
+,jeeaghyn,235.57,235.81,asr,0
+,nagh jig oo dy valley noght nagh jig oo dy valley noght,236.92,239.86,asr,80
+,shelg dys y juan juan,240.64,247.21,asr,35
+,verrym shilley er juan noght verrym shilley er juan noght,248.02,251.77,asr,96
+,cha derrym shilley er y thie-tashtee,261.22,263.14,asr,69
+,cha derrym shilley er yn thie-tashtee,263.38,265.33,asr,100
+,is it mary mary der oo shilley er mary der oo shilley er mary,266.38,276.10,asr,83
+,hee'm oo ny s'anmey hee'm oo ny s'anmey,280.96,283.51,asr,95
+,hie shin not see you tomorrow hie,284.38,289.51,asr,0
+,tomorrow cha vaikym oo mairagh cha vaikym oo mairagh,290.44,294.85,asr,92
+,nagh vaik oo mee ny sanmee nagh vaik oo mee ny sanmee,302.11,305.29,asr,76
+,aye,311.71,311.92,asr,0
+,yione yn arran yione yn arran,313.18,315.67,asr,48
+,in shoprite in shoprite,317.23,324.19,asr,65
+,shen ayns shoprite shen ayns shoprite,325.06,328.03,asr,82
+,will you get the milk vow oo yn bainney,333.25,335.80,asr,15
+,vel oo yn bainney gowym toshiaght,336.73,345.88,asr,57
+,ghow yn toshiaght john,346.45,349.90,asr,70
+,joan cuin ver oo shilley er john,355.48,357.91,asr,64
+,cuin ver oo shilley er john,358.57,360.22,asr,67
+,cre'n traa hig oo dy valley cre'n traa hig oo dy valley,369.04,372.73,asr,100
+,goll as coon hed oo dys doolish cuin hed oo dys doolish,374.83,384.82,asr,75
+,hwoaillee tomorrow tomorrow quoi ver oo shilley er mairagh quoi ver oo,385.87,395.92,asr,53
+,vel oo shilley er mairagh bread,395.71,399.07,asr,48
+,the bread c'raad yiow yn arran c'raad yiow yn arran,403.57,407.89,asr,84
+,coon hee'm oo reesht coon hee'm oo reesht,415.99,418.75,asr,85
+,douglas not,421.99,427.84,asr,0
+,in douglas cha nel mee shickyr tra bee'm ayns doolish cha nel mee shickyr tra bee'm ayns doolish,428.95,435.19,asr,80
+,cha nel mee shickyr raaidyn mairagh cha nel mee shickyr raad v'eh mairagh,444.04,448.51,asr,92

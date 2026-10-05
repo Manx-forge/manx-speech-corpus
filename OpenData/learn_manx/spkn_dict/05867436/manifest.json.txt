@@ -1,0 +1,14 @@
+{
+  "ident": "speech-05867436",
+  "name": "keyl thin",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Thin.mp3",
+  "platform": "learn_manx",
+  "resource_id": "05867436",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 4.21,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/Adjectives_Thin.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

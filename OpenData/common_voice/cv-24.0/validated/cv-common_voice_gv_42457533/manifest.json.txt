@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457533",
+  "name": "Va mee son craid da ooilley my phobble, as yn ronneeaght oc fey-ny-laa.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457533",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 9.288,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

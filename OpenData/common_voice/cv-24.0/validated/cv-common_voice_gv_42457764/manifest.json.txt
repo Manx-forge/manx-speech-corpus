@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457764",
+  "name": "As mysh da-eed blein dy hraa dymmyrk eh ayns yn aasagh lesh nyn ghrogh-ellyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457764",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.856,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

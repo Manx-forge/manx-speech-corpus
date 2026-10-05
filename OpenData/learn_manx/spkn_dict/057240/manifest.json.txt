@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057240",
+  "name": "geayltyn shoulders",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20body/geayltyn%20-%20shoulders.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057240",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.07,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20body/geayltyn%20-%20shoulders.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

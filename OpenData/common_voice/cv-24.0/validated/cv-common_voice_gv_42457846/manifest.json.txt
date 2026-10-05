@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42457846",
+  "name": "Ta mee yeearree diu shee as slaynt as cadley sauçhey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42457846",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.912,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

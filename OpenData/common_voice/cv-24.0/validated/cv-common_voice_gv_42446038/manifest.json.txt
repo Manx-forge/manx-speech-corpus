@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42446038",
+  "name": "O vaase! cre vel dty ghah? O oaie! cre vel dty varriaght?",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42446038",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.84,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

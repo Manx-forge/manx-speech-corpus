@@ -1,0 +1,15 @@
+line,idx,word,start,end,status
+0,0,Dy,1.62,1.71,aligned
+0,1,"jarroo,",1.71,2.13,aligned
+0,2,lesh,2.28,2.52,aligned
+0,3,dty,2.52,2.64,aligned
+0,4,hooillyn,2.64,3.12,aligned
+0,5,ver,3.12,3.42,aligned
+0,6,oo,3.42,3.51,aligned
+0,7,my-ner:,3.51,4.14,aligned
+0,8,as,4.95,5.31,aligned
+0,9,hee,5.34,5.58,aligned
+0,10,oo,5.58,5.79,aligned
+0,11,leagh,5.91,6.48,aligned
+0,12,ny,6.51,6.63,aligned
+0,13,mee-chrauee.,6.63,7.44,aligned

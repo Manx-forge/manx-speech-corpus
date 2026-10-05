@@ -1,0 +1,21 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon nane-jeig as feed leslie,0.31,3.19,asr,76
+,cha jagh eh hie ad,7.78,11.08,asr,56
+,seose sheese,12.97,15.67,asr,38
+,magh stiagh,17.50,20.44,asr,100
+,dys scoill dys y cheeill,22.03,25.15,asr,100
+,hie ad seose hie ad sheese,27.49,31.15,asr,83
+,hie ad magh hie ad stiagh,32.77,36.31,asr,100
+,hie ad dys scoill hie ad dys y cheeill,38.05,42.19,asr,100
+,jagh jishag dys y cheeill honnick mee perick goll dys scoill,44.50,49.99,asr,97
+,hie ny guillyn dy-valley lurg shey er y chlag,52.03,55.24,asr,88
+,cha jagh peiagh erbee stiagh,57.43,59.38,asr,100
+,jagh yn moddey maghey raad hie ny guillyn sheese shin garey,61.84,67.42,asr,95
+,cowrey post yn fer post,72.64,76.27,asr,62
+,breeshey cowraghyn,77.65,80.26,asr,100
+,queig pingyn jeig cowrey queig pingyn,81.91,86.26,asr,100
+,jeih pingyn nuy pingyn dy vrishey,88.45,92.38,asr,88
+,vel yn traa post ersooyl cha nel cha nel eh,95.11,100.03,asr,85
+,feer vie three cowraghyn queig pingyn my saillt,102.52,106.27,asr,98
+,queig pingyn jeig my sailt shoh feed ping,107.17,111.04,asr,88
+,queig pingyn dy vrishey gura mie ayd,111.82,114.55,asr,100

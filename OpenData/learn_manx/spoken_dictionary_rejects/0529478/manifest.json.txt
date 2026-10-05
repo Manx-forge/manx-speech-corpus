@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0529478",
+  "name": "Grayse The Grace",
+  "source": "https://www.learnmanx.com/media/dictionary%20for%20church/04Grayse.mp3",
+  "platform": "learn_manx",
+  "resource_id": "0529478",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 11.13,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20for%20church/04Grayse.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

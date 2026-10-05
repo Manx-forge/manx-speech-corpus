@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,nee,0.12,0.27,aligned
+0,1,skeet,0.27,0.60,aligned
+0,2,voirrey,0.60,0.96,aligned

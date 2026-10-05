@@ -1,0 +1,12 @@
+line,idx,word,start,end,status
+0,0,Perkin,1.86,2.43,aligned
+0,1,/,,,unaligned
+0,2,Loayrt,2.70,3.21,aligned
+0,3,/,,,unaligned
+0,4,Clagh,3.42,4.02,aligned
+0,5,/,,,unaligned
+0,6,Caashey,4.29,4.89,aligned
+0,7,/,,,unaligned
+0,8,er,13.56,13.68,aligned
+0,9,my,13.68,13.80,aligned
+0,10,hon,13.80,14.16,aligned

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42496193",
+  "name": "Tar jee hym's ooilley shiuish ta deinagh as trome laadit as verryms fea diu.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42496193",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.488,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42587188",
+  "name": "As ren ny ushtaghyn lhieeney er y thalloo shiaght feed laa as jeih.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42587188",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.616,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

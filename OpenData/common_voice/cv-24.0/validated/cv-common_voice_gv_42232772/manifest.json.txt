@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42232772",
+  "name": "Ver-ym lhiam my hushtey veih foddey, as ver-yms cairys gys lieh my Er-croo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42232772",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.244,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

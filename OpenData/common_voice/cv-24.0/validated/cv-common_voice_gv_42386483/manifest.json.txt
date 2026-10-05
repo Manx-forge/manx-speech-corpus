@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42386483",
+  "name": "Daa cheead goair woirryn, as feed goair fyrryn, daa cheead keyrrey, as feed rea.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42386483",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 10.08,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

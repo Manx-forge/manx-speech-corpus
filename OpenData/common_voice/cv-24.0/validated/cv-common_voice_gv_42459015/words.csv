@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,Mie,0.45,0.72,aligned
+0,1,"Mannin,",0.72,1.23,aligned
+0,2,mie,1.71,1.92,aligned
+0,3,Nherin,1.92,2.49,aligned

@@ -1,0 +1,5 @@
+line,idx,word,start,end,status
+0,0,shegin,0.00,0.60,aligned
+0,1,dou,0.60,0.87,aligned
+0,2,shappal,0.87,1.35,aligned
+0,3,jiu,1.35,1.71,aligned

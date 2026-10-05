@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04219",
+  "name": "Cre gollrish vees yn emshyr mairagh? Er-lhiams dy bee eh fliugh",
+  "source": "https://www.youtube.com/watch?v=J46ZqgOWAvw",
+  "platform": "youtube",
+  "resource_id": "04219",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 23.29,
+  "deep_link": "https://www.youtube.com/watch?v=J46ZqgOWAvw&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,lessoon kiare-jeig as daeed lesson fifty,0.85,4.45,asr,100
+,dyn dyn eeym erbee,6.37,8.59,asr,60
+,dyn eeast erbee dyn feill erbee,9.43,12.10,asr,100
+,erbee dyn oohyn erbee,13.42,16.00,asr,80
+,dyn brishtaghyn erbee dyn oranjeyn erbee,16.63,20.14,asr,100
+,tar ny tar,21.82,24.04,asr,78
+,t'eh cheet v'eh cheet haink eh,24.82,28.18,asr,100
+,cha daink eh nagh,28.84,31.66,asr,94
+,daink oo dy valley dyn eeym erbee daink oo dy valley dyn eeast erbee,34.90,39.55,asr,94
+,daink oo dy valley dyn feill erbee daink oo dy valley dyn oohyn erbee,40.66,45.10,asr,69
+,haink oo dy valley dyn brishtaghyn erbee balley dyn oranjeyn erbee,46.09,50.92,asr,63
+,my ta dy valley da'n pabyr haink yn moddey dy valley marish ny paitchyn,53.29,59.20,asr,70
+,ta mee smooinaghtyn dy vel eh cheet dy valley,60.73,62.71,asr,100
+,jagh eh dy valley t'ad cheet dy valley dys nherin,63.79,67.45,asr,94
+,hie ad ooilley dy valley er y traen va mee laccal,69.10,74.08,asr,100
+,dooar oo cooid,75.28,78.94,asr,78
+,poagey dy chooid magh lhiat,80.05,82.81,asr,100
+,soiag er y toieag,83.68,86.11,asr,45
+,dy daag mee dooar oo ny reddyn shen va mee laccal,87.25,96.22,asr,65
+,hooar son shickyrys magh lhiat as fow ad ass y ghleashtan,97.09,100.51,asr,100
+,cha nel red erbee sy ghleashtan orry nagh vel poagey dy chooid shen,101.65,105.37,asr,97
+,cha nel cha nel red erbee ayn ta mee smooinaghtyn dy daag mee ad sy chapp,106.54,111.19,asr,100

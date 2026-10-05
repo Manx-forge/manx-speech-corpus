@@ -1,0 +1,31 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,unnid daa-yeig cheayll mee yn taarnagh riyr,2.05,5.86,asr,100
+,cheayll oo yn naight cheayll eh yn ronneeaght ayns doolish,7.48,12.28,asr,100
+,cheayll ee yn moddey gounstyrnee cheayll shin juan loayrt jeh,13.60,18.31,asr,97
+,cheayll shin sleih goaill arrane cheayll ad yn skeeal er yn radio,19.69,24.43,asr,100
+,cha geayll mee yn taarnagh riyr cha geayll oo yn naight,25.99,29.89,asr,100
+,cha geayll eh yn ronneeaght ayns doolish cha geayll eh yn moddey gounsternee,30.88,35.56,asr,100
+,cha geayll shin juan loayrt jeh cha geayll shiu sleih goaill arrane,36.49,41.29,asr,100
+,cha geayll ad yn skeeal er yn radio geayll mee yn taarnagh riyr,42.13,47.50,asr,100
+,geayll oo yn naight geaylin ronniaght ayns doolish,48.52,52.54,asr,84
+,gee yn moddey gounstyrnee gioal shin juan loayrt jeh,53.44,57.64,asr,88
+,geayll shiu sleih goaill arrane geayll ad yn skeeal er yn radio,58.99,63.49,asr,92
+,nagh geayll mee yn taarnagh riyr nagh geayll oo yn naight,64.15,68.56,asr,100
+,nagh geayll eh yn ronneeaght ayns doolish,69.79,71.83,asr,85
+,nagh geayll ee yn moddey gounstyrnee nagh geayll shin juan loayrt jeh,72.91,77.68,asr,99
+,nagh geayll shiu sleih goll arrane,78.88,80.80,asr,94
+,nagh geayll ad yn skeeal er yn radio,81.94,83.92,asr,100
+,haink mee erash ec nuy haink oo er y varroose,84.58,88.15,asr,100
+,haink eh dy valley haink ee dy valley ayns taksee,89.26,92.80,asr,100
+,haink shin er y vaatey haink shiu er yn etlan,93.67,96.88,asr,100
+,haink ad dy valley scooyrit cha daink mee erash ec nuy,98.08,103.90,asr,100
+,cha daink oo er y varroose cha daink eh dy valley,104.89,108.22,asr,100
+,cha daink ee dy valley ayns taksee cha daink shin er y vaatey,109.03,112.72,asr,100
+,cha daink shiu er yn etlan cha daink ad dy valley scooyrit,113.47,117.22,asr,100
+,daink mee erash ec nuy daink oo er y varroose,119.02,122.62,asr,100
+,daink eh dy valley daink ee dy valley ayns taksee,123.43,126.58,asr,82
+,daink shin er y vaatey daink shiu er yn etlan,127.66,130.69,asr,91
+,daink ad dy valley scooyrit nagh daink mee erash ec nuy,131.71,136.60,asr,80
+,nagh daink oo er y varroose nagh daink eh dy valley,137.92,141.55,asr,100
+,nagh daink ee dy valley ayns taksee nagh daink shin er y vaatey,142.60,146.74,asr,100
+,nagh daink shiu er yn etlan nagh daink ad dy valley scooyrit,147.64,151.48,asr,100

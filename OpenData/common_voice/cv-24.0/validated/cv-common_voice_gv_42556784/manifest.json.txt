@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42556784",
+  "name": "Cha giangle oo beeall y dow, choud's t'eh stampey magh yn arroo.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42556784",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.048,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

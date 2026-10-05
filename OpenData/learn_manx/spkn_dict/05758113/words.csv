@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,creg,0.18,0.42,aligned
+0,1,ny,0.42,0.51,aligned
+0,2,baa,0.54,0.96,aligned

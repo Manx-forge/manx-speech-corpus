@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051674113",
+  "name": "My oddys oo fakin",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051674113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.68,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

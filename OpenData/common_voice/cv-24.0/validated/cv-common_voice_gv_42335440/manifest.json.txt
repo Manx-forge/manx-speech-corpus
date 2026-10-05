@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42335440",
+  "name": "Cha nee son mee-chairys erbee ayns my laueyn: ta my phadjer myrgeddin ynrick.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42335440",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.1,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

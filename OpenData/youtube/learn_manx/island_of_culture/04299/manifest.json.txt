@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04299",
+  "name": "Cre shegin dhyt jannoo jiu? Shegin dou goll shappal",
+  "source": "https://www.youtube.com/watch?v=M9XJUmE6EcI",
+  "platform": "youtube",
+  "resource_id": "04299",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 22.89,
+  "deep_link": "https://www.youtube.com/watch?v=M9XJUmE6EcI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

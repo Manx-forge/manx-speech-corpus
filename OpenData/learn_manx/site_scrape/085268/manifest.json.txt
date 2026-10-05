@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085268",
+  "name": "ned_maddrell_marish_stewy",
+  "source": "https://www.learnmanx.com/media/Files/ned%20maddrell%20marish%20stewy.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085268",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 93.62,
+  "deep_link": "https://www.learnmanx.com/media/Files/ned%20maddrell%20marish%20stewy.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

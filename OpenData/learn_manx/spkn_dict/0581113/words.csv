@@ -1,0 +1,7 @@
+line,idx,word,start,end,status
+0,0,ta,0.00,0.30,aligned
+0,1,voirrey,0.30,0.75,aligned
+0,2,shooyl,0.75,0.99,aligned
+1,0,vel,0.99,1.08,aligned
+1,1,voirrey,1.08,1.29,aligned
+1,2,shooyl,1.29,1.47,aligned

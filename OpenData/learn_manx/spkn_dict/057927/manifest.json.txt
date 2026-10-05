@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057927",
+  "name": "plumbys plum",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20food/plumbys%20-%20plum.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057927",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.97,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20food/plumbys%20-%20plum.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

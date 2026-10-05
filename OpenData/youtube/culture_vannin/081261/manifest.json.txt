@@ -1,0 +1,14 @@
+{
+  "ident": "speech-081261",
+  "name": "Tar shiu gys y Chooish!",
+  "source": "https://www.youtube.com/watch?v=qMhBg9XLrDI",
+  "platform": "youtube",
+  "resource_id": "081261",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 29.53,
+  "deep_link": "https://www.youtube.com/watch?v=qMhBg9XLrDI&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

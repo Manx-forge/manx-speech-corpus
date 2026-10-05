@@ -1,0 +1,14 @@
+{
+  "ident": "speech-051530113",
+  "name": "Cha row ee maynrey",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "051530113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.82,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

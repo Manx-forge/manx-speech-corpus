@@ -1,0 +1,14 @@
+{
+  "ident": "speech-084668",
+  "name": "pargys_caillit_mychione_reeriaght_niau_",
+  "source": "https://www.learnmanx.com/media/Files/pargys%20caillit%20mychione%20reeriaght%20niau%20.mp3",
+  "platform": "learn_manx",
+  "resource_id": "084668",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 113.68,
+  "deep_link": "https://www.learnmanx.com/media/Files/pargys%20caillit%20mychione%20reeriaght%20niau%20.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

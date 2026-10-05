@@ -1,0 +1,14 @@
+{
+  "ident": "speech-0421",
+  "name": "Mish Jenny as shoh my charrey Ali",
+  "source": "https://www.youtube.com/watch?v=qCH_Ghl6HJU",
+  "platform": "youtube",
+  "resource_id": "0421",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 21.85,
+  "deep_link": "https://www.youtube.com/watch?v=qCH_Ghl6HJU&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

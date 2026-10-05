@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058134",
+  "name": "sooslagh feeackle toothpaste",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/sooslagh%20feeackle%20-toothpaste.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058134",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.7,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/sooslagh%20feeackle%20-toothpaste.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-087239",
+  "name": "Arabagh Vecca",
+  "source": "https://www.learnmanx.com/media/Stories/Arabagh%20Vecca.pdf",
+  "platform": "learn_manx",
+  "resource_id": "087239",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 401.58,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42665004",
+  "name": "Tra ta soilshey Yee ersooyl ta soilshean greiney share dorraghys.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42665004",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.488,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

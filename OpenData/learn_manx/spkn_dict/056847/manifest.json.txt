@@ -1,0 +1,14 @@
+{
+  "ident": "speech-056847",
+  "name": "aarey ladder",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20garden/aarey%20-%20ladder.mp3",
+  "platform": "learn_manx",
+  "resource_id": "056847",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.99,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20garden/aarey%20-%20ladder.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

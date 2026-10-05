@@ -1,0 +1,14 @@
+{
+  "ident": "speech-058118",
+  "name": "shamyr room",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20house/shamyr%20-%20room.mp3",
+  "platform": "learn_manx",
+  "resource_id": "058118",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.76,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20house/shamyr%20-%20room.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

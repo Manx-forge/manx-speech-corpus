@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42445048",
+  "name": "Yn preaçhoor ta jannoo taitnys da deiney, t'eh myrgeddyn stroieder ammeeyn.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42445048",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.668,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

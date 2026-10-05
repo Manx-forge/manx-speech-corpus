@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42629153",
+  "name": "As er-yn-oyr dy jean olkys bishaghey, nee graih ymmodee feayraghey.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42629153",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.156,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

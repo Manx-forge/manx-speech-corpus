@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09145",
+  "name": "Abbyr Shen Reesht - Say That Again 6th March 2022",
+  "createdCircaStart": "2022-03-06",
+  "createdCircaEnd": "2022-03-06",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-6th-march-2022/",
+  "platform": "manx_radio",
+  "resource_id": "09145",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1513.69,
+  "deep_link": "https://podcasts.captivate.fm/media/7ea6f4c5-9070-47c8-9c34-a7eb122232d7/4913.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

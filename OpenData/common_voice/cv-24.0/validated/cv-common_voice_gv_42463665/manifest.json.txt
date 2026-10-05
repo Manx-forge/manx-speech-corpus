@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42463665",
+  "name": "Ta my chronney er duittym ayns cheer aalin: dy feer, ta aym eiraght ooasle.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42463665",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 8.424,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

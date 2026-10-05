@@ -1,0 +1,14 @@
+{
+  "ident": "speech-059772",
+  "name": "oard hammer",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/oard%20-%20hammer.mp3",
+  "platform": "learn_manx",
+  "resource_id": "059772",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.33,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20Work%20shop/oard%20-%20hammer.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

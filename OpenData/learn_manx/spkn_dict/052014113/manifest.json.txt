@@ -1,0 +1,14 @@
+{
+  "ident": "speech-052014113",
+  "name": "Jean Voirrey goll dys y traie?",
+  "source": null,
+  "platform": "learn_manx",
+  "resource_id": "052014113",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 2.22,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "LearnManx app dump; no public URL"
+}

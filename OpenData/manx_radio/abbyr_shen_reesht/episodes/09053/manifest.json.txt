@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09053",
+  "name": "Abbyr Shen Reesht 7th June 2020",
+  "createdCircaStart": "2020-06-06",
+  "createdCircaEnd": "2020-06-06",
+  "source": "https://www.manxradio.com/player/podcasts/episodes/abbyr-shen-reesht-7th-june-20201/",
+  "platform": "manx_radio",
+  "resource_id": "09053",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 739.06,
+  "deep_link": "https://podcasts.captivate.fm/media/ec7b3806-f81f-4c92-b7bc-26508ed9e179/2320-converted.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

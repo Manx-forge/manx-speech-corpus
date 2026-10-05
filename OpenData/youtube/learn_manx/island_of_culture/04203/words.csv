@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,shegin,6.24,6.63,aligned
+0,1,dou,6.63,6.90,aligned
+0,2,cloie,7.08,7.32,aligned
+0,3,kiaull,7.32,7.65,aligned
+0,4,nish,7.65,8.01,aligned
+0,5,shegin,14.46,14.82,aligned
+0,6,dou,14.82,15.09,aligned
+0,7,cloie,15.30,15.51,aligned
+0,8,kiaull,15.51,15.84,aligned
+0,9,nish,15.84,16.20,aligned

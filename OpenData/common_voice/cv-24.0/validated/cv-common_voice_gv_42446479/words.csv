@@ -1,0 +1,11 @@
+line,idx,word,start,end,status
+0,0,Son,0.90,1.17,aligned
+0,1,cur-my-ner,1.17,1.98,aligned
+0,2,ta'n,2.19,2.43,aligned
+0,3,geurey,2.43,2.88,aligned
+0,4,"ceaut,",2.88,3.39,aligned
+0,5,ta'n,4.08,4.29,aligned
+0,6,fliaghey,4.32,4.77,aligned
+0,7,harrish,4.77,5.49,aligned
+0,8,as,5.64,5.88,aligned
+0,9,ersooyl.,5.94,6.54,aligned

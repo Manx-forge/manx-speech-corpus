@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04279",
+  "name": "Chouds va'n laa goll shaghey",
+  "source": "https://www.youtube.com/watch?v=5uoS0XFkZ0E",
+  "platform": "youtube",
+  "resource_id": "04279",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 46.58,
+  "deep_link": "https://www.youtube.com/watch?v=5uoS0XFkZ0E&t={t}s",
+  "alt_urls": [],
+  "link_status": "ok"
+}

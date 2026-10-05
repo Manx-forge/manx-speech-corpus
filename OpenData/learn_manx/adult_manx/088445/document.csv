@@ -1,0 +1,161 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,kys t'ou vision seshoon,0.73,3.31,asr,67
+,three lessoon shiaght-jeig head,4.24,12.01,asr,62
+,was head kiaull,30.31,37.69,asr,0
+,kione y vooir head,39.46,45.10,asr,56
+,ren mee fakin kione,52.60,54.64,asr,100
+,ren mee fakin kione head,55.45,60.61,asr,53
+,ren mee fakin yn kione,68.44,70.57,asr,91
+,ren mee fakin yn kione oddagh,71.68,76.06,asr,57
+,ren mee fakin ren mee fakin kione my voir,84.82,87.31,asr,23
+,ren mee fakin kione y vooa cows,88.36,93.43,asr,57
+,ren mee fakin ayns y gharey,102.97,106.06,asr,64
+,ren mee fakin kione y vooar sy gharey gow-jee sea,106.87,111.31,asr,68
+,yn cabbyl yn cabbyl,116.89,119.26,asr,100
+,daa chabbyl daa chabbyl,127.45,129.97,asr,100
+,cha vel,133.42,144.25,asr,0
+,oo er nakin thie house,144.04,151.84,asr,35
+,binyn thie er nakin yn thie,160.39,163.15,asr,68
+,oh,167.05,167.26,asr,0
+,oo er nakin thie y chabbyl,178.21,181.12,asr,58
+,vel oo er nakin thie yn chabbyl cha nel,182.47,190.96,asr,89
+,cha nel cha,192.01,205.39,asr,56
+,cha nel agh ta mee er nakin garey,205.21,209.35,asr,100
+,ta mee er nakin garey'n vooar lhee,211.72,216.85,asr,54
+,duillag how just say tooillee,223.42,226.63,asr,84
+,daa ghuillag daa ghuillag really,231.76,236.62,asr,61
+,yn duillag yn duillag,242.08,244.24,asr,100
+,blass blass,251.02,253.36,asr,100
+,laik lesh yn,257.26,265.78,asr,14
+,yn blass laik lesh yn blass,265.60,268.12,asr,39
+,oh,283.24,283.45,asr,0
+,lesh blass duillag laik lesh duillag,283.87,287.38,asr,91
+,s'laik s'laik neesht,293.65,297.82,asr,0
+,slaa agh share lesh,307.96,311.08,asr,43
+,ta'n phronnag s'laik goll share lesh fannag,311.62,315.43,asr,56
+,bannag fannag,323.65,325.69,asr,92
+,syn yannag ny,337.75,342.91,asr,0
+,ren mee cur cass da,353.11,356.08,asr,77
+,panda just say,358.81,362.35,asr,20
+,but ta juan ren,363.85,375.10,asr,0
+,ren mee cur cass syn yinnag daa juan,374.92,377.95,asr,57
+,ren mee cur cassyn ynnyd da juan garden,379.18,385.15,asr,59
+,yn garey yn garey,389.50,391.69,asr,100
+,daa gharey,400.33,401.11,asr,26
+,daa gharey bun,401.71,410.41,asr,67
+,bun shen,411.43,420.43,asr,73
+,cre shen shen,420.97,435.88,asr,69
+,bun y gharey shen ec bun y gharey,436.33,439.51,asr,68
+,cha nel mee shickyr,451.63,452.89,asr,47
+,cha nel mee shickyr cha,453.61,469.66,asr,79
+,cha nel mee shickyr neeym briaght jeh breeshey,469.48,473.68,asr,100
+,cha nel mee shickyr neeym briaght jeh breeshey,474.67,476.68,asr,100
+,middle mean,479.92,488.71,asr,45
+,geurey yn geurey as,496.51,501.73,asr,13
+,bee beeym va vel,503.83,515.56,asr,0
+,ayns shen vel peiagh erbee er ve ayns shen,517.57,520.87,asr,76
+,hass ennee bee ny in the middle of the winter,523.84,526.84,asr,46
+,erbee er ve ayns shen ayns mean y yeurey,538.96,542.17,asr,90
+,vel peiagh erbee er ve ayns shen as cha nel,543.55,551.77,asr,52
+,cha nel eh now,552.40,555.88,asr,100
+,cha nel mish ayns shen ayns mean yn ouyr,569.83,574.54,asr,100
+,cha nel mish aynshen ayns mean yn ouyr,575.47,577.60,asr,95
+,shee dys yn like the tast cha,580.78,590.74,asr,0
+,cha laik lhee yn blass cha laik lhee yn blass,590.77,594.82,asr,52
+,t'ee dys y michael teaysteyder drink cha laik lhee blass jough,597.70,613.00,asr,0
+,syn jough shee dys yn,614.83,619.81,asr,69
+,drink cha,621.07,633.46,asr,0
+,cha laik lhee blass jough eh,633.37,636.40,asr,74
+,yn jough eck choud's eh,638.59,641.92,asr,0
+,bio,644.83,645.22,asr,0
+,yn jough jannoo ching jee,655.99,658.63,asr,70
+,ta'n jough jannoo ching j'ee son,659.35,666.76,asr,42
+,yn jough jannoo jee,679.36,681.88,asr,48
+,thie laccal nane elley jough ec jannoo ching j'ee,682.72,687.25,asr,100
+,how just say,690.94,691.96,asr,0
+,yn oie ta mee gee bee,693.07,700.96,asr,21
+,mee gee bee eh,702.07,704.74,asr,60
+,haink mee gee yn bee,705.19,712.06,asr,71
+,bee hie mee the dogs feed,713.50,718.00,asr,50
+,ta mee gee bee yn voddey,728.68,731.56,asr,100
+,bee y voddey hungry,733.27,740.44,asr,34
+,ta mee gee bee eh,751.75,753.40,asr,70
+,son ta mee accryssagh agglagh,754.60,757.54,asr,100
+,ta mee gee bee eh son ta mee accryssagh agglagh,758.86,761.71,asr,100
+,yn,771.16,771.40,asr,0
+,yn mean y phraase va mean y phraase,793.66,798.10,asr,69
+,dy hraa as roa son echey,813.73,816.28,asr,45
+,va mee ny vraar son echey cho just say,817.03,821.59,asr,77
+,queeyl queeyl,827.17,829.33,asr,85
+,as the wheeyl mean y wheeyl,833.59,841.51,asr,0
+,mean y wheeyl dys,842.20,846.28,asr,55
+,ta red ennagh ayns mean y wheeyl,857.86,860.11,asr,100
+,ta red ennagh ayns mean y wheeyl son,860.71,865.12,asr,72
+,ta red ennagh quaagh ayns mean y wheeyl,875.26,878.08,asr,100
+,ta red ennagh quaagh ayns mean y vees,878.92,880.78,asr,62
+,yn sourey yn sourey,887.71,889.99,asr,100
+,summer mean y tourey,895.00,903.40,asr,0
+,mean y tourey how just say,903.97,908.11,asr,59
+,goll ayns mean y tourey goll as mean y tourey,920.77,925.48,asr,75
+,just say mann,928.03,943.90,asr,0
+,bee goll ayns mean y tourey goll as mean y tourey,944.17,948.64,asr,73
+,bee too hot in the middle of summer,952.51,955.18,asr,0
+,my nee eh goll ayns mean y tourey,969.64,972.13,asr,73
+,bee eh roish my nee eh goll ayns mean y tourey,973.30,975.79,asr,70
+,ain noght shuyr cha nel mee shickyr,979.36,987.70,asr,60
+,cha nel mee shickyr cha,988.54,1005.04,asr,79
+,cha nel mee shickyr jee goll ayns mean y tourey,1004.83,1008.85,asr,92
+,cha nel mee shickyr jeh ny goll as nee ny tourey,1009.99,1012.03,asr,88
+,mullagh mullagh,1022.23,1024.78,asr,100
+,yn slieau yn slieau,1033.03,1035.52,asr,81
+,mountain mullagh y clieau,1038.34,1047.70,asr,65
+,mullagh y clieau mountain,1048.51,1054.78,asr,56
+,vel oo beaghey er mullagh y clieau,1064.44,1067.17,asr,100
+,vel oo beaghey er mullagh y clieau cha nel,1067.95,1075.93,asr,78
+,cha nel eh now live in the middle of,1076.59,1081.06,asr,36
+,cha nel ta mee beaghey ayns mean y valley,1091.20,1095.25,asr,92
+,cha nel mee beaghey ayns mean y valley ny townsend,1096.24,1102.12,asr,69
+,cha nel mee beaghey ayns mean y valley nish,1113.79,1118.59,asr,93
+,cha nel ta mee beaghey ayns mean y valley nish,1119.64,1121.89,asr,93
+,choud's t'eh,1124.02,1126.78,asr,0
+,laik lhiat yn blass blass,1133.65,1136.86,asr,65
+,like the tast of the soilshey yn,1139.89,1164.76,asr,18
+,bretnagh yn bretnagh,1164.82,1167.61,asr,85
+,dy vel oo er loayrt rish,1184.62,1187.38,asr,57
+,cha vel,1190.77,1205.35,asr,0
+,oo er loayrt rish moddey yn vrat nagh,1205.17,1208.56,asr,9
+,vel oo er loayrt rish moddey'n vretnagh dog at,1209.85,1217.26,asr,53
+,but rish yn vretnagh foast,1230.97,1233.88,asr,77
+,vel oo er loayrt rish moddey'n vretnagh the french,1234.87,1240.39,asr,59
+,yn frangagh yn frangagh,1249.93,1253.74,asr,85
+,but the cat quoi ta,1257.73,1270.03,asr,0
+,clash jin yn kayt,1270.09,1272.10,asr,63
+,quoi t'er chlashtyn yn kayt cat,1273.45,1279.75,asr,56
+,quoi t'er chlashtyn ta'n rangagh,1289.59,1292.77,asr,85
+,quoi t'er chlashtyn geddyn rangagh yn,1293.49,1305.94,asr,74
+,yn manninagh yn manninagh,1305.76,1308.01,asr,86
+,dys beaghey,1311.61,1323.52,asr,0
+,ta faggys da beaghey faggys da,1323.34,1326.85,asr,73
+,ta lesh shee beaghey,1332.76,1346.83,asr,0
+,cha faggys da'n gheyrey billy beaghey faggys da'n gheyrey,1346.71,1351.12,asr,77
+,dys,1354.96,1355.08,asr,0
+,bee beaghey faggys da yn vanninagh,1369.90,1373.71,asr,87
+,vel oo beaghey faggys da vanninagh,1374.82,1377.16,asr,78
+,cha nel cha nel eh now,1383.04,1387.15,asr,86
+,hiarn,1399.72,1400.14,asr,0
+,cha nel thie beaghey er mullagh y thie,1399.75,1404.13,asr,100
+,beaghey er mullagh y thie house,1405.69,1412.26,asr,34
+,cha nel beaghey er mullagh y thie aym,1422.19,1426.27,asr,88
+,cha nel t'eh beaghey er mullagh y thie aym,1427.47,1429.54,asr,100
+,oh,1435.48,1435.60,asr,0
+,bee-jee ayns mean y valley ayns mean y valley,1446.70,1451.20,asr,74
+,yn,1456.51,1456.57,asr,0
+,bee ayns mean y valley ec lieh oor lurg three,1471.45,1475.74,asr,90
+,feed as mean y valley ec lieh oor lurg three,1476.88,1479.34,asr,86
+,obbeeyn ramsey in the middle of the afternoon beeym,1484.08,1498.84,asr,0
+,beeym ayns rhumsaa ayns mean y,1498.66,1500.88,asr,42
+,bee'm ayns rhumsaa ayns mean yn astyr shey,1502.74,1518.10,asr,72
+,bee manninagh ee shey manninagh ee,1517.92,1521.82,asr,83
+,sheese woman but she lives in the french,1525.63,1528.33,asr,0
+,shey manninagh ee beaghey ayns thie er rangagh ec y traa t'ayn,1543.66,1551.19,asr,87
+,she manninagh ee agh t'eh beaghey ayns thie y rangagh ec y traa t'ayn,1552.24,1555.63,asr,89

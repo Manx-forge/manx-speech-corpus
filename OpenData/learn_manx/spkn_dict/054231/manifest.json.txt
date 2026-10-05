@@ -1,0 +1,14 @@
+{
+  "ident": "speech-054231",
+  "name": "dhiane worm",
+  "source": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/dhiane%20-%20worm.mp3",
+  "platform": "learn_manx",
+  "resource_id": "054231",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 1.31,
+  "deep_link": "https://www.learnmanx.com/media/Dictionary%20-%20Animals/dhiane%20-%20worm.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

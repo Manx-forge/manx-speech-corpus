@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42644663",
+  "name": "Son kindagh rish gueeaghyn as loo-oaiagh ta'n çheer dobberan.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42644663",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.408,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

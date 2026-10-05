@@ -1,0 +1,23 @@
+Speaker,Manx,SubStart,SubEnd,Origin,Confidence
+,pargys caillt mychione reeriaght niau,1.36,4.78,asr,100
+,yn chiarn jee skeayl magh reeriaght vooar dy yee,6.10,9.49,asr,74
+,liauyr fegooish kione as fegooish,10.24,13.12,asr,82
+,niau jirym ree cheer dy vaynrys vooar,15.34,19.27,asr,86
+,lane jeh dagh mie jeh berchys ooashley ayns gloyr,19.81,24.25,asr,100
+,sy reeriaght shen ta'n eunys firrinagh,25.18,28.57,asr,90
+,mieys skyn smooinaght fuirraght son dy bragh,29.50,33.22,asr,95
+,ayns shoh gyn laue ny saase agh pooar e ghoo,34.21,38.89,asr,100
+,ardvalley aalin niartal ren eh chroo,39.64,42.73,asr,62
+,yn voalley ard ta jeant jeh claghyn deyr,43.72,47.44,asr,90
+,ny straidyn rea ta peamadit lesh ayr,48.34,52.51,asr,92
+,daa ghorrys jeig ta as ad shoh leeideil,53.74,57.82,asr,81
+,gys whilleen straid ayns y,58.39,60.97,asr,100
+,ec plaase reeoil y jee mooar ard soilshean,63.58,67.99,asr,69
+,cur sollys gennal's gerjagh gys dagh ayrn,69.25,73.42,asr,100
+,y ghrian ny soilshey dooghyssagh erbee,74.83,78.16,asr,80
+,cha nel ayn feme te gyn scadoo gyn oie,78.82,83.44,asr,100
+,un laa gial rieau nagh bee dy bragh y chooish,84.37,88.06,asr,71
+,gloyr yee yn yillid as y soilshit,89.83,93.31,asr,89
+,jeh foays y valley berchagh shen dy loayrt,94.84,98.20,asr,84
+,feaillee mac leirr cha voddym coontey choyrt jeh'n vaynrys sloo,98.95,104.71,asr,83
+,son reddyn spyrrydoil te ard skyn schlei as tushtey feill as fuill,105.79,112.90,asr,95

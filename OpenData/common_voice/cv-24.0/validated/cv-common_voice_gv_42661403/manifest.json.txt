@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42661403",
+  "name": "Agh dooyrt Yeesey roo, cha lhiass daue goll roue, cur-jee shiuish beaghey daue.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42661403",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 7.488,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

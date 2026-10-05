@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42599740",
+  "name": "As hug eh queig curtanyn dy cheilley orroo hene, as shey curtanyn orroo hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42599740",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 6.48,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,t'eh,0.27,0.45,aligned
+0,1,tappee,0.45,0.81,aligned
+0,2,agglagh,0.81,1.38,aligned

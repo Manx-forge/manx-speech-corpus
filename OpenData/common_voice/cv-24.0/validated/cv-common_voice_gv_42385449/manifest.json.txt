@@ -1,0 +1,14 @@
+{
+  "ident": "speech-cv-common_voice_gv_42385449",
+  "name": "V'ou chymsagh story dy hreihys cour ayd hene.",
+  "source": null,
+  "platform": "common_voice",
+  "resource_id": "cv-common_voice_gv_42385449",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 5.004,
+  "deep_link": null,
+  "alt_urls": [],
+  "link_status": "ok"
+}

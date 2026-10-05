@@ -1,0 +1,16 @@
+{
+  "ident": "speech-09162",
+  "name": "Abbyr Shen Reesht - Say That Again 17th July 2022",
+  "createdCircaStart": "2022-07-16",
+  "createdCircaEnd": "2022-07-16",
+  "source": "https://www.manxradio.com/podcasts/abbyr-shen-reesht-say-that-again1/episode/abbyr-shen-reesht-say-that-again-17th-july-20221/",
+  "platform": "manx_radio",
+  "resource_id": "09162",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 1689.16,
+  "deep_link": "https://podcasts.captivate.fm/media/05501657-94a4-4dd1-8490-7edd33bab1f1/5495.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

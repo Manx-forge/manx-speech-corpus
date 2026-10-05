@@ -1,0 +1,16 @@
+line,idx,word,start,end,status
+0,0,"""Kione",0.87,1.23,aligned
+0,1,mooar,1.23,1.56,aligned
+0,2,er,1.56,1.71,aligned
+0,3,y,1.71,1.80,aligned
+0,4,veggan,1.80,2.22,aligned
+0,5,"cheilley,",2.22,2.79,aligned
+0,6,as,3.15,3.33,aligned
+0,7,kione,3.33,3.72,aligned
+0,8,beg,3.72,4.08,aligned
+0,9,gyn,4.08,4.32,aligned
+0,10,veg,4.32,4.59,aligned
+0,11,edyr;,4.59,4.89,aligned
+0,12,towse,5.46,5.85,aligned
+0,13,cheilley,5.85,6.30,aligned
+0,14,"rish""",6.30,6.75,aligned

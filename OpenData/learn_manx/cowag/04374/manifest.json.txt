@@ -1,0 +1,14 @@
+{
+  "ident": "speech-04374",
+  "name": "Conversation 10",
+  "source": "https://www.learnmanx.com/media//cowag/10%20Track%2010%209.m4a",
+  "platform": "learn_manx",
+  "resource_id": "04374",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 64.64,
+  "deep_link": "https://www.learnmanx.com/media//cowag/10%20Track%2010%209.m4a#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

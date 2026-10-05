@@ -1,0 +1,14 @@
+{
+  "ident": "speech-074662",
+  "name": "skeeal_zen_1_aashagh_easy_version",
+  "source": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%201%20(aashagh).mp3",
+  "platform": "learn_manx",
+  "resource_id": "074662",
+  "origin": "human",
+  "transcript_form": "raw",
+  "aligner": "timestamper",
+  "duration": 164.86,
+  "deep_link": "https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%201%20(aashagh).mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

@@ -1,0 +1,14 @@
+{
+  "ident": "speech-085792",
+  "name": "Lessoon 5 2",
+  "source": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/Lessoon%205%202.mp3",
+  "platform": "learn_manx",
+  "resource_id": "085792",
+  "origin": "asr",
+  "asr_model": "Whisper large-v3 fine-tuned (unfreeze_top12), n-best rescored with TDNN + KenLM (P3b)",
+  "aligner": "timestamper",
+  "duration": 131.27,
+  "deep_link": "https://www.learnmanx.com/media/saase%20jeeragh%20files%20James/Lessoon%205%202.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}

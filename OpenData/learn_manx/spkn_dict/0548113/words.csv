@@ -1,0 +1,4 @@
+line,idx,word,start,end,status
+0,0,vel,0.24,0.45,aligned
+0,1,mannin,0.45,0.78,aligned
+0,2,yindyssagh,0.78,1.53,aligned

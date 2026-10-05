@@ -1,0 +1,14 @@
+{
+  "ident": "speech-057034",
+  "name": "shenn old",
+  "source": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/shenn%20-%20old.mp3",
+  "platform": "learn_manx",
+  "resource_id": "057034",
+  "origin": "human",
+  "transcript_form": "normalised",
+  "aligner": "timestamper",
+  "duration": 0.94,
+  "deep_link": "https://www.learnmanx.com/media/dictionary%20-%20adjectives/shenn%20-%20old.mp3#t={t}",
+  "alt_urls": [],
+  "link_status": "ok"
+}
