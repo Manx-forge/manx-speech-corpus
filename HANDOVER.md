@@ -15,7 +15,8 @@ recording at its source, at the moment the phrase is spoken. No audio is hosted.
 
 **Demo: <https://manx-forge.github.io/manx-speech-corpus/>.** It opens instantly, with no server. It is the site's own client
 from the `speech` branch, unchanged. `demo/speech-api.js` answers its speech API from a static index built by
-`scripts/demo.py`, and `.github/workflows/demo.yml` redeploys it whenever the data changes. Its search is simpler than
+`scripts/demo.py`, and Browse All's speech side is saved from the real server, which the workflow starts for the
+purpose. `.github/workflows/demo.yml` redeploys it whenever the data changes. Its search is simpler than
 the server's (words and phrases, no advanced syntax), and Text, Dictionary and Browse open on the live corpus. To run the real site with both corpora, open the `speech` branch
 [in a Codespace](https://codespaces.new/Manx-forge/manx-corpus-search/tree/speech): it builds and starts itself in a
 few minutes; the Ports tab, port 5000, opens it.

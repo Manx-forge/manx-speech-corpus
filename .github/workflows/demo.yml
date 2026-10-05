@@ -1,5 +1,6 @@
 # The demo on GitHub Pages: the site's own client (Manx-forge/manx-corpus-search, branch speech) with
-# demo/speech-api.js answering its speech API from the index scripts/demo.py builds. Rerun by hand after a site change.
+# demo/speech-api.js answering its speech API from the index scripts/demo.py builds, and Browse All's speech side
+# saved from the running server. Rerun by hand after a site change.
 name: demo
 on:
   push:
@@ -29,12 +30,27 @@ jobs:
           repository: Manx-forge/manx-corpus-search
           ref: speech
           path: site
+          submodules: true
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
       - run: npm ci && npx vite build --base=/manx-speech-corpus/
         working-directory: site/CorpusSearch/ClientApp
-      - run: python scripts/demo.py _site site/CorpusSearch/ClientApp/build /manx-speech-corpus/
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+      # the server, on the speech corpus alone, renders Browse All for demo.py to save
+      - name: Start the site
+        run: |
+          dotnet build site/CorpusSearch/CorpusSearch.csproj -c Release -o "$RUNNER_TEMP/server"
+          mkdir -p "$RUNNER_TEMP/text/none" && echo '{"ident":"none","name":"none"}' > "$RUNNER_TEMP/text/none/manifest.json.txt"
+          printf 'Manx,English\nnone,none\n' > "$RUNNER_TEMP/text/none/document.csv"
+          cd "$RUNNER_TEMP/server"
+          ASPNETCORE_ENVIRONMENT=Production ASPNETCORE_URLS=http://localhost:5000 Loading__OpenDataPath="$RUNNER_TEMP/text" \
+            Speech__OpenDataPath="$GITHUB_WORKSPACE/OpenData" nohup dotnet CorpusSearch.dll > "$RUNNER_TEMP/server.log" 2>&1 &
+          for i in $(seq 100); do curl -sf -o /dev/null "http://localhost:5000/Browse?corpus=speech" && exit 0; sleep 5; done
+          tail -n 30 "$RUNNER_TEMP/server.log"; exit 1
+      - run: python scripts/demo.py _site site/CorpusSearch/ClientApp/build /manx-speech-corpus/ http://localhost:5000
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

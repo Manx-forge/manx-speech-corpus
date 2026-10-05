@@ -1,7 +1,8 @@
 // The demo's server: the site's own client runs unchanged on GitHub Pages, and this answers its api/Speech calls
 // (Search, Work, Lookup, Statistics) from the static index scripts/demo.py builds, in the shapes SpeechService returns.
-// Its search is phrase search over normalised words, not the site's query language. Every page of the site outside
-// Speech and Contribute (Text, Dictionary, Browse, documents) opens on corpus.gaelg.im.
+// Its search is phrase search over normalised words, not the site's query language. Browse All opens its speech side,
+// saved from the server; every other page outside Speech and Contribute (Text, Dictionary, documents) opens on
+// corpus.gaelg.im.
 "use strict"
 ;(() => {
     const BASE = new URL(document.currentScript.src).pathname.replace(/[^/]*$/, "") // "/manx-speech-corpus/"
@@ -24,7 +25,8 @@
         if (/^\/(speech|contribute)(\/|$)/i.test(path)) return
         e.preventDefault()
         e.stopImmediatePropagation()
-        location.href = LIVE + path + url.search
+        // Browse All: its speech side, saved from the server (scripts/demo.py); the rest is the live site's
+        location.href = /^\/browse\/?$/i.test(path) ? BASE + "browse/" : LIVE + path + url.search
     }, true)
 
     const cache = new Map()

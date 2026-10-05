@@ -2,7 +2,11 @@
 with demo/speech-api.js answering its api/Speech calls from a static index of OpenData, so it needs no server.
 Deployed by .github/workflows/demo.yml.
 
-  python scripts/demo.py OUT CLIENT_BUILD BASE     e.g. _site site/CorpusSearch/ClientApp/build /manx-speech-corpus/
+  python scripts/demo.py OUT CLIENT_BUILD BASE [SERVER]
+      e.g. _site site/CorpusSearch/ClientApp/build /manx-speech-corpus/ http://localhost:5000
+
+With SERVER (the site running on the speech corpus), Browse All's speech side, a page the server renders, is saved
+from it as OUT/browse/ (the collections) and OUT/browse/<collection>/ (each one's recordings), links made local.
 
 OUT/data/works.json        [[ident, name, platform, origin, source, deep_link, link_status, date, alt_urls, duration]]
 OUT/data/lines/<w>.json    {meta: {...}, lines: [[start, end, manx, english, confidence, speaker, [word start cs]]]}
@@ -17,9 +21,12 @@ import re
 import shutil
 import sys
 import unicodedata
+import urllib.parse
+import urllib.request
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
+LIVE = "https://corpus.gaelg.im"  # the pages the demo cannot serve (the text corpus, the dictionary)
 
 
 def norm(word):
@@ -37,7 +44,40 @@ def dump(path, obj):
     path.write_text(json.dumps(obj, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
-def main(out, client, base):
+def browse(server, out, base):
+    """Save the server's Browse All speech pages, with their links pointing into the demo (or the live site)."""
+    def slug(key):
+        return key.replace("/", "--")
+
+    def local(match):
+        attr, path = match.group(1), match.group(2)
+        if path.startswith(base):  # already the demo's
+            return match.group(0)
+        collection = re.fullmatch(r"/Browse\?corpus=speech(?:&(?:amp;)?collection=(.+))?", path)
+        if collection:
+            key = urllib.parse.unquote(collection.group(1)) if collection.group(1) else None
+            return f'{attr}="{base}browse/{slug(key) + "/" if key else ""}"'
+        if re.match(r"/(speech|contribute|site-|corpus-search-icon|favicon)", path):
+            return f'{attr}="{base}{path[1:].split("?v=")[0]}"'
+        return f'{attr}="{LIVE}{path}"'
+
+    def save(query, path):
+        with urllib.request.urlopen(f"{server}/Browse?corpus=speech{query}", timeout=120) as f:
+            page = f.read().decode("utf-8")
+        page = re.sub(r'<link rel="canonical"[^>]*>\s*', "", page)
+        # the nav's Browse All stays in the demo (its speech side); the Text toggle's /Browse goes live below
+        page = re.sub(r'href="/Browse"([^>]*>Browse All<)', rf'href="{base}browse/"\1', page)
+        (out / path).mkdir(parents=True, exist_ok=True)
+        (out / path / "index.html").write_text(re.sub(r'(href|src)="(/[^"]*)"', local, page), encoding="utf-8")
+        return page
+
+    keys = sorted({urllib.parse.unquote(k) for k in re.findall(r'collection=([^"&]+)"', save("", "browse"))})
+    for key in keys:
+        save(f"&collection={urllib.parse.quote(key, safe='')}", f"browse/{slug(key)}")
+    print(f"demo: Browse All saved, {len(keys)} collections")
+
+
+def main(out, client, base, server=None):
     out = Path(out)
     shutil.copytree(client, out, dirs_exist_ok=True)
     shutil.copy(REPO / "demo/speech-api.js", out)
@@ -82,6 +122,8 @@ def main(out, client, base):
         for key, part in shards.items():
             dump(out / f"data/{lang}/{key}.json", part)
     print(f"demo: {len(works)} works, {sum(len(t) for t in index.values())} terms -> {out}")
+    if server:
+        browse(server, out, base)
 
 
 if __name__ == "__main__":
