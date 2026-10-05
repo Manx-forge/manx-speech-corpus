@@ -36,8 +36,8 @@ One commit on top of upstream master. The text corpus behaves exactly as before.
 |---|---|
 | `OpenData/<source>/<collection>/<id>/` | one work per recording: `manifest.json.txt`, `document.csv`, `words.csv` (layout as `manx-search-data`) |
 | `registers/recordings.tsv` | the master inventory (12,682 recordings) |
-| `registers/link_register.tsv` | broken, missing or wrong links: from the inventory, the offset checks and the weekly link checker |
-| `scripts/` | the pipeline: `inventory`, `fetch_podcast`, `asr`, `align`, `export`, `check_links`, `weekly.sh` |
+| `registers/link_register.tsv` | broken, missing or wrong links: from the inventory, the offset checks and the monthly link checker |
+| `scripts/` | the pipeline: `inventory`, `fetch_podcast`, `asr`, `align`, `export`, `check_links`, `monthly.sh` |
 | `reports/` | what each build phase found and decided |
 | `loayr/`, `automatic_transcriptions/` | the two earlier Manx-forge repos, imported with their history (the originals are archived) |
 
@@ -58,9 +58,9 @@ One commit on top of upstream master. The text corpus behaves exactly as before.
   - Word times come from forced alignment with the Manx timestamper.
 - **Automation:**
   - **Data CI** (`.github/workflows/data-ci.yml`) runs `scripts/export.py check` on every change to `OpenData/`.
-  - **Link checker** (`link-check.yml`) runs weekly on Mondays. It commits register changes and opens an issue listing them.
-  - **Weekly episode job** (`scripts/weekly.sh`) is a cron job on titan. It runs the new Abbyr Shen Reesht episodes
-    through the pipeline and pushes. It needs titan's models and GPUs, so it cannot run in Actions.
+  - **Link checker** (`link-check.yml`) runs monthly, on the 1st. It commits register changes and opens an issue listing them.
+  - **Monthly episode job** (`scripts/monthly.sh`) is a cron job on titan, on the 1st. It runs the new Abbyr Shen Reesht
+    episodes through the pipeline, pushes, and opens an issue saying what it added (or why it failed). It needs titan's models and GPUs, so it cannot run in Actions.
   - **Contributions** arrive through the issue form (`.github/ISSUE_TEMPLATE/recording.yml`).
 
 ## Proposed for `manx-search-data` (not done)

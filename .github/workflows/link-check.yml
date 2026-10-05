@@ -1,9 +1,9 @@
-# Weekly link check (D29): commits registers/link_register.tsv and opens an issue when a link breaks or comes back.
-# The site picks the change up at the next export (the weekly titan job).
+# Monthly link check (D29; monthly, Chris 2026-10-05): commits registers/link_register.tsv and opens an issue when a link breaks or comes back.
+# The site picks the change up at the next export (the monthly titan job).
 name: link-check
 on:
   schedule:
-    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+    - cron: "0 6 1 * *" # the 1st of each month, 06:00 UTC
   workflow_dispatch:
 permissions:
   contents: write

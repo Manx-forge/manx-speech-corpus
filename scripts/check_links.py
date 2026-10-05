@@ -1,4 +1,4 @@
-"""Link checker (D11, D12, D29): is every exported work's source still there? Run weekly by a GitHub Action.
+"""Link checker (D11, D12, D29): is every exported work's source still there? Run monthly by a GitHub Action.
 
   python scripts/check_links.py [limit]
 
