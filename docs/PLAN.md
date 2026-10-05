@@ -1,15 +1,14 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-05)
-**Done:** P0–P3 (P3 signed off 2026-10-04), P3b's runs, and P4's alignment runs. **Next:** Chris's sign-off on P3b + P4, then
-P5. Read the `reports/` files for details. Nothing is running.
+**Done:** P0–P4 (P3b + P4 signed off by Chris 2026-10-05; he judges quality in the final output). **Next:** P5. Read the `reports/` files for details. Nothing is running.
 
 **P3b, ASR post-correction.** Fully run. See `reports/P3_asr.md`.
 - `asr.py nbest` (163,057 segments) and `score` (gpusched 154/155, 165,057 segments) finished 2026-10-04/05.
 - `asr.py collect` (2026-10-05, `work/logs/asr_collect_p3b.log`) rewrote `asr/asr_segments.tsv`: 165,258 segments.
   Text sources: whisper 112,278, tdnn 39,384, whisper_p3 13,278, tdnn_longform 201, tdnn+whisper 117.
   Rescored WER by band on 1,120 Loayr test segments: green 7.3, amber 18.9, red 33.9. P3 table kept as
-  `asr/asr_segments.p3.tsv`. `reports/P3_asr.md` still needs this result written in.
+  `asr/asr_segments.p3.tsv`.
 
 **P4, alignment** (`scripts/align.py`; QC table in `work/logs/align_qc.log`).
 - `human`: 10,375 of 10,378 aligned. The 139 30–94 s failures cleared on a rerun with the `nj` fix
@@ -22,12 +21,12 @@ P5. Read the `reports/` files for details. Nothing is running.
   phrases interpolated).
 - The first human run left 11 stale `<videoID>_words/phrases.csv` files inside `align/human/msd-*/`. `qc` now skips
   any file not named after its directory, and P5 exports must do the same (or Chris may OK moving them aside).
-- No hand-check (Chris, 2026-10-05: he will judge alignment in the final result). Next: write `reports/P4_align.md`.
+- No hand-check (Chris, 2026-10-05: he will judge alignment in the final result). See `reports/P4_align.md`.
 - P5 notes:
   - Normalised human transcripts are one line, so their phrases span whole recordings. Split them at pauses for display.
   - `registers/recordings.tsv` has 2 rows for some IDs that are on disk twice. Dedupe in `inventory.py`.
 
-**Waiting on Chris:**
+**Waiting on Chris (later, not blocking P5):**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
 - `~/gpu-scheduler/config` is `ALLOWED_GPUS=0,1` (set by the score watcher). Both GPUs are idle, so GPU 0 may want
   handing back.

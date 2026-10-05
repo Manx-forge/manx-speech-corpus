@@ -134,3 +134,16 @@ other half (`asr.py tune`; logs `work/logs/asr_tune_b{1,4}.log`).
 - **Corpus run.** `asr.py nbest` started 2026-10-04 11:06 (about 8 h, CPU). A watcher (`work/logs/score_watcher.sh`)
   then sets `ALLOWED_GPUS=0,1` and submits `asr.py score segments 1 k/2` for k = 0, 1 (Chris: both GPUs). The estimate is
   about 12 h. Then run `asr.py collect`; the P3 table is kept as `asr/asr_segments.p3.tsv`.
+
+## P3b result: `asr/asr_segments.tsv` (`asr.py collect`, 2026-10-05)
+Scored by gpusched jobs 154/155 (165,057 segments). The same 165,258 segments and 242.9 h, now with the rescored text.
+Log: `/store/store3/data/manx_speech_corpus/work/logs/asr_collect_p3b.log`. Signed off by Chris (2026-10-05).
+
+| band | segments | share | hours | rescored WER on Loayr test |
+|---|---|---|---|---|
+| green ≥ 0.9 | 75,100 | 45.4% | 109.1 | 7.3 |
+| amber 0.6–0.9 | 60,142 | 36.4% | 83.7 | 18.9 |
+| red < 0.6 | 30,016 | 18.2% | 50.1 | 33.9 |
+
+`text_source`: `whisper` 112,278, `tdnn` 39,384, `whisper_p3` 13,278 (the rescoring picked the P3 hypothesis),
+`tdnn_longform` 201, `tdnn+whisper` 117.
