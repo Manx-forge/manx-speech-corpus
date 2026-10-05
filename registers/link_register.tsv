@@ -1962,3 +1962,4 @@ id	source	url	issue	status	archive_url
 088140	youtube	https://www.youtube.com/watch?v=6wC4c1n4ak8	video unavailable [P2 2026-10-01]	open	
 08646	youtube	https://www.youtube.com/watch?v=O58AXnsnHbo	video unavailable [P2 2026-10-01]	open	
 076948	learn_manx	https://www.learnmanx.com/media//Comprehensible%20input/Zen/Skeealyn%20Zen%201%20(doillee).mp3	unreachable (HTTP 404) [link check] 2026-10-05	open	
+087360	learn_manx	https://www.twitter.com/greinneyder	unreachable (HTTP 403) [link check] 2026-10-05	open	http://web.archive.org/web/20221007104552/http://twitter.com/greinneyder
