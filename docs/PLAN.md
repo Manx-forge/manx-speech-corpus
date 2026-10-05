@@ -1,8 +1,8 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-05)
-**Done:** P0–P3 (P3 signed off 2026-10-04), P3b's runs, and P4's alignment runs. **Next:** the P4 hand-check, then
-Chris's sign-off on P3b + P4. Read the `reports/` files for details. Nothing is running.
+**Done:** P0–P3 (P3 signed off 2026-10-04), P3b's runs, and P4's alignment runs. **Next:** Chris's sign-off on P3b + P4, then
+P5. Read the `reports/` files for details. Nothing is running.
 
 **P3b, ASR post-correction.** Fully run. See `reports/P3_asr.md`.
 - `asr.py nbest` (163,057 segments) and `score` (gpusched 154/155, 165,057 segments) finished 2026-10-04/05.
@@ -22,7 +22,7 @@ Chris's sign-off on P3b + P4. Read the `reports/` files for details. Nothing is 
   phrases interpolated).
 - The first human run left 11 stale `<videoID>_words/phrases.csv` files inside `align/human/msd-*/`. `qc` now skips
   any file not named after its directory, and P5 exports must do the same (or Chris may OK moving them aside).
-- Next: hand-check about 10 words per source against the audio, then write `reports/P4_align.md`.
+- No hand-check (Chris, 2026-10-05: he will judge alignment in the final result). Next: write `reports/P4_align.md`.
 - P5 notes:
   - Normalised human transcripts are one line, so their phrases span whole recordings. Split them at pauses for display.
   - `registers/recordings.tsv` has 2 rows for some IDs that are on disk twice. Dedupe in `inventory.py`.
