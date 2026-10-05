@@ -206,6 +206,8 @@ def qc():
         words, phrases, recs = (collections.defaultdict(collections.Counter) for _ in range(3))
         for f in root.glob("*/*_words.csv"):
             rec = f.name.removesuffix("_words.csv")
+            if rec != f.parent.name:  # stale output of the first human run, named by video ID
+                continue
             s = src.get(rec, "?")
             recs[s]["n"] += 1
             words[s].update(r["status"] for r in csv.DictReader(open(f, encoding="utf-8")))

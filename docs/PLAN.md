@@ -1,36 +1,36 @@
 # Manx Speech Corpus: plan
 
-## Current state (handover, 2026-10-04)
-**Done:** P0–P3 (P3 signed off 2026-10-04). **In progress:** P3b (ASR post-correction) and P4 (alignment).
-Read the `reports/` files for details.
+## Current state (handover, 2026-10-05)
+**Done:** P0–P3 (P3 signed off 2026-10-04), P3b's runs, and P4's alignment runs. **Next:** the P4 hand-check, then
+Chris's sign-off on P3b + P4. Read the `reports/` files for details. Nothing is running.
 
-**P3b, ASR post-correction (Chris, 2026-10-04, "cheap route").** See `reports/P3_asr.md`. Rescoring + a fresh beam-1
-Whisper decode bring the WER from 26.9 / 31.5 (P3 band rule) to 15.7 / 19.0 (Loayr tune / eval).
-1. `asr.py nbest` (CPU) started 11:06 and should end about 19:30 UTC. Log: `work/logs/asr_nbest.log`.
-2. `work/logs/score_watcher.sh` waits for PID 4131511 (the nbest python), then sets `ALLOWED_GPUS=0,1` and submits
-   gpusched `manx_score_0` / `manx_score_1` (`asr.py score segments 1 k/2`, about 12 h). Shard 0 already holds 100
-   smoke-test segments and resumes after them.
-3. Then `asr.py collect` (CPU, minutes). Bands signed off: D37 thresholds kept, D38 dropped (Chris, 2026-10-04).
-4. Then `align.py asr`.
+**P3b, ASR post-correction.** Fully run. See `reports/P3_asr.md`.
+- `asr.py nbest` (163,057 segments) and `score` (gpusched 154/155, 165,057 segments) finished 2026-10-04/05.
+- `asr.py collect` (2026-10-05, `work/logs/asr_collect_p3b.log`) rewrote `asr/asr_segments.tsv`: 165,258 segments.
+  Text sources: whisper 112,278, tdnn 39,384, whisper_p3 13,278, tdnn_longform 201, tdnn+whisper 117.
+  Rescored WER by band on 1,120 Loayr test segments: green 7.3, amber 18.9, red 33.9. P3 table kept as
+  `asr/asr_segments.p3.tsv`. `reports/P3_asr.md` still needs this result written in.
 
-**P4, alignment** (`scripts/align.py`, timestamper read-only):
-- `human` is running (`work/logs/align_human.log`). The 9,992 short clips are done, and the 387 long ones are going
-  through `timestamp.sh` 8 at a time.
-  - The 14 corpus (`msd-*`) works came out under video-ID names, and `083612` (two rows in `recordings.tsv`) ran twice at
-    once. Both are fixed in `align.py`.
-  - 138 recordings of 30–90 s failed because `timestamp.sh --nj 4` exceeded their 30 s chunk count, and `074662` failed
-    on a NUL byte in its transcript. Both are fixed: `nj` now scales with duration, and control characters are stripped.
-  - A watcher reruns `align.py human 8` when the first run exits, redoing every failure
-    (`work/logs/align_human_rerun.log`).
-- `asr`: per-segment alignment inside each span (D19). Smoke-tested; run it after P3b's `collect`.
-- `qc`: per-source rates, then a hand-check of about 10 words per source against the audio.
+**P4, alignment** (`scripts/align.py`; QC table in `work/logs/align_qc.log`).
+- `human`: 10,375 of 10,378 aligned. The 139 30–94 s failures cleared on a rerun with the `nj` fix
+  (`work/logs/align_human_rerun2.log`). 3 remain, all transcript problems: `msd-YouTube-Skeealyn-Vannin-Disk-1-Track-11`
+  (empty transcript), `04235` (6 words / 33 s), `04230` (14 words / 32 s). The long-audio segmenter cannot handle
+  texts that short. Option: route them through the short-clip path.
+- `asr`: all 1,528 recordings (165,257 segments) aligned (`work/logs/align_asr.log`). 99.4–100 % of words aligned for
+  every source.
+- `human` QC: words aligned for clilstore and common_voice 100 %, learn_manx 94.4 %, youtube 90.8 % (17.7 % of youtube
+  phrases interpolated).
+- The first human run left 11 stale `<videoID>_words/phrases.csv` files inside `align/human/msd-*/`. `qc` now skips
+  any file not named after its directory, and P5 exports must do the same (or Chris may OK moving them aside).
+- Next: hand-check about 10 words per source against the audio, then write `reports/P4_align.md`.
 - P5 notes:
   - Normalised human transcripts are one line, so their phrases span whole recordings. Split them at pauses for display.
   - `registers/recordings.tsv` has 2 rows for some IDs that are on disk twice. Dedupe in `inventory.py`.
 
 **Waiting on Chris:**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
-- `~/gpu-scheduler/config` is still `ALLOWED_GPUS=1`.
+- `~/gpu-scheduler/config` is `ALLOWED_GPUS=0,1` (set by the score watcher). Both GPUs are idle, so GPU 0 may want
+  handing back.
 - A listen to the 12 batch-`20261001` recordings with no segments (list in `reports/P3_asr.md`).
 
 
