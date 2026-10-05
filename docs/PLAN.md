@@ -1,25 +1,28 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-05)
-**Done:** P0–P6 (P6 signed off by Chris 2026-10-05; site branch `speech` pushed to the Manx-forge fork).
-**P7 in progress.** Nothing is running.
+**Done:** P0–P6. **P7 nearly done:** the demo is live and current; only the PR to David remains (on Chris's word).
+A local site runs on titan at `localhost:5181` (Chris views it with `ssh -N -L 5181:localhost:5181
+acp24csb@titan.dcs.shef.ac.uk`).
 
-**P7, ops and demo:**
-- Done: contribution issue form (`.github/ISSUE_TEMPLATE/recording.yml`), data CI (`.github/workflows/data-ci.yml`,
-  runs `export.py check`, which no longer needs titan), weekly link checker (`scripts/check_links.py` +
-  `link-check.yml`; the register gained `archive_url`, and export puts it in the manifest, D12). First full run:
-  3,998 links, 1 newly broken (`076948`, a Learn Manx mp3, 404). `HANDOVER.md` drafted.
-- **Monthly, not weekly** (Chris, 2026-10-05: "so we aren't inundated with issues"). `scripts/monthly.sh` (D36) is
-  in Claude's crontab (`0 3 1 * *`) and is Claude's to run, not Chris's. It opens an issue when it pushes new
-  episodes or fails. The link check also runs on the 1st. First run launched 2026-10-05 (1 new episode, 09368;
-  log `work/logs/monthly_2026-10-05.log`).
-  - To fix: `asr.py tdnn` re-decodes the 12 recordings that gave no segments, every run.
-- Demo (D31): Hugging Face now charges for Docker Spaces, and Chris pays for nothing. Codespaces worked but Chris found
-  it too complicated (a VS Code window and a wait). Done instead: a GitHub Pages demo
-  (<https://manx-forge.github.io/manx-speech-corpus/>). It is the site's own client, unchanged (Chris: "merely an
-  extension of the original"), with `demo/speech-api.js` answering the speech API from a static index
-  (`scripts/demo.py`, `.github/workflows/demo.yml`). The Codespaces config stays on the `speech` branch for running the real site.
-- Then: the PR to David (after the demo URL goes into HANDOVER.md).
+**Site review with Chris (2026-10-05, `speech` branch up to `e075882`):**
+- Speech search: one filter panel under "Advanced options" (Transcribed by, Source, AI confidence at least N%).
+  "AI · n% confidence" badges. A clicked time plays in place (a popup; a docked player on recording pages). Long lines
+  are cut to the match with 12 words either side.
+- Browse All: a Text | Speech toggle. Speech lists 41 named collections (Skeealyn Vannin, Abbyr Shen Reesht, ...,
+  "YouTube Other"), with years, source, domain, transcript and hours. Each opens its recordings. The server pages
+  have the new nav.
+- Titles: the media's own (YouTube oEmbed, Clilstore pages, 1000 Words pages; `inventory.py titles`,
+  `registers/titles.tsv`), file names tidied (`tidy_title`), Skeealyn Vannin named and dated as the text corpus does.
+- Nothing is excluded for lacking a link (Chris). Common Voice cannot be linked: Mozilla emptied its Hugging Face repos.
+
+**Demo** (<https://manx-forge.github.io/manx-speech-corpus/>): the site's own client from the `speech` branch,
+`demo/speech-api.js` serving its speech API from a static index, and Browse All's speech side saved from the real
+server started inside `.github/workflows/demo.yml`. It redeploys on data changes; run the workflow by hand after a site
+change. Rule (Chris): refine the real site on localhost first, the demo after.
+
+**Monthly job** (`scripts/monthly.sh`, Claude's crontab, 03:00 on the 1st): first run 2026-10-05 added episode 09368
+and opened issue #2. To fix: `asr.py tdnn` re-decodes the 12 recordings with no segments every run.
 
 **Fix later (Chris, 2026-10-05; not blocking):**
 - URLs for the 11 bad YouTube links and the open rows in `registers/link_register.tsv`.
