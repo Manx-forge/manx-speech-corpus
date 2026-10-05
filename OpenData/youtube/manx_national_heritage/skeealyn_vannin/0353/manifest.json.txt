@@ -1,6 +1,8 @@
 {
   "ident": "speech-0353",
-  "name": "Manx language and dialect archive recordings: Skeealyn Vannin Disk 3 Track 16",
+  "name": "🎥 Skeealyn Vannin, Disk 3 Track 16",
+  "createdCircaStart": "1948-01-01",
+  "createdCircaEnd": "1948-12-31",
   "source": "https://youtube.com/watch?v=oDW81xeBrbg",
   "platform": "youtube",
   "domain": "interview",

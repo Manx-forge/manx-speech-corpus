@@ -199,7 +199,8 @@ def export():
         cw = corpus_manifests().get(r["corpus_work"], {})
         m = {"ident": f"speech-{rid}", "name": cw.get("name") or unquote(r["title"]).strip() or f"{r['source']} {rid}",
              **{k: cw[k] for k in ("createdCircaStart", "createdCircaEnd", "author", "notes", "translated") if k in cw},
-             **({"createdCircaStart": r["date"], "createdCircaEnd": r["date"]} if r["date"] else {}),
+             **({"createdCircaStart": r["date"], "createdCircaEnd": r["date"]} if len(r["date"]) > 4  # a day
+                else {"createdCircaStart": f"{r['date']}-01-01", "createdCircaEnd": f"{r['date']}-12-31"} if r["date"] else {}),
              "source": r["url"] if r["link_class"] in ("youtube_video", "web_page") else None,
              "platform": r["source"], **{k: r[k] for k in ("domain", "style") if r[k]}, "resource_id": rid, "origin": origin,
              **({"asr_model": ASR_MODEL} if origin == "asr" else {"transcript_form": r["transcript_form"]}),

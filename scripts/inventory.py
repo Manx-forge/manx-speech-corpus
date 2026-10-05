@@ -213,6 +213,9 @@ def main():
     own = {t["id"]: t["title"] for t in csv.DictReader(open(titles, encoding="utf-8"), delimiter="\t")} if titles.exists() else {}
     for r in rows:
         r["title"] = own.get(r["id"]) or r.get("title", "")
+        sv = re.search(r"Skeealyn Vannin,? Disk (\d+) Track (\w+)", r["title"])
+        if sv:  # as the text corpus names and dates them (the Irish Folklore Commission recorded them in 1948)
+            r["title"], r["date"] = f"🎥 Skeealyn Vannin, Disk {sv.group(1)} Track {sv.group(2)}", r.get("date") or "1948"
     OUT.mkdir(exist_ok=True)
     with open(OUT / "recordings.tsv", "w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, COLS, delimiter="\t", restval="", lineterminator="\n")
