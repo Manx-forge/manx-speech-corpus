@@ -21,9 +21,11 @@ acp24csb@titan.dcs.shef.ac.uk`).
 server started inside `.github/workflows/demo.yml`. It redeploys on data changes; run the workflow by hand after a site
 change. Rule (Chris): refine the real site on localhost first, the demo after.
 
-**Hosting (D40, David 2026-10-06):** speech goes to `speech.gaelg.im` on GitHub Pages. Waiting on David's CNAME
-(Chris to ask); then the Pages custom domain, `demo.yml` built at `/`, and links both ways (the upstream half is a PR
-plus David's deploy run). Chris to take on hosting long term.
+**Hosting (D40, David 2026-10-06):** speech goes to `speech.gaelg.im` on GitHub Pages. Ready: `demo.yml` builds at the
+Pages base path (`/` once the domain is set); branch `speech-link` on the fork adds a Speech link to the upstream nav (PR
+not opened). Waiting on David: a Cloudflare CNAME `speech` → `manx-forge.github.io`, DNS only (grey cloud). Then:
+`gh api -X PUT repos/Manx-forge/manx-speech-corpus/pages -f cname=speech.gaelg.im`, rerun `demo.yml`, enforce HTTPS,
+open the `speech-link` PR (David merges and runs `deploy-image.yml`). Chris to take on hosting long term.
 
 **Monthly job** (`scripts/monthly.sh`, Claude's crontab, 03:00 on the 1st): first run 2026-10-05 added episode 09368
 and opened issue #2. To fix: `asr.py tdnn` re-decodes the 12 recordings with no segments every run.
