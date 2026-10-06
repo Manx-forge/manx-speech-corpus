@@ -1,6 +1,6 @@
 # Manx Speech Corpus: plan
 
-## Current state (handover, 2026-10-05)
+## Current state (handover, 2026-10-06)
 **Done:** P0–P6. **P7 nearly done:** the demo is live and current; only the PR to David remains (on Chris's word).
 A local site runs on titan at `localhost:5181` (Chris views it with `ssh -N -L 5181:localhost:5181
 acp24csb@titan.dcs.shef.ac.uk`).
@@ -20,6 +20,10 @@ acp24csb@titan.dcs.shef.ac.uk`).
 `demo/speech-api.js` serving its speech API from a static index, and Browse All's speech side saved from the real
 server started inside `.github/workflows/demo.yml`. It redeploys on data changes; run the workflow by hand after a site
 change. Rule (Chris): refine the real site on localhost first, the demo after.
+
+**Hosting (D40, David 2026-10-06):** speech goes to `speech.gaelg.im` on GitHub Pages. Waiting on David's CNAME
+(Chris to ask); then the Pages custom domain, `demo.yml` built at `/`, and links both ways (the upstream half is a PR
+plus David's deploy run). Chris to take on hosting long term.
 
 **Monthly job** (`scripts/monthly.sh`, Claude's crontab, 03:00 on the 1st): first run 2026-10-05 added episode 09368
 and opened issue #2. To fix: `asr.py tdnn` re-decodes the 12 recordings with no segments every run.
@@ -141,6 +145,7 @@ phrase). The site hosts no audio, because of storage and licensing.
 | D37 | Confidence bands | green ≥ 90% agreement, amber 60–90%, red < 60%. Calibrated on Loayr-v2 test (P3). Kept for the P3b rescored text (Chris, 2026-10-04); agreement is now fresh Whisper vs TDNN 1-best. Rescored WER: green 7.3, amber 18.9, red 33.9. |
 | D38 | Red segments | ~~Show the TDNN text instead of Whisper's.~~ Superseded 2026-10-04 (Chris): rescoring (P3b) picks every segment's text. |
 | D39 | Embargoed audio | `Manx_Resources/embargoed/` (e.g. the Triskelion documentary tracks) is **never** included, whatever D16 says, until Chris lifts the embargo. |
+| D40 | Hosting (David + Chris, 2026-10-06) | **Now:** speech at `speech.gaelg.im` on GitHub Pages (the demo, built at the domain's root); David adds a Cloudflare CNAME to `manx-forge.github.io`. Text and speech sites link to each other. His droplet (2 GB, nearly full) takes nothing. **Later** (when gaelgai.im leaves university hardware at the end of Chris's PhD): Chris hosts both on one VPS (4–8 GB RAM; the corpus keeps its index in RAM), the merged `speech` branch serves text and speech at corpus.gaelg.im, and `OPERATIONS.md` passes to Chris with David as backup. Links on corpus.gaelg.im are a PR upstream plus David's `deploy-image.yml` run (Chris has read access only). |
 
 ## Design
 
