@@ -51,8 +51,6 @@ def browse(server, out, base):
 
     def local(match):
         attr, path = match.group(1), match.group(2)
-        if path.startswith(base):  # already the demo's
-            return match.group(0)
         collection = re.fullmatch(r"/Browse\?corpus=speech(?:&(?:amp;)?collection=(.+))?", path)
         if collection:
             key = urllib.parse.unquote(collection.group(1)) if collection.group(1) else None
@@ -65,10 +63,11 @@ def browse(server, out, base):
         with urllib.request.urlopen(f"{server}/Browse?corpus=speech{query}", timeout=120) as f:
             page = f.read().decode("utf-8")
         page = re.sub(r'<link rel="canonical"[^>]*>\s*', "", page)
-        # the nav's Browse All stays in the demo (its speech side); the Text toggle's /Browse goes live below
-        page = re.sub(r'href="/Browse"([^>]*>Browse All<)', rf'href="{base}browse/"\1', page)
+        demo = re.sub(r'(href|src)="(/[^"]*)"', local, page)
+        # the nav's Browse All stays in the demo (its speech side); the Text toggle's /Browse goes live
+        demo = re.sub(rf'href="{re.escape(LIVE)}/Browse"([^>]*>Browse All<)', rf'href="{base}browse/"\1', demo)
         (out / path).mkdir(parents=True, exist_ok=True)
-        (out / path / "index.html").write_text(re.sub(r'(href|src)="(/[^"]*)"', local, page), encoding="utf-8")
+        (out / path / "index.html").write_text(demo, encoding="utf-8")
         return page
 
     keys = sorted({urllib.parse.unquote(k) for k in re.findall(r'collection=([^"&]+)"', save("", "browse"))})

@@ -22,6 +22,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      # the base path: /manx-speech-corpus/ on manx-forge.github.io, / on a custom domain (speech.gaelg.im, D40)
+      - id: pages
+        uses: actions/configure-pages@v5
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,7 +37,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: npm ci && npx vite build --base=/manx-speech-corpus/
+      - run: npm ci && npx vite build --base=${{ steps.pages.outputs.base_path }}/
         working-directory: site/CorpusSearch/ClientApp
       - uses: actions/setup-dotnet@v4
         with:
@@ -50,7 +53,7 @@ jobs:
             Speech__OpenDataPath="$GITHUB_WORKSPACE/OpenData" nohup dotnet CorpusSearch.dll > "$RUNNER_TEMP/server.log" 2>&1 &
           for i in $(seq 100); do curl -sf -o /dev/null "http://localhost:5000/Browse?corpus=speech" && exit 0; sleep 5; done
           tail -n 30 "$RUNNER_TEMP/server.log"; exit 1
-      - run: python scripts/demo.py _site site/CorpusSearch/ClientApp/build /manx-speech-corpus/ http://localhost:5000
+      - run: python scripts/demo.py _site site/CorpusSearch/ClientApp/build ${{ steps.pages.outputs.base_path }}/ http://localhost:5000
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
