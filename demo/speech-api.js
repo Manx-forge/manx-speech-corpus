@@ -84,11 +84,15 @@
             matches++
             if (!found.has(w)) found.set(w, new Map())
             const lines = found.get(w)
-            if (!lines.has(l)) lines.set(l, [])
+            if (!lines.has(l)) lines.set(l, Object.assign([], { c }))
             lines.get(l).push(p)
         }
-        const ranked = [...found].map(([w, lines]) => ({ w, lines, count: [...lines.values()].reduce((a, x) => a + x.length, 0) }))
-            .sort((a, b) => b.count - a.count || all[a.w][NAME].localeCompare(all[b.w][NAME])).slice(0, MAX_RECORDINGS)
+        // as the server: the mean confidence of the matched lines first (a human line 101), then the most matches
+        const ranked = [...found].map(([w, lines]) => ({
+            w, lines, count: [...lines.values()].reduce((a, x) => a + x.length, 0),
+            confidence: [...lines.values()].reduce((a, x) => a + (x.c < 0 ? 101 : x.c), 0) / lines.size,
+        })).sort((a, b) => b.confidence - a.confidence || b.count - a.count || all[a.w][NAME].localeCompare(all[b.w][NAME]))
+            .slice(0, MAX_RECORDINGS)
         const files = await Promise.all(ranked.map((r) => getJSON(`lines/${r.w}.json`)))
         const recordings = ranked.map((r, i) => {
             const work = all[r.w], lines = files[i].lines
