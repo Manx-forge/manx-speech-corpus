@@ -2,6 +2,7 @@
 
 ## Current state (handover, 2026-10-08)
 **Done:** P0–P7. speech.gaelg.im is live, and corpus.gaelg.im links to it (deployed 2026-10-08).
+**Next:** Chris gathers feedback (people he knows, social media); changes come from that, localhost first.
 A local site runs on titan at `localhost:5181` (Chris views it with `ssh -N -L 5181:localhost:5181
 acp24csb@titan.dcs.shef.ac.uk`).
 
