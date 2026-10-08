@@ -1,6 +1,6 @@
 # Manx Speech Corpus: plan
 
-## Current state (handover, 2026-10-06)
+## Current state (handover, 2026-10-08)
 **Done:** P0–P6. **P7 nearly done:** the demo is live and current; only the PR to David remains (on Chris's word).
 A local site runs on titan at `localhost:5181` (Chris views it with `ssh -N -L 5181:localhost:5181
 acp24csb@titan.dcs.shef.ac.uk`).
@@ -16,16 +16,17 @@ acp24csb@titan.dcs.shef.ac.uk`).
   `registers/titles.tsv`), file names tidied (`tidy_title`), Skeealyn Vannin named and dated as the text corpus does.
 - Nothing is excluded for lacking a link (Chris). Common Voice cannot be linked: Mozilla emptied its Hugging Face repos.
 
-**Demo** (<https://manx-forge.github.io/manx-speech-corpus/>): the site's own client from the `speech` branch,
+**Demo** (<https://speech.gaelg.im/>): the site's own client from the `speech` branch,
 `demo/speech-api.js` serving its speech API from a static index, and Browse All's speech side saved from the real
 server started inside `.github/workflows/demo.yml`. It redeploys on data changes; run the workflow by hand after a site
 change. Rule (Chris): refine the real site on localhost first, the demo after.
 
-**Hosting (D40, David 2026-10-06):** speech goes to `speech.gaelg.im` on GitHub Pages. Ready: `demo.yml` builds at the
-Pages base path (`/` once the domain is set); branch `speech-link` on the fork adds a Speech link to the upstream nav (PR
-not opened). Waiting on David: a Cloudflare CNAME `speech` → `manx-forge.github.io`, DNS only (grey cloud). Then:
-`gh api -X PUT repos/Manx-forge/manx-speech-corpus/pages -f cname=speech.gaelg.im`, rerun `demo.yml`, enforce HTTPS,
-open the `speech-link` PR (David merges and runs `deploy-image.yml`). Chris to take on hosting long term.
+**Hosting (D40):** live at <https://speech.gaelg.im/> since 2026-10-08 (the github.io address redirects there).
+David's CNAME is proxied (orange cloud) and stays so: Cloudflare serves HTTPS, GitHub's "Enforce HTTPS" stays off (it
+cannot issue a cert behind the proxy). The domain is verified for the Manx-forge org (TXT
+`_github-pages-challenge-Manx-forge.speech`). Left: open the `speech-link` PR on the fork's branch (Chris now has write
+on `david-allison/manx-corpus-search`; David merges and runs `deploy-image.yml`). Plain `http://` is served, not
+redirected (David's Cloudflare "Always Use HTTPS", optional). Chris to take on hosting long term.
 
 **Monthly job** (`scripts/monthly.sh`, Claude's crontab, 03:00 on the 1st): first run 2026-10-05 added episode 09368
 and opened issue #2. To fix: `asr.py tdnn` re-decodes the 12 recordings with no segments every run.
