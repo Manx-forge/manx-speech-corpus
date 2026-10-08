@@ -1,7 +1,7 @@
 # Manx Speech Corpus: plan
 
 ## Current state (handover, 2026-10-08)
-**Done:** P0–P6. **P7 nearly done:** the demo is live and current; only the PR to David remains (on Chris's word).
+**Done:** P0–P7. speech.gaelg.im is live, and corpus.gaelg.im links to it (deployed 2026-10-08).
 A local site runs on titan at `localhost:5181` (Chris views it with `ssh -N -L 5181:localhost:5181
 acp24csb@titan.dcs.shef.ac.uk`).
 
@@ -24,9 +24,10 @@ change. Rule (Chris): refine the real site on localhost first, the demo after.
 **Hosting (D40):** live at <https://speech.gaelg.im/> since 2026-10-08 (the github.io address redirects there).
 David's CNAME is proxied (orange cloud) and stays so: Cloudflare serves HTTPS, GitHub's "Enforce HTTPS" stays off (it
 cannot issue a cert behind the proxy). The domain is verified for the Manx-forge org (TXT
-`_github-pages-challenge-Manx-forge.speech`). Left: David merges PR [#437](https://github.com/david-allison/manx-corpus-search/pull/437)
-(`speech-link`: Speech in the nav, Home renamed Text, a Text | Speech toggle on Browse All; checks pass; his `master`
-takes PRs only) and runs `deploy-image.yml`. Plain `http://` is served, not
+`_github-pages-challenge-Manx-forge.speech`). Upstream: PR [#437](https://github.com/david-allison/manx-corpus-search/pull/437) (Speech in the nav, Home renamed
+Text, a Text | Speech toggle on Browse All) merged and deployed 2026-10-08 (Chris ran `deploy-image.yml`; David's
+`master` takes PRs only). Footer (David, #437): MLRG dropped and Chris credited as lead on the `speech` branch (live on
+the demo); corpus.gaelg.im's footer keeps MLRG until `speech` merges (Chris: no more PRs for now). Plain `http://` is served, not
 redirected (David's Cloudflare "Always Use HTTPS", optional). Chris to take on hosting long term.
 
 **Monthly job** (`scripts/monthly.sh`, Claude's crontab, 03:00 on the 1st): first run 2026-10-05 added episode 09368
