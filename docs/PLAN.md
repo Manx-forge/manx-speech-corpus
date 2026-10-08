@@ -24,8 +24,9 @@ change. Rule (Chris): refine the real site on localhost first, the demo after.
 **Hosting (D40):** live at <https://speech.gaelg.im/> since 2026-10-08 (the github.io address redirects there).
 David's CNAME is proxied (orange cloud) and stays so: Cloudflare serves HTTPS, GitHub's "Enforce HTTPS" stays off (it
 cannot issue a cert behind the proxy). The domain is verified for the Manx-forge org (TXT
-`_github-pages-challenge-Manx-forge.speech`). Left: open the `speech-link` PR on the fork's branch (Chris now has write
-on `david-allison/manx-corpus-search`; David merges and runs `deploy-image.yml`). Plain `http://` is served, not
+`_github-pages-challenge-Manx-forge.speech`). Left: David merges PR [#437](https://github.com/david-allison/manx-corpus-search/pull/437)
+(`speech-link`: Speech in the nav, Home renamed Text, a Text | Speech toggle on Browse All; checks pass; his `master`
+takes PRs only) and runs `deploy-image.yml`. Plain `http://` is served, not
 redirected (David's Cloudflare "Always Use HTTPS", optional). Chris to take on hosting long term.
 
 **Monthly job** (`scripts/monthly.sh`, Claude's crontab, 03:00 on the 1st): first run 2026-10-05 added episode 09368
